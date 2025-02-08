@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "CC": "J&amp;W",
-        "Stammgebiet": false,
+        "Stammgebiet": true,
         "shape": "Polygon"
       },
       "geometry": {
