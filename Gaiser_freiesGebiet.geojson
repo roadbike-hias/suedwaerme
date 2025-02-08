@@ -5209,7 +5209,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 9941,
+        "CC": "Gaiser",
+        "Stammgebiet": false,
         "shape": "Polygon"
       },
       "geometry": {
