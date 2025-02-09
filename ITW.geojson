@@ -13619,6 +13619,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "ITW",
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.566989,
+          48.284035
+        ]
+      }
     }
   ]
 }
