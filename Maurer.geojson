@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "CC": "Maurer",
+        "Stammgebiet": true,
         "shape": "Polygon"
       },
       "geometry": {
