@@ -10481,6 +10481,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Gaiser",
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.966252,
+          48.400563
+        ]
+      }
     }
   ]
 }
