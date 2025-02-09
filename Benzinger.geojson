@@ -4422,5 +4422,19 @@
         ]
       }
     }
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Benzinger",
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.106797,
+          48.854208
+        ]
+      }
+    }
   ]
 }
