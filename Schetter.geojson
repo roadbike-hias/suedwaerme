@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "CC": "Schetter",
+        "Stammgebiet": true,
         "shape": "Polygon"
       },
       "geometry": {
