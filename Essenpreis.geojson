@@ -3303,6 +3303,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Essenpreis",
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.69518,
+          49.215025
+        ]
+      }
     }
   ]
 }
