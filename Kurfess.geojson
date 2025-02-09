@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "CC": "Kurfess",
+        "Stammgebiet": true,
         "shape": "Polygon"
       },
       "geometry": {
