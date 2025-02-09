@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "CC": "Benzinger",
+        "Stammgebiet": true,
         "shape": "Polygon"
       },
       "geometry": {
