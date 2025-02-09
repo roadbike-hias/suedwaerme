@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "CC": "Glitsch",
+        "Stammgebiet": true,
         "shape": "Polygon"
       },
       "geometry": {
