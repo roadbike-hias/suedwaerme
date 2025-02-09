@@ -11539,6 +11539,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Burke",
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.407794,
+          48.566569
+        ]
+      }
     }
   ]
 }
