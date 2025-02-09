@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "CC": "König",
+        "Stammgebiet": true,
         "shape": "Polygon"
       },
       "geometry": {
