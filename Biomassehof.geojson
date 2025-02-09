@@ -14435,6 +14435,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Biomassehof",
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.311002,
+          47.754614
+        ]
+      }
     }
   ]
 }
