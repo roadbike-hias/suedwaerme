@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "CC": "Widmann",
+        "Stammgebiet": true,
         "shape": "Polygon"
       },
       "geometry": {
