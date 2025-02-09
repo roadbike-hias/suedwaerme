@@ -11711,6 +11711,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Binkert",
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.130012,
+          47.618875
+        ]
+      }
     }
   ]
 }
