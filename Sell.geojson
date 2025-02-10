@@ -18887,6 +18887,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Sell",
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.71708,
+          50.241469
+        ]
+      }
     }
   ]
 }
