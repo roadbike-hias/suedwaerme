@@ -6979,6 +6979,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Maurer",
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.422287,
+          48.232942
+        ]
+      }
     }
   ]
 }
