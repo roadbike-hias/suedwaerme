@@ -18892,7 +18892,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Sell",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

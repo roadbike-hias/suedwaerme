@@ -1880,7 +1880,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Glitsch",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

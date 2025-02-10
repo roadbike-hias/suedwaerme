@@ -6984,7 +6984,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Maurer",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

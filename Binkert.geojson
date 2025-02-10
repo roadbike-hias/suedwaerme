@@ -11716,7 +11716,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Binkert",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

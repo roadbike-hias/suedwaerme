@@ -4308,7 +4308,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Maier",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

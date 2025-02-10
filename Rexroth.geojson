@@ -8704,7 +8704,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Rexroth",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

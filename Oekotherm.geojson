@@ -2080,7 +2080,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Ökotherm",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

@@ -4028,7 +4028,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Kurfess",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

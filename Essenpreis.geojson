@@ -3308,7 +3308,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Essenpreis",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

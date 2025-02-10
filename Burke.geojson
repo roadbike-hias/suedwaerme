@@ -11544,7 +11544,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Burke",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

@@ -13624,7 +13624,8 @@
       "type": "Feature",
       "properties": {
         "CC": "ITW",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

@@ -10486,7 +10486,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Gaiser",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

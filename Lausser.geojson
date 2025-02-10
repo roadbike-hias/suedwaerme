@@ -11844,7 +11844,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Lausser",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

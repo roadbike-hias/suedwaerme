@@ -10404,7 +10404,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Widmann",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

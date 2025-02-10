@@ -14440,7 +14440,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Biomassehof",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

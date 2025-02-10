@@ -5412,7 +5412,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Schetter",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",

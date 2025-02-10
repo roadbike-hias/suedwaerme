@@ -3438,7 +3438,8 @@
       "type": "Feature",
       "properties": {
         "CC": "Schmoll",
-        "shape": "Marker"
+        "shape": "Marker",
+        "Hauptsitz": true
       },
       "geometry": {
         "type": "Point",
