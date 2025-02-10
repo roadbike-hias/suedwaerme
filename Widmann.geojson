@@ -10399,6 +10399,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Widmann",
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.880714,
+          47.750188
+        ]
+      }
     }
   ]
 }
