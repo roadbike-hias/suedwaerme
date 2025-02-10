@@ -11839,6 +11839,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Lausser",
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.60605,
+          49.0333
+        ]
+      }
     }
   ]
 }
