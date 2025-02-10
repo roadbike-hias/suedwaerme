@@ -4303,6 +4303,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Maier",
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.365346,
+          48.676202
+        ]
+      }
     }
   ]
 }
