@@ -4425,6 +4425,7 @@
       "type": "Feature",
       "properties": {
         "CC": "Benzinger",
+        "Hauptsitz": true,
         "shape": "Marker"
       },
       "geometry": {
