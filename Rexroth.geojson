@@ -8699,6 +8699,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Rexroth",
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.883428,
+          48.354759
+        ]
+      }
     }
   ]
 }
