@@ -5723,6 +5723,21 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Kachel",
+        "Hauptsitz": true,
+        "shape": "Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.225184,
+          49.12622
+        ]
+      }
     }
   ]
 }
