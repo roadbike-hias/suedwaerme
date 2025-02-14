@@ -1,0 +1,1227 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.049094995590428,
+                    49.43985347325128
+                ]
+            },
+            "properties": {
+                "address": "Kreutzerstra\u00dfe 1 +  3, N\u00fcrnberg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.593750865483337,
+                    48.262704400000004
+                ]
+            },
+            "properties": {
+                "address": "Franz-Lehner-Stra\u00dfe 3, Unterschlei\u00dfheim, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.140590633781107,
+                    51.052240205668646
+                ]
+            },
+            "properties": {
+                "address": "Schillerstra\u00dfe 22, Zeitz, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2212369,
+                    48.1607118
+                ]
+            },
+            "properties": {
+                "address": "Industriestra\u00dfe 10, F\u00fcrstenfeldbruck, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.898996456757864,
+                    48.27695517075543
+                ]
+            },
+            "properties": {
+                "address": "Berghamer Stra\u00dfe 8-14, Erding, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.414680798234416,
+                    48.55676558667479
+                ]
+            },
+            "properties": {
+                "address": "Dr. Ernst-Derra-Str. 2 + 3, Passau, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5927164,
+                    48.1164411
+                ]
+            },
+            "properties": {
+                "address": "Schlierseestra\u00dfe 14, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.860753151648353,
+                    48.35612815
+                ]
+            },
+            "properties": {
+                "address": "B\u00fcrgermeister-Bohl-Stra\u00dfe 66, Augsburg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5871135,
+                    48.0336015
+                ]
+            },
+            "properties": {
+                "address": "Keltenring 7, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5876102,
+                    48.0340824
+                ]
+            },
+            "properties": {
+                "address": "Keltenring 9, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6167477,
+                    48.0333403
+                ]
+            },
+            "properties": {
+                "address": "Rotwandweg 3, Taufkirchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6168014,
+                    48.0334516
+                ]
+            },
+            "properties": {
+                "address": "Rotwandweg 3 a, Taufkirchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6174129,
+                    48.0332435
+                ]
+            },
+            "properties": {
+                "address": "Rotwandweg 5, Taufkirchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6174451,
+                    48.0333655
+                ]
+            },
+            "properties": {
+                "address": "Rotwandweg 5 a, Taufkirchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41124204805287,
+                    48.5674087
+                ]
+            },
+            "properties": {
+                "address": "Vornholzstra\u00dfe 40, Passau, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.51759985,
+                    48.141511949999995
+                ]
+            },
+            "properties": {
+                "address": "Landsberger Stra\u00dfe 318-328, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5865598,
+                    48.0335777
+                ]
+            },
+            "properties": {
+                "address": "Raiffeisenallee 14, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5886401,
+                    48.0342915
+                ]
+            },
+            "properties": {
+                "address": "Keltenring 5, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.91798577446621,
+                    48.3057157
+                ]
+            },
+            "properties": {
+                "address": "Am Wasserturm 1, Erding, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5831925,
+                    48.0317134
+                ]
+            },
+            "properties": {
+                "address": "Raiffeisenallee 5, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5825104,
+                    48.0303929
+                ]
+            },
+            "properties": {
+                "address": "Raiffeisenallee 6, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5838114,
+                    48.032159
+                ]
+            },
+            "properties": {
+                "address": "Bajuwarenring 14, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.44845906274319,
+                    48.109859
+                ]
+            },
+            "properties": {
+                "address": "Fraunhoferstra\u00dfe 10, Planegg (Martinsried), Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.597770437608656,
+                    48.12833525
+                ]
+            },
+            "properties": {
+                "address": "Wei\u00dfenburger Stra\u00dfe 20, M\u00fcnchen (Haidhausen), Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.890148279985384,
+                    48.375378
+                ]
+            },
+            "properties": {
+                "address": "Lange Gasse 24, Augsburg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.883837495256781,
+                    48.35735486131912
+                ]
+            },
+            "properties": {
+                "address": "Imhofstra\u00dfe 66 + 68, Augsburg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.583436661870948,
+                    48.033094399999996
+                ]
+            },
+            "properties": {
+                "address": "Bajuwarenring 19, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.583888089739755,
+                    48.03285275
+                ]
+            },
+            "properties": {
+                "address": "Bajuwarenring 21, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.56200974275364,
+                    48.12973085
+                ]
+            },
+            "properties": {
+                "address": "Maistra\u00dfe 16, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5788597,
+                    48.1601273
+                ]
+            },
+            "properties": {
+                "address": "Hohenzollernstra\u00dfe 52, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.733182242729931,
+                    48.1098719
+                ]
+            },
+            "properties": {
+                "address": "Leibstra\u00dfe 38, Haar, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5832889,
+                    48.0324465
+                ]
+            },
+            "properties": {
+                "address": "Bajuwarenring 12, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.582689,
+                    48.0321093
+                ]
+            },
+            "properties": {
+                "address": "Bajuwarenring 12a, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.680828782003129,
+                    48.23569955
+                ]
+            },
+            "properties": {
+                "address": "Oskar-Messter-Str. 33, Ismaning, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5813988,
+                    48.030375
+                ]
+            },
+            "properties": {
+                "address": "Bajuwarenring 1, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5806852,
+                    48.0302954
+                ]
+            },
+            "properties": {
+                "address": "Bajuwarenring 3, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.873619267569438,
+                    48.35148743124876
+                ]
+            },
+            "properties": {
+                "address": "Gabelsberger Stra\u00dfe 97 - 103, Augsburg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8018766,
+                    48.2220458
+                ]
+            },
+            "properties": {
+                "address": "Eschenstra\u00dfe 4, Neufinsing, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.432895481335787,
+                    48.5714478
+                ]
+            },
+            "properties": {
+                "address": "Holzheimer Str. 7, Passau, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.562147073333335,
+                    48.129923149999996
+                ]
+            },
+            "properties": {
+                "address": "Maistra\u00dfe 14, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.556579118648719,
+                    48.22123292230761
+                ]
+            },
+            "properties": {
+                "address": "St\u00f6sserstra\u00dfe 2-6, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.586946,
+                    48.033218
+                ]
+            },
+            "properties": {
+                "address": "Raiffeisenallee 12 B, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.814678803606663,
+                    48.168788296567456
+                ]
+            },
+            "properties": {
+                "address": "Birkenallee 11+13, Poing, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.544678323447346,
+                    48.11381564456671
+                ]
+            },
+            "properties": {
+                "address": "Demleitnerstra\u00dfe 1-5, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.650442755,
+                    48.2503902
+                ]
+            },
+            "properties": {
+                "address": "B\u00fcrgerplatz 9, Garching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.530052022294086,
+                    48.11453868190341
+                ]
+            },
+            "properties": {
+                "address": "Euckenstra\u00dfe 7-9, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.562387,
+                    48.1581643
+                ]
+            },
+            "properties": {
+                "address": "Agnesstra\u00dfe 53, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2518111,
+                    48.1787023
+                ]
+            },
+            "properties": {
+                "address": "Pucher Str. 21 + 23, F\u00fcrstenfeldbruck, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.082237580872729,
+                    49.41915449994679
+                ]
+            },
+            "properties": {
+                "address": "Katzwangerstr. 131-137, N\u00fcrnberg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.83575938675453,
+                    47.79013021750733
+                ]
+            },
+            "properties": {
+                "address": "M\u00fcnchner Str. 22-26, Miesbach, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.59765070719849,
+                    48.141085203145565
+                ]
+            },
+            "properties": {
+                "address": "Prinzregentenstr. 63-65, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5862631,
+                    48.0333301
+                ]
+            },
+            "properties": {
+                "address": "Raiffeisenallee 12 A, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5285414,
+                    48.1103178
+                ]
+            },
+            "properties": {
+                "address": "Konrad-Celtis-Str. 41 b, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.880395006683873,
+                    48.354894
+                ]
+            },
+            "properties": {
+                "address": "Agnes-Bernauer-Str. 39, Augsburg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.84015890136905,
+                    48.3657197
+                ]
+            },
+            "properties": {
+                "address": "Tannenweg 10, Stadtbergen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.558490627101445,
+                    48.26157835
+                ]
+            },
+            "properties": {
+                "address": "Mittenheimer Str. 62, Oberschlei\u00dfheim, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.596048744419196,
+                    48.1233859
+                ]
+            },
+            "properties": {
+                "address": "Auerfeldstr. 22, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.65124901825647,
+                    48.06580828077186
+                ]
+            },
+            "properties": {
+                "address": "Siemensstr. 20-24, Ottobrunn, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.57461363539796,
+                    48.28583465152916
+                ]
+            },
+            "properties": {
+                "address": "Carl-von-Linde-Str. 1-11, Unterschlei\u00dfheim, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.419881356085657,
+                    48.103989999999996
+                ]
+            },
+            "properties": {
+                "address": "Bahnhofstr. 20, Planegg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.864073,
+                    48.1906545
+                ]
+            },
+            "properties": {
+                "address": "Herzog-Ludwig-Str. 31, Markt Schwaben, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.55244782484814,
+                    48.11252235
+                ]
+            },
+            "properties": {
+                "address": "Bruderm\u00fchlstra\u00dfe 8, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5072704,
+                    48.1058088
+                ]
+            },
+            "properties": {
+                "address": "Einhornallee 42, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.855206751582498,
+                    48.39895200459276
+                ]
+            },
+            "properties": {
+                "address": "Heckenrosenweg 1-9, Augsburg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.585260386435714,
+                    48.0299675
+                ]
+            },
+            "properties": {
+                "address": "Gr\u00fcnwalder Weg 28, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5012554,
+                    48.1123114
+                ]
+            },
+            "properties": {
+                "address": "W\u00fcrmtalstr. 2 b, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.589499949961866,
+                    48.0257697
+                ]
+            },
+            "properties": {
+                "address": "Kyberg 29, Oberhaching, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.655738601820001,
+                    48.111353516751834
+                ]
+            },
+            "properties": {
+                "address": "Zehntfeldstra\u00dfe, M\u00fcnchen (Trudering), Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.478499088983712,
+                    48.18360041614194
+                ]
+            },
+            "properties": {
+                "address": "Korbinian-Beer-Stra\u00dfe, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.916754544544212,
+                    48.3836403
+                ]
+            },
+            "properties": {
+                "address": "Widderstra\u00dfe 14, Augsburg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6795555,
+                    48.0630496
+                ]
+            },
+            "properties": {
+                "address": "Bahnhofsplatz 3, Ottobrunn, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.886868976333702,
+                    48.29175432407139
+                ]
+            },
+            "properties": {
+                "address": "Thermenallee 4, Erding, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.868121936481277,
+                    48.34138855
+                ]
+            },
+            "properties": {
+                "address": "B\u00fcrgermeister-Aurnhammer-Str. 6, Augsburg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.543476,
+                    48.125027
+                ]
+            },
+            "properties": {
+                "address": "Lipowskystr. 12, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3771634,
+                    48.1894316
+                ]
+            },
+            "properties": {
+                "address": "Olchinger Str. 123a, Gr\u00f6benzell, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8703495,
+                    48.3413687
+                ]
+            },
+            "properties": {
+                "address": "Kurhaus G\u00f6ggingen, Klausenberg 6, Augsburg-G\u00f6ggingen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5788507,
+                    48.1680991
+                ]
+            },
+            "properties": {
+                "address": "Speyerer Stra\u00dfe 14, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.834765789813485,
+                    48.3874165
+                ]
+            },
+            "properties": {
+                "address": "Richard-Wagner-Stra\u00dfe 2, Neus\u00e4\u00df, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.56378669999999,
+                    48.28468615
+                ]
+            },
+            "properties": {
+                "address": "Einsteinstra\u00dfe 7, Unterschlei\u00dfheim, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.982976340381887,
+                    48.401611851903155
+                ]
+            },
+            "properties": {
+                "address": "Herzog-Ferdinand-Str. 2-6, Wartenberg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.570665251844133,
+                    48.281453600000006
+                ]
+            },
+            "properties": {
+                "address": "Keplerstra\u00dfe 10, Unterschlei\u00dfheim, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.925389677158638,
+                    48.3789702
+                ]
+            },
+            "properties": {
+                "address": "St\u00e4tzlinger Str. 22, Augsburg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.00979790513126,
+                    49.457665250000005
+                ]
+            },
+            "properties": {
+                "address": "H\u00f6fener Stra\u00dfe 66, F\u00fcrth, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8020749,
+                    48.8912803
+                ]
+            },
+            "properties": {
+                "address": "Bernrieder Str. 15, Niederwinkling, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.047623159287914,
+                    49.431975636580695
+                ]
+            },
+            "properties": {
+                "address": "Hintere Marktstr., N\u00fcrnberg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.924755712992726,
+                    48.3966848
+                ]
+            },
+            "properties": {
+                "address": "B\u00fcrgermeister-Wegele-Stra\u00dfe 6, Augsburg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.973300341858266,
+                    49.43610665823462
+                ]
+            },
+            "properties": {
+                "address": "Burgweg 2-22, Oberasbach, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.597949323155339,
+                    48.122884349912376
+                ]
+            },
+            "properties": {
+                "address": "Balanstr. 276-282, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5751177,
+                    48.1638192
+                ]
+            },
+            "properties": {
+                "address": "Clemensstr. 62a, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0647916,
+                    49.4435703
+                ]
+            },
+            "properties": {
+                "address": "Sophie-Germain-Str. 3 (Orange Campus), N\u00fcrnberg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4703773,
+                    48.120715
+                ]
+            },
+            "properties": {
+                "address": "Am Hedernfeld 27, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.90168529121368,
+                    49.90799246361385
+                ]
+            },
+            "properties": {
+                "address": "Memmelsdorfer Str. 89+91, Bamberg, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.503040907715585,
+                    48.18248161322809
+                ]
+            },
+            "properties": {
+                "address": "Puchheimer Str. 12+14, M\u00fcnchen, Germany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.081458398128431,
+                    49.42005082744172
+                ]
+            },
+            "properties": {
+                "address": "Conradtystr., N\u00fcrnberg, Germany"
+            }
+        }
+    ]
+}
