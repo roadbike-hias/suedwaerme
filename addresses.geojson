@@ -21,6 +21,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    10.87814813761817,
+                    48.338602326525724
+                ]
+            },
+            "properties": {
+                "address": "Franzensbadstr., Augsburg, Germany",
+                "CC": "Rexroth",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.903658,
+                    48.3090072
+                ]
+            },
+            "properties": {
+                "address": "Pfaustra\u00dfe 20 a, Augsburg, Germany",
+                "CC": "Rexroth",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     10.890148279985384,
                     48.375378
                 ]
@@ -66,6 +96,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    10.8568852,
+                    48.3810103
+                ]
+            },
+            "properties": {
+                "address": "Ulmer Stra\u00dfe 160, Augsburg, Germany",
+                "CC": "Rexroth",
+                "Technik": "Gas-BW / \u00d6l-NT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     10.880395006683873,
                     48.354894
                 ]
@@ -81,12 +126,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    10.908937933880116,
+                    48.35441835
+                ]
+            },
+            "properties": {
+                "address": "Rehmstr. 4, Augsburg, Germany",
+                "CC": "Rexroth",
+                "Technik": "Pellets Monovalent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     10.855206751582498,
                     48.39895200459276
                 ]
             },
             "properties": {
                 "address": "Heckenrosenweg 1-9, Augsburg, Germany",
+                "CC": "Rexroth",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.868082179237964,
+                    48.35713060070779
+                ]
+            },
+            "properties": {
+                "address": "Chemnitzer Str. 30-34, Augsburg, Germany",
+                "CC": "Rexroth",
+                "Technik": "Pellets & \u00d6l"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.872273213197753,
+                    48.364577499999996
+                ]
+            },
+            "properties": {
+                "address": "Kirchbergstr. 2, Augsburg, Germany",
                 "CC": "Rexroth",
                 "Technik": "Gas-BW"
             }
@@ -126,6 +216,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    10.880940279739715,
+                    48.348040720162466
+                ]
+            },
+            "properties": {
+                "address": "Peter-D\u00f6rfler-Str. 13-25, Augsburg, Germany",
+                "CC": "Rexroth",
+                "Technik": "BS BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     10.925389677158638,
                     48.3789702
                 ]
@@ -156,6 +261,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    10.891440294786364,
+                    48.353538650000004
+                ]
+            },
+            "properties": {
+                "address": "Schertlinstr. 13, Augsburg, Germany",
+                "CC": "Rexroth",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     10.8703495,
                     48.3413687
                 ]
@@ -164,6 +284,21 @@
                 "address": "Kurhaus G\u00f6ggingen, Klausenberg 6, Augsburg-G\u00f6ggingen, Germany",
                 "CC": "Rexroth",
                 "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.848480296869473,
+                    49.15710721971159
+                ]
+            },
+            "properties": {
+                "address": "Wei\u00dfenregener Str. 5, Bad K\u00f6tzting, Germany",
+                "CC": "Lausser",
+                "Technik": "BS BHKW"
             }
         },
         {
@@ -186,12 +321,87 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.898996456757864,
-                    48.27695517075543
+                    11.55496769409618,
+                    49.9311856
                 ]
             },
             "properties": {
-                "address": "Berghamer Stra\u00dfe 8-14, Erding, Germany",
+                "address": "Jakobstra\u00dfe 39a, Bayreuth, Germany",
+                "CC": "Sell",
+                "Technik": "BHKW / Kessel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.84449734290149,
+                    48.27945075
+                ]
+            },
+            "properties": {
+                "address": "Banaterstr. 9, Bobingen, Germany",
+                "CC": "Rexroth",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.84519744386211,
+                    48.27951095
+                ]
+            },
+            "properties": {
+                "address": "Baltenstr. 6, Bobingen, Germany",
+                "CC": "Rexroth",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.664614872993566,
+                    48.9318905
+                ]
+            },
+            "properties": {
+                "address": "Brunfeldstra\u00dfe 7, Bogen, Germany",
+                "CC": "Lausser",
+                "Technik": "BS BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.624193213664796,
+                    48.29824255
+                ]
+            },
+            "properties": {
+                "address": "Danziger Str. 2, Eching, Germany",
+                "CC": "ITW",
+                "Technik": "Pellets & Gas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.896200139451476,
+                    48.2754937
+                ]
+            },
+            "properties": {
+                "address": "Berghamer Stra\u00dfe 12, Erding, Germany",
                 "CC": "ITW",
                 "Technik": "Kessel (Gas)"
             }
@@ -224,6 +434,66 @@
                 "address": "Thermenallee 4, Erding, Germany",
                 "CC": "ITW",
                 "Technik": "Microgasturbine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.723604339005806,
+                    48.152397300000004
+                ]
+            },
+            "properties": {
+                "address": "DORNACHER FELD, Feldkirchen, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Geo AFK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.061638066530524,
+                    49.7171192
+                ]
+            },
+            "properties": {
+                "address": "Am Streckerplatz 3, Forchheim, Germany",
+                "CC": "Lausser",
+                "Technik": "BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.05862675859391,
+                    49.71593715
+                ]
+            },
+            "properties": {
+                "address": "Luitpoldstr. 1, Forchheim, Germany",
+                "CC": "Lausser",
+                "Technik": "BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.057577617697252,
+                    49.7142674
+                ]
+            },
+            "properties": {
+                "address": "Ruhalmstr. 5, Forchheim, Germany",
+                "CC": "Lausser",
+                "Technik": "BHKW"
             }
         },
         {
@@ -1146,8 +1416,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.6793344,
-                    48.0632435
+                    11.6795555,
+                    48.0630496
                 ]
             },
             "properties": {
@@ -1161,8 +1431,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.4145949,
-                    48.5568008
+                    13.414680798234416,
+                    48.55676558667479
                 ]
             },
             "properties": {
@@ -1236,8 +1506,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.8146717,
-                    48.1689246
+                    11.814678803606663,
+                    48.168788296567456
                 ]
             },
             "properties": {
@@ -1341,8 +1611,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.5785276,
-                    48.2882678
+                    11.57461363539796,
+                    48.28583465152916
                 ]
             },
             "properties": {
@@ -1386,8 +1656,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.9829741,
-                    48.4016119
+                    11.982976340381887,
+                    48.401611851903155
                 ]
             },
             "properties": {
@@ -1401,8 +1671,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.1409683,
-                    51.0523128
+                    12.140590633781107,
+                    51.052240205668646
                 ]
             },
             "properties": {
