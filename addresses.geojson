@@ -651,6 +651,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    11.3759778,
+                    48.1894499
+                ]
+            },
+            "properties": {
+                "address": "Osterseestra\u00dfe 55, Gr\u00f6benzell, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     11.3771634,
                     48.1894316
                 ]
@@ -689,6 +704,21 @@
                 "address": "Am Fendlbach, Herrsching, Germany",
                 "CC": "\u00d6kotherm",
                 "Technik": "Pellets/Gas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.20048596431291,
+                    49.18998605
+                ]
+            },
+            "properties": {
+                "address": "Biomasseheizwerk, Hilpoltstein, Germany",
+                "CC": "Lausser",
+                "Technik": "Kessel (HHS, \u00d6l)"
             }
         },
         {
@@ -749,6 +779,21 @@
                 "address": "Herzog-Ludwig-Str. 31, Markt Schwaben, Germany",
                 "CC": "ITW",
                 "Technik": "Kessel (\u00d6l)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.99329984103208,
+                    48.25883975
+                ]
+            },
+            "properties": {
+                "address": "Am Sandberg 1, Mering, Germany",
+                "CC": "Rexroth",
+                "Technik": "Pellets/ \u00d6l-NT"
             }
         },
         {
@@ -1964,6 +2009,21 @@
                 "address": "Birkenallee 11+13, Poing, Germany",
                 "CC": "ITW",
                 "Technik": "Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.703120647566317,
+                    48.07650920598919
+                ]
+            },
+            "properties": {
+                "address": "Vogelkirschweg, Putzbrunn, Germany",
+                "CC": "ITW",
+                "Technik": "Pellets & \u00d6l"
             }
         },
         {
