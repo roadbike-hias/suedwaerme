@@ -6,6 +6,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    10.865727725762548,
+                    48.35464126164841
+                ]
+            },
+            "properties": {
+                "address": "Uhlandstra\u00dfe, Pfersee, Germany",
+                "CC": "Rexroth",
+                "Technik": "Pellets/ \u00d6l-NT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     10.860753151648353,
                     48.35612815
                 ]
@@ -216,8 +231,53 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.880940279739715,
-                    48.348040720162466
+                    10.913306178460207,
+                    48.36730785
+                ]
+            },
+            "properties": {
+                "address": "Sch\u00e4fflerbachstr. 7, Augsburg, Germany",
+                "CC": "Rexroth",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.913655778588907,
+                    48.3668786
+                ]
+            },
+            "properties": {
+                "address": "Sch\u00e4fflerbachstr. 13, Augsburg, Germany",
+                "CC": "Rexroth",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.880330004695013,
+                    48.38587995
+                ]
+            },
+            "properties": {
+                "address": "Kaltenhoferstr. 2, Augsburg, Germany",
+                "CC": "Rexroth",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.878029271589657,
+                    48.3482071139063
                 ]
             },
             "properties": {
@@ -291,8 +351,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.848480296869473,
-                    49.15710721971159
+                    12.845867941141012,
+                    49.151248707874885
                 ]
             },
             "properties": {
@@ -306,8 +366,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    10.90168529121368,
-                    49.90799246361385
+                    10.91446121107441,
+                    49.91297113236163
                 ]
             },
             "properties": {
@@ -426,8 +486,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.886868976333702,
-                    48.29175432407139
+                    11.88697948743633,
+                    48.293189621118394
                 ]
             },
             "properties": {
@@ -486,8 +546,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.057577617697252,
-                    49.7142674
+                    11.0587191,
+                    49.7150262
                 ]
             },
             "properties": {
@@ -546,6 +606,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    11.008753735178583,
+                    49.46600015
+                ]
+            },
+            "properties": {
+                "address": "Am historischen Lokschuppen 10-16, F\u00fcrth, Germany",
+                "CC": "Schmoll",
+                "Technik": "unbekannt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     11.650442755,
                     48.2503902
                 ]
@@ -554,6 +629,21 @@
                 "address": "B\u00fcrgerplatz 9, Garching, Germany",
                 "CC": "ITW",
                 "Technik": "Fernw\u00e4rme"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.460946964588974,
+                    47.88088669086903
+                ]
+            },
+            "properties": {
+                "address": "Banater Stra\u00dfe, Geretsried, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Abw/Pellets/Gas"
             }
         },
         {
@@ -591,6 +681,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    11.161223783795794,
+                    48.00563563088417
+                ]
+            },
+            "properties": {
+                "address": "Am Fendlbach, Herrsching, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Pellets/Gas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4359446,
+                    48.75558615
+                ]
+            },
+            "properties": {
+                "address": "WENINGSTRASSE, Ingolstadt, Germany",
+                "CC": "ITW",
+                "Technik": "Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     11.680828782003129,
                     48.23569955
                 ]
@@ -599,6 +719,21 @@
                 "address": "Oskar-Messter-Str. 33, Ismaning, Germany",
                 "CC": "ITW",
                 "Technik": "Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.449129056933245,
+                    50.0983777
+                ]
+            },
+            "properties": {
+                "address": "Johann-Brenk-Str. 4, Kulmbach, Germany",
+                "CC": "Sell",
+                "Technik": "BS BHKW & Kessel (Gas baus.)"
             }
         },
         {
@@ -636,6 +771,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    11.511631714278058,
+                    48.1814325
+                ]
+            },
+            "properties": {
+                "address": "Dachauer Str. 278, M\u00fcnchen, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     11.5927164,
                     48.1164411
                 ]
@@ -651,8 +801,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.51759985,
-                    48.141511949999995
+                    11.480239445438698,
+                    48.14515817232566
                 ]
             },
             "properties": {
@@ -681,14 +831,29 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.5788597,
-                    48.1601273
+                    11.5789217,
+                    48.1601402
                 ]
             },
             "properties": {
                 "address": "Hohenzollernstra\u00dfe 52, M\u00fcnchen, Germany",
                 "CC": "ITW",
                 "Technik": "Fernw\u00e4rme"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5569407,
+                    48.2175832
+                ]
+            },
+            "properties": {
+                "address": "Petrarcastra\u00dfe 4, M\u00fcnchen, Germany",
+                "CC": "ITW",
+                "Technik": "Pellets & \u00d6l"
             }
         },
         {
@@ -756,8 +921,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.562387,
-                    48.1581643
+                    11.5624208,
+                    48.158287
                 ]
             },
             "properties": {
@@ -771,8 +936,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.59765070719849,
-                    48.141085203145565
+                    11.4387534,
+                    48.1530256
+                ]
+            },
+            "properties": {
+                "address": "Ravensburger Ring 42, M\u00fcnchen, Germany",
+                "CC": "ITW",
+                "Technik": "Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.59840821783874,
+                    48.141151259529266
                 ]
             },
             "properties": {
@@ -794,6 +974,21 @@
                 "address": "Konrad-Celtis-Str. 41 b, M\u00fcnchen, Germany",
                 "CC": "\u00d6kotherm",
                 "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5994347,
+                    48.1800206
+                ]
+            },
+            "properties": {
+                "address": "Emilienhof, M\u00fcnchen, Germany",
+                "CC": "ITW",
+                "Technik": "Fernw\u00e4rme"
             }
         },
         {
@@ -906,8 +1101,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.597949323155339,
-                    48.122884349912376
+                    11.415499899999999,
+                    48.1578748
+                ]
+            },
+            "properties": {
+                "address": "Altostr. 18, M\u00fcnchen, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "BHKW/Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60032645912741,
+                    48.11917083165986
                 ]
             },
             "properties": {
@@ -966,6 +1176,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    11.4368885,
+                    48.1530277
+                ]
+            },
+            "properties": {
+                "address": "Ravensburger Ring 58, M\u00fcnchen, Germany",
+                "CC": "ITW",
+                "Technik": "Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     11.597770437608656,
                     48.12833525
                 ]
@@ -981,12 +1206,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.655738601820001,
-                    48.111353516751834
+                    11.4667118,
+                    48.1680246
                 ]
             },
             "properties": {
-                "address": "Zehntfeldstra\u00dfe, M\u00fcnchen (Trudering), Germany",
+                "address": "Karwinskistr. 41, M\u00fcnchen, Germany",
+                "CC": "ITW",
+                "Technik": "WP & Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.455975574799506,
+                    48.17367771985504
+                ]
+            },
+            "properties": {
+                "address": "Berthold-Hirsch-Stra\u00dfe, M\u00fcnchen (Obermenzing), Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Pellets/\u00d6l"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.453673823106717,
+                    48.13630203147183
+                ]
+            },
+            "properties": {
+                "address": "Planegger Stra\u00dfe, M\u00fcnchen, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Pellets /Gas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.663274399999999,
+                    48.1087428
+                ]
+            },
+            "properties": {
+                "address": "Zehntfeldstra\u00dfe, M\u00fcnchen, Germany",
                 "CC": "\u00d6kotherm",
                 "Technik": "Pellets Monovalent"
             }
@@ -1004,6 +1274,21 @@
                 "address": "Eschenstra\u00dfe 4, Neufinsing, Germany",
                 "CC": "ITW",
                 "Technik": "Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7668954,
+                    48.0973534
+                ]
+            },
+            "properties": {
+                "address": "Dianastra\u00dfe 25, Neukeferloh, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "BHKW/Gas-BW"
             }
         },
         {
@@ -1056,8 +1341,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.082237580872729,
-                    49.41915449994679
+                    11.08541296568551,
+                    49.424768244578246
                 ]
             },
             "properties": {
@@ -1071,8 +1356,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.047623159287914,
-                    49.431975636580695
+                    11.0256928,
+                    49.4363503
+                ]
+            },
+            "properties": {
+                "address": "Hornungstr. 16, N\u00fcrnberg, Germany",
+                "CC": "Schmoll",
+                "Technik": "Pellets (Mono)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.056115951619871,
+                    49.434687262806065
                 ]
             },
             "properties": {
@@ -1086,8 +1386,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.0647916,
-                    49.4435703
+                    11.0647989,
+                    49.4435471
                 ]
             },
             "properties": {
@@ -1116,6 +1416,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    11.076446149637428,
+                    47.58904304411247
+                ]
+            },
+            "properties": {
+                "address": "Am Rainenbichl 54, Oberammergau, Germany",
+                "CC": "Gaiser",
+                "Technik": "kessel (HHS, Gas, \u00d6l)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     10.973300341858266,
                     49.43610665823462
                 ]
@@ -1124,6 +1439,66 @@
                 "address": "Burgweg 2-22, Oberasbach, Germany",
                 "CC": "Schmoll",
                 "Technik": "Pellets (Mono)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5896711,
+                    48.0331917
+                ]
+            },
+            "properties": {
+                "address": "Keltenring 17, Oberhaching, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5891686,
+                    48.0335342
+                ]
+            },
+            "properties": {
+                "address": "Keltenring 15, Oberhaching, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5886878,
+                    48.0337209
+                ]
+            },
+            "properties": {
+                "address": "Keltenring 13, Oberhaching, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5881549,
+                    48.0339195
+                ]
+            },
+            "properties": {
+                "address": "Keltenring 11, Oberhaching, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Gas-BW"
             }
         },
         {
@@ -1176,8 +1551,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.5886401,
-                    48.0342915
+                    11.5887483,
+                    48.0342153
                 ]
             },
             "properties": {
@@ -1206,8 +1581,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.5825104,
-                    48.0303929
+                    11.5829588,
+                    48.0302871
                 ]
             },
             "properties": {
@@ -1326,8 +1701,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.586946,
-                    48.033218
+                    11.5868208,
+                    48.0331574
                 ]
             },
             "properties": {
@@ -1341,8 +1716,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.5862631,
-                    48.0333301
+                    11.5861074,
+                    48.0334166
                 ]
             },
             "properties": {
@@ -1386,6 +1761,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    11.5553858,
+                    48.2636482
+                ]
+            },
+            "properties": {
+                "address": "Bruckmannring 6, Oberschlei\u00dfheim, Germany",
+                "CC": "ITW",
+                "Technik": "Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     11.558490627101445,
                     48.26157835
                 ]
@@ -1394,6 +1784,21 @@
                 "address": "Mittenheimer Str. 62, Oberschlei\u00dfheim, Germany",
                 "CC": "ITW",
                 "Technik": "Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.655804533115543,
+                    48.0677477
+                ]
+            },
+            "properties": {
+                "address": "Prinz-Otto-Str. 15, Ottobrunn, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "BHKW/Gas-BW"
             }
         },
         {
@@ -1416,8 +1821,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.6795555,
-                    48.0630496
+                    11.68719751093332,
+                    48.066020949999995
+                ]
+            },
+            "properties": {
+                "address": "Kleiststr. 16, Ottobrunn, Germany",
+                "CC": "Lausser",
+                "Technik": "Kessel (HHS, \u00d6l)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6793344,
+                    48.0632435
                 ]
             },
             "properties": {
@@ -1476,6 +1896,36 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    13.437985880317509,
+                    48.57068905
+                ]
+            },
+            "properties": {
+                "address": "Spitalhofstr. 37, Passau, Germany",
+                "CC": "Burke",
+                "Technik": "Pellets/ \u00d6l-NT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4683998,
+                    48.5710029
+                ]
+            },
+            "properties": {
+                "address": "Schmiedgasse 23), Passau, Germany",
+                "CC": "Burke",
+                "Technik": "Pellets /Gas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     11.419881356085657,
                     48.103989999999996
                 ]
@@ -1521,6 +1971,51 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    11.715342,
+                    48.0793253
+                ]
+            },
+            "properties": {
+                "address": "Solalindenstr., Putzbrunn, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Pellets Monovalent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.655984269560001,
+                    48.07139696350103
+                ]
+            },
+            "properties": {
+                "address": "Rosenheimer Landstra\u00dfe 147, Ottobrunn, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.839382137873594,
+                    48.36635445
+                ]
+            },
+            "properties": {
+                "address": "Tannenweg 1, Stadtbergen, Germany",
+                "CC": "Rexroth",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     10.84015890136905,
                     48.3657197
                 ]
@@ -1529,6 +2024,51 @@
                 "address": "Tannenweg 10, Stadtbergen, Germany",
                 "CC": "Rexroth",
                 "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.342568733807846,
+                    47.99988775
+                ]
+            },
+            "properties": {
+                "address": "Hauptstr. 3, Starnberg, Germany",
+                "CC": "\u00d6kotherm",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.567022581919044,
+                    48.874365499999996
+                ]
+            },
+            "properties": {
+                "address": "Wittelsbacherh\u00f6he 1, Straubing, Germany",
+                "CC": "Lausser",
+                "Technik": "Kessel (Gas) + BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.586066489849667,
+                    48.87523094584923
+                ]
+            },
+            "properties": {
+                "address": "Antoniusberg 23, Straubing, Germany",
+                "CC": "Lausser",
+                "Technik": "Kessel (Gas) + BHKW"
             }
         },
         {
@@ -1611,8 +2151,38 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.57461363539796,
-                    48.28583465152916
+                    11.563969134768715,
+                    48.279690889739385
+                ]
+            },
+            "properties": {
+                "address": "LUDWIG-THOMA-STRASSE, Unterschlei\u00dfheim, Germany",
+                "CC": "ITW",
+                "Technik": "Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5640957,
+                    48.2840466
+                ]
+            },
+            "properties": {
+                "address": "Ballhausforum, Unterschlei\u00dfheim, Germany",
+                "CC": "ITW",
+                "Technik": "Kessel, BHKW, WP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.569955138994006,
+                    48.28209695537307
                 ]
             },
             "properties": {
@@ -1656,6 +2226,51 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    11.53272575782584,
+                    48.26481285
+                ]
+            },
+            "properties": {
+                "address": "Zum Hirschdamm 3, Unterschlei\u00dfheim, Germany",
+                "CC": "ITW",
+                "Technik": "Pellets Monovalent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.804432899999991,
+                    47.749080500000005
+                ]
+            },
+            "properties": {
+                "address": "Seestr. 7/1, Wangen, Germany",
+                "CC": "BMH Allg\u00e4u",
+                "Technik": "Pellets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.80441635188654,
+                    47.7488519
+                ]
+            },
+            "properties": {
+                "address": "Seestr. 7/3, Wangen, Germany",
+                "CC": "BMH Allg\u00e4u",
+                "Technik": "Pellets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     11.982976340381887,
                     48.401611851903155
                 ]
@@ -1664,6 +2279,36 @@
                 "address": "Herzog-Ferdinand-Str. 2-6, Wartenberg, Germany",
                 "CC": "\u00d6kotherm",
                 "Technik": "Pellets Monovalent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5011091,
+                    49.7863831
+                ]
+            },
+            "properties": {
+                "address": "Ernst-Abbe-Str. 14, Wertheim, Germany",
+                "CC": "Lausser",
+                "Technik": "Kessel (Gas) + BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.397236920340182,
+                    48.99894661127214
+                ]
+            },
+            "properties": {
+                "address": "Donaustra\u00dfe, W\u00f6rth a. d. Donau, Germany",
+                "CC": "Lausser",
+                "Technik": "Kessel (HHS, \u00d6l)"
             }
         },
         {
