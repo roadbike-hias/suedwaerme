@@ -21,6 +21,21 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    6.069128713625211,
+                    50.765339999999995
+                ]
+            },
+            "properties": {
+                "address": "Morillenhang 27, Aachen, Germany",
+                "CC": "Neuefeind",
+                "Technik": "K\u00e4lte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     10.079653586095823,
                     48.82980486660289
                 ]
