@@ -117,7 +117,7 @@
             },
             "properties": {
                 "address": "Stra\u00dfburger Str. 77, Appenweier, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "EDL BHKW"
             }
         },
@@ -147,7 +147,7 @@
             },
             "properties": {
                 "address": "Lehenfeld 18, Asperg, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "WLV (BHKW + Kessel)"
             }
         },
@@ -327,7 +327,7 @@
             },
             "properties": {
                 "address": "Ooser Bahnhofstra\u00dfe 28, Baden-Baden, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "WLV (BHKW + Kessel)"
             }
         },
@@ -762,7 +762,7 @@
             },
             "properties": {
                 "address": "Rudolf-Plank-Str. 23, Ettlingen, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "Bereitst. K\u00e4lte + PV + WLV (Gas bauseits)"
             }
         },
@@ -777,7 +777,7 @@
             },
             "properties": {
                 "address": "Rheinstr. 145, Ettlingen, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "WLV (BHKW + Kessel)"
             }
         },
@@ -792,7 +792,7 @@
             },
             "properties": {
                 "address": "Pfinzweg 2, Ettlingenweier, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "WLV (BHKW + Kessel)"
             }
         },
@@ -1197,7 +1197,7 @@
             },
             "properties": {
                 "address": "Steegener Chaussee 13, Hagenow, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "Bereitst. BHKW"
             }
         },
@@ -1212,7 +1212,7 @@
             },
             "properties": {
                 "address": "Im Breitspiel 20, Heidelberg, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "BS BHKW + Kessel (Gas bauseits)"
             }
         },
@@ -1257,7 +1257,7 @@
             },
             "properties": {
                 "address": "Tiergartenstr. 7, Heppenheim, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "Gas-BW (NT verbaut)"
             }
         },
@@ -1422,7 +1422,7 @@
             },
             "properties": {
                 "address": "Otto-Wels-Str. 11, Karlsruhe, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "BS BHKW + Kessel (Gas bauseits)"
             }
         },
@@ -1827,7 +1827,7 @@
             },
             "properties": {
                 "address": "Industriestr. 3, Neunburg vorm Wald, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "Bereitst. BHKW"
             }
         },
@@ -1902,7 +1902,7 @@
             },
             "properties": {
                 "address": "Bahnhofstr. 20, Offingen, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "Bereitst. BHKW"
             }
         },
@@ -2367,7 +2367,7 @@
             },
             "properties": {
                 "address": "Etex, Steinsfeld, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "Bereitst. BHKW"
             }
         },
@@ -2382,7 +2382,7 @@
             },
             "properties": {
                 "address": "R\u00f6merstra\u00dfe 3, Straubenhardt, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "WLV (BHKW + Kessel)"
             }
         },
@@ -2712,7 +2712,7 @@
             },
             "properties": {
                 "address": "Gartenstr. 2, Waldbronn, Germany",
-                "CC": "J\u00f6rke & Weber",
+                "CC": "J&amp;W",
                 "Technik": "WLV (BHKW + Kessel)"
             }
         },
