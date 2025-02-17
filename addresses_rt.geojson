@@ -2251,5 +2251,694 @@
                 "Technik": "BHKW (Bereitst. & WLV ohne AP)"
             }
         }
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7119909,
+                    50.1113245
+                ]
+            },
+            "properties": {
+                "address": "Osthafenplatz 2 - 8, Frankfurt, Germany",
+                "CC": "Herbert",
+                "Technik": "Gask. (BHKW wg. L\u00e4rm stillgelegt)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.592202956111812,
+                    50.09996107027764
+                ]
+            },
+            "properties": {
+                "address": "Schildwacht 11, Frankfurt, Germany",
+                "CC": "Glitsch",
+                "Technik": "Kessel (Pellets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.228977489961538,
+                    48.62091045
+                ]
+            },
+            "properties": {
+                "address": "Robert-Bosch-Str. 100, Giengen, Germany",
+                "CC": "Gaiser",
+                "Technik": "BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.228977489961538,
+                    48.62091045
+                ]
+            },
+            "properties": {
+                "address": "Robert-Bosch-Str. 100, Giengen, Germany",
+                "CC": "Gaiser",
+                "Technik": "BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.367298097327957,
+                    48.55429805
+                ]
+            },
+            "properties": {
+                "address": "Sitzenbergerstra\u00dfe 4, Gundelfingen, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel (Gas) + BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.279114234752658,
+                    48.45652925
+                ]
+            },
+            "properties": {
+                "address": "Dillinger Str. 2, G\u00fcnzburg, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel (Gas) + Solar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.687591,
+                    49.3594242
+                ]
+            },
+            "properties": {
+                "address": "Im Breitspiel 20, Heidelberg, Germany",
+                "CC": "J\u00f6rke & Weber",
+                "Technik": "BS BHKW + Kessel (Gas bauseits)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1501099,
+                    48.6716212
+                ]
+            },
+            "properties": {
+                "address": "Bleichstra\u00dfe 3, Heidenheim, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel (Pellets)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.619462445463629,
+                    49.64147495
+                ]
+            },
+            "properties": {
+                "address": "Tiergartenstr. 7, Heppenheim, Germany",
+                "CC": "J\u00f6rke & Weber",
+                "Technik": "Gas-BW (NT verbaut)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9982828,
+                    48.3386866
+                ]
+            },
+            "properties": {
+                "address": "Unterweiler Str. 1, Illerkirchberg, Germany",
+                "CC": "Benzinger",
+                "Technik": "WLV (BHKW m. BGG+ Kessel)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.091709320308183,
+                    48.21504775
+                ]
+            },
+            "properties": {
+                "address": "Dietenheimer Str. 70, Illertissen, Germany",
+                "CC": "Gaiser",
+                "Technik": "BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0990105,
+                    48.227323
+                ]
+            },
+            "properties": {
+                "address": "Max-Eyth-Stra\u00dfe 11, Illertissen, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.108400406914516,
+                    48.2010169
+                ]
+            },
+            "properties": {
+                "address": "Am Anger 10, Illertissen, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.119789734449295,
+                    48.24769225
+                ]
+            },
+            "properties": {
+                "address": "Graf-Kirchberg-Stra\u00dfe 58, Illertissen, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.119441476223443,
+                    48.22170065
+                ]
+            },
+            "properties": {
+                "address": "Buchenweg 7, Illertissen, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel + BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.30950844401804,
+                    47.7253712
+                ]
+            },
+            "properties": {
+                "address": "Bodmanstr. 12, Kempten, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.422511499999999,
+                    48.658753000000004
+                ]
+            },
+            "properties": {
+                "address": "Isolde-Kurz-Str. 35, Kirchheim u. Teck, Germany",
+                "CC": "Maier",
+                "Technik": "Pellets Monovalent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.488033080407524,
+                    48.6392323
+                ]
+            },
+            "properties": {
+                "address": "Mittlere Str. 14, Kirchheim u. Teck, Germany",
+                "CC": "Maier",
+                "Technik": "WLV (BHKW + Kessel)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8815823,
+                    47.7838911
+                ]
+            },
+            "properties": {
+                "address": "Pfarrer-Lohr-Str. 7, Ki\u00dflegg, Germany",
+                "CC": "Gaiser",
+                "Technik": "unbekannt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4225464,
+                    48.1383513
+                ]
+            },
+            "properties": {
+                "address": "Stellwaldstr. 1, K\u00f6nigsfeld, Germany",
+                "CC": "Maurer",
+                "Technik": "Bereitst. BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.704091935324445,
+                    48.492164349999996
+                ]
+            },
+            "properties": {
+                "address": "Gottlieb-Daimler Str. 6, Laichingen, Germany",
+                "CC": "Gaiser",
+                "Technik": "BS BHKW (Gas bauseits)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6966331,
+                    48.4890657
+                ]
+            },
+            "properties": {
+                "address": "Goethestr.), Laichingen, Germany",
+                "CC": "Gaiser",
+                "Technik": "unbekannt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.42006874261515,
+                    48.563284712995205
+                ]
+            },
+            "properties": {
+                "address": "Friedrich-Ebert-Str., Lauingen, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel (HHS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.429554221852065,
+                    48.57164555147599
+                ]
+            },
+            "properties": {
+                "address": "Br\u00fcderstr., Lauingen, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel (Pellets)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.133740674582729,
+                    47.858110999999994
+                ]
+            },
+            "properties": {
+                "address": "Rapunzelstr. 1, Legau, Germany",
+                "CC": "Gaiser",
+                "Technik": "BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.133740674582729,
+                    47.858110999999994
+                ]
+            },
+            "properties": {
+                "address": "Rapunzelstr. 1, Legau, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel (HHS)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.009677412709554,
+                    47.8232408
+                ]
+            },
+            "properties": {
+                "address": "Wangener Str. 78, Leutkirch, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel + BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2888428,
+                    48.534051149999996
+                ]
+            },
+            "properties": {
+                "address": "M\u00fchlwiesenstr. 16, Metzingen, Germany",
+                "CC": "Schetter",
+                "Technik": "WLV (BHKW + Kessel)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.180256994058723,
+                    47.675321
+                ]
+            },
+            "properties": {
+                "address": "Klinik Hochried, Murnau, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel + BHKW (Gas bauseits)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8564452000580065,
+                    50.2023412
+                ]
+            },
+            "properties": {
+                "address": "Borngasse 14, Nast\u00e4tten, Germany",
+                "CC": "Maxeiner",
+                "Technik": "\u00d6lkessel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.333493808916533,
+                    49.87327745
+                ]
+            },
+            "properties": {
+                "address": "Auflangenstr. 9, Nierstein, Germany",
+                "CC": "Schetter",
+                "Technik": "WLV (BHKW + Kessel)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.441610433403365,
+                    48.74710949999999
+                ]
+            },
+            "properties": {
+                "address": "Schorndorfer Str. 2, Reichenbach, Germany",
+                "CC": "Schetter",
+                "Technik": "WLV (BHKW + Kessel)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3180753,
+                    48.7534781
+                ]
+            },
+            "properties": {
+                "address": "Langer Weg, Esslingen am Neckar, Germany",
+                "CC": "Benzinger",
+                "Technik": "unbekannt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6289961,
+                    48.1669851
+                ]
+            },
+            "properties": {
+                "address": "Johannsergasse 12, Rottweil, Germany",
+                "CC": "Maurer",
+                "Technik": "BS BHKW + Kessel (Gas bauseits)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4056461,
+                    48.2243965
+                ]
+            },
+            "properties": {
+                "address": "Dr.-Helmut-Junghans-Stra\u00dfe 60, Schramberg, Germany",
+                "CC": "Maurer",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.279689120192309,
+                    47.52412115
+                ]
+            },
+            "properties": {
+                "address": "Hans-B\u00f6ckler-Str. 7, Sonthofen, Germany",
+                "CC": "Gaiser",
+                "Technik": "Kessel (HHS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.240693978917037,
+                    49.43365025
+                ]
+            },
+            "properties": {
+                "address": "Etex, Steinsfeld, Germany",
+                "CC": "J\u00f6rke & Weber",
+                "Technik": "Bereitst. BHKW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1545664225036,
+                    48.832790700000004
+                ]
+            },
+            "properties": {
+                "address": "Schwieberdinger Str. 107, Stuttgart, Germany",
+                "CC": "Maier",
+                "Technik": "BS (WP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.16579139895239,
+                    48.748444000000006
+                ]
+            },
+            "properties": {
+                "address": "Schrempfstr. 8, Stuttgart - Degerloch, Germany",
+                "CC": "Maier",
+                "Technik": "WLV (BHKW + Kessel)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.237806053168814,
+                    48.8064674
+                ]
+            },
+            "properties": {
+                "address": "Badbrunnenstr. 11, Stuttgart, Germany",
+                "CC": "Maier",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.634178593749123,
+                    48.365350900533194
+                ]
+            },
+            "properties": {
+                "address": "Stuttgarter Str. 75, Sulz am Neckar, Germany",
+                "CC": "Gaiser",
+                "Technik": "unbekannt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6446842,
+                    48.075778
+                ]
+            },
+            "properties": {
+                "address": "Auf dem Schulberg 19, Trossingen, Germany",
+                "CC": "Maurer",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.388121589732176,
+                    48.07323265
+                ]
+            },
+            "properties": {
+                "address": "Kirnachtal 4, Unterkirnach, Germany",
+                "CC": "Binkert",
+                "Technik": "Kessel  (Gas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.494094849688937,
+                    48.06354825
+                ]
+            },
+            "properties": {
+                "address": "Albert-Schweitzer-Str. 20, Villingen-Schwenningen, Germany",
+                "CC": "Maurer",
+                "Technik": "BHKW (Bereitst. & WLV mit AP)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6020427,
+                    48.1691654
+                ]
+            },
+            "properties": {
+                "address": "Spital\u00e4cker 13, Zimmern ob Rottweil, Germany",
+                "CC": "Maurer",
+                "Technik": "Gas-BW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5917543,
+                    48.1672223
+                ]
+            },
+            "properties": {
+                "address": "Hauptstra\u00dfe 15, Zimmern ob Rottweil, Germany",
+                "CC": "Maurer",
+                "Technik": "WLV (BHKW + Kessel)"
+            }
+        }
     ]
 }
