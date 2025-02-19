@@ -7059,6 +7059,54 @@
           48.416678
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Maurer",
+        "Name": "DZH-Sche­pitz GmbH",
+        "shape": "Marker",
+        "Hauptsitz": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.793080,
+          51.041026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Maurer",
+        "Name": "Schmidt+Eger GmbH & Co. KG",
+        "shape": "Marker",
+        "Hauptsitz": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.461734,
+          49.023771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Maurer",
+        "Name": "Volz Heizung-Klima-Sanitär GmbH",
+        "shape": "Marker",
+        "Hauptsitz": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.066599,
+          48.635461
+        ]
+      }
     }
   ]
 }
