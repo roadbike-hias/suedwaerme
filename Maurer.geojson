@@ -6995,22 +6995,6 @@
           48.232942
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "CC": "Maurer",
-        "Name": "Mössner GmbH & Co. KG",
-        "shape": "Marker",
-        "Hauptsitz": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.200023
-          47.917866,
-        ]
-      }
     }
   ]
 }
