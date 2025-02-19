@@ -7027,6 +7027,22 @@
           48.054455
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Maurer",
+        "Name": "Ing. A. Wink­ler GmbH & Co. KG",
+        "shape": "Marker",
+        "Hauptsitz": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.556236,
+          48.066354
+        ]
+      }
     }
   ]
 }
