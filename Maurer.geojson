@@ -7011,6 +7011,22 @@
           47.917866
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Maurer",
+        "Name": "Feu­rer GmbH & Co. KG",
+        "shape": "Marker",
+        "Hauptsitz": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.336831,
+          48.054455
+        ]
+      }
     }
   ]
 }
