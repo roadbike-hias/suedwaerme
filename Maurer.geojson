@@ -6984,7 +6984,7 @@
       "type": "Feature",
       "properties": {
         "CC": "Maurer",
-        "Name": "H. Mau­rer GmbH & Co. KG",
+        "Name": "H. Maurer GmbH & Co. KG",
         "shape": "Marker",
         "Hauptsitz": true
       },
@@ -7007,8 +7007,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.200023
-          47.917866,
+          8.200023,
+          47.917866
         ]
       }
     }
