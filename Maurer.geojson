@@ -7043,6 +7043,22 @@
           48.066354
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Maurer",
+        "Name": "Mül­ler GmbH & Co. KG Heizung - Klima - Sanitär",
+        "shape": "Marker",
+        "Hauptsitz": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.634066,
+          48.416678
+        ]
+      }
     }
   ]
 }
