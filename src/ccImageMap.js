@@ -1,0 +1,23 @@
+        const ccImageMap = {
+            'Biomassehof': 'https://www.suedwaerme.com/wp-content/uploads/2022/10/BMH-Logo-final-rgb_110_73-1024x679.png',
+            'Burke': 'https://www.suedwaerme.com/wp-content/uploads/2021/10/Burke.jpg',
+            'Gaiser': 'https://www.suedwaerme.com/wp-content/uploads/2021/10/Gaiser.jpg',
+            'ITW': 'https://www.suedwaerme.com/wp-content/uploads/2021/10/ITW.jpg',
+            'J&amp;W': 'https://www.suedwaerme.com/wp-content/uploads/2022/07/joerke_weber-logo.jpg',
+            'Lausser': 'https://www.suedwaerme.com/wp-content/uploads/2021/10/Lausser.jpg',
+            'Ökotherm': 'https://www.suedwaerme.com/wp-content/uploads/2021/10/Oekotherm.jpg',
+            'Rexroth': 'https://www.suedwaerme.com/wp-content/uploads/2021/10/Rexroth.jpg',
+            'Schmoll': 'https://www.suedwaerme.com/wp-content/uploads/2022/10/Schmoll-Logo_effiziente_Gebaeudetechnik_110_73.jpg',
+            'Sell': 'https://www.suedwaerme.com/wp-content/uploads/2021/12/sell.jpg',
+            'Binkert': 'https://www.suedwaerme.com/wp-content/uploads/2022/07/binkert-logo.jpg',
+            'Schetter': 'https://www.suedwaerme.com/wp-content/uploads/2021/10/Schetter.jpg',
+            'Benzinger': 'https://www.suedwaerme.com/wp-content/uploads/2022/06/benzinger-logo.jpg',
+            'Widmann': 'https://www.suedwaerme.com/wp-content/uploads/2021/10/Widmann.jpg',
+            'Maier': 'https://www.suedwaerme.com/wp-content/uploads/2022/06/Logo-Maier.jpg',
+            'Kurfess': 'https://www.suedwaerme.com/wp-content/uploads/2021/10/Kurfess.jpg',
+            'Maurer': 'https://www.suedwaerme.com/wp-content/uploads/2021/10/Maurer.jpg',
+            'Kachel': 'https://www.suedwaerme.com/wp-content/uploads/2022/06/kachel-logo.jpg',
+            'Glitsch': 'https://www.suedwaerme.com/wp-content/uploads/2021/10/Glitsch.jpg',
+            'Essenpreis': 'https://www.suedwaerme.com/wp-content/uploads/2021/10/Essenpreis.jpg',
+            'König': 'https://www.suedwaerme.com/wp-content/uploads/2021/10/Walter-Koenig.jpg'
+        };

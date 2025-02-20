@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gebiete der SW-Kompetenzzentren</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
+    <style>
+        #container {
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+            height: 95vh;
+        }
+
+        #map {
+            flex: 4.5; /* Map takes up 4.5 parts of the available space */
+            height: 100%;
+            position: relative;
+            /* Apply grayscale filter only to the tile layer */
+            .leaflet-tile {
+                filter: grayscale(75%);
+            }
+        }
+
+        #table-container {
+            flex: 1; /* Table takes up 1 part of the available space */
+            padding: 20px;
+            overflow-y: auto; /* Add scroll if content overflows */
+        }
+
+        #info-box {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: rgba(255,255,255,0.9);
+            padding: 10px;
+            border: 2px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            z-index: 1000;
+            width: 200px;
+            height: 150px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            font: 14px/16px Arial, Helvetica, sans-serif;
+        }
+
+        #info-box img {
+            width: 120px;
+            max-height: 120px;
+            height: auto;
+            margin-bottom: 5px;
+        }
+
+        #info-box strong { display: block; }
+
+        .info {
+            padding: 6px 8px;
+            font: 14px/16px Arial, Helvetica, sans-serif;
+            background: white;
+            background: rgba(255,255,255,0.8);
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            border-radius: 5px;
+        }
+
+        #distance-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        #distance-table th, #distance-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        #distance-table th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="map">
+            <div id="info-box">Gebiet auswählen, um Kompetenzzentrum anzuzeigen.</div>
+        </div>
+        <div id="table-container">
+            <h3>Entfernungen zu Kompetenzzentren:</h3>
+            <table id="distance-table">
+                <thead>
+                    <tr>
+                        <th>Kompetenzzentrum</th>
+                        <th>Entfernung (km)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Rows will be populated dynamically -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="viewParams">Lat: -, Lng: -, Zoom: -</div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+    <script src="src/geojsonUrls.js"></script>
+    <script src="src/ccImageMap.js"></script>
+    <script src="src/ccColorMap.js"></script>
+
+    <script>
+        const redIcon = new L.Icon({
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
+            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        });
+
+        const greyIcon = new L.Icon({
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-grey.png',
+            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        });
+
+        const map = L.map('map', { zoomControl: false }).setView([48.92316, 10.67458], 8);
+		const baseLayers = {
+			"OpenStreetMap": L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+				attribution: '&copy; OpenStreetMap contributors',
+				className: 'grayscale-tiles'
+			}).addTo(map) // Ensure the default layer is added to the map
+		};
+
+        let searchedMarker = null;
+        const ccPoints = [];
+
+        // Layer groups
+        const CC_LayerGroup = L.layerGroup().addTo(map);
+        const Anlagenstandorte_LayerGroup = L.layerGroup().addTo(map);
+
+// Create a custom pane for circle markers to ensure they are above polygons
+map.createPane('markerPane');
+map.getPane('markerPane').style.zIndex = 650; // Higher than the default overlay pane (zIndex: 400)
+
+// Function to load markers (including circle markers for "Anlagenstandorte")
+const loadMarkers = (feature, latlng, isAnlagenstandorte = false) => {
+    if (isAnlagenstandorte) {
+        const color = ccColorMap[feature.properties.CC] || '#000000';
+        return L.circleMarker(latlng, {
+            radius: 6,
+            fillColor: color,
+            color: '#000',
+            weight: 1,
+            opacity: 1,
+            fillOpacity: 0.8,
+            pane: 'markerPane' // Place circle markers in the custom pane
+        });
+    } else if (feature.properties.Hauptsitz === false) {
+        return L.marker(latlng, {icon: greyIcon});
+    }
+    return L.marker(latlng);
+};
+
+// Function to handle marker interactions
+const handleMarkerInteractions = (layer, feature, isAnlagenstandorte = false) => {
+    const imageUrl = ccImageMap[feature.properties.CC];
+
+    if (layer instanceof L.Marker && feature.properties.Hauptsitz === true) {
+        ccPoints.push({
+            cc: feature.properties.CC,
+            name: feature.properties.Name,
+            latlng: layer.getLatLng()
+        });
+
+        layer.on({
+            mouseover: () => {
+                document.getElementById('info-box').innerHTML = `
+                    <img src="${imageUrl}" alt="${feature.properties.CC}" />
+                    <strong>Hauptsitz: ${feature.properties.CC}</strong>
+                `;
+            },
+            mouseout: () => {
+                document.getElementById('info-box').innerHTML = 'Gebiet auswählen, um Kompetenzzentrum anzuzeigen.';
+            }
+        });
+    } else if (layer instanceof L.Marker && feature.properties.Hauptsitz === false) {
+        ccPoints.push({
+            cc: feature.properties.CC,
+            name: feature.properties.Name,
+            latlng: layer.getLatLng()
+        });
+
+        layer.on({
+            mouseover: () => {
+                document.getElementById('info-box').innerHTML = `
+                    <img src="${imageUrl}" alt="${feature.properties.CC}" />
+                    <p><strong>Niederlassung: ${feature.properties.CC}</strong></p>
+                    <p><strong>${feature.properties.Name}</strong></p>
+                `;
+            },
+            mouseout: () => {
+                document.getElementById('info-box').innerHTML = 'Gebiet auswählen, um Kompetenzzentrum anzuzeigen.';
+            }
+        });
+    }  else if (isAnlagenstandorte && layer instanceof L.CircleMarker) {
+        layer.on({
+            mouseover: () => {
+                document.getElementById('info-box').innerHTML = `
+                    <img src="${imageUrl}" alt="${feature.properties.CC}" />
+                    <strong>Anlagenstandort: ${feature.properties.CC}</strong>
+                `;
+            },
+            mouseout: () => {
+                document.getElementById('info-box').innerHTML = 'Gebiet auswählen, um Kompetenzzentrum anzuzeigen.';
+            }
+        });
+    }
+};
+
+// Function to load polygons
+const loadPolygons = (feature, layer) => {
+    const imageUrl = ccImageMap[feature.properties.CC];
+
+    layer.on({
+        mouseover: () => {
+            layer.bringToFront();
+            layer.setStyle({ fillOpacity: 0.35, opacity: 0.9, weight: 3 });
+            document.getElementById('info-box').innerHTML = `
+                <img src="${imageUrl}" alt="${feature.properties.CC}" />
+                <strong>${feature.properties.Stammgebiet === false ? 'Zusatzgebiet' : 'Kerngebiet'}: ${feature.properties.CC}</strong>
+            `;
+        },
+        mouseout: () => {
+            layer.setStyle({
+                color: ccColorMap[feature.properties.CC] || '#000000',
+                weight: 2,
+                opacity: feature.properties.Stammgebiet === false ? 0.3 : 0.5,
+                fillOpacity: feature.properties.Stammgebiet === false ? 0.15 : 0.25
+            });
+            document.getElementById('info-box').innerHTML = 'Gebiet auswählen, um Kompetenzzentrum anzuzeigen.';
+        }
+    });
+};
+
+// Simplified loadGeoJSON function
+const loadGeoJSON = (url, layerGroup, isAnlagenstandorte = false) => new Promise((resolve, reject) => {
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            const layer = L.geoJSON(data, {
+                pointToLayer: (feature, latlng) => loadMarkers(feature, latlng, isAnlagenstandorte),
+                style: (feature) => ({
+                    color: ccColorMap[feature.properties.CC] || '#000000',
+                    weight: 2,
+                    opacity: feature.properties.Stammgebiet === false ? 0.3 : 0.5,
+                    fillOpacity: feature.properties.Stammgebiet === false ? 0.15 : 0.25
+                }),
+                onEachFeature: (feature, layer) => {
+                    if (feature.properties?.CC) {
+                        if (layer instanceof L.Polygon) {
+                            loadPolygons(feature, layer);
+                        } else if (layer instanceof L.Marker || layer instanceof L.CircleMarker) {
+                            handleMarkerInteractions(layer, feature, isAnlagenstandorte);
+                        }
+                    }
+                }
+            }).addTo(layerGroup);
+            resolve(layer);
+        })
+        .catch(error => reject(error));
+});
+
+// Load all GeoJSON files
+Promise.all([
+    ...gebieteCC.map(url => loadGeoJSON(url, CC_LayerGroup)),
+    ...standorteCC.map(url => loadGeoJSON(url, CC_LayerGroup)),
+    ...standorteAnlagen.map(url => loadGeoJSON(url, Anlagenstandorte_LayerGroup, true))
+])
+.then(layers => map.fitBounds(L.featureGroup(layers).getBounds()))
+.catch(error => console.error('Error loading GeoJSON files:', error));
+
+// Add layer control
+const overlayLayers = {
+    "Kompetenzzentren Gebiete": CC_LayerGroup,
+    "Anlagenstandorte": Anlagenstandorte_LayerGroup
+};
+
+L.control.layers(baseLayers, overlayLayers, { position: 'topleft' }).addTo(map);
+
+// Add geocoder control
+const geocoder = L.Control.geocoder({
+    defaultMarkGeocode: false,
+    placeholder: "Suche...",
+    geocoder: L.Control.Geocoder.nominatim(),
+    position: 'topleft'
+})
+.on('markgeocode', e => {
+    const { center } = e.geocode;
+    const bbox = e.geocode.bbox;
+    const poly = L.polygon([bbox.getSouthEast(), bbox.getNorthEast(), bbox.getNorthWest(), bbox.getSouthWest()]);
+    map.fitBounds(poly.getBounds());
+
+    if (searchedMarker) {
+        map.removeLayer(searchedMarker);
+    }
+
+    searchedMarker = L.marker(center, {icon: redIcon}).addTo(map);
+    calculateDistances(center);
+})
+.addTo(map);
+
+// Function to calculate distances
+const calculateDistances = (searchLatLng) => {
+    const distances = ccPoints.map(point => {
+        const distance = searchLatLng.distanceTo(point.latlng) / 1000;
+        return {
+            name: point.name,
+            distance: distance.toFixed(2)
+        };
+    });
+
+    distances.sort((a, b) => a.distance - b.distance);
+
+    const tableBody = document.querySelector('#distance-table tbody');
+    tableBody.innerHTML = distances.map(point => `
+        <tr>
+            <td>${point.name}</td>
+            <td>${point.distance} km</td>
+        </tr>
+    `).join('');
+};
+
+// Update view parameters
+const updateViewParams = () => {
+    const center = map.getCenter();
+    document.getElementById('viewParams').innerHTML =
+        `Lat: ${center.lat.toFixed(5)}, Lng: ${center.lng.toFixed(5)}, Zoom: ${map.getZoom()}`;
+};
+
+map.on('moveend', updateViewParams);
+updateViewParams();
+    </script>
+</body>
+</html>
