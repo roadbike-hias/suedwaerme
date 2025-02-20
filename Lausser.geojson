@@ -11854,6 +11854,38 @@
           49.0333
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Lausser",
+        "Name": "Popp & Lausser (Freiberg)",
+        "shape": "Marker",
+        "Hauptsitz": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.383965,
+          50.902904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Lausser",
+        "Name": "Lausser (Unterschleißheim)",
+        "shape": "Marker",
+        "Hauptsitz": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.578630,
+          48.288615
+        ]
+      }
     }
   ]
 }
