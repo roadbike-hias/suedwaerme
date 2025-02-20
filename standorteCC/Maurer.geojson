@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Maurer",
+                "Name": "Maurer",
+                "shape": "Marker",
+                "Hauptsitz": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.422287,
+                    48.232942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Maurer",
+                "Name": "M\u00f6ssner GmbH & Co. KG",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.200023,
+                    47.917866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Maurer",
+                "Name": "Feu\u00adrer GmbH & Co. KG",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.336831,
+                    48.054455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Maurer",
+                "Name": "Ing. A. Wink\u00adler GmbH & Co. KG",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.556236,
+                    48.066354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Maurer",
+                "Name": "M\u00fcl\u00adler GmbH & Co. KG",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.634066,
+                    48.416678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Maurer",
+                "Name": "DZH-Sche\u00adpitz GmbH",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79308,
+                    51.041026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Maurer",
+                "Name": "Schmidt+Eger GmbH & Co. KG",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.461734,
+                    49.023771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Maurer",
+                "Name": "Volz",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.066599,
+                    48.635461
+                ]
+            }
+        }
+    ]
+}

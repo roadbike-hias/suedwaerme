@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Lausser",
+                "Name": "Lausser",
+                "shape": "Marker",
+                "Hauptsitz": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60605,
+                    49.0333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Lausser",
+                "Name": "Popp & Lausser (Freiberg)",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.383965,
+                    50.902904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Lausser",
+                "Name": "Lausser (Unterschlei\u00dfheim)",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.57863,
+                    48.288615
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Essenpreis",
+                "Name": "Essenpreis",
+                "shape": "Marker",
+                "Hauptsitz": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.69518,
+                    49.215025
+                ]
+            }
+        }
+    ]
+}

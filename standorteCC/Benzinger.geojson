@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Benzinger",
+                "Name": "Benzinger",
+                "Hauptsitz": true,
+                "shape": "Marker"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.106797,
+                    48.854208
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Glitsch",
+                "Name": "Glitsch",
+                "shape": "Marker",
+                "Hauptsitz": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.593079,
+                    50.09984
+                ]
+            }
+        }
+    ]
+}

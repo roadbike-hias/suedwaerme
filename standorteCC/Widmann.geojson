@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Widmann",
+                "Name": "Widmann",
+                "shape": "Marker",
+                "Hauptsitz": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.880714,
+                    47.750188
+                ]
+            }
+        }
+    ]
+}

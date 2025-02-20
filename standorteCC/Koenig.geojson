@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "K\u00f6nig",
+                "Name": "K\u00f6nig",
+                "Hauptsitz": true,
+                "shape": "Marker"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.074307,
+                    48.824539
+                ]
+            }
+        }
+    ]
+}

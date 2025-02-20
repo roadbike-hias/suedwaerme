@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "\u00d6kotherm",
+                "Name": "\u00d6kotherm",
+                "shape": "Marker",
+                "Hauptsitz": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.493378,
+                    48.112252
+                ]
+            }
+        }
+    ]
+}

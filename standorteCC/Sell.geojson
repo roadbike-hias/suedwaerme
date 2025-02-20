@@ -1,0 +1,101 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Sell",
+                "Name": "Sell",
+                "shape": "Marker",
+                "Hauptsitz": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.71708,
+                    50.241469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Sell",
+                "Name": "Sell (Kronach)",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.335166,
+                    50.241589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Sell",
+                "Name": "Sell (Kulmbach)",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.45944,
+                    50.111934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Sell",
+                "Name": "Sell (Feldkirchen)",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.733433,
+                    48.151416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Sell",
+                "Name": "Sell (Hohenstein-Ernstthal)",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.711048,
+                    50.795618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CC": "Sell",
+                "Name": "Sell (Berlin)",
+                "shape": "Marker",
+                "Hauptsitz": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42576,
+                    52.495518
+                ]
+            }
+        }
+    ]
+}
