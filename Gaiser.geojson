@@ -10496,6 +10496,38 @@
           48.400563
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Gaiser",
+        "Name": "Gaiser (Heidenheim)",
+        "shape": "Marker",
+        "Hauptsitz": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.108707,
+          48.679511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CC": "Gaiser",
+        "Name": "Gaiser/Clement (Amstetten)",
+        "shape": "Marker",
+        "Hauptsitz": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.879713,
+          48.570190
+        ]
+      }
     }
   ]
 }
