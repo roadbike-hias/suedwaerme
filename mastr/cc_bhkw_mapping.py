@@ -4,10 +4,11 @@ import pandas as pd
 from shapely.geometry import shape, Point
 
 # Relative path to the folder containing the GeoJSON files
-folder_path = os.path.join(os.path.dirname(__file__), "..", "gebieteCC")
+folder_path = os.path(os.path.dirname(__file__))
+folder_path_gebiete_cc = os.path.join(folder_path, "..", "gebieteCC")
 
 # Load the CSV file
-csv_file_path = "Stromerzeuger.csv"  # Replace with the path to your CSV file
+csv_file_path = os.path.join(folder_path, "Stromerzeuger.csv")  # Replace with the path to your CSV file
 df = pd.read_csv(csv_file_path, delimiter=";", decimal=",")
 
 # Check the column names in the CSV file
@@ -34,9 +35,9 @@ for point in points[:5]:
 all_features = []
 
 # Iterate over all files in the folder
-for filename in os.listdir(folder_path):
+for filename in os.listdir(folder_path_gebiete_cc):
     if filename.endswith(".geojson"):
-        file_path = os.path.join(folder_path, filename)
+        file_path = os.path.join(folder_path_gebiete_cc, filename)
 
         # Load the GeoJSON file
         with open(file_path, "r") as f:
