@@ -11,7 +11,7 @@
                 ]
             },
             "properties": {
-                "address": "Morillenhang 27, Aachen, Germany",
+                "address": "Morillenhang 27, Aachen",
                 "CC": "Neuefeind",
                 "Technik": "K\u00e4lte"
             }
@@ -26,7 +26,7 @@
                 ]
             },
             "properties": {
-                "address": "Morillenhang 27, Aachen, Germany",
+                "address": "Morillenhang 27, Aachen",
                 "CC": "Neuefeind",
                 "Technik": "K\u00e4lte"
             }
@@ -41,7 +41,7 @@
                 ]
             },
             "properties": {
-                "address": "Stuttgarterstra\u00dfe 23-25, Aalen, Germany",
+                "address": "Stuttgarterstra\u00dfe 23-25, Aalen",
                 "CC": "K\u00f6nig",
                 "Technik": "Gas-BW"
             }
@@ -56,7 +56,7 @@
                 ]
             },
             "properties": {
-                "address": "Schillerstr. 125, Albstadt, Germany",
+                "address": "Schillerstr. 125, Albstadt",
                 "CC": "Gaiser",
                 "Technik": "unbekannt"
             }
@@ -71,7 +71,7 @@
                 ]
             },
             "properties": {
-                "address": "Hauptstra\u00dfe 100 - 106, Allmendingen, Germany",
+                "address": "Hauptstra\u00dfe 100 - 106, Allmendingen",
                 "CC": "Gaiser",
                 "Technik": "BHKW"
             }
@@ -86,7 +86,7 @@
                 ]
             },
             "properties": {
-                "address": "Im Reutle, Allmersbach, Germany",
+                "address": "Im Reutle, Allmersbach",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -101,7 +101,7 @@
                 ]
             },
             "properties": {
-                "address": "Fabrikstr. 7, Altenstadt, Germany",
+                "address": "Fabrikstr. 7, Altenstadt",
                 "CC": "Gaiser",
                 "Technik": "BHKW"
             }
@@ -116,7 +116,7 @@
                 ]
             },
             "properties": {
-                "address": "Stra\u00dfburger Str. 77, Appenweier, Germany",
+                "address": "Stra\u00dfburger Str. 77, Appenweier",
                 "CC": "J&amp;W",
                 "Technik": "EDL BHKW"
             }
@@ -131,7 +131,7 @@
                 ]
             },
             "properties": {
-                "address": "Alleenstr., Asperg, Germany",
+                "address": "Alleenstr., Asperg",
                 "CC": "Gaiser",
                 "Technik": "Kessel + BHKW"
             }
@@ -146,7 +146,7 @@
                 ]
             },
             "properties": {
-                "address": "Lehenfeld 18, Asperg, Germany",
+                "address": "Lehenfeld 18, Asperg",
                 "CC": "J&amp;W",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -161,7 +161,7 @@
                 ]
             },
             "properties": {
-                "address": "K\u00f6nigstr., Asperg, Germany",
+                "address": "K\u00f6nigstr., Asperg",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -176,7 +176,7 @@
                 ]
             },
             "properties": {
-                "address": "Lange Str. 38-, Asperg, Germany",
+                "address": "Lange Str. 38-, Asperg",
                 "CC": "Benzinger",
                 "Technik": "WLV (BHKW m. BGG + Kessel)"
             }
@@ -191,7 +191,7 @@
                 ]
             },
             "properties": {
-                "address": "Parkstr. 6, Aulendorf, Germany",
+                "address": "Parkstr. 6, Aulendorf",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -206,7 +206,7 @@
                 ]
             },
             "properties": {
-                "address": "Parkstr. 2, Aulendorf, Germany",
+                "address": "Parkstr. 2, Aulendorf",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -221,7 +221,7 @@
                 ]
             },
             "properties": {
-                "address": "Frundsbergstr. 36, Babenhausen, Germany",
+                "address": "Frundsbergstr. 36, Babenhausen",
                 "CC": "Gaiser",
                 "Technik": "unbekannt"
             }
@@ -236,7 +236,7 @@
                 ]
             },
             "properties": {
-                "address": "Am Kurpark 1, Bad Boll, Germany",
+                "address": "Am Kurpark 1, Bad Boll",
                 "CC": "Maier",
                 "Technik": "Bereitst. BHKW"
             }
@@ -251,7 +251,7 @@
                 ]
             },
             "properties": {
-                "address": "Hinter den G\u00e4rten 9, Bad Gr\u00f6nenbach, Germany",
+                "address": "Hinter den G\u00e4rten 9, Bad Gr\u00f6nenbach",
                 "CC": "Gaiser",
                 "Technik": "BHKW (Gas bauseits)"
             }
@@ -266,7 +266,7 @@
                 ]
             },
             "properties": {
-                "address": "Kaiser-Wilhelm-Str. 19, Bad Kreuznach, Germany",
+                "address": "Kaiser-Wilhelm-Str. 19, Bad Kreuznach",
                 "CC": "Essenpreis",
                 "Technik": "BHKW (Bereitst. & WLV mit AP)"
             }
@@ -281,7 +281,7 @@
                 ]
             },
             "properties": {
-                "address": "Kaiser-Wilhelm-Stra\u00dfe 9, Bad Kreuznach, Germany",
+                "address": "Kaiser-Wilhelm-Stra\u00dfe 9, Bad Kreuznach",
                 "CC": "Essenpreis",
                 "Technik": "BHKW (Bereitstellung)"
             }
@@ -296,7 +296,7 @@
                 ]
             },
             "properties": {
-                "address": "Badstr. 26, Bad Sch\u00f6nborn, Germany",
+                "address": "Badstr. 26, Bad Sch\u00f6nborn",
                 "CC": "Essenpreis",
                 "Technik": "Pellets"
             }
@@ -311,7 +311,7 @@
                 ]
             },
             "properties": {
-                "address": "Kaufbeurer Str., Bad W\u00f6rishofen, Germany",
+                "address": "Kaufbeurer Str., Bad W\u00f6rishofen",
                 "CC": "Gaiser",
                 "Technik": "Kessel + BHKW"
             }
@@ -326,7 +326,7 @@
                 ]
             },
             "properties": {
-                "address": "Ooser Bahnhofstra\u00dfe 28, Baden-Baden, Germany",
+                "address": "Ooser Bahnhofstra\u00dfe 28, Baden-Baden",
                 "CC": "J&amp;W",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -341,7 +341,7 @@
                 ]
             },
             "properties": {
-                "address": "Sinzheimer Str., Baden-Baden (Oos), Germany",
+                "address": "Sinzheimer Str., Baden-Baden (Oos)",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -356,7 +356,7 @@
                 ]
             },
             "properties": {
-                "address": "Regattastr. 161, Berlin - Gr\u00fcnau, Germany",
+                "address": "Regattastr. 161, Berlin - Gr\u00fcnau",
                 "CC": "Gaiser",
                 "Technik": "unbekannt"
             }
@@ -371,7 +371,7 @@
                 ]
             },
             "properties": {
-                "address": "Gaustra\u00dfe 13, Bingen, Germany",
+                "address": "Gaustra\u00dfe 13, Bingen",
                 "CC": "Glitsch",
                 "Technik": "Kessel (Gas)"
             }
@@ -386,7 +386,7 @@
                 ]
             },
             "properties": {
-                "address": "Lindenstra\u00dfe 9, Blaustein, Germany",
+                "address": "Lindenstra\u00dfe 9, Blaustein",
                 "CC": "Gaiser",
                 "Technik": "BHKW"
             }
@@ -401,7 +401,7 @@
                 ]
             },
             "properties": {
-                "address": "Hanns-Klemm-Str. 20, B\u00f6blingen, Germany",
+                "address": "Hanns-Klemm-Str. 20, B\u00f6blingen",
                 "CC": "Maurer",
                 "Technik": "Gas-BW"
             }
@@ -416,7 +416,7 @@
                 ]
             },
             "properties": {
-                "address": "Fuggerstr. 2a, Buch, Germany",
+                "address": "Fuggerstr. 2a, Buch",
                 "CC": "Gaiser",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -431,7 +431,7 @@
                 ]
             },
             "properties": {
-                "address": "Moritzburger Str. 1, Cochem, Germany",
+                "address": "Moritzburger Str. 1, Cochem",
                 "CC": "Maxeiner",
                 "Technik": "HHS & \u00d6lkessel"
             }
@@ -446,7 +446,7 @@
                 ]
             },
             "properties": {
-                "address": "Gaildorferstr. 107, Crailsheim, Germany",
+                "address": "Gaildorferstr. 107, Crailsheim",
                 "CC": "Gaiser",
                 "Technik": "unbekannt"
             }
@@ -461,7 +461,7 @@
                 ]
             },
             "properties": {
-                "address": "Zum Studenhof 4, Dachsberg, Germany",
+                "address": "Zum Studenhof 4, Dachsberg",
                 "CC": "Binkert",
                 "Technik": "Kessel (Pellets, \u00d6l)"
             }
@@ -476,7 +476,7 @@
                 ]
             },
             "properties": {
-                "address": "Hessestr. 5+7, Dauchingen, Germany",
+                "address": "Hessestr. 5+7, Dauchingen",
                 "CC": "Maurer",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -491,7 +491,7 @@
                 ]
             },
             "properties": {
-                "address": "Am Schloss 2, Demitz-Thumitz, Germany",
+                "address": "Am Schloss 2, Demitz-Thumitz",
                 "CC": "Maier",
                 "Technik": "Gas-BW"
             }
@@ -506,7 +506,7 @@
                 ]
             },
             "properties": {
-                "address": "Am Schloss 11, Demitz-Thumitz, Germany",
+                "address": "Am Schloss 11, Demitz-Thumitz",
                 "CC": "Maier",
                 "Technik": "Gas-BW"
             }
@@ -521,7 +521,7 @@
                 ]
             },
             "properties": {
-                "address": "Schulstr. 1, Demitz-Thumitz, Germany",
+                "address": "Schulstr. 1, Demitz-Thumitz",
                 "CC": "Maier",
                 "Technik": "Gas-BW"
             }
@@ -536,7 +536,7 @@
                 ]
             },
             "properties": {
-                "address": "Hintere Gasse 52, Denkendorf, Germany",
+                "address": "Hintere Gasse 52, Denkendorf",
                 "CC": "Maier",
                 "Technik": "Gas-BW"
             }
@@ -551,7 +551,7 @@
                 ]
             },
             "properties": {
-                "address": "K\u00f6rschtalstra\u00dfe 100, Denkendorf, Germany",
+                "address": "K\u00f6rschtalstra\u00dfe 100, Denkendorf",
                 "CC": "Maier",
                 "Technik": "Pellets & Gas"
             }
@@ -566,7 +566,7 @@
                 ]
             },
             "properties": {
-                "address": "Kirchheimer Str. 164, Dettingen, Germany",
+                "address": "Kirchheimer Str. 164, Dettingen",
                 "CC": "Schetter",
                 "Technik": "BS BHKW + Kessel (Gas bauseits)"
             }
@@ -581,7 +581,7 @@
                 ]
             },
             "properties": {
-                "address": "Landratsamt Dillingen, Dillingen, Germany",
+                "address": "Landratsamt Dillingen, Dillingen",
                 "CC": "Gaiser",
                 "Technik": "Fernw\u00e4rme"
             }
@@ -596,7 +596,7 @@
                 ]
             },
             "properties": {
-                "address": "T\u00fcbinger Str. 1-5, Dornstetten, Germany",
+                "address": "T\u00fcbinger Str. 1-5, Dornstetten",
                 "CC": "Maurer",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -611,7 +611,7 @@
                 ]
             },
             "properties": {
-                "address": "Tetschener Stra\u00dfe 32, Dresden, Germany",
+                "address": "Tetschener Stra\u00dfe 32, Dresden",
                 "CC": "Sch\u00fctze",
                 "Technik": "Gas-BW"
             }
@@ -626,7 +626,7 @@
                 ]
             },
             "properties": {
-                "address": "Merowingerweg 1, Ehingen, Germany",
+                "address": "Merowingerweg 1, Ehingen",
                 "CC": "Gaiser",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -641,7 +641,7 @@
                 ]
             },
             "properties": {
-                "address": "Ulmer Str. 65, Eislingen, Germany",
+                "address": "Ulmer Str. 65, Eislingen",
                 "CC": "Kurfess",
                 "Technik": "Kessel (Gas) + BHKW"
             }
@@ -656,7 +656,7 @@
                 ]
             },
             "properties": {
-                "address": "Staufeneckstr. 44, Eislingen, Germany",
+                "address": "Staufeneckstr. 44, Eislingen",
                 "CC": "Kurfess",
                 "Technik": "Kessel (Gas) + BHKW"
             }
@@ -671,7 +671,7 @@
                 ]
             },
             "properties": {
-                "address": "Eichenstra\u00dfe 1-9, Elchingen, Germany",
+                "address": "Eichenstra\u00dfe 1-9, Elchingen",
                 "CC": "Gaiser",
                 "Technik": "Kessel"
             }
@@ -686,7 +686,7 @@
                 ]
             },
             "properties": {
-                "address": "Arbachtalstra\u00dfe 1, Eningen, Germany",
+                "address": "Arbachtalstra\u00dfe 1, Eningen",
                 "CC": "Maier",
                 "Technik": "Gas-BW"
             }
@@ -701,7 +701,7 @@
                 ]
             },
             "properties": {
-                "address": "Rul\u00e4nderstr. 7, Esslingen, Germany",
+                "address": "Rul\u00e4nderstr. 7, Esslingen",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -716,7 +716,7 @@
                 ]
             },
             "properties": {
-                "address": "Allmandgasse 1, Esslingen, Germany",
+                "address": "Allmandgasse 1, Esslingen",
                 "CC": "Maier",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -731,7 +731,7 @@
                 ]
             },
             "properties": {
-                "address": "Talstr. 117, Esslingen, Germany",
+                "address": "Talstr. 117, Esslingen",
                 "CC": "Maier",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -746,7 +746,7 @@
                 ]
             },
             "properties": {
-                "address": "Hertfelder Str. 23-25, Esslingen, Germany",
+                "address": "Hertfelder Str. 23-25, Esslingen",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -761,7 +761,7 @@
                 ]
             },
             "properties": {
-                "address": "Rudolf-Plank-Str. 23, Ettlingen, Germany",
+                "address": "Rudolf-Plank-Str. 23, Ettlingen",
                 "CC": "J&amp;W",
                 "Technik": "Bereitst. K\u00e4lte + PV + WLV (Gas bauseits)"
             }
@@ -776,7 +776,7 @@
                 ]
             },
             "properties": {
-                "address": "Rheinstr. 145, Ettlingen, Germany",
+                "address": "Rheinstr. 145, Ettlingen",
                 "CC": "J&amp;W",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -791,7 +791,7 @@
                 ]
             },
             "properties": {
-                "address": "Pfinzweg 2, Ettlingenweier, Germany",
+                "address": "Pfinzweg 2, Ettlingenweier",
                 "CC": "J&amp;W",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -806,7 +806,7 @@
                 ]
             },
             "properties": {
-                "address": "Badewelt 1, Euskirchen, Germany",
+                "address": "Badewelt 1, Euskirchen",
                 "CC": "Binkert",
                 "Technik": "Kessel  ((Bio-)Gas, \u00d6l, Dampf), BHKW"
             }
@@ -821,7 +821,7 @@
                 ]
             },
             "properties": {
-                "address": "Forststr. 12, Filderstadt, Germany",
+                "address": "Forststr. 12, Filderstadt",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -836,7 +836,7 @@
                 ]
             },
             "properties": {
-                "address": "Osthafenplatz 2 - 8, Frankfurt, Germany",
+                "address": "Osthafenplatz 2 - 8, Frankfurt",
                 "CC": "Herbert",
                 "Technik": "Gask. (BHKW wg. L\u00e4rm stillgelegt)"
             }
@@ -851,7 +851,7 @@
                 ]
             },
             "properties": {
-                "address": "Holzhecke 29, Frankfurt, Germany",
+                "address": "Holzhecke 29, Frankfurt",
                 "CC": "Glitsch",
                 "Technik": "Kessel (Gas) + Solar"
             }
@@ -866,7 +866,7 @@
                 ]
             },
             "properties": {
-                "address": "Kirschbaumweg 6b, Frankfurt, Germany",
+                "address": "Kirschbaumweg 6b, Frankfurt",
                 "CC": "Glitsch",
                 "Technik": "Kessel (Gas) + Solar"
             }
@@ -881,7 +881,7 @@
                 ]
             },
             "properties": {
-                "address": "Schildwacht 11, Frankfurt, Germany",
+                "address": "Schildwacht 11, Frankfurt",
                 "CC": "Glitsch",
                 "Technik": "Kessel (Pellets"
             }
@@ -896,7 +896,7 @@
                 ]
             },
             "properties": {
-                "address": "Schlossbergring 15, Freiburg, Germany",
+                "address": "Schlossbergring 15, Freiburg",
                 "CC": "Binkert",
                 "Technik": "Kessel (Gas)"
             }
@@ -911,7 +911,7 @@
                 ]
             },
             "properties": {
-                "address": "Hanferstr. 20, Freiburg, Germany",
+                "address": "Hanferstr. 20, Freiburg",
                 "CC": "Binkert",
                 "Technik": "Kessel (Gas)"
             }
@@ -926,7 +926,7 @@
                 ]
             },
             "properties": {
-                "address": "K\u00f6nigs\u00e4cker 1-5, Friedrichshafen, Germany",
+                "address": "K\u00f6nigs\u00e4cker 1-5, Friedrichshafen",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -941,7 +941,7 @@
                 ]
             },
             "properties": {
-                "address": "Hugenloh 7, Friedrichshafen-Efrizweiler, Germany",
+                "address": "Hugenloh 7, Friedrichshafen-Efrizweiler",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -956,7 +956,7 @@
                 ]
             },
             "properties": {
-                "address": "Holzstr. 52, F\u00fcrth, Germany",
+                "address": "Holzstr. 52, F\u00fcrth",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -971,7 +971,7 @@
                 ]
             },
             "properties": {
-                "address": "Grabenstra\u00dfe 62 a / b, G\u00e4rtringen, Germany",
+                "address": "Grabenstra\u00dfe 62 a / b, G\u00e4rtringen",
                 "CC": "Maier",
                 "Technik": "\u00d6lkessel"
             }
@@ -986,7 +986,7 @@
                 ]
             },
             "properties": {
-                "address": "Heuchlinger Str. 33-35, Gerstetten-Heldenfingen, Germany",
+                "address": "Heuchlinger Str. 33-35, Gerstetten-Heldenfingen",
                 "CC": "Gaiser",
                 "Technik": "BHKW + Kessel (Gas bauseits)"
             }
@@ -1001,7 +1001,7 @@
                 ]
             },
             "properties": {
-                "address": "Robert-Bosch-Str. 100, Giengen, Germany",
+                "address": "Robert-Bosch-Str. 100, Giengen",
                 "CC": "Gaiser",
                 "Technik": "BHKW"
             }
@@ -1016,7 +1016,7 @@
                 ]
             },
             "properties": {
-                "address": "Robert-Bosch-Str. 100, Giengen, Germany",
+                "address": "Robert-Bosch-Str. 100, Giengen",
                 "CC": "Gaiser",
                 "Technik": "BHKW"
             }
@@ -1031,7 +1031,7 @@
                 ]
             },
             "properties": {
-                "address": "Bahnhofstra\u00dfe 70, Giengen, Germany",
+                "address": "Bahnhofstra\u00dfe 70, Giengen",
                 "CC": "Gaiser",
                 "Technik": "BHKW"
             }
@@ -1046,7 +1046,7 @@
                 ]
             },
             "properties": {
-                "address": "Richard-Steiff-Str. 4, Giengen an der Brenz, Germany",
+                "address": "Richard-Steiff-Str. 4, Giengen an der Brenz",
                 "CC": "Gaiser",
                 "Technik": "BHKW"
             }
@@ -1061,7 +1061,7 @@
                 ]
             },
             "properties": {
-                "address": "Staufeneckstr. 5, G\u00f6ppingen, Germany",
+                "address": "Staufeneckstr. 5, G\u00f6ppingen",
                 "CC": "Kurfess",
                 "Technik": "Kessel (Gas) + BHKW"
             }
@@ -1076,7 +1076,7 @@
                 ]
             },
             "properties": {
-                "address": "Stuttgarter Str. 3, G\u00f6ppingen, Germany",
+                "address": "Stuttgarter Str. 3, G\u00f6ppingen",
                 "CC": "Gaiser",
                 "Technik": "unbekannt"
             }
@@ -1091,7 +1091,7 @@
                 ]
             },
             "properties": {
-                "address": "Erzberger Str. 6-12, G\u00f6ppingen, Germany",
+                "address": "Erzberger Str. 6-12, G\u00f6ppingen",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -1106,7 +1106,7 @@
                 ]
             },
             "properties": {
-                "address": "Jahnstr. 30, G\u00f6ppingen, Germany",
+                "address": "Jahnstr. 30, G\u00f6ppingen",
                 "CC": "Gaiser",
                 "Technik": "unbekannt"
             }
@@ -1121,7 +1121,7 @@
                 ]
             },
             "properties": {
-                "address": "Heerwasenstra\u00dfe 25, Gosheim, Germany",
+                "address": "Heerwasenstra\u00dfe 25, Gosheim",
                 "CC": "Maurer",
                 "Technik": "Gas-BW"
             }
@@ -1136,7 +1136,7 @@
                 ]
             },
             "properties": {
-                "address": "Markgrafenstr. 11, Grenzach-Wyhlen, Germany",
+                "address": "Markgrafenstr. 11, Grenzach-Wyhlen",
                 "CC": "Binkert",
                 "Technik": "unbekannt"
             }
@@ -1151,7 +1151,7 @@
                 ]
             },
             "properties": {
-                "address": "Berliner Str. 13-16, Guben, Germany",
+                "address": "Berliner Str. 13-16, Guben",
                 "CC": "Gellert & Meitzner",
                 "Technik": "Gas-BW"
             }
@@ -1166,7 +1166,7 @@
                 ]
             },
             "properties": {
-                "address": "Sitzenbergerstra\u00dfe 4, Gundelfingen, Germany",
+                "address": "Sitzenbergerstra\u00dfe 4, Gundelfingen",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Gas) + BHKW"
             }
@@ -1181,7 +1181,7 @@
                 ]
             },
             "properties": {
-                "address": "Dillinger Str. 2, G\u00fcnzburg, Germany",
+                "address": "Dillinger Str. 2, G\u00fcnzburg",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Gas) + Solar"
             }
@@ -1196,7 +1196,7 @@
                 ]
             },
             "properties": {
-                "address": "Steegener Chaussee 13, Hagenow, Germany",
+                "address": "Steegener Chaussee 13, Hagenow",
                 "CC": "J&amp;W",
                 "Technik": "Bereitst. BHKW"
             }
@@ -1211,7 +1211,7 @@
                 ]
             },
             "properties": {
-                "address": "Im Breitspiel 20, Heidelberg, Germany",
+                "address": "Im Breitspiel 20, Heidelberg",
                 "CC": "J&amp;W",
                 "Technik": "BS BHKW + Kessel (Gas bauseits)"
             }
@@ -1226,7 +1226,7 @@
                 ]
             },
             "properties": {
-                "address": "Bleichstra\u00dfe 3, Heidenheim, Germany",
+                "address": "Bleichstra\u00dfe 3, Heidenheim",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Pellets)"
             }
@@ -1241,7 +1241,7 @@
                 ]
             },
             "properties": {
-                "address": "Heilbronner Str. 113-117, Heidenheim, Germany",
+                "address": "Heilbronner Str. 113-117, Heidenheim",
                 "CC": "Gaiser",
                 "Technik": "unbekannt"
             }
@@ -1256,7 +1256,7 @@
                 ]
             },
             "properties": {
-                "address": "Tiergartenstr. 7, Heppenheim, Germany",
+                "address": "Tiergartenstr. 7, Heppenheim",
                 "CC": "J&amp;W",
                 "Technik": "Gas-BW (NT verbaut)"
             }
@@ -1271,7 +1271,7 @@
                 ]
             },
             "properties": {
-                "address": "Hauptstra\u00dfe 42 & 44, Illerkirchberg, Germany",
+                "address": "Hauptstra\u00dfe 42 & 44, Illerkirchberg",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Gas)"
             }
@@ -1286,7 +1286,7 @@
                 ]
             },
             "properties": {
-                "address": "Unterweiler Str. 1, Illerkirchberg, Germany",
+                "address": "Unterweiler Str. 1, Illerkirchberg",
                 "CC": "Benzinger",
                 "Technik": "WLV (BHKW m. BGG+ Kessel)"
             }
@@ -1301,7 +1301,7 @@
                 ]
             },
             "properties": {
-                "address": "Dietenheimer Str. 70, Illertissen, Germany",
+                "address": "Dietenheimer Str. 70, Illertissen",
                 "CC": "Gaiser",
                 "Technik": "BHKW"
             }
@@ -1316,7 +1316,7 @@
                 ]
             },
             "properties": {
-                "address": "Hermann-K\u00f6hl-Stra\u00dfe 1-9, Illertissen, Germany",
+                "address": "Hermann-K\u00f6hl-Stra\u00dfe 1-9, Illertissen",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Gas)"
             }
@@ -1331,7 +1331,7 @@
                 ]
             },
             "properties": {
-                "address": "Lorenz-Klotz-Stra\u00dfe 1-5, Illertissen, Germany",
+                "address": "Lorenz-Klotz-Stra\u00dfe 1-5, Illertissen",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Gas)"
             }
@@ -1346,7 +1346,7 @@
                 ]
             },
             "properties": {
-                "address": "Lorenz-Klotz-Stra\u00dfe 6-9, Illertissen, Germany",
+                "address": "Lorenz-Klotz-Stra\u00dfe 6-9, Illertissen",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Gas)"
             }
@@ -1361,7 +1361,7 @@
                 ]
             },
             "properties": {
-                "address": "Max-Eyth-Stra\u00dfe 11, Illertissen, Germany",
+                "address": "Max-Eyth-Stra\u00dfe 11, Illertissen",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Gas)"
             }
@@ -1376,7 +1376,7 @@
                 ]
             },
             "properties": {
-                "address": "Am Anger 10, Illertissen, Germany",
+                "address": "Am Anger 10, Illertissen",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Gas)"
             }
@@ -1391,7 +1391,7 @@
                 ]
             },
             "properties": {
-                "address": "Graf-Kirchberg-Stra\u00dfe 58, Illertissen, Germany",
+                "address": "Graf-Kirchberg-Stra\u00dfe 58, Illertissen",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Gas)"
             }
@@ -1406,7 +1406,7 @@
                 ]
             },
             "properties": {
-                "address": "Buchenweg 7, Illertissen, Germany",
+                "address": "Buchenweg 7, Illertissen",
                 "CC": "Gaiser",
                 "Technik": "Kessel + BHKW"
             }
@@ -1421,7 +1421,7 @@
                 ]
             },
             "properties": {
-                "address": "Otto-Wels-Str. 11, Karlsruhe, Germany",
+                "address": "Otto-Wels-Str. 11, Karlsruhe",
                 "CC": "J&amp;W",
                 "Technik": "BS BHKW + Kessel (Gas bauseits)"
             }
@@ -1436,7 +1436,7 @@
                 ]
             },
             "properties": {
-                "address": "Bodmanstr. 12, Kempten, Germany",
+                "address": "Bodmanstr. 12, Kempten",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Gas)"
             }
@@ -1451,7 +1451,7 @@
                 ]
             },
             "properties": {
-                "address": "Weisestr., Kirchheim, Germany",
+                "address": "Weisestr., Kirchheim",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -1466,7 +1466,7 @@
                 ]
             },
             "properties": {
-                "address": "Isolde-Kurz-Str. 35, Kirchheim u. Teck, Germany",
+                "address": "Isolde-Kurz-Str. 35, Kirchheim u. Teck",
                 "CC": "Maier",
                 "Technik": "Pellets Monovalent"
             }
@@ -1481,7 +1481,7 @@
                 ]
             },
             "properties": {
-                "address": "Mittlere Str. 14, Kirchheim u. Teck, Germany",
+                "address": "Mittlere Str. 14, Kirchheim u. Teck",
                 "CC": "Maier",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -1496,7 +1496,7 @@
                 ]
             },
             "properties": {
-                "address": "Pfarrer-Lohr-Str. 7, Ki\u00dflegg, Germany",
+                "address": "Pfarrer-Lohr-Str. 7, Ki\u00dflegg",
                 "CC": "Gaiser",
                 "Technik": "unbekannt"
             }
@@ -1511,7 +1511,7 @@
                 ]
             },
             "properties": {
-                "address": "Hirschstra\u00dfe 2, K\u00f6ngen, Germany",
+                "address": "Hirschstra\u00dfe 2, K\u00f6ngen",
                 "CC": "Maier",
                 "Technik": "Gas-BW"
             }
@@ -1526,7 +1526,7 @@
                 ]
             },
             "properties": {
-                "address": "Bahnhofstr. 1, K\u00f6ngen, Germany",
+                "address": "Bahnhofstr. 1, K\u00f6ngen",
                 "CC": "Maier",
                 "Technik": "Gas-BW"
             }
@@ -1541,7 +1541,7 @@
                 ]
             },
             "properties": {
-                "address": "Wagnerstr. 7, K\u00f6ngen, Germany",
+                "address": "Wagnerstr. 7, K\u00f6ngen",
                 "CC": "Maier",
                 "Technik": "Gas-BW"
             }
@@ -1556,7 +1556,7 @@
                 ]
             },
             "properties": {
-                "address": "Stellwaldstr. 1, K\u00f6nigsfeld, Germany",
+                "address": "Stellwaldstr. 1, K\u00f6nigsfeld",
                 "CC": "Maurer",
                 "Technik": "Bereitst. BHKW"
             }
@@ -1571,7 +1571,7 @@
                 ]
             },
             "properties": {
-                "address": "Gottlieb-Daimler Str. 6, Laichingen, Germany",
+                "address": "Gottlieb-Daimler Str. 6, Laichingen",
                 "CC": "Gaiser",
                 "Technik": "BS BHKW (Gas bauseits)"
             }
@@ -1586,7 +1586,7 @@
                 ]
             },
             "properties": {
-                "address": "Uhlandstr. 9-11, Laichingen, Germany",
+                "address": "Uhlandstr. 9-11, Laichingen",
                 "CC": "Gaiser",
                 "Technik": "Kessel + BHKW"
             }
@@ -1601,7 +1601,7 @@
                 ]
             },
             "properties": {
-                "address": "Goethestr., Laichingen, Germany",
+                "address": "Goethestr., Laichingen",
                 "CC": "Gaiser",
                 "Technik": "unbekannt"
             }
@@ -1616,7 +1616,7 @@
                 ]
             },
             "properties": {
-                "address": "Gartenstr. 1-3, Langen, Germany",
+                "address": "Gartenstr. 1-3, Langen",
                 "CC": "Glitsch",
                 "Technik": "Kessel (Pellets, Gas) + Solar"
             }
@@ -1631,7 +1631,7 @@
                 ]
             },
             "properties": {
-                "address": "Friedrich-Ebert-Str., Lauingen, Germany",
+                "address": "Friedrich-Ebert-Str., Lauingen",
                 "CC": "Gaiser",
                 "Technik": "Kessel (HHS"
             }
@@ -1646,7 +1646,7 @@
                 ]
             },
             "properties": {
-                "address": "Br\u00fcderstr., Lauingen, Germany",
+                "address": "Br\u00fcderstr., Lauingen",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Pellets)"
             }
@@ -1661,7 +1661,7 @@
                 ]
             },
             "properties": {
-                "address": "Rapunzelstr. 1, Legau, Germany",
+                "address": "Rapunzelstr. 1, Legau",
                 "CC": "Gaiser",
                 "Technik": "BHKW"
             }
@@ -1676,7 +1676,7 @@
                 ]
             },
             "properties": {
-                "address": "Rapunzelstr. 1, Legau, Germany",
+                "address": "Rapunzelstr. 1, Legau",
                 "CC": "Gaiser",
                 "Technik": "Kessel (HHS)"
             }
@@ -1691,7 +1691,7 @@
                 ]
             },
             "properties": {
-                "address": "Haldenstr. 4, Leinfelden-Echterdingen, Germany",
+                "address": "Haldenstr. 4, Leinfelden-Echterdingen",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -1706,7 +1706,7 @@
                 ]
             },
             "properties": {
-                "address": "Wangener Str. 78, Leutkirch, Germany",
+                "address": "Wangener Str. 78, Leutkirch",
                 "CC": "Gaiser",
                 "Technik": "Kessel + BHKW"
             }
@@ -1721,7 +1721,7 @@
                 ]
             },
             "properties": {
-                "address": "Im F\u00f6rstlen 1-7, Metzingen, Germany",
+                "address": "Im F\u00f6rstlen 1-7, Metzingen",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -1736,7 +1736,7 @@
                 ]
             },
             "properties": {
-                "address": "M\u00fchlwiesenstr. 16, Metzingen, Germany",
+                "address": "M\u00fchlwiesenstr. 16, Metzingen",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -1751,7 +1751,7 @@
                 ]
             },
             "properties": {
-                "address": "Reutlinger Str. 74, Metzingen, Germany",
+                "address": "Reutlinger Str. 74, Metzingen",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -1766,7 +1766,7 @@
                 ]
             },
             "properties": {
-                "address": "Helferstr. 9+11, Metzingen, Germany",
+                "address": "Helferstr. 9+11, Metzingen",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -1781,7 +1781,7 @@
                 ]
             },
             "properties": {
-                "address": "Gutenbergring 8-20, M\u00fchldorf, Germany",
+                "address": "Gutenbergring 8-20, M\u00fchldorf",
                 "CC": "Benzinger",
                 "Technik": "WLV (BHKW m. BGG + Kessel)"
             }
@@ -1796,7 +1796,7 @@
                 ]
             },
             "properties": {
-                "address": "Vogesenstra\u00dfe, M\u00fcllheim, Germany",
+                "address": "Vogesenstra\u00dfe, M\u00fcllheim",
                 "CC": "Binkert",
                 "Technik": "Kessel (Pellets monovalent)"
             }
@@ -1811,7 +1811,7 @@
                 ]
             },
             "properties": {
-                "address": "Borngasse 14, Nast\u00e4tten, Germany",
+                "address": "Borngasse 14, Nast\u00e4tten",
                 "CC": "Maxeiner",
                 "Technik": "\u00d6lkessel"
             }
@@ -1826,7 +1826,7 @@
                 ]
             },
             "properties": {
-                "address": "Industriestr. 3, Neunburg vorm Wald, Germany",
+                "address": "Industriestr. 3, Neunburg vorm Wald",
                 "CC": "J&amp;W",
                 "Technik": "Bereitst. BHKW"
             }
@@ -1841,7 +1841,7 @@
                 ]
             },
             "properties": {
-                "address": "Auflangenstr. 9, Nierstein, Germany",
+                "address": "Auflangenstr. 9, Nierstein",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -1856,7 +1856,7 @@
                 ]
             },
             "properties": {
-                "address": "Neckarstr. 20, N\u00fcrtingen, Germany",
+                "address": "Neckarstr. 20, N\u00fcrtingen",
                 "CC": "Maier",
                 "Technik": "W\u00e4rme & K\u00e4lte"
             }
@@ -1871,7 +1871,7 @@
                 ]
             },
             "properties": {
-                "address": "Wendlinger Stra\u00dfe 49, N\u00fcrtingen-Oberensingen, Germany",
+                "address": "Wendlinger Stra\u00dfe 49, N\u00fcrtingen-Oberensingen",
                 "CC": "Maier",
                 "Technik": "Pellets Monovalent"
             }
@@ -1886,7 +1886,7 @@
                 ]
             },
             "properties": {
-                "address": "Maria-und-Georg-Dietrich-Str. 15, Offenburg, Germany",
+                "address": "Maria-und-Georg-Dietrich-Str. 15, Offenburg",
                 "CC": "Maurer",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -1901,7 +1901,7 @@
                 ]
             },
             "properties": {
-                "address": "Bahnhofstr. 20, Offingen, Germany",
+                "address": "Bahnhofstr. 20, Offingen",
                 "CC": "J&amp;W",
                 "Technik": "Bereitst. BHKW"
             }
@@ -1916,7 +1916,7 @@
                 ]
             },
             "properties": {
-                "address": "Mehlklinge, Oppenweiler, Germany",
+                "address": "Mehlklinge, Oppenweiler",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -1931,7 +1931,7 @@
                 ]
             },
             "properties": {
-                "address": "Mozartstra\u00dfe 19, Plochingen, Germany",
+                "address": "Mozartstra\u00dfe 19, Plochingen",
                 "CC": "Maier",
                 "Technik": "Gas-BW"
             }
@@ -1946,7 +1946,7 @@
                 ]
             },
             "properties": {
-                "address": "Br\u00fchlstra\u00dfe 16, Plochingen, Germany",
+                "address": "Br\u00fchlstra\u00dfe 16, Plochingen",
                 "CC": "Maier",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -1961,7 +1961,7 @@
                 ]
             },
             "properties": {
-                "address": "Schorndorfer Str. 2, Reichenbach, Germany",
+                "address": "Schorndorfer Str. 2, Reichenbach",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -1976,7 +1976,7 @@
                 ]
             },
             "properties": {
-                "address": "Langer Weg, Esslingen am Neckar, Germany",
+                "address": "Langer Weg, Esslingen am Neckar",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -1991,7 +1991,7 @@
                 ]
             },
             "properties": {
-                "address": "Nelkenstr., Renningen, Germany",
+                "address": "Nelkenstr., Renningen",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -2006,7 +2006,7 @@
                 ]
             },
             "properties": {
-                "address": "Stein\u00e4ckerstr., Rettersburg, Germany",
+                "address": "Stein\u00e4ckerstr., Rettersburg",
                 "CC": "Benzinger",
                 "Technik": "Pellets monovalent"
             }
@@ -2021,7 +2021,7 @@
                 ]
             },
             "properties": {
-                "address": "Nell-Breuning-Ring 3, Rheinstetten, Germany",
+                "address": "Nell-Breuning-Ring 3, Rheinstetten",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2036,7 +2036,7 @@
                 ]
             },
             "properties": {
-                "address": "Grenzstra\u00dfe 25, Rielasingen, Germany",
+                "address": "Grenzstra\u00dfe 25, Rielasingen",
                 "CC": "Widmann",
                 "Technik": "\u00d6lkessel (Bio\u00f6l)"
             }
@@ -2051,7 +2051,7 @@
                 ]
             },
             "properties": {
-                "address": "Klosterstra\u00dfe 5, Roggenburg, Germany",
+                "address": "Klosterstra\u00dfe 5, Roggenburg",
                 "CC": "Gaiser",
                 "Technik": "Kessel (HHS, \u00d6l)"
             }
@@ -2066,7 +2066,7 @@
                 ]
             },
             "properties": {
-                "address": "Pegnitzstr. 26, R\u00f6thenbach, Germany",
+                "address": "Pegnitzstr. 26, R\u00f6thenbach",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -2081,7 +2081,7 @@
                 ]
             },
             "properties": {
-                "address": "Johannsergasse 12, Rottweil, Germany",
+                "address": "Johannsergasse 12, Rottweil",
                 "CC": "Maurer",
                 "Technik": "BS BHKW + Kessel (Gas bauseits)"
             }
@@ -2096,7 +2096,7 @@
                 ]
             },
             "properties": {
-                "address": "\u00d6schlestra\u00dfe 2, Rottweil, Germany",
+                "address": "\u00d6schlestra\u00dfe 2, Rottweil",
                 "CC": "Maurer",
                 "Technik": "Gas-BW"
             }
@@ -2111,7 +2111,7 @@
                 ]
             },
             "properties": {
-                "address": "Auenweg 5, Schelklingen (Schmiechen), Germany",
+                "address": "Auenweg 5, Schelklingen (Schmiechen)",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Gas)"
             }
@@ -2126,7 +2126,7 @@
                 ]
             },
             "properties": {
-                "address": "Hauptstr. 111, Schopfheim, Germany",
+                "address": "Hauptstr. 111, Schopfheim",
                 "CC": "Binkert",
                 "Technik": "unbekannt"
             }
@@ -2141,7 +2141,7 @@
                 ]
             },
             "properties": {
-                "address": "H\u00f6flestra\u00dfe 1, Schramberg, Germany",
+                "address": "H\u00f6flestra\u00dfe 1, Schramberg",
                 "CC": "Maurer",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2156,7 +2156,7 @@
                 ]
             },
             "properties": {
-                "address": "Weihergasse, Schramberg, Germany",
+                "address": "Weihergasse, Schramberg",
                 "CC": "Maurer",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2171,7 +2171,7 @@
                 ]
             },
             "properties": {
-                "address": "Panoramastra\u00dfe 49, Schramberg (Sulgen), Germany",
+                "address": "Panoramastra\u00dfe 49, Schramberg (Sulgen)",
                 "CC": "Maurer",
                 "Technik": "Gas-BW"
             }
@@ -2186,7 +2186,7 @@
                 ]
             },
             "properties": {
-                "address": "Dr.-Helmut-Junghans-Stra\u00dfe 60, Schramberg, Germany",
+                "address": "Dr.-Helmut-Junghans-Stra\u00dfe 60, Schramberg",
                 "CC": "Maurer",
                 "Technik": "Gas-BW"
             }
@@ -2201,7 +2201,7 @@
                 ]
             },
             "properties": {
-                "address": "Dr.-Kurt-Steim-Stra\u00dfe 35, Schramberg-Sulgen, Germany",
+                "address": "Dr.-Kurt-Steim-Stra\u00dfe 35, Schramberg-Sulgen",
                 "CC": "Maurer",
                 "Technik": "Bereitst. BHKW"
             }
@@ -2216,7 +2216,7 @@
                 ]
             },
             "properties": {
-                "address": "Vordere Schmiedgasse, Schw\u00e4bisch Gm\u00fcnd, Germany",
+                "address": "Vordere Schmiedgasse, Schw\u00e4bisch Gm\u00fcnd",
                 "CC": "K\u00f6nig",
                 "Technik": "Gas-BW"
             }
@@ -2231,7 +2231,7 @@
                 ]
             },
             "properties": {
-                "address": "Am Sonnenh\u00fcgel 4, Schw\u00e4bisch Gm\u00fcnd, Germany",
+                "address": "Am Sonnenh\u00fcgel 4, Schw\u00e4bisch Gm\u00fcnd",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -2246,7 +2246,7 @@
                 ]
             },
             "properties": {
-                "address": "Sophie-Scholl-Str. 15, Schwaikheim, Germany",
+                "address": "Sophie-Scholl-Str. 15, Schwaikheim",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2261,7 +2261,7 @@
                 ]
             },
             "properties": {
-                "address": "Freib\u00fchlstr. 13, Singen, Germany",
+                "address": "Freib\u00fchlstr. 13, Singen",
                 "CC": "Widmann",
                 "Technik": "Gas-BW"
             }
@@ -2276,7 +2276,7 @@
                 ]
             },
             "properties": {
-                "address": "Schwarzwaldstra\u00dfe 40, Singen, Germany",
+                "address": "Schwarzwaldstra\u00dfe 40, Singen",
                 "CC": "Widmann",
                 "Technik": "\u00d6lkessel"
             }
@@ -2291,7 +2291,7 @@
                 ]
             },
             "properties": {
-                "address": "Gaisenrain 26, Singen, Germany",
+                "address": "Gaisenrain 26, Singen",
                 "CC": "Widmann",
                 "Technik": "Pellets Monovalent"
             }
@@ -2306,7 +2306,7 @@
                 ]
             },
             "properties": {
-                "address": "Badewelt 1, Sinsheim, Germany",
+                "address": "Badewelt 1, Sinsheim",
                 "CC": "Binkert",
                 "Technik": "Kessel  (Gas, \u00d6l), BHKW"
             }
@@ -2321,7 +2321,7 @@
                 ]
             },
             "properties": {
-                "address": "Hans-B\u00f6ckler-Str. 7, Sonthofen, Germany",
+                "address": "Hans-B\u00f6ckler-Str. 7, Sonthofen",
                 "CC": "Gaiser",
                 "Technik": "BHKW"
             }
@@ -2336,7 +2336,7 @@
                 ]
             },
             "properties": {
-                "address": "Hans-B\u00f6ckler-Str. 7, Sonthofen, Germany",
+                "address": "Hans-B\u00f6ckler-Str. 7, Sonthofen",
                 "CC": "Gaiser",
                 "Technik": "Kessel (HHS, \u00d6l)"
             }
@@ -2351,7 +2351,7 @@
                 ]
             },
             "properties": {
-                "address": "Todtmooserstr. 2, St. Blasien, Germany",
+                "address": "Todtmooserstr. 2, St. Blasien",
                 "CC": "Binkert",
                 "Technik": "Kessel  (\u00d6l)"
             }
@@ -2366,7 +2366,7 @@
                 ]
             },
             "properties": {
-                "address": "Etex, Steinsfeld, Germany",
+                "address": "Etex, Steinsfeld",
                 "CC": "J&amp;W",
                 "Technik": "Bereitst. BHKW"
             }
@@ -2381,7 +2381,7 @@
                 ]
             },
             "properties": {
-                "address": "R\u00f6merstra\u00dfe 3, Straubenhardt, Germany",
+                "address": "R\u00f6merstra\u00dfe 3, Straubenhardt",
                 "CC": "J&amp;W",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2396,7 +2396,7 @@
                 ]
             },
             "properties": {
-                "address": "Vor dem Lauch 20, Stuttgart, Germany",
+                "address": "Vor dem Lauch 20, Stuttgart",
                 "CC": "Schetter",
                 "Technik": "BHKW (Bereitst. & WLV mit AP)"
             }
@@ -2411,7 +2411,7 @@
                 ]
             },
             "properties": {
-                "address": "Schwieberdinger Str. 107, Stuttgart, Germany",
+                "address": "Schwieberdinger Str. 107, Stuttgart",
                 "CC": "Maier",
                 "Technik": "BS (WP, BHKW, Kessel, K\u00e4lte); Gas baus."
             }
@@ -2426,7 +2426,7 @@
                 ]
             },
             "properties": {
-                "address": "Rotenwaldstr. 68, Stuttgart, Germany",
+                "address": "Rotenwaldstr. 68, Stuttgart",
                 "CC": "Gaiser",
                 "Technik": "Kessel (Gas)"
             }
@@ -2441,7 +2441,7 @@
                 ]
             },
             "properties": {
-                "address": "Fuchsienweg 1, Stuttgart, Germany",
+                "address": "Fuchsienweg 1, Stuttgart",
                 "CC": "Schetter",
                 "Technik": "Pellets (Mono)"
             }
@@ -2456,7 +2456,7 @@
                 ]
             },
             "properties": {
-                "address": "Schrempfstr. 8, Stuttgart, Germany",
+                "address": "Schrempfstr. 8, Stuttgart",
                 "CC": "Maier",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2471,7 +2471,7 @@
                 ]
             },
             "properties": {
-                "address": "Badbrunnenstr. 11, Stuttgart, Germany",
+                "address": "Badbrunnenstr. 11, Stuttgart",
                 "CC": "Maier",
                 "Technik": "Gas-BW"
             }
@@ -2486,7 +2486,7 @@
                 ]
             },
             "properties": {
-                "address": "Stuttgarter Str. 75, Sulz am Neckar, Germany",
+                "address": "Stuttgarter Str. 75, Sulz am Neckar",
                 "CC": "Gaiser",
                 "Technik": "unbekannt"
             }
@@ -2501,7 +2501,7 @@
                 ]
             },
             "properties": {
-                "address": "Badeparadies Schwarzwald, Titisee-Neustadt, Germany",
+                "address": "Badeparadies Schwarzwald, Titisee-Neustadt",
                 "CC": "Binkert",
                 "Technik": "Kessel (HHS, Gas, \u00d6l), BHKW"
             }
@@ -2516,7 +2516,7 @@
                 ]
             },
             "properties": {
-                "address": "Sch\u00fctzenstr. 10, Titisee-Neustadt, Germany",
+                "address": "Sch\u00fctzenstr. 10, Titisee-Neustadt",
                 "CC": "Binkert",
                 "Technik": "Kessel (Pellets)"
             }
@@ -2531,7 +2531,7 @@
                 ]
             },
             "properties": {
-                "address": "Auf dem Schulberg 19, Trossingen, Germany",
+                "address": "Auf dem Schulberg 19, Trossingen",
                 "CC": "Maurer",
                 "Technik": "Gas-BW"
             }
@@ -2546,7 +2546,7 @@
                 ]
             },
             "properties": {
-                "address": "Hechinger Stra\u00dfe 262, T\u00fcbingen, Germany",
+                "address": "Hechinger Stra\u00dfe 262, T\u00fcbingen",
                 "CC": "Maier",
                 "Technik": "Gas-BW"
             }
@@ -2561,7 +2561,7 @@
                 ]
             },
             "properties": {
-                "address": "Manzweg 4, \u00dcberlingen, Germany",
+                "address": "Manzweg 4, \u00dcberlingen",
                 "CC": "Maurer",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2576,7 +2576,7 @@
                 ]
             },
             "properties": {
-                "address": "Alte Owinger Str. 12, \u00dcberlingen, Germany",
+                "address": "Alte Owinger Str. 12, \u00dcberlingen",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -2591,7 +2591,7 @@
                 ]
             },
             "properties": {
-                "address": "Sudetenweg 26-38, Ulm, Germany",
+                "address": "Sudetenweg 26-38, Ulm",
                 "CC": "Gaiser",
                 "Technik": "Kessel + BHKW"
             }
@@ -2606,7 +2606,7 @@
                 ]
             },
             "properties": {
-                "address": "Maienweg, Ulm, Germany",
+                "address": "Maienweg, Ulm",
                 "CC": "Gaiser",
                 "Technik": "Kessel + BHKW"
             }
@@ -2621,7 +2621,7 @@
                 ]
             },
             "properties": {
-                "address": "Hauptstra\u00dfe 22, Umkirch, Germany",
+                "address": "Hauptstra\u00dfe 22, Umkirch",
                 "CC": "Binkert",
                 "Technik": "Kessel (Gas), BHKW"
             }
@@ -2636,7 +2636,7 @@
                 ]
             },
             "properties": {
-                "address": "Kirnachtal 4, Unterkirnach, Germany",
+                "address": "Kirnachtal 4, Unterkirnach",
                 "CC": "Binkert",
                 "Technik": "Kessel  (Gas), BHKW"
             }
@@ -2651,7 +2651,7 @@
                 ]
             },
             "properties": {
-                "address": "Albert-Schweitzer-Str. 20, Villingen-Schwenningen, Germany",
+                "address": "Albert-Schweitzer-Str. 20, Villingen-Schwenningen",
                 "CC": "Maurer",
                 "Technik": "BHKW (Bereitst. & WLV mit AP)"
             }
@@ -2666,7 +2666,7 @@
                 ]
             },
             "properties": {
-                "address": "Konstanzer Str. 6, Villingen-Schwenningen, Germany",
+                "address": "Konstanzer Str. 6, Villingen-Schwenningen",
                 "CC": "Maurer",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2681,7 +2681,7 @@
                 ]
             },
             "properties": {
-                "address": "Eberhardstr. 48-52, Villingen-Schwenningen, Germany",
+                "address": "Eberhardstr. 48-52, Villingen-Schwenningen",
                 "CC": "Maurer",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2696,7 +2696,7 @@
                 ]
             },
             "properties": {
-                "address": "Kappelbergstr. 21-25, Waiblingen, Germany",
+                "address": "Kappelbergstr. 21-25, Waiblingen",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2711,7 +2711,7 @@
                 ]
             },
             "properties": {
-                "address": "Gartenstr. 2, Waldbronn, Germany",
+                "address": "Gartenstr. 2, Waldbronn",
                 "CC": "J&amp;W",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2726,7 +2726,7 @@
                 ]
             },
             "properties": {
-                "address": "Alfred-Nobel-Str. 20-22, Waldshut-Tiengen, Germany",
+                "address": "Alfred-Nobel-Str. 20-22, Waldshut-Tiengen",
                 "CC": "Binkert",
                 "Technik": "W\u00e4rmepumpe"
             }
@@ -2741,7 +2741,7 @@
                 ]
             },
             "properties": {
-                "address": "Bahnhofstr. 1, Warthausen, Germany",
+                "address": "Bahnhofstr. 1, Warthausen",
                 "CC": "Gaiser",
                 "Technik": "BHKW"
             }
@@ -2756,7 +2756,7 @@
                 ]
             },
             "properties": {
-                "address": "Ulmenplatz, Weingarten, Germany",
+                "address": "Ulmenplatz, Weingarten",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -2771,7 +2771,7 @@
                 ]
             },
             "properties": {
-                "address": "Pestalozzistra\u00dfe 34, Weinstadt, Germany",
+                "address": "Pestalozzistra\u00dfe 34, Weinstadt",
                 "CC": "Gaiser",
                 "Technik": "Kessel (HHS, \u00d6l)"
             }
@@ -2786,7 +2786,7 @@
                 ]
             },
             "properties": {
-                "address": "Br\u00fcckenstra\u00dfe 1, Weinstadt, Germany",
+                "address": "Br\u00fcckenstra\u00dfe 1, Weinstadt",
                 "CC": "Schetter",
                 "Technik": "Kessel + BHKW (W\u00e4rme- und Stromv.)"
             }
@@ -2801,7 +2801,7 @@
                 ]
             },
             "properties": {
-                "address": "Welzheimer Str. 10-14, Weissach, Germany",
+                "address": "Welzheimer Str. 10-14, Weissach",
                 "CC": "Benzinger",
                 "Technik": "unbekannt"
             }
@@ -2816,7 +2816,7 @@
                 ]
             },
             "properties": {
-                "address": "Fabrikstr. 47, Wendlingen, Germany",
+                "address": "Fabrikstr. 47, Wendlingen",
                 "CC": "Maier",
                 "Technik": "Pellets & Gas"
             }
@@ -2831,7 +2831,7 @@
                 ]
             },
             "properties": {
-                "address": "Behrstra\u00dfe 78, Wendlingen, Germany",
+                "address": "Behrstra\u00dfe 78, Wendlingen",
                 "CC": "Maier",
                 "Technik": "Pellets Monovalent"
             }
@@ -2846,7 +2846,7 @@
                 ]
             },
             "properties": {
-                "address": "Seerosenweg 2, Wendlingen, Germany",
+                "address": "Seerosenweg 2, Wendlingen",
                 "CC": "Maier",
                 "Technik": "Pellets Monovalent"
             }
@@ -2861,7 +2861,7 @@
                 ]
             },
             "properties": {
-                "address": "Schwenkgasse 10, Wendlingen, Germany",
+                "address": "Schwenkgasse 10, Wendlingen",
                 "CC": "Maier",
                 "Technik": "Pellets Monovalent"
             }
@@ -2876,7 +2876,7 @@
                 ]
             },
             "properties": {
-                "address": "Unterboihinger Str. 15, Wendlingen, Germany",
+                "address": "Unterboihinger Str. 15, Wendlingen",
                 "CC": "Maier",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2891,7 +2891,7 @@
                 ]
             },
             "properties": {
-                "address": "Im Vogelsang 6, Wendlingen, Germany",
+                "address": "Im Vogelsang 6, Wendlingen",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2906,7 +2906,7 @@
                 ]
             },
             "properties": {
-                "address": "Kirchheimer Str. 79, Wernau, Germany",
+                "address": "Kirchheimer Str. 79, Wernau",
                 "CC": "Maier",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2921,7 +2921,7 @@
                 ]
             },
             "properties": {
-                "address": "Ebersberg 36, Wertingen, Germany",
+                "address": "Ebersberg 36, Wertingen",
                 "CC": "Gaiser",
                 "Technik": "Kessel  (HHS, Gas) + BHKW"
             }
@@ -2936,7 +2936,7 @@
                 ]
             },
             "properties": {
-                "address": "Hof\u00e4ckerstr., Winnenden, Germany",
+                "address": "Hof\u00e4ckerstr., Winnenden",
                 "CC": "Schetter",
                 "Technik": "WLV (BHKW + Kessel)"
             }
@@ -2951,7 +2951,7 @@
                 ]
             },
             "properties": {
-                "address": "Rosenstra\u00dfe 42, Winterbach, Germany",
+                "address": "Rosenstra\u00dfe 42, Winterbach",
                 "CC": "Schetter",
                 "Technik": "BHKW (Bereitst. & WLV ohne AP)"
             }
@@ -2966,7 +2966,7 @@
                 ]
             },
             "properties": {
-                "address": "Spital\u00e4cker 13, Zimmern ob Rottweil, Germany",
+                "address": "Spital\u00e4cker 13, Zimmern ob Rottweil",
                 "CC": "Maurer",
                 "Technik": "Gas-BW"
             }
@@ -2981,7 +2981,7 @@
                 ]
             },
             "properties": {
-                "address": "Hauptstra\u00dfe 15, Zimmern ob Rottweil, Germany",
+                "address": "Hauptstra\u00dfe 15, Zimmern ob Rottweil",
                 "CC": "Maurer",
                 "Technik": "WLV (BHKW + Kessel)"
             }
