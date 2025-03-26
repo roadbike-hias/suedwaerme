@@ -6,6 +6,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.866943,
+          48.839804
+        ]
+      },
+      "properties": {
+        "power": 238,
+        "operator": "Bertrandt Energie GmbH",
+        "unit_name": "Energiezentrale Mönsheim",
+        "start_date": "29.12.2016",
+        "age_years": 8,
+        "location": "Friedrichshof 7, 71297 Mönsheim",
+        "mastr_number": "SEE907239270849",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1799791",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.866948,
+          48.839794
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Bertrandt Energie GmbH",
+        "unit_name": "Energiezentrale Mönsheim",
+        "start_date": "29.12.2016",
+        "age_years": 8,
+        "location": "Friedrichshof 7, 71297 Mönsheim",
+        "mastr_number": "SEE940378910146",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1799991",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.308048,
           48.091123
         ]
@@ -40,6 +82,69 @@
         "location": "Friedrichshafener Straße 7, 82205 Gilching",
         "mastr_number": "SEE921045816626",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1803344",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.519124,
+          49.201226
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerke Öhringen GmbH",
+        "unit_name": "BHKW 1",
+        "start_date": "3.12.2018",
+        "age_years": 6,
+        "location": "Eckartsweiler Weg 15, 74613 Öhringen",
+        "mastr_number": "SEE910062111326",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1803559",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175,
+          48.802
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Collegium Augustinum Gemeinützige GmbH",
+        "unit_name": "SKB",
+        "start_date": "31.7.2009",
+        "age_years": 15,
+        "location": "Stresemannstraße 6, 70191 Stuttgart",
+        "mastr_number": "SEE951185104239",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1818159",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.969,
+          48.105
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerke Waldkirch GmbH",
+        "unit_name": "333819818, Hildastr. 8, 79183 Waldkirch",
+        "start_date": "15.12.2014",
+        "age_years": 10,
+        "location": "Hildastraße 8, 79183 Waldkirch",
+        "mastr_number": "SEE909403980943",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1824898",
         "cc": "No matching CC area"
       }
     },
@@ -174,6 +279,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.111,
+          47.68
+        ]
+      },
+      "properties": {
+        "power": 100,
+        "operator": "RehaZentren der Deutschen Rentenversicherung Baden-Württemberg gGmbH",
+        "unit_name": "Isny Reha-Klinik Überruh",
+        "start_date": "3.2.2006",
+        "age_years": 19,
+        "location": "Überruh 1, 88316 Isny",
+        "mastr_number": "SEE962684497449",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1844076",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.111,
+          47.68
+        ]
+      },
+      "properties": {
+        "power": 100,
+        "operator": "RehaZentren der Deutschen Rentenversicherung Baden-Württemberg gGmbH",
+        "unit_name": "Isny Reha-Klinik Überruh",
+        "start_date": "22.12.2018",
+        "age_years": 6,
+        "location": "Überruh 1, 88316 Isny",
+        "mastr_number": "SEE943454557907",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1844271",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.23,
+          48.744
+        ]
+      },
+      "properties": {
+        "power": 112,
+        "operator": "Süwag Grüne Energien und Wasser AG & Co. KG",
+        "unit_name": "BHKW 1 Hochholz",
+        "start_date": "1.2.2019",
+        "age_years": 6,
+        "location": "Isegrimweg 3 A, 70619 Stuttgart",
+        "mastr_number": "SEE963513354681",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1849527",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.683,
+          48.893
+        ]
+      },
+      "properties": {
+        "power": 80,
+        "operator": "Firma Bruno Bader GmbH & Co.KG",
+        "unit_name": "BHKW M.B.G0",
+        "start_date": "6.11.2014",
+        "age_years": 10,
+        "location": "Maximilianstraße 67, 75172 Pforzheim",
+        "mastr_number": "SEE979344026475",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1849984",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.6,
           50.213
         ]
@@ -229,6 +418,27 @@
         "location": "Carl-Zeiß-Straße 18, 97424 Schweinfurt",
         "mastr_number": "SEE958618703496",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1853609",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.21439,
+          48.811368
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "LAVA  GmbH & Co. KG",
+        "unit_name": "70376-1",
+        "start_date": "6.11.2019",
+        "age_years": 5,
+        "location": "Krefelder Straße 24, 70376 Stuttgart",
+        "mastr_number": "SEE925122182345",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1854017",
         "cc": "No matching CC area"
       }
     },
@@ -363,6 +573,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.665477,
+          48.897778
+        ]
+      },
+      "properties": {
+        "power": 117,
+        "operator": "R + E Klinik Betriebs GmbH",
+        "unit_name": "BHKW ARCUS",
+        "start_date": "28.6.2006",
+        "age_years": 18,
+        "location": "Rastatter Straße 17, 75179 Pforzheim",
+        "mastr_number": "SEE989845828973",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1869017",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.449288,
           50.098202
         ]
@@ -376,6 +607,27 @@
         "location": "Johann-Brenk-Straße 5, 95326 Kulmbach",
         "mastr_number": "SEE934956372105",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1873468",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.927,
+          49.25
+        ]
+      },
+      "properties": {
+        "power": 142,
+        "operator": "Stadt Gerabronn",
+        "unit_name": "BHKW",
+        "start_date": "8.11.2018",
+        "age_years": 6,
+        "location": "Jahnstraße 5, 74582 Gerabronn",
+        "mastr_number": "SEE972498450219",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1881757",
         "cc": "No matching CC area"
       }
     },
@@ -405,6 +657,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.171554,
+          48.800002
+        ]
+      },
+      "properties": {
+        "power": 100,
+        "operator": "LAVA  GmbH & Co. KG",
+        "unit_name": "70192-6",
+        "start_date": "5.2.2013",
+        "age_years": 12,
+        "location": "Am Höhenpark 4, 70192 Stuttgart",
+        "mastr_number": "SEE954662880756",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1886547",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.552747,
           49.294815
         ]
@@ -418,6 +691,27 @@
         "location": "Feuchtwanger Straße 38, 91522 Ansbach",
         "mastr_number": "SEE988277686595",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1887010",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.638,
+          47.82
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Druckhaus Ulm-Oberschwaben GmbH & Co. KG",
+        "unit_name": "BHKW_01",
+        "start_date": "18.10.2016",
+        "age_years": 8,
+        "location": "Herknerstraße 15, 88250 Weingarten",
+        "mastr_number": "SEE911052024442",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1898070",
         "cc": "No matching CC area"
       }
     },
@@ -489,6 +783,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.939,
+          48.089
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerke Waldkirch GmbH",
+        "unit_name": "335335937, Emmendinger Str. 11, 79183 Waldkirch",
+        "start_date": "1.6.2016",
+        "age_years": 8,
+        "location": "Emmendinger Straße 11, 79183 Waldkirch",
+        "mastr_number": "SEE999444637944",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1911940",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.975,
+          48.107
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerke Waldkirch GmbH",
+        "unit_name": "390686 / 390690,  Kollnauer Str. 23, 79183 Waldkirch",
+        "start_date": "11.10.2012",
+        "age_years": 12,
+        "location": "Kollnauer Straße 23, 79183 Waldkirch",
+        "mastr_number": "SEE964337479970",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1912035",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.461,
           49.268
         ]
@@ -502,6 +838,48 @@
         "location": "Hans-Dehn-Straße 1, 92318 Neumarkt",
         "mastr_number": "SEE905086648415",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1913002",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.764372,
+          47.914972
+        ]
+      },
+      "properties": {
+        "power": 237,
+        "operator": "Städtische Rehakliniken Bad Waldsee",
+        "unit_name": "BHKW Heizzentrale",
+        "start_date": "14.10.2013",
+        "age_years": 11,
+        "location": "Schützenstraße 73, 88339 Bad Waldsee",
+        "mastr_number": "SEE971521666047",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1915897",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.759369,
+          47.918451
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Städtische Rehakliniken Bad Waldsee",
+        "unit_name": "BHKW Maximilianbad",
+        "start_date": "18.9.2013",
+        "age_years": 11,
+        "location": "Maximilianstraße 13, 88339 Bad Waldsee",
+        "mastr_number": "SEE901791265299",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1915921",
         "cc": "No matching CC area"
       }
     },
@@ -531,6 +909,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.786,
+          49.496
+        ]
+      },
+      "properties": {
+        "power": 51,
+        "operator": "RehaZentren der Deutschen Rentenversicherung Baden-Württemberg gGmbH",
+        "unit_name": "RehaKlinik Ob der Tauber",
+        "start_date": "19.10.2018",
+        "age_years": 6,
+        "location": "Bismarckstraße 31, 97980 Bad Mergentheim",
+        "mastr_number": "SEE930399886346",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1927151",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.078,
           50.196
         ]
@@ -552,6 +951,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.831,
+          48.329
+        ]
+      },
+      "properties": {
+        "power": 239,
+        "operator": "Vermögen und Bau Baden-Württemberg Amt Freiburg",
+        "unit_name": "VBV_Amt_FR_HfP_Lahr",
+        "start_date": "6.11.2018",
+        "age_years": 6,
+        "location": "Vogesenstraße 22, 77933 Lahr",
+        "mastr_number": "SEE915574126790",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1927176",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.428,
           49.507
         ]
@@ -565,6 +985,90 @@
         "location": "Lohweg 38, 91217 Hersbruck",
         "mastr_number": "SEE980523005815",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1929071",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.034,
+          49.294
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "bosch Tiernahrung",
+        "unit_name": "BHKW 2",
+        "start_date": "16.12.2014",
+        "age_years": 10,
+        "location": "Engelhardshauser Straße 55, 74572 Blaufelden",
+        "mastr_number": "SEE973070562658",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1930318",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.136249,
+          48.728662
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "KWA Energiesysteme GmbH & Co. KG",
+        "unit_name": "Stuttgart Möhringen II",
+        "start_date": "11.10.2013",
+        "age_years": 11,
+        "location": "Vaihinger Straße 98 A, 70567 Stuttgart",
+        "mastr_number": "SEE921645649471",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1931043",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.034,
+          49.294
+        ]
+      },
+      "properties": {
+        "power": 155,
+        "operator": "bosch Tiernahrung",
+        "unit_name": "BHKW 3",
+        "start_date": "22.6.2016",
+        "age_years": 8,
+        "location": "Engelhardshauser Straße 55, 74572 Blaufelden",
+        "mastr_number": "SEE955990544969",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1932374",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.034,
+          49.294
+        ]
+      },
+      "properties": {
+        "power": 155,
+        "operator": "bosch Tiernahrung",
+        "unit_name": "BHKW 4",
+        "start_date": "22.6.2016",
+        "age_years": 8,
+        "location": "Engelhardshauser Straße 55, 74572 Blaufelden",
+        "mastr_number": "SEE911479393435",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1932417",
         "cc": "No matching CC area"
       }
     },
@@ -657,6 +1161,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.712,
+          48.907
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "STÖBER Antriebstechnik GmbH + Co. KG",
+        "unit_name": "BHKW",
+        "start_date": "26.3.2014",
+        "age_years": 11,
+        "location": "Bauschlotter Straße 24, 75177 Pforzheim",
+        "mastr_number": "SEE951819107780",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1946443",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.438,
           50.111
         ]
@@ -670,6 +1195,90 @@
         "location": "Adalbert-Raps-Straße 1, 95326 Kulmbach",
         "mastr_number": "SEE902635256381",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1947171",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.672916,
+          49.276743
+        ]
+      },
+      "properties": {
+        "power": 51,
+        "operator": "WEG KÜN I+III vertreten durch Maier Immobilien",
+        "unit_name": "BHKW KÜN I+III - Nr. 1",
+        "start_date": "8.2.2018",
+        "age_years": 7,
+        "location": "nan nan, 74653 Künzelsau",
+        "mastr_number": "SEE954039020235",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1948124",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.672916,
+          49.276743
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "WEG KÜN I+III vertreten durch Maier Immobilien",
+        "unit_name": "BHKW KÜN I+III - Nr. 2",
+        "start_date": "4.3.2019",
+        "age_years": 6,
+        "location": "nan nan, 74653 Künzelsau",
+        "mastr_number": "SEE977968939379",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1948634",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.673886,
+          49.277492
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "WEG KÜN II vertreten durch Maier Immobilien",
+        "unit_name": "BHKW KÜN II",
+        "start_date": "21.9.2015",
+        "age_years": 9,
+        "location": "Taläckerallee 50, 74653 Künzelsau",
+        "mastr_number": "SEE969260887878",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1948694",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.85565,
+          48.12546
+        ]
+      },
+      "properties": {
+        "power": 240,
+        "operator": "Kreiskrankenhaus Emmendingen",
+        "unit_name": "BHKW Stromgenerator",
+        "start_date": "16.4.2014",
+        "age_years": 10,
+        "location": "Gartenstraße 44, 79312 Emmendingen",
+        "mastr_number": "SEE956821049660",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1948817",
         "cc": "No matching CC area"
       }
     },
@@ -754,6 +1363,48 @@
         "location": "Hauptstraße 48 a, 63924 Kleinheubach",
         "mastr_number": "SEE915381867428",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1958588",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.193223,
+          48.770695
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Vermögen und Bau Baden-Württemberg Amt Stuttgart",
+        "unit_name": "BHKW",
+        "start_date": "30.12.2016",
+        "age_years": 8,
+        "location": "Richard-Wagner-Straße 13, 70184 Stuttgart",
+        "mastr_number": "SEE929107547648",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1963887",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.844,
+          47.793
+        ]
+      },
+      "properties": {
+        "power": 203,
+        "operator": "Mineralbrunnen Krumbach",
+        "unit_name": "BHKW 203 KW",
+        "start_date": "27.7.2016",
+        "age_years": 8,
+        "location": "Krumbach 1, 88353 Kißlegg",
+        "mastr_number": "SEE993232635327",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1968170",
         "cc": "No matching CC area"
       }
     },
@@ -867,6 +1518,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.208095,
+          48.796876
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "GETEC WÄRME & EFFIZIENZ GmbH Nord",
+        "unit_name": "6112820 KWK Stuttgart",
+        "start_date": "25.3.2019",
+        "age_years": 6,
+        "location": "Karl-Schurz-Straße 4, 70190 Stuttgart",
+        "mastr_number": "SEE952977821099",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1994065",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.210022,
           49.194805
         ]
@@ -880,6 +1552,27 @@
         "location": "Am Dorfplatz 8, 91161 Hilpoltstein",
         "mastr_number": "SEE925448686305",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1995221",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64799,
+          48.906357
+        ]
+      },
+      "properties": {
+        "power": 237,
+        "operator": "Mapal WWS",
+        "unit_name": "BHKW Mapal WWS",
+        "start_date": "24.3.2015",
+        "age_years": 10,
+        "location": "Heilbronner Straße 25, 75179 Pforzheim",
+        "mastr_number": "SEE911610989220",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1998155",
         "cc": "No matching CC area"
       }
     },
@@ -922,6 +1615,48 @@
         "location": "Werner-von-Siemens-Straße 6, 89407 Dillingen",
         "mastr_number": "SEE924113549716",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2001357",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.443294,
+          49.187733
+        ]
+      },
+      "properties": {
+        "power": 220,
+        "operator": "Schlaadt GfH mbH",
+        "unit_name": "BHKW Bretzfeld",
+        "start_date": "12.9.2012",
+        "age_years": 12,
+        "location": "Reeßweg 13, 74626 Bretzfeld",
+        "mastr_number": "SEE920263423982",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2001385",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.192077,
+          48.750649
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Waldhotel Stuttgart GmbH",
+        "unit_name": "BhkW Waldhotel",
+        "start_date": "21.10.2011",
+        "age_years": 13,
+        "location": "Guts-Muths-Weg 18, 70597 Stuttgart",
+        "mastr_number": "SEE907870387845",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2007513",
         "cc": "No matching CC area"
       }
     },
@@ -985,6 +1720,48 @@
         "location": "Klärwerkstraße 1, 92421 Schwandorf",
         "mastr_number": "SEE909205965162",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2010346",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.680643,
+          49.201734
+        ]
+      },
+      "properties": {
+        "power": 240,
+        "operator": "Firma Ziehl-Abegg SE",
+        "unit_name": "BHKW-Anlage GPH Werk AT",
+        "start_date": "29.1.2014",
+        "age_years": 11,
+        "location": "Günther-Ziehl-Straße 1, 74635 Kupferzell",
+        "mastr_number": "SEE919540317878",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2012167",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.632651,
+          49.184231
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Panorama Hotel- und Service GmbH",
+        "unit_name": "KWK-Neubau",
+        "start_date": "19.9.2018",
+        "age_years": 6,
+        "location": "Hauptstraße 86, 74638 Waldenburg",
+        "mastr_number": "SEE907525864202",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2012313",
         "cc": "No matching CC area"
       }
     },
@@ -1266,6 +2043,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.294961,
+          48.563309
+        ]
+      },
+      "properties": {
+        "power": 100,
+        "operator": "RAMPF Advanced Polymers GmbH & Co. KG",
+        "unit_name": "BHKW001",
+        "start_date": "16.7.2018",
+        "age_years": 6,
+        "location": "Robert-Bosch-Straße 4, 72661 Grafenberg",
+        "mastr_number": "SEE980376928668",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2043947",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.921979,
           49.89921
         ]
@@ -1300,6 +2098,27 @@
         "location": "Schönleinsplatz 1, 96047 Bamberg",
         "mastr_number": "SEE926768938402",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2044313",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.162955,
+          48.813556
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Kessler & Söhne Württ. Eisenwerk",
+        "unit_name": "BHKW Kessler",
+        "start_date": "28.9.2017",
+        "age_years": 7,
+        "location": "Bregenzer Straße 39, 70469 Stuttgart",
+        "mastr_number": "SEE931616873415",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2047193",
         "cc": "No matching CC area"
       }
     },
@@ -1413,6 +2232,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.256015,
+          48.791185
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "EHS-Energie GmbH",
+        "unit_name": "BHKW Stgt.-Untertürkheim",
+        "start_date": "8.12.2017",
+        "age_years": 7,
+        "location": "Bertramstraße 23, 70327 Stuttgart",
+        "mastr_number": "SEE908480714809",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2121270",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.070139,
           49.706259
         ]
@@ -1455,6 +2295,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.165889,
+          48.814304
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "sense electra GmbH",
+        "unit_name": "Stuttgart, Steiermärker Str. 3",
+        "start_date": "15.5.2019",
+        "age_years": 5,
+        "location": "Steiermärker Straße 3, 70469 Stuttgart",
+        "mastr_number": "SEE952620549905",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2150399",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.208282,
           50.00866
         ]
@@ -1468,6 +2329,27 @@
         "location": "An der Maas 2, 63768 Hösbach",
         "mastr_number": "SEE902319973719",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2158144",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.230128,
+          48.475094
+        ]
+      },
+      "properties": {
+        "power": 51,
+        "operator": "Stadtwerke Pfullingen",
+        "unit_name": "BHKW Kaiserstraße, 72793 Pfullingen",
+        "start_date": "28.11.2018",
+        "age_years": 6,
+        "location": "Kaiserstraße 92, 72793 Pfullingen",
+        "mastr_number": "SEE941361880682",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2161178",
         "cc": "No matching CC area"
       }
     },
@@ -1497,6 +2379,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.226888,
+          48.456794
+        ]
+      },
+      "properties": {
+        "power": 51,
+        "operator": "Stadtwerke Pfullingen",
+        "unit_name": "BHKW Kernerstraße, 72793 Pfullingen",
+        "start_date": "1.7.2015",
+        "age_years": 9,
+        "location": "Kernerstraße 5, 72793 Pfullingen",
+        "mastr_number": "SEE976490939574",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2161747",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.528265,
           49.941978
         ]
@@ -1510,6 +2413,48 @@
         "location": "Jakob-Herz-Straße 1, 95445 Bayreuth",
         "mastr_number": "SEE923086392909",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2171440",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.001169,
+          48.489452
+        ]
+      },
+      "properties": {
+        "power": 142,
+        "operator": "MediClin GmbH & Co. KG",
+        "unit_name": "BHKW",
+        "start_date": "11.7.2014",
+        "age_years": 10,
+        "location": "Burgunderstraße 24, 77770 Durbach",
+        "mastr_number": "SEE940521394878",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2172439",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.956288,
+          48.48014
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "MediClin GmbH & Co. KG",
+        "unit_name": "BHKW",
+        "start_date": "19.11.2015",
+        "age_years": 9,
+        "location": "Bertha-von-Suttner-Straße 1, 77654 Offenburg",
+        "mastr_number": "SEE900675819719",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2172523",
         "cc": "No matching CC area"
       }
     },
@@ -1539,6 +2484,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.159724,
+          48.713506
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "GWG Gesellschaft für Wohnungs- und Gewerbebau Baden-Württemberg AG",
+        "unit_name": "10236 - BHKW Stuttgart, Europaplatz",
+        "start_date": "30.7.2015",
+        "age_years": 9,
+        "location": "Europaplatz 20 A, 70565 Stuttgart",
+        "mastr_number": "SEE980819799756",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2174625",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.460014,
           47.748926
         ]
@@ -1552,6 +2518,132 @@
         "location": "Geisenhausen 1, 83250 Marquartstein",
         "mastr_number": "SEE956600535186",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2175399",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.891314,
+          48.339874
+        ]
+      },
+      "properties": {
+        "power": 212,
+        "operator": "Herzzentrum Lahr/Baden GmbH & Co. KG",
+        "unit_name": "BHKW",
+        "start_date": "18.11.2013",
+        "age_years": 11,
+        "location": "Hohbergweg 2, 77933 Lahr",
+        "mastr_number": "SEE948834052782",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2176482",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.194137,
+          47.706998
+        ]
+      },
+      "properties": {
+        "power": 113,
+        "operator": "Mainau GmbH",
+        "unit_name": "Erdgas-BHKW",
+        "start_date": "17.12.2014",
+        "age_years": 10,
+        "location": "Insel Mainau 1, 78465 Konstanz",
+        "mastr_number": "SEE918027820375",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2176604",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.253614,
+          48.484858
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "FairEnergie GmbH",
+        "unit_name": "BHKW Schillerstraße",
+        "start_date": "6.6.2019",
+        "age_years": 5,
+        "location": "Schillerstraße 47, 72800 Eningen",
+        "mastr_number": "SEE966560056706",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2183154",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175036,
+          48.809359
+        ]
+      },
+      "properties": {
+        "power": 75,
+        "operator": "Firma ImmoTherm GmbH Herrn Wolfgang Drexler",
+        "unit_name": "Maybachstr. 15 B, Stuttgart-Feuerbach",
+        "start_date": "29.8.2017",
+        "age_years": 7,
+        "location": "Maybachstraße 15 B, 70469 Stuttgart",
+        "mastr_number": "SEE986374242492",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2184795",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.220767,
+          48.8023
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Firma ImmoTherm GmbH Herrn Wolfgang Drexler",
+        "unit_name": "Wildunger Str. 7+9, Stuttgart",
+        "start_date": "23.9.2010",
+        "age_years": 14,
+        "location": "Wildunger Straße 7, 70372 Stuttgart",
+        "mastr_number": "SEE928542462752",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2185003",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.84021,
+          48.549489
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Alexander Schreibeisen",
+        "unit_name": "BHKW Calamus-Areal",
+        "start_date": "18.10.2018",
+        "age_years": 6,
+        "location": "Boschstraße 6, 77694 Kehl",
+        "mastr_number": "SEE926523473223",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2185423",
         "cc": "No matching CC area"
       }
     },
@@ -1665,6 +2757,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.597812,
+          47.764038
+        ]
+      },
+      "properties": {
+        "power": 245,
+        "operator": "ZfP Südwürttemberg",
+        "unit_name": "W_Modul 1",
+        "start_date": "20.12.2016",
+        "age_years": 8,
+        "location": "Weingartshofer Straße 2, 88214 Ravensburg",
+        "mastr_number": "SEE987831257813",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2210357",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.597812,
+          47.764038
+        ]
+      },
+      "properties": {
+        "power": 245,
+        "operator": "ZfP Südwürttemberg",
+        "unit_name": "W_Modul 2",
+        "start_date": "20.12.2016",
+        "age_years": 8,
+        "location": "Weingartshofer Straße 2, 88214 Ravensburg",
+        "mastr_number": "SEE996735509843",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2210432",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.461594,
+          48.231409
+        ]
+      },
+      "properties": {
+        "power": 100,
+        "operator": "ZfP Südwürttemberg",
+        "unit_name": "Z_BHKW (1 Modul)",
+        "start_date": "20.12.2016",
+        "age_years": 8,
+        "location": "Hauptstraße 9, 88529 Zwiefalten",
+        "mastr_number": "SEE905185042183",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2210456",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.628233,
+          47.947721
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Franz Huber KG",
+        "unit_name": "BHKW Bruckstr.25",
+        "start_date": "15.3.2011",
+        "age_years": 14,
+        "location": "Bruckstraße 25, 88326 Aulendorf",
+        "mastr_number": "SEE993109584697",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2213427",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.145385,
           48.529317
         ]
@@ -1699,6 +2875,27 @@
         "location": "Am Schallerseck 35, 90765 Fürth",
         "mastr_number": "SEE936373716869",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2215317",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.27839,
+          48.542786
+        ]
+      },
+      "properties": {
+        "power": 100,
+        "operator": "Storopack Deutschland GmbH & Co. KG",
+        "unit_name": "BHKW Metzingen GG100",
+        "start_date": "21.11.2018",
+        "age_years": 6,
+        "location": "Max-Holder-Straße 13, 72555 Metzingen",
+        "mastr_number": "SEE973233811197",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2215938",
         "cc": "No matching CC area"
       }
     },
@@ -1875,6 +3072,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.210922,
+          48.795266
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Landeshauptstadt Stuttgart, Eigenbetrieb Leben & Wohnen (ELW-10), c/o Amt für Umweltschutz (36-5.2),",
+        "unit_name": "BHKW Parkheim Berg",
+        "start_date": "16.8.2002",
+        "age_years": 22,
+        "location": "Ottostraße 10, 70190 Stuttgart",
+        "mastr_number": "SEE969062501507",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2247945",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.622813,
+          49.303072
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "PVS-Kunststofftechnik GmbH & Co. KG",
+        "unit_name": "PVS BHKW 1",
+        "start_date": "18.7.2019",
+        "age_years": 5,
+        "location": "Salzstraße 20, 74676 Niedernhall",
+        "mastr_number": "SEE951246677450",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2257537",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.189469,
+          48.794216
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Firma ImmoTherm GmbH Herrn Wolfgang Drexler",
+        "unit_name": "Nordbahnhofstr. 37, Stuttgart",
+        "start_date": "22.11.2016",
+        "age_years": 8,
+        "location": "Nordbahnhofstraße 37, 70191 Stuttgart",
+        "mastr_number": "SEE999051193727",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2272835",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.160948,
+          48.830603
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Firma ImmoTherm GmbH Herrn Wolfgang Drexler",
+        "unit_name": "Schwieberdinger Str. 57 E, Stuttgart",
+        "start_date": "16.11.2017",
+        "age_years": 7,
+        "location": "Schwieberdinger Straße 57 E, 70435 Stuttgart",
+        "mastr_number": "SEE945871643386",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2273245",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.580947,
           49.93686
         ]
@@ -1938,6 +3219,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.960649,
+          48.466846
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Vinzentiushaus Offenburg GmbH",
+        "unit_name": "BHKW Vinz",
+        "start_date": "18.12.2018",
+        "age_years": 6,
+        "location": "Grimmelshausenstraße 28, 77654 Offenburg",
+        "mastr_number": "SEE955835427082",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2281424",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.916354,
           49.795976
         ]
@@ -1959,6 +3261,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.225719,
+          48.459545
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "SAMARITER - Energie GmbH",
+        "unit_name": "BHKW Pfullingen",
+        "start_date": "6.6.2015",
+        "age_years": 9,
+        "location": "Hohmorgenstraße 15, 72793 Pfullingen",
+        "mastr_number": "SEE953598104578",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2285875",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.872246,
           49.906049
         ]
@@ -1972,6 +3295,48 @@
         "location": "Regnitzstraße 12, 96052 Bamberg",
         "mastr_number": "SEE965992312794",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2297168",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.837207,
+          48.334639
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "naturenergie hochrhein AG",
+        "unit_name": "Römerstraße 5",
+        "start_date": "24.5.2018",
+        "age_years": 6,
+        "location": "Römerstraße 5, 77933 Lahr",
+        "mastr_number": "SEE925904652189",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2297390",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.766046,
+          47.777789
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Technische Werke Schussental GmbH & Co. KG",
+        "unit_name": "Nahwärme Neue Schule",
+        "start_date": "2.9.2019",
+        "age_years": 5,
+        "location": "Schulstraße 21, 88267 Vogt",
+        "mastr_number": "SEE902113323536",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2297979",
         "cc": "No matching CC area"
       }
     },
@@ -2014,6 +3379,48 @@
         "location": "Wasserburger Straße 52, 83278 Traunstein",
         "mastr_number": "SEE983035435019",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2298133",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.916738,
+          49.172729
+        ]
+      },
+      "properties": {
+        "power": 112,
+        "operator": "Bausch + Ströbel SE + Co. KG",
+        "unit_name": "BHKW 1",
+        "start_date": "18.8.2015",
+        "age_years": 9,
+        "location": "Parkstraße 1, 74532 Ilshofen",
+        "mastr_number": "SEE949433088349",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2299763",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.916773,
+          49.172728
+        ]
+      },
+      "properties": {
+        "power": 112,
+        "operator": "Bausch + Ströbel SE + Co. KG",
+        "unit_name": "BHKW 2",
+        "start_date": "18.8.2015",
+        "age_years": 9,
+        "location": "Parkstraße 1, 74532 Ilshofen",
+        "mastr_number": "SEE952163692335",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2299882",
         "cc": "No matching CC area"
       }
     },
@@ -2085,6 +3492,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.773725,
+          49.003192
+        ]
+      },
+      "properties": {
+        "power": 51,
+        "operator": "Städtisches Wasserwerk Gaildorf, Eigenbetrieb der Stadt Gaildorf",
+        "unit_name": "Schenk-von-Limpurg Gymnasium Gaildorf",
+        "start_date": "30.8.2019",
+        "age_years": 5,
+        "location": "Schloss-Straße 24, 74405 Gaildorf",
+        "mastr_number": "SEE931618685665",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2341605",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.438514,
           49.505879
         ]
@@ -2127,6 +3555,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.546892,
+          47.950675
+        ]
+      },
+      "properties": {
+        "power": 49,
+        "operator": "Diakonieverbund Dornahof und Erlacher Höhe",
+        "unit_name": "BHKW Haus 26",
+        "start_date": "12.8.2015",
+        "age_years": 9,
+        "location": "Dornahof 1, 88361 Altshausen",
+        "mastr_number": "SEE962273523467",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2356332",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.976749,
+          48.088611
+        ]
+      },
+      "properties": {
+        "power": 53,
+        "operator": "Vermögen und Bau Baden-Württemberg Amt Freiburg",
+        "unit_name": "VB_BW_Amt_FR_SBBZ_WK",
+        "start_date": "29.1.2015",
+        "age_years": 10,
+        "location": "Wisserswandstraße 50, 79183 Waldkirch",
+        "mastr_number": "SEE995194809716",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2358105",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.053204,
           49.722461
         ]
@@ -2148,6 +3618,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.942737,
+          48.457599
+        ]
+      },
+      "properties": {
+        "power": 65,
+        "operator": "Vermögen und Bau Baden-Württemberg Amt Freiburg",
+        "unit_name": "VB-BW_Amt_FR_HS_OG",
+        "start_date": "4.4.2007",
+        "age_years": 17,
+        "location": "Badstraße 24, 77652 Offenburg",
+        "mastr_number": "SEE951368193647",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2375960",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.086367,
           50.191918
         ]
@@ -2161,6 +3652,27 @@
         "location": "Burgstraße 21, 97688 Bad Kissingen",
         "mastr_number": "SEE905582922927",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2378356",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.793159,
+          48.277833
+        ]
+      },
+      "properties": {
+        "power": 100,
+        "operator": "Ehret GmbH",
+        "unit_name": "BHKW",
+        "start_date": "7.6.2019",
+        "age_years": 5,
+        "location": "Bahnhofstraße 14 - 18, 77972 Mahlberg",
+        "mastr_number": "SEE901202711834",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2393165",
         "cc": "No matching CC area"
       }
     },
@@ -2316,6 +3828,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.771359,
+          48.193768
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Landratsamt Emmendingen",
+        "unit_name": "Kenzingen KSZ",
+        "start_date": "18.12.2013",
+        "age_years": 11,
+        "location": "Offenburger Straße 10, 79341 Kenzingen",
+        "mastr_number": "SEE954284175810",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2423369",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.881578,
           49.904198
         ]
@@ -2463,6 +3996,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.497575,
+          49.760625
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Rotkreuzklinik Wertheim gGmbH",
+        "unit_name": "BHKW",
+        "start_date": "9.3.2016",
+        "age_years": 9,
+        "location": "Rotkreuzstraße 2, 97877 Wertheim",
+        "mastr_number": "SEE992345714202",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2442535",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.160594,
+          48.775555
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Energiedienste der Landeshauptstadt Stuttgart GmbH",
+        "unit_name": "BHKW Olga-Areal",
+        "start_date": "8.10.2019",
+        "age_years": 5,
+        "location": "Senefelderstraße 55, 70176 Stuttgart",
+        "mastr_number": "SEE942485780315",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2445317",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.463732,
+          47.657784
+        ]
+      },
+      "properties": {
+        "power": 112,
+        "operator": "Stadtwerk am See GmbH & Co.KG",
+        "unit_name": "BHKW Energiezelle",
+        "start_date": "9.11.2012",
+        "age_years": 12,
+        "location": "Hochstraße 31, 88045 Friedrichshafen",
+        "mastr_number": "SEE902195734718",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2446262",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.794279,
+          48.247213
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Geier Lacktechnik GmbH & Co. KG",
+        "unit_name": "BHKW Geier Riegel",
+        "start_date": "25.9.2019",
+        "age_years": 5,
+        "location": "Im Oberwald 14, 79359 Riegel",
+        "mastr_number": "SEE969658287679",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2451534",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.019781,
           49.610068
         ]
@@ -2526,6 +4143,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.209686,
+          52.125296
+        ]
+      },
+      "properties": {
+        "power": 203,
+        "operator": "Malzfabrik Ludwig Zimmermann GmbH & Co  Benjamin Ogger",
+        "unit_name": "Ludwig Zimmermann GmbH & Co. KG",
+        "start_date": "18.12.2014",
+        "age_years": 10,
+        "location": "Gerberstrasse nan, 88471 Laupheim",
+        "mastr_number": "SEE978066258010",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2478791",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.60055,
           48.954345
         ]
@@ -2560,6 +4198,27 @@
         "location": "Am Weichselgarten 12, 91058 Erlangen",
         "mastr_number": "SEE926662581674",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2485952",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.616131,
+          47.792943
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Stadtwerke Ravensburg",
+        "unit_name": "SWR Eissporthalle Eywiesenstraße",
+        "start_date": "24.7.2014",
+        "age_years": 10,
+        "location": "Eywiesenstraße 8, 88212 Ravensburg",
+        "mastr_number": "SEE987711638138",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2485992",
         "cc": "No matching CC area"
       }
     },
@@ -2610,6 +4269,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.607687,
+          47.77697
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerke Ravensburg",
+        "unit_name": "SWR Hallenbad 2003",
+        "start_date": "1.1.2003",
+        "age_years": 22,
+        "location": "Ziegelstraße 33, 88214 Ravensburg",
+        "mastr_number": "SEE958481333660",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2496964",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.607687,
+          47.77697
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerke Ravensburg",
+        "unit_name": "SWR Hallenbad 2016",
+        "start_date": "20.10.2016",
+        "age_years": 8,
+        "location": "Ziegelstraße 33, 88214 Ravensburg",
+        "mastr_number": "SEE944230084976",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2498850",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.219347,
+          48.0955
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Erzb. Kinderheim Haus Nazareth",
+        "unit_name": "BHKW HN Zentrale",
+        "start_date": "9.5.2019",
+        "age_years": 5,
+        "location": "Brunnenbergstraße 34, 72488 Sigmaringen",
+        "mastr_number": "SEE956016903609",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2499108",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.338956,
           47.998989
         ]
@@ -2623,6 +4345,69 @@
         "location": "Strandbadstraße 17, 82319 Starnberg",
         "mastr_number": "SEE929955670048",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2499472",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.47985,
+          47.665001
+        ]
+      },
+      "properties": {
+        "power": 240,
+        "operator": "Stadtwerk am See GmbH & Co.KG",
+        "unit_name": "BHKW Sportbad",
+        "start_date": "8.6.2016",
+        "age_years": 8,
+        "location": "Sportpark 1, 88045 Friedrichshafen",
+        "mastr_number": "SEE955645350679",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2500393",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.633882,
+          47.810842
+        ]
+      },
+      "properties": {
+        "power": 220,
+        "operator": "Stadtwerke Weingarten",
+        "unit_name": "SWW Talschule",
+        "start_date": "1.4.2002",
+        "age_years": 22,
+        "location": "Brechenmacherstraße 19, 88250 Weingarten",
+        "mastr_number": "SEE962896421072",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2503174",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.063882,
+          48.539607
+        ]
+      },
+      "properties": {
+        "power": 200,
+        "operator": "OGM Obstgroßmarkt Mittelbaden eG",
+        "unit_name": "BHKW",
+        "start_date": "16.7.2014",
+        "age_years": 10,
+        "location": "Konrad-Adenauer-Straße 16, 77704 Oberkirch",
+        "mastr_number": "SEE992061698145",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2505783",
         "cc": "No matching CC area"
       }
     },
@@ -2715,6 +4500,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.658845,
+          47.804303
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerke Weingarten",
+        "unit_name": "SWW Nessenreben",
+        "start_date": "24.9.2015",
+        "age_years": 9,
+        "location": "Nessenreben 3, 88250 Weingarten",
+        "mastr_number": "SEE915324805944",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2525155",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.859926,
           49.556125
         ]
@@ -2749,6 +4555,132 @@
         "location": "Weißenburgstraße 60, 97082 Würzburg",
         "mastr_number": "SEE973103027697",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2534927",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.102035,
+          48.82547
+        ]
+      },
+      "properties": {
+        "power": 119,
+        "operator": "SEG Automotive Germany GmbH",
+        "unit_name": "BHKW",
+        "start_date": "7.11.2012",
+        "age_years": 12,
+        "location": "Lotterbergstraße 30, 70499 Stuttgart",
+        "mastr_number": "SEE999957775812",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2537276",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.754843,
+          49.110724
+        ]
+      },
+      "properties": {
+        "power": 239,
+        "operator": "Stadtwerke Schwäbisch Hall GmbH",
+        "unit_name": "BHKWII_Schenkenseebad_SHA",
+        "start_date": "12.6.2014",
+        "age_years": 10,
+        "location": "Schenkenseestraße 76, 74523 Schwäbisch Hall",
+        "mastr_number": "SEE904604462472",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2541267",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.661788,
+          49.202622
+        ]
+      },
+      "properties": {
+        "power": 240,
+        "operator": "R. STAHL Schaltgeräte GmbH",
+        "unit_name": "BHKW",
+        "start_date": "5.11.2014",
+        "age_years": 10,
+        "location": "Am Bahnhof 30, 74638 Waldenburg",
+        "mastr_number": "SEE964711612597",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2542050",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.946175,
+          48.08825
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Mack Rides",
+        "unit_name": "390662",
+        "start_date": "12.2.2013",
+        "age_years": 12,
+        "location": "Mauermattenstraße 4, 79183 Waldkirch",
+        "mastr_number": "SEE966829521556",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2543446",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.377024,
+          48.504204
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "m&i Fachkliniken Hohenurach GmbH",
+        "unit_name": "BHKW Haus 1",
+        "start_date": "14.10.2015",
+        "age_years": 9,
+        "location": "Immanuel-Kant-Straße 33, 72574 Bad Urach",
+        "mastr_number": "SEE972488708504",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2555592",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.377024,
+          48.504204
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "m&i Fachkliniken Hohenurach GmbH",
+        "unit_name": "BHKW Haus 2",
+        "start_date": "15.6.2016",
+        "age_years": 8,
+        "location": "Immanuel-Kant-Straße 47, 72574 Bad Urach",
+        "mastr_number": "SEE932752647069",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2555847",
         "cc": "No matching CC area"
       }
     },
@@ -2883,6 +4815,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.715305,
+          48.878646
+        ]
+      },
+      "properties": {
+        "power": 143,
+        "operator": "Vermögen und Bau Baden-Württemberg Amt Pforzheim",
+        "unit_name": "Pforzheim HS 1",
+        "start_date": "21.1.2015",
+        "age_years": 10,
+        "location": "Tiefenbronner Straße 65, 75175 Pforzheim",
+        "mastr_number": "SEE954060020334",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2570321",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.713529,
+          48.911801
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Weber-Ingenieure GmbH",
+        "unit_name": "BHKW Bauschlotter Straße",
+        "start_date": "31.7.2014",
+        "age_years": 10,
+        "location": "Bauschlotter Straße 62, 75177 Pforzheim",
+        "mastr_number": "SEE923649903641",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2571690",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.484213,
           48.720776
         ]
@@ -2917,6 +4891,27 @@
         "location": "Helsinkistraße 1, 97424 Schweinfurt",
         "mastr_number": "SEE982194615867",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2577679",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.235053,
+          48.222887
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "TRUMPF Werkzeugmaschinen GmbH + Co. KG",
+        "unit_name": "BHKW TRUMPF Hettingen",
+        "start_date": "21.6.2017",
+        "age_years": 7,
+        "location": "Berthold-Leibinger-Straße 11, 72513 Hettingen",
+        "mastr_number": "SEE907003464351",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2578991",
         "cc": "No matching CC area"
       }
     },
@@ -2967,6 +4962,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.632469,
+          47.798103
+        ]
+      },
+      "properties": {
+        "power": 49,
+        "operator": "Stiftung KBZO",
+        "unit_name": "Burach 1",
+        "start_date": "14.11.2019",
+        "age_years": 5,
+        "location": "St.-Martinus-Straße 81, 88212 Ravensburg",
+        "mastr_number": "SEE917126234717",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2581352",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.185634,
           49.379747
         ]
@@ -2988,6 +5004,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.753798,
+          47.928873
+        ]
+      },
+      "properties": {
+        "power": 55,
+        "operator": "Versandhaus Walz",
+        "unit_name": "BHKW Versand Walz",
+        "start_date": "10.12.2015",
+        "age_years": 9,
+        "location": "Steinstraße 28, 88339 Bad Waldsee",
+        "mastr_number": "SEE952252401336",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2582634",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.064887,
           49.717784
         ]
@@ -3001,6 +5038,27 @@
         "location": "Klosterstraße 14, 91301 Forchheim",
         "mastr_number": "SEE952842651943",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2584574",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.524142,
+          47.672955
+        ]
+      },
+      "properties": {
+        "power": 232,
+        "operator": "Firma ImmoTherm GmbH Herrn Wolfgang Drexler",
+        "unit_name": "Flughafen Friedrichshafen",
+        "start_date": "20.3.2009",
+        "age_years": 16,
+        "location": "Am Flugplatz 64, 88046 Friedrichshafen",
+        "mastr_number": "SEE946214174024",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2584835",
         "cc": "No matching CC area"
       }
     },
@@ -3177,6 +5235,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.29521,
+          48.533404
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Lechler GmbH",
+        "unit_name": "Geb. EZ: BHKW (70,00 kW elektr.)",
+        "start_date": "3.3.2015",
+        "age_years": 10,
+        "location": "Ulmer Straße 128, 72555 Metzingen",
+        "mastr_number": "SEE902902003595",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2606931",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.976989,
           49.84135
         ]
@@ -3232,6 +5311,69 @@
         "location": "Spreestraße 2, 86633 Neuburg",
         "mastr_number": "SEE935009754015",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2614522",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.646058,
+          47.808357
+        ]
+      },
+      "properties": {
+        "power": 182,
+        "operator": "Firma Vermögen und Bau BW Amt Ravensburg",
+        "unit_name": "BHKW Martinsberg Kirchplatz 14",
+        "start_date": "1.6.2017",
+        "age_years": 7,
+        "location": "Kirchplatz 14, 88250 Weingarten",
+        "mastr_number": "SEE954181067164",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2616520",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.274093,
+          47.692985
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Firma Vermögen und Bau BW Amt Ravensburg",
+        "unit_name": "BHKW Meersburg DHG",
+        "start_date": "16.2.2015",
+        "age_years": 10,
+        "location": "Seminarstraße 8, 88709 Meersburg",
+        "mastr_number": "SEE935107891834",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2616640",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.631955,
+          47.767989
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Firma Vermögen und Bau BW Amt Ravensburg",
+        "unit_name": "BHKW JVA Ravensburg",
+        "start_date": "12.4.2016",
+        "age_years": 8,
+        "location": "Hinzistobel 34, 88212 Ravensburg",
+        "mastr_number": "SEE916125234971",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2617484",
         "cc": "No matching CC area"
       }
     },
@@ -3324,6 +5466,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.873376,
+          48.106351
+        ]
+      },
+      "properties": {
+        "power": 51,
+        "operator": "Stadtwerke Emmendingen GmbH",
+        "unit_name": "BHKW_1_Jaegeracker",
+        "start_date": "1.6.2017",
+        "age_years": 7,
+        "location": "Am Dachsrain 1, 79312 Emmendingen",
+        "mastr_number": "SEE926220047185",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2624238",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.846749,
           49.439187
         ]
@@ -3337,6 +5500,27 @@
         "location": "Hockermühlstraße 34, 92224 Amberg",
         "mastr_number": "SEE969067964901",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2624756",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.193701,
+          48.782168
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Verein für ein Freies Schulwesen, Waldorfschulverein e.V.",
+        "unit_name": "BHKW",
+        "start_date": "19.10.2011",
+        "age_years": 13,
+        "location": "Haußmannstraße 44, 70188 Stuttgart",
+        "mastr_number": "SEE936290220524",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2626171",
         "cc": "No matching CC area"
       }
     },
@@ -3366,6 +5550,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.0094,
+          47.82305
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Sycotec GmbH & Co. KG",
+        "unit_name": "BHKW",
+        "start_date": "8.12.2016",
+        "age_years": 8,
+        "location": "Wangener Straße 78, 88299 Leutkirch",
+        "mastr_number": "SEE986597058986",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2668878",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.914207,
           49.57733
         ]
@@ -3379,6 +5584,27 @@
         "location": "In der Reuth 1, 91074 Herzogenaurach",
         "mastr_number": "SEE902685944634",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2668917",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.635625,
+          49.438651
+        ]
+      },
+      "properties": {
+        "power": 55,
+        "operator": "Presse-Grosso Südwest",
+        "unit_name": "BHKW PGSW",
+        "start_date": "7.11.2019",
+        "age_years": 5,
+        "location": "Mittelgewannweg 14, 69123 Heidelberg",
+        "mastr_number": "SEE960827139713",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2669121",
         "cc": "No matching CC area"
       }
     },
@@ -3429,6 +5655,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.786111,
+          49.496304
+        ]
+      },
+      "properties": {
+        "power": 51,
+        "operator": "RehaZentren der Deutschen Rentenversicherung Baden-Württemberg gGmbH",
+        "unit_name": "RehaKlinik Ob der Tauber",
+        "start_date": "7.1.2020",
+        "age_years": 5,
+        "location": "Bismarckstraße 31, 97980 Bad Mergentheim",
+        "mastr_number": "SEE974295577076",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2672651",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.077867,
           50.19636
         ]
@@ -3463,6 +5710,132 @@
         "location": "Bahnhofstraße 31, 85101 Lenting",
         "mastr_number": "SEE900350645480",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2679842",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.177273,
+          48.811943
+        ]
+      },
+      "properties": {
+        "power": 238,
+        "operator": "PASM Power and Air Condition Solution Management GmbH",
+        "unit_name": "BHKW Stuttgart, Maybachstr. 57",
+        "start_date": "3.12.2014",
+        "age_years": 10,
+        "location": "Maybachstraße 57, 70469 Stuttgart",
+        "mastr_number": "SEE928418737977",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2679849",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.474202,
+          49.512806
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "MVV Netze GmbH",
+        "unit_name": "BHKW Luzenberg",
+        "start_date": "19.12.2019",
+        "age_years": 5,
+        "location": "Akazienstraße 4, 68169 Mannheim",
+        "mastr_number": "SEE924860096099",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2681100",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.606587,
+          47.783853
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Angleterre Hotel GmbH & Co. KG",
+        "unit_name": "BHKW_GINN_Hotel_Ravensburg",
+        "start_date": "17.12.2019",
+        "age_years": 5,
+        "location": "Eisenbahnstraße nan, 88212 Ravensburg",
+        "mastr_number": "SEE967871891048",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2686823",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.855739,
+          49.535036
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "WITTENSTEIN SE",
+        "unit_name": "BHKW_IF",
+        "start_date": "1.1.2014",
+        "age_years": 11,
+        "location": "Walter-Wittenstein-Straße 1, 97999 Igersheim",
+        "mastr_number": "SEE954240364210",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2687352",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.709836,
+          49.395292
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Kliniken Schmieder Heidelberg GmbH",
+        "unit_name": "KS_HD_BHKW2",
+        "start_date": "19.12.2019",
+        "age_years": 5,
+        "location": "Speyererhof 3, 69117 Heidelberg",
+        "mastr_number": "SEE927905912286",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2690476",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.709886,
+          49.39526
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Kliniken Schmieder Heidelberg GmbH",
+        "unit_name": "KS_HD_BHKW1",
+        "start_date": "12.4.2016",
+        "age_years": 8,
+        "location": "Speyererhof 3, 69117 Heidelberg",
+        "mastr_number": "SEE908109823561",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2690586",
         "cc": "No matching CC area"
       }
     },
@@ -3555,6 +5928,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.024646,
+          49.475113
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Wirthwein GmbH & Co. KG",
+        "unit_name": "Walter-Wirthwein-Str. 2, 140 kW",
+        "start_date": "5.12.2017",
+        "age_years": 7,
+        "location": "Walter-Wirthwein-Straße 2, 97993 Creglingen",
+        "mastr_number": "SEE987479445719",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2728908",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.039079,
+          48.635302
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "fischer Maschinentechnik-GmbH",
+        "unit_name": "BHKW",
+        "start_date": "22.7.2014",
+        "age_years": 10,
+        "location": "Im Gewerbegebiet 7, 77855 Achern",
+        "mastr_number": "SEE997661258850",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2731277",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.937467,
           48.706226
         ]
@@ -3639,6 +6054,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.746755,
+          48.908737
+        ]
+      },
+      "properties": {
+        "power": 51,
+        "operator": "Eigenbetrieb Pforzheimer Verkehrs- und Bäderbetriebe",
+        "unit_name": "BHKW EPVB Eutingen",
+        "start_date": "13.9.2010",
+        "age_years": 14,
+        "location": "Inselstraße 5, 75181 Pforzheim",
+        "mastr_number": "SEE974025048258",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2759111",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.852657,
           48.091009
         ]
@@ -3673,6 +6109,48 @@
         "location": "Am Heizwerk 1, 86916 Kaufering",
         "mastr_number": "SEE962640421884",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2762523",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.098359,
+          48.718889
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Landeshauptstadt Stuttgart, Eigenbetrieb Leben & Wohnen (ELW-10), c/o Amt für Umweltschutz (36-5.2),",
+        "unit_name": "BHKW Hans-Rehn-Stift",
+        "start_date": "4.12.2008",
+        "age_years": 16,
+        "location": "Supperstraße 28, 70565 Stuttgart",
+        "mastr_number": "SEE977213097991",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2769959",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.152615,
+          48.742538
+        ]
+      },
+      "properties": {
+        "power": 52,
+        "operator": "Landeshauptstadt Stuttgart, Eigenbetrieb Leben & Wohnen (ELW-10), c/o Amt für Umweltschutz (36-5.2),",
+        "unit_name": "BHKW GZ Sonnenberg",
+        "start_date": "14.11.2003",
+        "age_years": 21,
+        "location": "Laustraße 15, 70597 Stuttgart",
+        "mastr_number": "SEE946361590579",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2770008",
         "cc": "No matching CC area"
       }
     },
@@ -3723,6 +6201,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.180071,
+          48.830103
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Landeshauptstadt Stuttgart, Bäderbetriebe Stuttgart (BBS), c/o Amt für Umweltschutz (36-5.2)",
+        "unit_name": "BHKW Hallenbad Zuffenhausen",
+        "start_date": "10.5.2006",
+        "age_years": 18,
+        "location": "Haldenrainstraße 31, 70437 Stuttgart",
+        "mastr_number": "SEE977635338184",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2793485",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.598006,
           49.962789
         ]
@@ -3736,6 +6235,27 @@
         "location": "Ottostraße 2, 95448 Bayreuth",
         "mastr_number": "SEE913582389138",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2804562",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.246004,
+          48.779158
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Landeshauptstadt Stuttgart, Bäderbetriebe Stuttgart (BBS), c/o Amt für Umweltschutz (36-5.2)",
+        "unit_name": "BHKW Inselbad Untertürkheim 1",
+        "start_date": "10.5.2006",
+        "age_years": 18,
+        "location": "Inselbad 2, 70327 Stuttgart",
+        "mastr_number": "SEE908502182135",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2804671",
         "cc": "No matching CC area"
       }
     },
@@ -3807,6 +6327,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.151208,
+          48.739783
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Landeshauptstadt Stuttgart, Bäderbetriebe Stuttgart (BBS), c/o Amt für Umweltschutz (36-5.2)",
+        "unit_name": "BHKW Hallenbad Sonnenberg",
+        "start_date": "7.3.2012",
+        "age_years": 13,
+        "location": "Kremmlerstraße 1, 70597 Stuttgart",
+        "mastr_number": "SEE949140994964",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2809191",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.944993,
           47.819609
         ]
@@ -3870,6 +6411,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.211676,
+          48.797663
+        ]
+      },
+      "properties": {
+        "power": 112,
+        "operator": "Landeshauptstadt Stuttgart, Bäderbetriebe Stuttgart (BBS), c/o Amt für Umweltschutz (36-5.2)",
+        "unit_name": "BHKW Mineralbad Leuze 1",
+        "start_date": "10.10.2013",
+        "age_years": 11,
+        "location": "Am Leuzebad 2 A, 70190 Stuttgart",
+        "mastr_number": "SEE988763953392",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2812443",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.62214,
           49.582075
         ]
@@ -3883,6 +6445,27 @@
         "location": "Paracelsusstraße 30, 91413 Neustadt",
         "mastr_number": "SEE907092763731",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2817928",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.12856,
+          48.731845
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Landeshauptstadt Stuttgart, Schulverwaltungsamt (40), c/o Amt für Umweltschutz (36-5.2)",
+        "unit_name": "BHKW Sonderschulzentrum Hengstäcker",
+        "start_date": "29.7.2014",
+        "age_years": 10,
+        "location": "Hengstäcker 3, 70567 Stuttgart",
+        "mastr_number": "SEE919498848738",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2831341",
         "cc": "No matching CC area"
       }
     },
@@ -3925,6 +6508,48 @@
         "location": "Nürnberger Straße 12, 92318 Neumarkt",
         "mastr_number": "SEE925093885832",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2831509",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.421835,
+          48.066335
+        ]
+      },
+      "properties": {
+        "power": 210,
+        "operator": "Firma Zollern GmbH und Co. KG",
+        "unit_name": "BHKW 1",
+        "start_date": "18.11.2016",
+        "age_years": 8,
+        "location": "Heustr. 1, 88518 Herbertingen",
+        "mastr_number": "SEE960641977898",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2838667",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.653239,
+          48.878677
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "DE5 GmbH",
+        "unit_name": "D5BHKW",
+        "start_date": "1.2.2016",
+        "age_years": 9,
+        "location": "Dennigstraße 5, 75179 Pforzheim",
+        "mastr_number": "SEE902199291064",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2842524",
         "cc": "No matching CC area"
       }
     },
@@ -4072,6 +6697,27 @@
         "location": "Am Lurzenhof 3, 84036 Landshut",
         "mastr_number": "SEE965794318291",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2878285",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.655636,
+          48.903495
+        ]
+      },
+      "properties": {
+        "power": 49,
+        "operator": "BrownHouse Management GmbH Hotel Residenz",
+        "unit_name": "Hotel Pforzheim",
+        "start_date": "17.12.2015",
+        "age_years": 9,
+        "location": "Stuttgarter Straße 55, 75179 Pforzheim",
+        "mastr_number": "SEE942816427872",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2883243",
         "cc": "No matching CC area"
       }
     },
@@ -4290,6 +6936,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.381107,
+          47.721344
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerk am See GmbH & Co.KG",
+        "unit_name": "BHKW Theodor Heuss Markdorf",
+        "start_date": "26.3.2020",
+        "age_years": 5,
+        "location": "Theodor-Heuss-Straße 3, 88677 Markdorf",
+        "mastr_number": "SEE914313195158",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/2973236",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.185771,
           49.365817
         ]
@@ -4353,6 +7020,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.183345,
+          48.733993
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Paritätische Sozialdienste gGmbH",
+        "unit_name": "LCH",
+        "start_date": "14.4.2014",
+        "age_years": 10,
+        "location": "Hoffeldstraße 215, 70597 Stuttgart",
+        "mastr_number": "SEE998716398026",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3012368",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.896532,
           48.294564
         ]
@@ -4374,6 +7062,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.224766,
+          48.463844
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerke Pfullingen",
+        "unit_name": "BHKW Modul 1 Klemmstr., 72793 Pfullingen",
+        "start_date": "14.9.2012",
+        "age_years": 12,
+        "location": "Klemmenstraße 16, 72793 Pfullingen",
+        "mastr_number": "SEE982276065467",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3044235",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.224766,
+          48.463844
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerke Pfullingen",
+        "unit_name": "BHKW Modul 2 Klemmstr., 72793 Pfullingen",
+        "start_date": "2.3.2011",
+        "age_years": 14,
+        "location": "Klemmenstraße 16, 72793 Pfullingen",
+        "mastr_number": "SEE959787919053",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3044656",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22526,
+          48.462414
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerke Pfullingen",
+        "unit_name": "BHKW Modul 2 Klostergarten , 72793 Pfullingen",
+        "start_date": "23.8.2017",
+        "age_years": 7,
+        "location": "Klostergarten 1, 72793 Pfullingen",
+        "mastr_number": "SEE989918676999",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3048754",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.226846,
+          48.463969
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerke Pfullingen",
+        "unit_name": "BHKW Modul 1 Klostergarten , 72793 Pfullingen",
+        "start_date": "18.8.2016",
+        "age_years": 8,
+        "location": "Klosterstraße 1, 72793 Pfullingen",
+        "mastr_number": "SEE949044928805",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3048787",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.152936,
           49.852882
         ]
@@ -4387,6 +7159,48 @@
         "location": "Römerstraße 115, 63785 Obernburg",
         "mastr_number": "SEE932715303360",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3052382",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.154643,
+          48.8541
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Vermögen und Bau Baden-Württemberg Amt Ludwigsburg",
+        "unit_name": "BHKW2 S, Asperger",
+        "start_date": "14.10.2016",
+        "age_years": 8,
+        "location": "Asperger Straße 60, 70439 Stuttgart",
+        "mastr_number": "SEE964706870490",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3054819",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.593104,
+          48.896584
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Gemeinde Keltern",
+        "unit_name": "Sport-/MZH Im Speiterling 6",
+        "start_date": "10.11.2010",
+        "age_years": 14,
+        "location": "Im Speiterling 6, 75210 Keltern",
+        "mastr_number": "SEE985352199964",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3066620",
         "cc": "No matching CC area"
       }
     },
@@ -4471,6 +7285,27 @@
         "location": "Marktbreiter Straße 8, 97318 Kitzingen",
         "mastr_number": "SEE950554247485",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3140970",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.142406,
+          48.757538
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "SWSG mbH",
+        "unit_name": "Sandweg 2-24, Sperlingstraße 18-46",
+        "start_date": "15.5.2017",
+        "age_years": 7,
+        "location": "Sperlingstraße 20/1, 70199 Stuttgart",
+        "mastr_number": "SEE926572619030",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3149349",
         "cc": "No matching CC area"
       }
     },
@@ -4605,6 +7440,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.128628,
+          48.725103
+        ]
+      },
+      "properties": {
+        "power": 240,
+        "operator": "Stuttgarter Straßenbahnen AG",
+        "unit_name": "BHKW SSB-Zentrum",
+        "start_date": "22.10.2014",
+        "age_years": 10,
+        "location": "Schockenriedstraße 50, 70565 Stuttgart",
+        "mastr_number": "SEE998349726135",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3218719",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.565979,
+          49.449756
+        ]
+      },
+      "properties": {
+        "power": 190,
+        "operator": "Karl Berrang",
+        "unit_name": "BHKW 1",
+        "start_date": "4.12.2013",
+        "age_years": 11,
+        "location": "Elsa-Brändström-Straße 12, 68229 Mannheim",
+        "mastr_number": "SEE933773248129",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3218850",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.724107,
           47.861388
         ]
@@ -4618,6 +7495,48 @@
         "location": "Valleyer Straße 60, 83627 Warngau",
         "mastr_number": "SEE969342965487",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3226324",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679344,
+          49.36561
+        ]
+      },
+      "properties": {
+        "power": 182,
+        "operator": "Becton Dickinson GmbH",
+        "unit_name": "BHKW MTU GR 182 N5",
+        "start_date": "25.8.2014",
+        "age_years": 10,
+        "location": "Tullastraße 8, 69126 Heidelberg",
+        "mastr_number": "SEE905886581387",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3240001",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684799,
+          49.422783
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Evangelische Stadtmission Haus Stephanus Hausleitung Detlef Bodamer",
+        "unit_name": "Tedom Micro T50  3449",
+        "start_date": "7.12.2016",
+        "age_years": 8,
+        "location": "Zeppelinstraße 9, 69121 Heidelberg",
+        "mastr_number": "SEE909317061394",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3251135",
         "cc": "No matching CC area"
       }
     },
@@ -4710,6 +7629,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.588467,
+          48.852725
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Enzkreis-Kliniken gGmbH",
+        "unit_name": "KH Neuenbürg",
+        "start_date": "30.7.2009",
+        "age_years": 15,
+        "location": "Marxzeller Straße 46, 75305 Neuenbürg",
+        "mastr_number": "SEE945044344331",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3291072",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.780509,
+          49.499486
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Deutsche Rentenversicherung Bund RZ in Bad Mergentheim",
+        "unit_name": "Bad Mergentheim Klinik Taubertal",
+        "start_date": "10.4.2014",
+        "age_years": 10,
+        "location": "Ketterberg 2, 97980 Bad Mergentheim",
+        "mastr_number": "SEE923053787554",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3292213",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.609021,
           49.957535
         ]
@@ -4773,6 +7734,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.806866,
+          48.576344
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Badische-Kraftwerk",
+        "unit_name": "Bahnhof Kehl",
+        "start_date": "31.7.2013",
+        "age_years": 11,
+        "location": "Bahnhofsplatz 1, 77694 Kehl",
+        "mastr_number": "SEE926186137494",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3350402",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.393748,
           48.853783
         ]
@@ -4807,6 +7789,27 @@
         "location": "Bismarckstraße 68, 97688 Bad Kissingen",
         "mastr_number": "SEE958052665503",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3357991",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.202762,
+          48.765358
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Merz Schule gGmbH",
+        "unit_name": "BHKW Schule",
+        "start_date": "16.12.2011",
+        "age_years": 13,
+        "location": "Albrecht-Leo-Merz-Weg 2, 70184 Stuttgart",
+        "mastr_number": "SEE934756767385",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3359118",
         "cc": "No matching CC area"
       }
     },
@@ -4962,6 +7965,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.166989,
+          48.758451
+        ]
+      },
+      "properties": {
+        "power": 51,
+        "operator": "WEG Auf dem Haigst 1A-7B  Vertr. Bietigheimer Wohnbau GmbH",
+        "unit_name": "Stuttgart WEG Haigst",
+        "start_date": "7.11.2019",
+        "age_years": 5,
+        "location": "Auf dem Haigst 1 C, 70597 Stuttgart",
+        "mastr_number": "SEE971173588261",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3393929",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.067746,
           49.918909
         ]
@@ -5025,6 +8049,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.69788,
+          48.887916
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Teas Energie Solutions",
+        "unit_name": "Sedan Carre Pforzheim",
+        "start_date": "25.3.2020",
+        "age_years": 5,
+        "location": "Bleichstraße 11, 75173 Pforzheim",
+        "mastr_number": "SEE996045201413",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3433093",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.507432,
           49.20834
         ]
@@ -5059,6 +8104,27 @@
         "location": "Göllstraße 1, 84529 Tittmoning",
         "mastr_number": "SEE991139681201",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3445026",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.236021,
+          48.826085
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Baugenossenschaft Bad Cannstatt eG",
+        "unit_name": "63000100 BHKW 5607",
+        "start_date": "20.12.2017",
+        "age_years": 7,
+        "location": "Falchstraße 14, 70378 Stuttgart",
+        "mastr_number": "SEE974662661162",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3464848",
         "cc": "No matching CC area"
       }
     },
@@ -5109,6 +8175,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.204925,
+          48.723842
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Nikolaus-Cuanus-Haus e.V.",
+        "unit_name": "BHKW Vitobloc 200 EM 140/207",
+        "start_date": "29.7.2014",
+        "age_years": 10,
+        "location": "Törlesäckerstraße 9, 70599 Stuttgart",
+        "mastr_number": "SEE913058672481",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3468334",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.883481,
           47.728867
         ]
@@ -5151,6 +8238,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.254711,
+          48.741399
+        ]
+      },
+      "properties": {
+        "power": 237,
+        "operator": "medius KLINIKEN gemeinnützige GmbH",
+        "unit_name": "BHKW 1 mKR",
+        "start_date": "11.9.2009",
+        "age_years": 15,
+        "location": "Hedelfinger Straße 166, 73760 Ostfildern",
+        "mastr_number": "SEE946959215525",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3479084",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.254711,
+          48.741399
+        ]
+      },
+      "properties": {
+        "power": 142,
+        "operator": "medius KLINIKEN gemeinnützige GmbH",
+        "unit_name": "BHKW 2 mKR",
+        "start_date": "13.12.2012",
+        "age_years": 12,
+        "location": "Hedelfinger Straße 166, 73760 Ostfildern",
+        "mastr_number": "SEE996107825618",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3479278",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.473205,
+          48.000094
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Kongregation der Franziskanerinnen von Sießen – Provinz Deutschland e. V.",
+        "unit_name": "BHKW1_Kloster",
+        "start_date": "10.6.2014",
+        "age_years": 10,
+        "location": "Kloster Sießen 3, 88348 Bad Saulgau",
+        "mastr_number": "SEE905623038068",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3479512",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.473205,
+          48.000094
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Kongregation der Franziskanerinnen von Sießen – Provinz Deutschland e. V.",
+        "unit_name": "BHKW2_Kloster",
+        "start_date": "22.10.2015",
+        "age_years": 9,
+        "location": "Kloster Sießen 3, 88348 Bad Saulgau",
+        "mastr_number": "SEE904206128769",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3479538",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.1818,
           49.3881
         ]
@@ -5172,6 +8343,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.8195,
+          48.3503
+        ]
+      },
+      "properties": {
+        "power": 100,
+        "operator": "Deutsche Post AG vertreten durch DPDHL RED GmbH",
+        "unit_name": "BHKW PZ Lahr WE162526",
+        "start_date": "9.3.2017",
+        "age_years": 8,
+        "location": "Dr.Georg-Schaeffler-Straße 14, 77933 Lahr",
+        "mastr_number": "SEE913308510433",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3486265",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.19241,
           49.465528
         ]
@@ -5185,6 +8377,27 @@
         "location": "Neusather Straße 22, 92507 Nabburg",
         "mastr_number": "SEE964030403692",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3486928",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.197532,
+          48.767109
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Haus Morgenstern e.V.",
+        "unit_name": "Haus Morgenstern e.V.",
+        "start_date": "1.12.2015",
+        "age_years": 9,
+        "location": "Gänsheidestraße 100, 70186 Stuttgart",
+        "mastr_number": "SEE938248087548",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3494864",
         "cc": "No matching CC area"
       }
     },
@@ -5277,6 +8490,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.380043,
+          49.401126
+        ]
+      },
+      "properties": {
+        "power": 112,
+        "operator": "Vermögen und Bau Baden-Württemberg Amt Heilbronn",
+        "unit_name": "ADH, JVA, BHKW 1 2014",
+        "start_date": "3.7.2014",
+        "age_years": 10,
+        "location": "Dr.-Traugott-Bender-Straße 2, 74740 Adelsheim",
+        "mastr_number": "SEE998423658680",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3514924",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.380061,
+          49.401103
+        ]
+      },
+      "properties": {
+        "power": 112,
+        "operator": "Vermögen und Bau Baden-Württemberg Amt Heilbronn",
+        "unit_name": "ADH, JVA, BHKW 2 2014",
+        "start_date": "3.7.2014",
+        "age_years": 10,
+        "location": "Dr.-Traugott-Bender-Straße 2, 74740 Adelsheim",
+        "mastr_number": "SEE915782505462",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3515148",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.71305,
+          49.275249
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Vermögen und Bau Baden-Württemberg Amt Heilbronn",
+        "unit_name": "KÜN, RWH, BHKW 2017",
+        "start_date": "26.10.2017",
+        "age_years": 7,
+        "location": "Daimlerstraße 35, 74653 Künzelsau",
+        "mastr_number": "SEE991473365492",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3519167",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.944489,
           49.774746
         ]
@@ -5290,6 +8566,90 @@
         "location": "Kantstraße 45, 97074 Würzburg",
         "mastr_number": "SEE985025905571",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3522995",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.899894,
+          48.073855
+        ]
+      },
+      "properties": {
+        "power": 119,
+        "operator": "Gemeinde Denzlingen Eigenbetrieb Energieerzeugung",
+        "unit_name": "BHKW KWK Berliner Str. 53 - Sport- und Familienbad MACH´BLAU",
+        "start_date": "31.3.2010",
+        "age_years": 14,
+        "location": "Berliner Straße 53, 79211 Denzlingen",
+        "mastr_number": "SEE951348581365",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3524537",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.178664,
+          48.816521
+        ]
+      },
+      "properties": {
+        "power": 199,
+        "operator": "Gemeinschaft der Teileigentümer, Hausverwaltung",
+        "unit_name": "Anlage408726724",
+        "start_date": "30.6.2014",
+        "age_years": 10,
+        "location": "Krailenshaldenstraße 44, 70469 Stuttgart",
+        "mastr_number": "SEE916439218162",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3525726",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.596086,
+          47.723978
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Liebenau Teilhabe gGmbH",
+        "unit_name": "GAS-BHKW ESS - Hegenberg",
+        "start_date": "28.7.2014",
+        "age_years": 10,
+        "location": "Hegenberg 8, 88074 Meckenbeuren",
+        "mastr_number": "SEE920968196600",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3527700",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.674412,
+          47.715106
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Liebenau Teilhabe gGmbH",
+        "unit_name": "GAS-BHKW ESS Rosenharz",
+        "start_date": "20.6.2013",
+        "age_years": 11,
+        "location": "Rosenharz 1, 88285 Bodnegg",
+        "mastr_number": "SEE938351386880",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3528588",
         "cc": "No matching CC area"
       }
     },
@@ -5332,6 +8692,48 @@
         "location": "Naunspitzstraße 1, 83080 Oberaudorf",
         "mastr_number": "SEE911019307281",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3542723",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.094081,
+          48.801372
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "WEG Bergheimer Hof",
+        "unit_name": "BHKW - WEG Bergheimer Hof",
+        "start_date": "7.12.2017",
+        "age_years": 7,
+        "location": "Am Bergheimer Hof 49, 70499 Stuttgart",
+        "mastr_number": "SEE971956791253",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3548059",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.188935,
+          48.829877
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Caritasverband für Stuttgart e.V.",
+        "unit_name": "BHKW AMG (Auricher Straße)",
+        "start_date": "16.7.2014",
+        "age_years": 10,
+        "location": "Auricher Straße 38, 70437 Stuttgart",
+        "mastr_number": "SEE927906748716",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3561192",
         "cc": "No matching CC area"
       }
     },
@@ -5466,6 +8868,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.139468,
+          48.733609
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "WEG Balinger Str./Onstmettinger Weg/Winterlinger Weg",
+        "unit_name": "BHKW - WEG Balinger Str./Onstmettinger Weg/Winterlinger Weg",
+        "start_date": "22.10.2013",
+        "age_years": 11,
+        "location": "Onstmettinger Weg 5, 70567 Stuttgart",
+        "mastr_number": "SEE921681121405",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3574638",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.412745,
           49.494887
         ]
@@ -5508,6 +8931,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.20637,
+          48.72152
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Evangelische Landeskirche in Württemberg,  Evangelischer Oberkirchenrat, Referat 8.5 / ZGM",
+        "unit_name": "BHKW 2",
+        "start_date": "27.2.2013",
+        "age_years": 12,
+        "location": "Grüninger Straße 25, 70599 Stuttgart",
+        "mastr_number": "SEE932254848117",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3580217",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.567033,
           47.762138
         ]
@@ -5521,6 +8965,48 @@
         "location": "Bahnhofstraße 3, 83646 Bad Tölz",
         "mastr_number": "SEE925305668444",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3582633",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.336432,
+          49.526777
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Hoffmann + Krippner",
+        "unit_name": "BHKW 50KW",
+        "start_date": "4.12.2012",
+        "age_years": 12,
+        "location": "Siemensstraße 1, 74722 Buchen",
+        "mastr_number": "SEE939308574060",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3590505",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.980666,
+          49.380461
+        ]
+      },
+      "properties": {
+        "power": 238,
+        "operator": "Firma Johannes-Diakonie Mosbach  Rolf Roser",
+        "unit_name": "BHKW Schwarzacher Hof, Energiezentrale WfbM",
+        "start_date": "2.7.2008",
+        "age_years": 16,
+        "location": "nan nan, 74869 Schwarzach",
+        "mastr_number": "SEE984517712185",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3597825",
         "cc": "No matching CC area"
       }
     },
@@ -5571,6 +9057,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.123255,
+          48.816024
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stiftung Evangelische Altenheimat",
+        "unit_name": "BHKW-AWL",
+        "start_date": "11.1.2013",
+        "age_years": 12,
+        "location": "Goslarer Straße 81, 70499 Stuttgart",
+        "mastr_number": "SEE956968211432",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3610578",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.965796,
           49.500798
         ]
@@ -5613,6 +9120,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.506818,
+          49.665432
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "EMK GmbH",
+        "unit_name": "EMK, P2, Halle 37",
+        "start_date": "1.12.2010",
+        "age_years": 14,
+        "location": "Pionierstraße 2, 97900 Külsheim",
+        "mastr_number": "SEE988859959192",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3611206",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.030646,
           49.571395
         ]
@@ -5626,6 +9154,48 @@
         "location": "Schottkystraße 10, 91058 Erlangen",
         "mastr_number": "SEE947941440062",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3613625",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.356162,
+          47.661034
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Gemeinde Immenstaad",
+        "unit_name": "BHKW Aquastaad",
+        "start_date": "26.10.2017",
+        "age_years": 7,
+        "location": "Strandbadstraße 1, 88090 Immenstaad",
+        "mastr_number": "SEE944506804987",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3628456",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.588413,
+          47.784142
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Die Zieglersche-Nord-gemeinnützige-GmbH",
+        "unit_name": "BHKW RV DZ Nord",
+        "start_date": "22.4.2016",
+        "age_years": 8,
+        "location": "Hochgerichtstraße 46, 88213 Ravensburg",
+        "mastr_number": "SEE998516038047",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3631610",
         "cc": "No matching CC area"
       }
     },
@@ -5731,6 +9301,27 @@
         "location": "Hochweg 83, 93049 Regensburg",
         "mastr_number": "SEE936048761408",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3647371",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.474423,
+          47.653686
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Liebenau Lebenswert Alter gemeinnützige GmbH",
+        "unit_name": "GAS-BHKW ESS - Franziskuszentrum FN",
+        "start_date": "22.12.2015",
+        "age_years": 9,
+        "location": "Franziskusplatz 1, 88045 Friedrichshafen",
+        "mastr_number": "SEE989874662760",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3650595",
         "cc": "No matching CC area"
       }
     },
@@ -5907,6 +9498,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.633787,
+          49.382472
+        ]
+      },
+      "properties": {
+        "power": 100,
+        "operator": "Stadt Krautheim",
+        "unit_name": "BHKW Schulzentrum Krautheim",
+        "start_date": "15.11.2019",
+        "age_years": 5,
+        "location": "Gustav-Meyer-Zentrum 4, 74238 Krautheim",
+        "mastr_number": "SEE989470332982",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3684896",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.877216,
           48.049558
         ]
@@ -5920,6 +9532,27 @@
         "location": "Hauptplatz 6, 86899 Landsberg",
         "mastr_number": "SEE934609752018",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3706239",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.095953,
+          48.803927
+        ]
+      },
+      "properties": {
+        "power": 112,
+        "operator": "LAVA  GmbH & Co. KG",
+        "unit_name": "BHKW - WEG Solitude",
+        "start_date": "8.10.2012",
+        "age_years": 12,
+        "location": "Engelbergstraße 40, 70499 Stuttgart",
+        "mastr_number": "SEE928776411199",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3713337",
         "cc": "No matching CC area"
       }
     },
@@ -5970,6 +9603,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.441563,
+          47.675721
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Hotel Restaurant Krone Guido Ruess e.K.",
+        "unit_name": "Haupthaus",
+        "start_date": "4.10.2012",
+        "age_years": 12,
+        "location": "Untere Mühlbachstraße 1, 88045 Friedrichshafen",
+        "mastr_number": "SEE986685270672",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3730385",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.441563,
+          47.675721
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Hotel Restaurant Krone Guido Ruess e.K.",
+        "unit_name": "Landhaus",
+        "start_date": "5.12.2013",
+        "age_years": 11,
+        "location": "Untere Mühlbachstraße 1, 88045 Friedrichshafen",
+        "mastr_number": "SEE960181140523",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3731351",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.003293,
           49.798249
         ]
@@ -6012,6 +9687,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.4761,
+          47.653934
+        ]
+      },
+      "properties": {
+        "power": 49,
+        "operator": "Sparkasse Bodensee",
+        "unit_name": "Blockkraftheizwerk",
+        "start_date": "20.12.2016",
+        "age_years": 8,
+        "location": "Charlottenstraße 2, 88045 Friedrichshafen",
+        "mastr_number": "SEE924920510732",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3763123",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.295347,
+          48.55522
+        ]
+      },
+      "properties": {
+        "power": 136,
+        "operator": "Stadtwerke Metzingen",
+        "unit_name": "BHKW Florian 105",
+        "start_date": "23.11.2011",
+        "age_years": 13,
+        "location": "Florianstraße 105, 72555 Metzingen",
+        "mastr_number": "SEE994901155733",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3763211",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.237809,
           49.255959
         ]
@@ -6033,6 +9750,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.472109,
+          49.607136
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Maschinenfabrik Gustav Eirich GmbH & Co KG",
+        "unit_name": "Mafa, Geb. 2, MoLa",
+        "start_date": "2.10.2012",
+        "age_years": 12,
+        "location": "Walldürner Straße 50, 74736 Hardheim",
+        "mastr_number": "SEE996174329767",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3770542",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.309868,
+          48.510695
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerke Metzingen",
+        "unit_name": "BHKW Otto-Single-Halle",
+        "start_date": "26.3.2019",
+        "age_years": 6,
+        "location": "Neuhauser Straße 52, 72555 Metzingen",
+        "mastr_number": "SEE918040714668",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3777686",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.939396,
           48.433435
         ]
@@ -6046,6 +9805,27 @@
         "location": "Ringstraße 3, 84347 Pfarrkirchen",
         "mastr_number": "SEE951832268291",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3779916",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.291941,
+          48.556919
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadtwerke Metzingen",
+        "unit_name": "BHKW Pappelweg",
+        "start_date": "23.10.2014",
+        "age_years": 10,
+        "location": "Pappelweg 27, 72555 Metzingen",
+        "mastr_number": "SEE913882340266",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3784084",
         "cc": "No matching CC area"
       }
     },
@@ -6130,6 +9910,27 @@
         "location": "Obernbreiter Straße 4, 97340 Marktbreit",
         "mastr_number": "SEE974742100680",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3791657",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.709462,
+          49.556975
+        ]
+      },
+      "properties": {
+        "power": 90,
+        "operator": "i_Park GmbH",
+        "unit_name": "i-Park TBF BHKW",
+        "start_date": "21.5.2015",
+        "age_years": 9,
+        "location": "Becksteiner Str. 100, 97922 Lauda-Königshofen",
+        "mastr_number": "SEE992684522124",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3791811",
         "cc": "No matching CC area"
       }
     },
@@ -6327,6 +10128,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.174933,
+          48.76798
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stuttgarter Kolpinghäuser e. V.",
+        "unit_name": "408565310",
+        "start_date": "26.8.2011",
+        "age_years": 13,
+        "location": "Heusteigstraße 66, 70180 Stuttgart",
+        "mastr_number": "SEE970109758761",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3817709",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.109244,
+          48.722059
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Friedrich SCHARR KG, c/o Harald Fuchs",
+        "unit_name": "408723056",
+        "start_date": "27.1.2015",
+        "age_years": 10,
+        "location": "Liebknechtstraße 50, 70565 Stuttgart",
+        "mastr_number": "SEE916843451636",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3823110",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.690268,
+          48.89627
+        ]
+      },
+      "properties": {
+        "power": 147,
+        "operator": "Evangelischer Diakonissenverein Siloah Heim am Hachel",
+        "unit_name": "BHKW Heim am Hachel",
+        "start_date": "26.3.2015",
+        "age_years": 10,
+        "location": "Kaiser-Wilhelm-Straße 12, 75179 Pforzheim",
+        "mastr_number": "SEE972192971522",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3828267",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.846725,
           47.729954
         ]
@@ -6340,6 +10204,27 @@
         "location": "Westerbergstraße 12, 83727 Schliersee",
         "mastr_number": "SEE917462472415",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3828743",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.355413,
+          48.523644
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Gemeinde Dettingen",
+        "unit_name": "Hülbener Straße 110",
+        "start_date": "2.6.2010",
+        "age_years": 14,
+        "location": "Hülbener Straße 110, 72581 Dettingen",
+        "mastr_number": "SEE977314625888",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3836333",
         "cc": "No matching CC area"
       }
     },
@@ -6403,6 +10288,48 @@
         "location": "Freimoos 1, 83257 Gstadt",
         "mastr_number": "SEE959555685586",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3845518",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.182665,
+          48.283991
+        ]
+      },
+      "properties": {
+        "power": 119,
+        "operator": "Neumayer Tekfor GmbH",
+        "unit_name": "BHKW M1",
+        "start_date": "10.10.2013",
+        "age_years": 11,
+        "location": "Hinterer Bahnhof 17, 77756 Hausach",
+        "mastr_number": "SEE970376690467",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3846021",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.182665,
+          48.283991
+        ]
+      },
+      "properties": {
+        "power": 119,
+        "operator": "Neumayer Tekfor GmbH",
+        "unit_name": "BHKW M2",
+        "start_date": "10.10.2013",
+        "age_years": 11,
+        "location": "Hinterer Bahnhof 17, 77756 Hausach",
+        "mastr_number": "SEE917950394236",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3846899",
         "cc": "No matching CC area"
       }
     },
@@ -6495,6 +10422,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.93809,
+          48.666081
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadt Rheinau PV-Sporthalle",
+        "unit_name": "BHKW Schulzentrum Freistett",
+        "start_date": "10.10.2012",
+        "age_years": 12,
+        "location": "Freiburger Straße 9, 77866 Rheinau",
+        "mastr_number": "SEE958326000566",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3888556",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.089383,
           49.014319
         ]
@@ -6508,6 +10456,90 @@
         "location": "Helenenstraße 2, 93047 Regensburg",
         "mastr_number": "SEE960037973510",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3893879",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.736643,
+          47.675937
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "St. Jakobus gGmbH",
+        "unit_name": "BHKW Haslach",
+        "start_date": "2.7.2014",
+        "age_years": 10,
+        "location": "Hoferweg 6, 88239 Wangen",
+        "mastr_number": "SEE940495087028",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3894585",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.744753,
+          49.486699
+        ]
+      },
+      "properties": {
+        "power": 240,
+        "operator": "Würth Industrie Service GmbH & Co. KG",
+        "unit_name": "BHKW 1 Heizhaus",
+        "start_date": "31.10.2012",
+        "age_years": 12,
+        "location": "Drillberg 1, 97980 Bad Mergentheim",
+        "mastr_number": "SEE977351798422",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3895088",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.744753,
+          49.486699
+        ]
+      },
+      "properties": {
+        "power": 240,
+        "operator": "Würth Industrie Service GmbH & Co. KG",
+        "unit_name": "BHKW 2 Heizhaus",
+        "start_date": "24.7.2014",
+        "age_years": 10,
+        "location": "Drillberg 1, 97980 Bad Mergentheim",
+        "mastr_number": "SEE989823326163",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3895422",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.504595,
+          47.79554
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Obstbau Haller",
+        "unit_name": "BHKW 2013",
+        "start_date": "25.7.2013",
+        "age_years": 11,
+        "location": "Gossetsweiler nan, 88263 Horgenzell",
+        "mastr_number": "SEE929051551203",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3895621",
         "cc": "No matching CC area"
       }
     },
@@ -6613,6 +10645,27 @@
         "location": "Fröbershammer 12, 95493 Bischofsgrün",
         "mastr_number": "SEE999576993215",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3905967",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.076154,
+          49.135966
+        ]
+      },
+      "properties": {
+        "power": 135,
+        "operator": "Landkreis Schwäbisch Hall Klinikum gGmbH",
+        "unit_name": "BHKW-1-Bauteil A",
+        "start_date": "15.3.2016",
+        "age_years": 9,
+        "location": "Gartenstraße 21, 74564 Crailsheim",
+        "mastr_number": "SEE952457439929",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/3913277",
         "cc": "No matching CC area"
       }
     },
@@ -6915,6 +10968,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.905285,
+          47.911763
+        ]
+      },
+      "properties": {
+        "power": 139,
+        "operator": "Städtischer Kurbetrieb Bad Wurzach",
+        "unit_name": "BHKW",
+        "start_date": "26.11.2015",
+        "age_years": 9,
+        "location": "Karl-Wilhelm-Heck-Straße 12, 88410 Bad Wurzach",
+        "mastr_number": "SEE940374802063",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4047517",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.305825,
           50.429491
         ]
@@ -6978,6 +11052,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.728878,
+          48.837771
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "SWP Stadtwerke Pforzheim",
+        "unit_name": "KWK-Hohenwart",
+        "start_date": "30.7.2014",
+        "age_years": 10,
+        "location": "Schönbornstraße 29, 75181 Pforzheim",
+        "mastr_number": "SEE918020180360",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4053445",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.039932,
           49.936914
         ]
@@ -6991,6 +11086,48 @@
         "location": "Ostring 28, 63762 Großostheim",
         "mastr_number": "SEE911839215001",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4058773",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.71689,
+          48.881282
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "SWP Stadtwerke Pforzheim",
+        "unit_name": "KWK-AKS",
+        "start_date": "30.7.2010",
+        "age_years": 14,
+        "location": "August-Kayser-Straße 23, 75175 Pforzheim",
+        "mastr_number": "SEE942373308829",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4071986",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.796647,
+          49.495911
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Vitalhotel König OHG",
+        "unit_name": "Wolf GTK50",
+        "start_date": "19.12.2018",
+        "age_years": 6,
+        "location": "Erlenbachweg 21, 97980 Bad Mergentheim",
+        "mastr_number": "SEE979016894982",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4098755",
         "cc": "No matching CC area"
       }
     },
@@ -7054,6 +11191,27 @@
         "location": "Lindberghstraße 9, 85051 Ingolstadt",
         "mastr_number": "SEE988437469020",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4111148",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.217534,
+          48.448304
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "WEG Wackersteinstraße 38",
+        "unit_name": "BHKW Wackersteinstraße 38",
+        "start_date": "17.1.2013",
+        "age_years": 12,
+        "location": "Wackersteinstraße 38, 72793 Pfullingen",
+        "mastr_number": "SEE978006152668",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4116965",
         "cc": "No matching CC area"
       }
     },
@@ -7138,6 +11296,48 @@
         "location": "Am Greinberg 25, 97199 Ochsenfurt",
         "mastr_number": "SEE979297427749",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4126839",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.086898,
+          49.29189
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Domus Cura  Pflegezentrum Hüffenhardt GmbH",
+        "unit_name": "BHKW Muscetier NG 50",
+        "start_date": "6.3.2017",
+        "age_years": 8,
+        "location": "August-H.-Francke-Straße 2, 74928 Hüffenhardt",
+        "mastr_number": "SEE984453823501",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4134240",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.488882,
+          49.205524
+        ]
+      },
+      "properties": {
+        "power": 49,
+        "operator": "Grabert Verwaltungs-GmbH",
+        "unit_name": "BHKW050",
+        "start_date": "24.9.2013",
+        "age_years": 11,
+        "location": "Austr. 5, 74613 Öhringen",
+        "mastr_number": "SEE955906342856",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4134521",
         "cc": "No matching CC area"
       }
     },
@@ -7314,6 +11514,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.71959,
+          48.261524
+        ]
+      },
+      "properties": {
+        "power": 220,
+        "operator": "Europa-Park GmbH & Co. Mack KG",
+        "unit_name": "BHKW Portugal",
+        "start_date": "29.7.2014",
+        "age_years": 10,
+        "location": "Europa-Park-Straße 2, 77977 Rust",
+        "mastr_number": "SEE969711605198",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4172152",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719196,
+          48.263795
+        ]
+      },
+      "properties": {
+        "power": 220,
+        "operator": "Europa-Park GmbH & Co. Mack KG",
+        "unit_name": "BHKW Verwaltung",
+        "start_date": "29.7.2014",
+        "age_years": 10,
+        "location": "Europa-Park-Straße 2, 77977 Rust",
+        "mastr_number": "SEE991770688294",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4172323",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.843097,
           49.738883
         ]
@@ -7377,6 +11619,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.067252,
+          48.625528
+        ]
+      },
+      "properties": {
+        "power": 112,
+        "operator": "Ortenau Klinikum Achern",
+        "unit_name": "BHKW Ortenau Klinikum Achern",
+        "start_date": "10.10.2014",
+        "age_years": 10,
+        "location": "Josef-Wurzler-Straße 7, 77855 Achern",
+        "mastr_number": "SEE937571204516",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4183121",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.082824,
           50.189844
         ]
@@ -7419,6 +11682,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.182046,
+          49.381251
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Herrmann GmbH Karosserie + Lack",
+        "unit_name": "BHKW 2017",
+        "start_date": "29.9.2017",
+        "age_years": 7,
+        "location": "Im Trienzfeld 1, 74834 Elztal",
+        "mastr_number": "SEE911540547545",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4194106",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.973933,
           49.019044
         ]
@@ -7432,6 +11716,27 @@
         "location": "Schönau 2, 91781 Weißenburg",
         "mastr_number": "SEE992526626362",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4194829",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.48047,
+          48.414228
+        ]
+      },
+      "properties": {
+        "power": 177,
+        "operator": "Firma Franz Tress GmbH & Co. KG",
+        "unit_name": "BHKW Tress I",
+        "start_date": "10.7.2014",
+        "age_years": 10,
+        "location": "Dottinger Straße 69, 72525 Münsingen",
+        "mastr_number": "SEE923998660134",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4194844",
         "cc": "No matching CC area"
       }
     },
@@ -7474,6 +11779,69 @@
         "location": "Büchenbacher Anlage 27, 91056 Erlangen",
         "mastr_number": "SEE933474291974",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4195117",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.66303,
+          49.62793
+        ]
+      },
+      "properties": {
+        "power": 49,
+        "operator": "Stadtverwaltung Tauberbischofsheim",
+        "unit_name": "KWK Anlage 49,5 kW",
+        "start_date": "11.8.2016",
+        "age_years": 8,
+        "location": "Pestalozziallee 12, 97941 Tauberbischofsheim",
+        "mastr_number": "SEE930214398474",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4195125",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.66303,
+          49.62793
+        ]
+      },
+      "properties": {
+        "power": 112,
+        "operator": "Stadtverwaltung Tauberbischofsheim",
+        "unit_name": "KWK Anlage 112 kW",
+        "start_date": "23.7.2015",
+        "age_years": 9,
+        "location": "Pestalozziallee 12, 97941 Tauberbischofsheim",
+        "mastr_number": "SEE979627689403",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4195397",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.48047,
+          48.414228
+        ]
+      },
+      "properties": {
+        "power": 177,
+        "operator": "Firma Franz Tress GmbH & Co. KG",
+        "unit_name": "BHKW Tress II",
+        "start_date": "10.7.2014",
+        "age_years": 10,
+        "location": "Dottinger Straße 69, 72525 Münsingen",
+        "mastr_number": "SEE932666590178",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4195786",
         "cc": "No matching CC area"
       }
     },
@@ -7558,6 +11926,48 @@
         "location": "Nikolaus-Nüssel-Straße 9, 95466 Weidenberg",
         "mastr_number": "SEE936382161414",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4196928",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.846348,
+          48.336794
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "badenova WärmePlus GmbH & Co. KG",
+        "unit_name": "Lahr Mauerweg 7 BHKW 4",
+        "start_date": "23.6.2014",
+        "age_years": 10,
+        "location": "Mauerweg 7, 77933 Lahr",
+        "mastr_number": "SEE970186611805",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4201888",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.704558,
+          49.562445
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadt Lauda-Königshofen, Marktplatz 1, 97922 Lauda-Königshofen",
+        "unit_name": "KWK - MSG1 - Lauda-Königshofen",
+        "start_date": "21.7.2014",
+        "age_years": 10,
+        "location": "Becksteiner Straße 60, 97922 Lauda-Königshofen",
+        "mastr_number": "SEE976282361415",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4205110",
         "cc": "No matching CC area"
       }
     },
@@ -7671,6 +12081,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.298327,
+          47.820964
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Camphill Schulgemeinschaften e.V.",
+        "unit_name": "Föhrenbühl BHKW1",
+        "start_date": "22.7.2014",
+        "age_years": 10,
+        "location": "Föhrenbühlweg 5, 88633 Heiligenberg",
+        "mastr_number": "SEE986180553522",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4222630",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.86634,
           48.826918
         ]
@@ -7684,6 +12115,27 @@
         "location": "Regensburger Straße 60, 93326 Abensberg",
         "mastr_number": "SEE967895178637",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4223048",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.298327,
+          47.820964
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Camphill Schulgemeinschaften e.V.",
+        "unit_name": "Föhrenbühl BHKW2",
+        "start_date": "22.7.2014",
+        "age_years": 10,
+        "location": "Föhrenbühlweg 5, 88633 Heiligenberg",
+        "mastr_number": "SEE982485673361",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4223111",
         "cc": "No matching CC area"
       }
     },
@@ -7768,6 +12220,27 @@
         "location": "Siegerthöhe 1, 83308 Trostberg",
         "mastr_number": "SEE929563636665",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4225207",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.270986,
+          47.918299
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Linzgau Real Estate",
+        "unit_name": "KWK0008",
+        "start_date": "1.9.2014",
+        "age_years": 10,
+        "location": "Heiligenberger Straße 47, 88630 Pfullendorf",
+        "mastr_number": "SEE922529441365",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4225583",
         "cc": "No matching CC area"
       }
     },
@@ -7923,6 +12396,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.510631,
+          49.198392
+        ]
+      },
+      "properties": {
+        "power": 120,
+        "operator": "Stadtbauamt Öhringen",
+        "unit_name": "BHKW II",
+        "start_date": "1.10.2000",
+        "age_years": 24,
+        "location": "Pfaffenmühlweg 48, 74613 Öhringen",
+        "mastr_number": "SEE923062749833",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4246810",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.873336,
           48.050644
         ]
@@ -8028,6 +12522,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.751535,
+          48.124414
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Gerhard Ernst GmbH",
+        "unit_name": "BHKW 50kW Erdgas",
+        "start_date": "6.11.2009",
+        "age_years": 15,
+        "location": "Schochenwinkel 8, 79353 Bahlingen",
+        "mastr_number": "SEE905998406059",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4257895",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.566651,
           49.951915
         ]
@@ -8049,6 +12564,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.943083,
+          48.470618
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Zinser Grundstücks GmbH & Co. KG",
+        "unit_name": "BHKW 50 KW Offenburg",
+        "start_date": "4.11.2011",
+        "age_years": 13,
+        "location": "Hauptstraße 55, 77652 Offenburg",
+        "mastr_number": "SEE961872509186",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4260342",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.943083,
+          48.470618
+        ]
+      },
+      "properties": {
+        "power": 150,
+        "operator": "Zinser Grundstücks GmbH & Co. KG",
+        "unit_name": "BHKW 150 KW Offenburg",
+        "start_date": "4.11.2011",
+        "age_years": 13,
+        "location": "Hauptstraße 55, 77652 Offenburg",
+        "mastr_number": "SEE957691991707",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4260443",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.861537,
           48.050045
         ]
@@ -8062,6 +12619,48 @@
         "location": "Fritz-Beck-Str. 1, 86899 Landsberg",
         "mastr_number": "SEE960368741055",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4269938",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.215013,
+          48.48758
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "HBG - Heizwerkbetriebsgesellschaft Reutlingen mbH",
+        "unit_name": "Champignystraße 3, 72762 Reutlingen",
+        "start_date": "6.5.2009",
+        "age_years": 15,
+        "location": "Champignystraße 3, 72762 Reutlingen",
+        "mastr_number": "SEE913013741702",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4276556",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.905436,
+          49.477419
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Stadt Weikersheim",
+        "unit_name": "BHKW Schulzentrum Weikersheim",
+        "start_date": "12.9.2005",
+        "age_years": 19,
+        "location": "Laudenbacher Straße 24, 97990 Weikersheim",
+        "mastr_number": "SEE990594995533",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4276902",
         "cc": "No matching CC area"
       }
     },
@@ -8112,6 +12711,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.639293,
+          47.955897
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Waldburg-Zeil Kliniken GmbH & Co. - Aulendorf - KG",
+        "unit_name": "BHKW Klinik Aulendorf I",
+        "start_date": "30.10.2014",
+        "age_years": 10,
+        "location": "Schussenrieder Straße 5, 88326 Aulendorf",
+        "mastr_number": "SEE982066065332",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4282608",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.63524,
+          47.953224
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Schussentalklinik GmbH",
+        "unit_name": "BHKW Schussentalklinik",
+        "start_date": "28.7.2014",
+        "age_years": 10,
+        "location": "Safranmoosstraße 5, 88326 Aulendorf",
+        "mastr_number": "SEE963723833389",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4283481",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.879321,
+          48.340658
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Caritasverband Lahr e.V.",
+        "unit_name": "Nahwärmeversorgung Sancta Maria",
+        "start_date": "24.4.2013",
+        "age_years": 11,
+        "location": "Bismarckstraße 84, 77933 Lahr",
+        "mastr_number": "SEE974116134709",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4290632",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.176776,
           47.859362
         ]
@@ -8154,6 +12816,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.475616,
+          49.609808
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Gemeinde Hardheim",
+        "unit_name": "Blockheizkraftwerk Schulzentrum",
+        "start_date": "30.11.2011",
+        "age_years": 13,
+        "location": "Schulstraße 8, 74736 Hardheim",
+        "mastr_number": "SEE984258562933",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4322884",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.214247,
           49.719354
         ]
@@ -8167,6 +12850,27 @@
         "location": "Gottlieb-Wagner-Straße 2, 63924 Kleinheubach",
         "mastr_number": "SEE917712834444",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4327234",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.470725,
+          49.611694
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Krankenhausverband Hardheim-Walldürn",
+        "unit_name": "Krankenhaus Hardheim BHKW",
+        "start_date": "25.5.2012",
+        "age_years": 12,
+        "location": "Wertheimer Straße 95, 74736 Hardheim",
+        "mastr_number": "SEE971580568832",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4331527",
         "cc": "No matching CC area"
       }
     },
@@ -8238,6 +12942,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.018843,
+          48.363747
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Pflege- und Betreuungsheim",
+        "unit_name": "BHKW PBO",
+        "start_date": "14.11.2017",
+        "age_years": 7,
+        "location": "Fußbach 5, 77723 Gengenbach",
+        "mastr_number": "SEE921341503107",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4347607",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.860583,
           49.443054
         ]
@@ -8259,6 +12984,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.05219,
+          47.700748
+        ]
+      },
+      "properties": {
+        "power": 129,
+        "operator": "Jork Beteiligungs GmbH",
+        "unit_name": "BHKW Halle4",
+        "start_date": "27.6.2019",
+        "age_years": 5,
+        "location": "Alemannenstraße 3 -6, 88316 Isny",
+        "mastr_number": "SEE977895419265",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4351528",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.014879,
           49.594017
         ]
@@ -8272,6 +13018,27 @@
         "location": "Werner-von-Siemens-Straße 41, 91052 Erlangen",
         "mastr_number": "SEE937577354338",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4371435",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.515591,
+          49.202881
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Dürr Präzisionswerkzeuge GmbH",
+        "unit_name": "BHKW 70kW",
+        "start_date": "13.11.2013",
+        "age_years": 11,
+        "location": "Brechdarrweg 42, 74613 Öhringen",
+        "mastr_number": "SEE985721061618",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4398613",
         "cc": "No matching CC area"
       }
     },
@@ -8314,6 +13081,27 @@
         "location": "Leimbergerstraße 45, 92637 Weiden",
         "mastr_number": "SEE907913753378",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4424315",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.597872,
+          47.672811
+        ]
+      },
+      "properties": {
+        "power": 227,
+        "operator": "MCB Klinik Tettnang",
+        "unit_name": "BhkW Klinik Tettnang",
+        "start_date": "28.7.2014",
+        "age_years": 10,
+        "location": "Emil-Münch-Straße 16, 88069 Tettnang",
+        "mastr_number": "SEE931550552056",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4448624",
         "cc": "No matching CC area"
       }
     },
@@ -8377,6 +13165,27 @@
         "location": "Am Hafen 1, 97437 Haßfurt",
         "mastr_number": "SEE943826835299",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4486863",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.632151,
+          47.800167
+        ]
+      },
+      "properties": {
+        "power": 132,
+        "operator": "Krankenhaus 14 Nothelfer GmbH",
+        "unit_name": "BHKW",
+        "start_date": "16.6.2016",
+        "age_years": 8,
+        "location": "Ravensburger Straße 39, 88250 Weingarten",
+        "mastr_number": "SEE935703737697",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4491220",
         "cc": "No matching CC area"
       }
     },
@@ -8545,6 +13354,48 @@
         "location": "Pfarrer-Fichtl-Straße 16, 93176 Beratzhausen",
         "mastr_number": "SEE935681948634",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4604532",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.226025,
+          48.819903
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Dienste für Menschen gGmbH",
+        "unit_name": "BHKW Stuttgart-Münster",
+        "start_date": "25.6.2014",
+        "age_years": 10,
+        "location": "Schussengasse 3, 70376 Stuttgart",
+        "mastr_number": "SEE962251013034",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4654935",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.13235,
+          48.727804
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Ed. Züblin AG",
+        "unit_name": "BHKW Stuttgart (Anlage 408678821)",
+        "start_date": "12.12.2013",
+        "age_years": 11,
+        "location": "Albstadtweg 3, 70567 Stuttgart",
+        "mastr_number": "SEE900449352718",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/4668006",
         "cc": "No matching CC area"
       }
     },
@@ -8805,6 +13656,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.181555,
+          47.765378
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Birkle-Klinik",
+        "unit_name": "Keller",
+        "start_date": "1.1.2012",
+        "age_years": 13,
+        "location": "Obere-St.-Leonhard-Straße 55, 88662 Überlingen",
+        "mastr_number": "SEE975013504695",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/5112590",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.376279,
           47.754411
         ]
@@ -8839,6 +13711,195 @@
         "location": "Thomas-Mann-Str. 6, 82340 Feldafing",
         "mastr_number": "SEE997115220181",
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/5173539",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.292051,
+          48.543976
+        ]
+      },
+      "properties": {
+        "power": 112,
+        "operator": "Evangelischer Diakonissenring Metzingen e.V.",
+        "unit_name": "BHKW 112 kW / Identifikations-Nr. 6034870 / Standort Haus am Park",
+        "start_date": "2.1.2009",
+        "age_years": 16,
+        "location": "Elsa-Brändström-Straße 10, 72555 Metzingen",
+        "mastr_number": "SEE975495758371",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/5193040",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.179006,
+          48.812908
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Christian Winkler GmbH &Co.KG",
+        "unit_name": "Viessmann Erdgas BHKW",
+        "start_date": "18.5.2015",
+        "age_years": 9,
+        "location": "Leitzstraße 47, 70469 Stuttgart",
+        "mastr_number": "SEE964620752070",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/5300812",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.145919,
+          47.771537
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Klinik Buchinger Wilhelmi GmbH",
+        "unit_name": "BHKW 1 287852029",
+        "start_date": "1.1.2013",
+        "age_years": 12,
+        "location": "Wilhelm-Beck-Straße 27, 88662 Überlingen",
+        "mastr_number": "SEE924889856889",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/5378935",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.47534,
+          49.603307
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "GRAMMER Interior Components",
+        "unit_name": "BHKW_Grammer_Hardheim",
+        "start_date": "1.3.2016",
+        "age_years": 9,
+        "location": "Industriestraße 9, 74736 Hardheim",
+        "mastr_number": "SEE927161506687",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/5427310",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.061573,
+          49.137015
+        ]
+      },
+      "properties": {
+        "power": 124,
+        "operator": "Wäscherei Wörsinger GmbH",
+        "unit_name": "BHKW 124,00",
+        "start_date": "23.4.2013",
+        "age_years": 11,
+        "location": "In der Kürz 10, 74564 Crailsheim",
+        "mastr_number": "SEE996662056434",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/5493228",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.145919,
+          47.771537
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Klinik Buchinger Wilhelmi GmbH",
+        "unit_name": "BHKW 2  7411148503348104",
+        "start_date": "11.12.2015",
+        "age_years": 9,
+        "location": "Wilhelm-Beck-Straße 27, 88662 Überlingen",
+        "mastr_number": "SEE980979500780",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/5555953",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.211676,
+          48.797663
+        ]
+      },
+      "properties": {
+        "power": 112,
+        "operator": "Landeshauptstadt Stuttgart, Bäderbetriebe Stuttgart (BBS), c/o Amt für Umweltschutz (36-5.2)",
+        "unit_name": "BHKW Mineralbad Leuze 2",
+        "start_date": "10.10.2013",
+        "age_years": 11,
+        "location": "Am Leuzebad 2 A, 70190 Stuttgart",
+        "mastr_number": "SEE950680321417",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/5807165",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.211676,
+          48.797663
+        ]
+      },
+      "properties": {
+        "power": 112,
+        "operator": "Landeshauptstadt Stuttgart, Bäderbetriebe Stuttgart (BBS), c/o Amt für Umweltschutz (36-5.2)",
+        "unit_name": "BHKW Mineralbad Leuze 3",
+        "start_date": "10.10.2013",
+        "age_years": 11,
+        "location": "Am Leuzebad 2 A, 70190 Stuttgart",
+        "mastr_number": "SEE996615547163",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/5807235",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.246428,
+          48.778775
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Landeshauptstadt Stuttgart, Bäderbetriebe Stuttgart (BBS), c/o Amt für Umweltschutz (36-5.2)",
+        "unit_name": "BHKW Inselbad Untertürkheim 2",
+        "start_date": "10.5.2006",
+        "age_years": 18,
+        "location": "Inselbad 1, 70327 Stuttgart",
+        "mastr_number": "SEE921062551647",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/5807317",
         "cc": "No matching CC area"
       }
     },
