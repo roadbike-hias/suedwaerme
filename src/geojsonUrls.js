@@ -55,7 +55,10 @@ const standorteCC = [
     'https://raw.githubusercontent.com/roadbike-hias/suedwaerme/refs/heads/main/standorteCC/Koenig.geojson'
 ];
 
-const standorteMastr = [
-    'https://raw.githubusercontent.com/roadbike-hias/suedwaerme/refs/heads/main/standorteAnlagen/addresses_uheim.geojson',
-    'https://raw.githubusercontent.com/roadbike-hias/suedwaerme/refs/heads/main/standorteAnlagen/addresses_rt.geojson'
+const standorteMastrMatched = [
+    'https://raw.githubusercontent.com/roadbike-hias/suedwaerme/refs/heads/main/mastr/matched_units.geojson'
+];
+
+const standorteMastrUnmatched = [
+    'https://raw.githubusercontent.com/roadbike-hias/suedwaerme/refs/heads/main/mastr/unmatched_units.geojson'
 ];

@@ -143,8 +143,11 @@
         const ccPoints = [];
 
         // Layer groups
-        const CC_LayerGroup = L.layerGroup().addTo(map);
-        const Anlagenstandorte_LayerGroup = L.layerGroup().addTo(map);
+        const CC_Gebiete_LayerGroup = L.layerGroup().addTo(map);
+        const CC_Location_LayerGroup = L.layerGroup();
+        const MaStRMatched_LayerGroup = L.layerGroup().addTo(map);
+        const MaStRUnmatched_LayerGroup = L.layerGroup();
+        const Anlagenstandorte_LayerGroup = L.layerGroup();
 
 // Create a custom pane for circle markers to ensure they are above polygons
 map.createPane('markerPane');
@@ -222,8 +225,42 @@ const handleMarkerInteractions = (layer, feature, isAnlagenstandorte = false) =>
                 document.getElementById('info-box').innerHTML = 'Gebiet auswählen, um Kompetenzzentrum anzuzeigen.';
             }
         });
-    }
+    }  else if (feature.properties.power) { // This is a matched_units marker
+            const popupContent = `
+                <div style="max-width: 450px;">
+                    <p><b>Name:</b> ${feature.properties.unit_name || 'N/A'}<br>
+                    <b>Leistung:</b> ${feature.properties.power || 'N/A'} kW<br>
+                    <b>Betreiber:</b> ${feature.properties.operator || 'N/A'}<br>
+                    <b>Inbetriebnahme:</b> ${feature.properties.start_date || 'N/A'}<br>
+                    <b>Alter:</b> ${feature.properties.age_years || 'N/A'} Jahre<br>
+                    <b>Standort:</b> ${feature.properties.location || 'N/A'}<br>
+                    <b>CC:</b> ${feature.properties.cc || 'N/A'}</p>
+                </div>
+            `;
+        layer.bindPopup(popupContent, {
+            className: 'custom-popup',
+            maxWidth: 300,
+            autoClose: true,  // Prevent popup from closing when clicking elsewhere
+            closeOnClick: true // Prevent popup from closing when clicking on the marker again
+        });
+
+        // Hover events
+        layer.on({
+            mouseover: function() {
+                this.openPopup();
+            },
+            mouseout: function() {
+                if (!this._popup || !this._popup.isOpen()) {
+                    // Only reset if popup isn't open
+                }
+            },
+            click: function() {
+                this.openPopup();
+            }
+        });
+        }
 };
+
 
 // Function to load polygons
 const loadPolygons = (feature, layer) => {
@@ -264,7 +301,7 @@ const loadGeoJSON = (url, layerGroup, isAnlagenstandorte = false) => new Promise
                     fillOpacity: feature.properties.Stammgebiet === false ? 0.15 : 0.25
                 }),
                 onEachFeature: (feature, layer) => {
-                    if (feature.properties?.CC) {
+                    if (feature.properties?.CC || feature.properties?.cc) {
                         if (layer instanceof L.Polygon) {
                             loadPolygons(feature, layer);
                         } else if (layer instanceof L.Marker || layer instanceof L.CircleMarker) {
@@ -280,8 +317,10 @@ const loadGeoJSON = (url, layerGroup, isAnlagenstandorte = false) => new Promise
 
 // Load all GeoJSON files
 Promise.all([
-    ...gebieteCC.map(url => loadGeoJSON(url, CC_LayerGroup)),
-    ...standorteCC.map(url => loadGeoJSON(url, CC_LayerGroup)),
+    ...gebieteCC.map(url => loadGeoJSON(url, CC_Gebiete_LayerGroup)),
+    ...standorteCC.map(url => loadGeoJSON(url, CC_Location_LayerGroup)),
+    ...standorteMastrMatched.map(url => loadGeoJSON(url, MaStRMatched_LayerGroup, false)),
+    ...standorteMastrUnmatched.map(url => loadGeoJSON(url, MaStRUnmatched_LayerGroup, false)),
     ...standorteAnlagen.map(url => loadGeoJSON(url, Anlagenstandorte_LayerGroup, true))
 ])
 .then(layers => map.fitBounds(L.featureGroup(layers).getBounds()))
@@ -289,7 +328,10 @@ Promise.all([
 
 // Add layer control
 const overlayLayers = {
-    "Kompetenzzentren Gebiete": CC_LayerGroup,
+    "Kompetenzzentren Gebiete": CC_Gebiete_LayerGroup,
+    "Kompetenzzentren Standort": CC_Location_LayerGroup,
+    "MaStR (CC)": MaStRMatched_LayerGroup,
+    "MaStR (frei)": MaStRUnmatched_LayerGroup,
     "Anlagenstandorte": Anlagenstandorte_LayerGroup
 };
 
