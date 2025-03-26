@@ -12,9 +12,9 @@ from openpyxl.utils.dataframe import dataframe_to_rows
 from openpyxl.cell.cell import Hyperlink
 
 # Constants
-min_years_old = 5  # Set to 0 to disable age filtering
+min_years_old = 9  # Set to 0 to disable age filtering
 GEOJSON_FOLDER = os.path.join(os.path.dirname(__file__), "..", "gebieteCC")
-CSV_FILE = os.path.join(os.path.dirname(__file__), "Stromerzeuger_short.csv")
+CSV_FILE = os.path.join(os.path.dirname(__file__), "Stromerzeuger.csv")
 MATCHED_CSV = os.path.join(os.path.dirname(__file__), "matched_units.csv")
 UNMATCHED_CSV = os.path.join(os.path.dirname(__file__), "unmatched_units.csv")
 MATCHED_EXCEL = os.path.join(os.path.dirname(__file__), "matched_units.xlsx")
