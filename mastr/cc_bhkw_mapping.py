@@ -1,60 +1,195 @@
 import os
 import json
 import pandas as pd
-from shapely.geometry import shape, Point
+from shapely.geometry import shape, Point, mapping
+from datetime import datetime
+from typing import List, Dict, Any, Tuple
+from dateutil.relativedelta import relativedelta
 
-# Relative path to the folder containing the GeoJSON files
-folder_path = os.path(os.path.dirname(__file__))
-folder_path_gebiete_cc = os.path.join(folder_path, "..", "gebieteCC")
+# Constants
+GEOJSON_FOLDER = os.path.join(os.path.dirname(__file__), "..", "gebieteCC")
+CSV_FILE = os.path.join(os.path.dirname(__file__), "Stromerzeuger.csv")
+MATCHED_CSV = os.path.join(os.path.dirname(__file__), "matched_units.csv")
+UNMATCHED_CSV = os.path.join(os.path.dirname(__file__), "unmatched_units.csv")
+MATCHED_GEOJSON = os.path.join(os.path.dirname(__file__), "matched_units.geojson")
+UNMATCHED_GEOJSON = os.path.join(os.path.dirname(__file__), "unmatched_units.geojson")
 
-# Load the CSV file
-csv_file_path = os.path.join(folder_path, "Stromerzeuger.csv")  # Replace with the path to your CSV file
-df = pd.read_csv(csv_file_path, delimiter=";", decimal=",")
+# Column names mapping
+COLUMNS = {
+    'latitude': "Koordinate: Breitengrad (WGS84)",
+    'longitude': "Koordinate: Längengrad (WGS84)",
+    'start_date': "Inbetriebnahmedatum der Einheit",
+    'unit_name': "Anzeige-Name der Einheit",
+    'power': "Bruttoleistung der Einheit",
+    'zip_code': "Postleitzahl",
+    'city': "Ort",
+    'street': "Straße",
+    'street_number': "Hausnummer",
+    'operator': "Name des Anlagenbetreibers (nur Org.)"
+}
 
-# Check the column names in the CSV file
-print(df.columns)  # Ensure the column names match your CSV file
 
-# Extract latitude and longitude columns
-# Replace "Koordinate: Breitengrad (WGS84)" and "Koordinate: Längengrad (WGS84)" with the actual column names
-latitude_column = "Koordinate: Breitengrad (WGS84)"
-longitude_column = "Koordinate: Längengrad (WGS84)"
+def load_geojson_files(folder_path: str) -> List[Dict[str, Any]]:
+    """Load all GeoJSON files from a folder and return their features."""
+    all_features = []
+    for filename in os.listdir(folder_path):
+        if filename.endswith(".geojson"):
+            file_path = os.path.join(folder_path, filename)
+            with open(file_path, "r", encoding='utf-8') as f:
+                geojson_data = json.load(f)
+                if geojson_data["type"] == "FeatureCollection":
+                    all_features.extend(geojson_data["features"])
+                elif geojson_data["type"] == "Feature":
+                    all_features.append(geojson_data)
+    return all_features
 
-# Create a list of Shapely Point objects from the coordinates
-points = []
-for index, row in df.iterrows():
-    lat = row[latitude_column]
-    lon = row[longitude_column]
-    point = Point(lon, lat)  # Shapely Point takes (longitude, latitude)
-    points.append(point)
 
-# Print the first few points to verify
-for point in points[:5]:
-    print(point)
+def parse_date(date_str: str) -> datetime:
+    """Parse date string in format dd.mm.yyyy to datetime object."""
+    try:
+        return datetime.strptime(date_str, '%d.%m.%Y')
+    except ValueError:
+        return None
 
-# List to store all loaded GeoJSON features
-all_features = []
 
-# Iterate over all files in the folder
-for filename in os.listdir(folder_path_gebiete_cc):
-    if filename.endswith(".geojson"):
-        file_path = os.path.join(folder_path_gebiete_cc, filename)
+def calculate_age(start_date: str) -> int:
+    """Calculate age in years from start date string."""
+    parsed_date = parse_date(start_date)
+    if not parsed_date:
+        return None
+    return relativedelta(datetime.now(), parsed_date).years
 
-        # Load the GeoJSON file
-        with open(file_path, "r") as f:
-            geojson_data = json.load(f)
 
-        # Extract features and add them to the list
-        if geojson_data["type"] == "FeatureCollection":
-            all_features.extend(geojson_data["features"])
-        elif geojson_data["type"] == "Feature":
-            all_features.append(geojson_data)
+def filter_by_age(df: pd.DataFrame, min_years: int) -> pd.DataFrame:
+    """Filter DataFrame to only include plants older than min_years."""
+    if min_years <= 0:
+        return df
 
-# Check if the point is inside any of the polygons
-for point in points:
-    for feature in all_features:
-        polygon = shape(feature['geometry'])
-        if polygon.contains(point):
-            print(f"The point is inside a polygon from CC: {feature['properties']['CC']}")
-            break
-    else:
-        print("The point is not inside any polygon.")
+    today = datetime.now()
+    cutoff_date = today - relativedelta(years=min_years)
+
+    df['parsed_date'] = df[COLUMNS['start_date']].apply(parse_date)
+    filtered_df = df[df['parsed_date'] <= cutoff_date].copy()
+    filtered_df.drop(columns=['parsed_date'], inplace=True)
+
+    print(f"Filtered to {len(filtered_df)} plants older than {min_years} years")
+    return filtered_df
+
+
+def create_geojson(features: List[Dict]) -> Dict:
+    """Create a GeoJSON FeatureCollection from features."""
+    return {
+        "type": "FeatureCollection",
+        "features": features
+    }
+
+
+def match_points_to_polygons(points: List[Point], features: List[Dict[str, Any]], df: pd.DataFrame) -> Tuple[
+    pd.DataFrame, pd.DataFrame, Dict, Dict]:
+    """Match points to polygons and return matched and unmatched DataFrames and GeoJSONs."""
+    matched_features = []
+    unmatched_features = []
+    matched_data = []
+    unmatched_data = []
+
+    for idx, point in enumerate(points):
+        row = df.iloc[idx]
+        age = calculate_age(row[COLUMNS['start_date']])
+        location = f"{row[COLUMNS['street']]} {row[COLUMNS['street_number']]}, {row[COLUMNS['zip_code']]} {row[COLUMNS['city']]}"
+
+        properties = {
+            'power': row[COLUMNS['power']],
+            'operator': row[COLUMNS['operator']],
+            'unit_name': row[COLUMNS['unit_name']],
+            'start_date': row[COLUMNS['start_date']],
+            'age_years': age,
+            'location': location
+        }
+
+        feature = {
+            "type": "Feature",
+            "geometry": mapping(point),
+            "properties": properties
+        }
+
+        matched = False
+        for poly_feature in features:
+            polygon = shape(poly_feature['geometry'])
+            if polygon.contains(point):
+                properties['cc'] = poly_feature['properties'].get('CC', 'Unknown')
+                matched_features.append(feature)
+                matched_data.append(
+                    {**properties, 'latitude': row[COLUMNS['latitude']], 'longitude': row[COLUMNS['longitude']]})
+                matched = True
+                break
+
+        if not matched:
+            properties['cc'] = 'No matching CC area'
+            unmatched_features.append(feature)
+            unmatched_data.append(
+                {**properties, 'latitude': row[COLUMNS['latitude']], 'longitude': row[COLUMNS['longitude']]})
+
+    matched_geojson = create_geojson(matched_features)
+    unmatched_geojson = create_geojson(unmatched_features)
+
+    return (
+        pd.DataFrame(matched_data),
+        pd.DataFrame(unmatched_data),
+        matched_geojson,
+        unmatched_geojson
+    )
+
+
+def save_geojson(data: Dict, filepath: str):
+    """Save GeoJSON data to file."""
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def main():
+    # Load and prepare data
+    df = pd.read_csv(CSV_FILE, delimiter=";", decimal=",", encoding='utf-8')
+    print(f"Loaded {len(df)} plants from CSV")
+
+    # Filter by age (change the number to your desired minimum years)
+    min_years_old = 5  # Set to 0 to disable age filtering
+    df = filter_by_age(df, min_years_old)
+
+    features = load_geojson_files(GEOJSON_FOLDER)
+    print(f"Loaded {len(features)} GeoJSON features")
+
+    # Create points and match to polygons
+    points = []
+    for _, row in df.iterrows():
+        try:
+            lat = float(row[COLUMNS['latitude']])
+            lon = float(row[COLUMNS['longitude']])
+            points.append(Point(lon, lat))
+        except (ValueError, KeyError) as e:
+            print(f"Error processing row {_}: {e}")
+
+    matched_df, unmatched_df, matched_geojson, unmatched_geojson = match_points_to_polygons(points, features, df)
+
+    # Save CSV results
+    matched_df.to_csv(MATCHED_CSV, index=False, encoding='utf-8')
+    unmatched_df.to_csv(UNMATCHED_CSV, index=False, encoding='utf-8')
+
+    # Save GeoJSON results
+    save_geojson(matched_geojson, MATCHED_GEOJSON)
+    save_geojson(unmatched_geojson, UNMATCHED_GEOJSON)
+
+    print("\nResults:")
+    print(f"- Matched plants: {len(matched_df)}")
+    print(f"  - CSV: {MATCHED_CSV}")
+    print(f"  - GeoJSON: {MATCHED_GEOJSON}")
+    print(f"- Unmatched plants: {len(unmatched_df)}")
+    print(f"  - CSV: {UNMATCHED_CSV}")
+    print(f"  - GeoJSON: {UNMATCHED_GEOJSON}")
+
+    if len(matched_df) > 0:
+        print("\nMatched plants by CC area:")
+        print(matched_df['cc'].value_counts())
+
+
+if __name__ == "__main__":
+    main()

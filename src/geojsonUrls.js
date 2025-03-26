@@ -54,3 +54,8 @@ const standorteCC = [
     'https://raw.githubusercontent.com/roadbike-hias/suedwaerme/refs/heads/main/standorteCC/Essenpreis.geojson',
     'https://raw.githubusercontent.com/roadbike-hias/suedwaerme/refs/heads/main/standorteCC/Koenig.geojson'
 ];
+
+const standorteMastr = [
+    'https://raw.githubusercontent.com/roadbike-hias/suedwaerme/refs/heads/main/standorteAnlagen/addresses_uheim.geojson',
+    'https://raw.githubusercontent.com/roadbike-hias/suedwaerme/refs/heads/main/standorteAnlagen/addresses_rt.geojson'
+];
