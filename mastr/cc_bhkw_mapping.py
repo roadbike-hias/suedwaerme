@@ -25,7 +25,8 @@ COLUMNS = {
     'city': "Ort",
     'street': "Straße",
     'street_number': "Hausnummer",
-    'operator': "Name des Anlagenbetreibers (nur Org.)"
+    'operator': "Name des Anlagenbetreibers (nur Org.)",
+    'mastr_number': "MaStR-Nr. der Einheit"
 }
 
 
@@ -103,7 +104,8 @@ def match_points_to_polygons(points: List[Point], features: List[Dict[str, Any]]
             'unit_name': row[COLUMNS['unit_name']],
             'start_date': row[COLUMNS['start_date']],
             'age_years': age,
-            'location': location
+            'location': location,
+            'mastr_number': row[COLUMNS['mastr_number']]
         }
 
         feature = {
