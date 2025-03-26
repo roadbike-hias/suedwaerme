@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.308048,
+          48.091123
+        ]
+      },
+      "properties": {
+        "power": 238,
+        "operator": "ESB Wärme GmbH",
+        "unit_name": "110284",
+        "start_date": "15.1.2019",
+        "age_years": 6,
+        "location": "Dornierstraße nan, 82205 Gilching",
+        "mastr_number": "SEE924419859717",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1800128",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.283,
+          48.092
+        ]
+      },
+      "properties": {
+        "power": 238,
+        "operator": "ESB Wärme GmbH",
+        "unit_name": "110194",
+        "start_date": "11.6.2014",
+        "age_years": 10,
+        "location": "Friedrichshafener Straße 7.0, 82205 Gilching",
+        "mastr_number": "SEE921045816626",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1803344",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.377278,
+          47.92853
+        ]
+      },
+      "properties": {
+        "power": 200,
+        "operator": "Knott GmbH",
+        "unit_name": "BHKW",
+        "start_date": "29.9.2016",
+        "age_years": 8,
+        "location": "Obinger Straße 15.0, 83125 Eggstätt",
+        "mastr_number": "SEE960018910541",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1829698",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.143,
+          48.539
+        ]
+      },
+      "properties": {
+        "power": 70,
+        "operator": "Zweckverband berufliche Schulen Landshut (Stadt und Landkreis)",
+        "unit_name": "Berufsschule 1",
+        "start_date": "8.4.2014",
+        "age_years": 10,
+        "location": "Luitpoldstraße 26.0, 84034 Landshut",
+        "mastr_number": "SEE986487471802",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1830263",
+        "cc": "No matching CC area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.154,
+          48.995
+        ]
+      },
+      "properties": {
+        "power": 140,
+        "operator": "Schneider Electric Sachsenwerk GmbH",
+        "unit_name": "BHKW 1",
+        "start_date": "26.8.2015",
+        "age_years": 9,
+        "location": "Rathenaustraße 2.0, 93055 Regensburg",
+        "mastr_number": "SEE980574726141",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1839483",
+        "cc": "No matching CC area"
+      }
+    }
+  ]
+}

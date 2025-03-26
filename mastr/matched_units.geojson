@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.508,
+          48.059
+        ]
+      },
+      "properties": {
+        "power": 99,
+        "operator": "Konrad Kleiner GmbH & Co. KG",
+        "unit_name": "Viessmann BHKW",
+        "start_date": "11.10.2018",
+        "age_years": 6,
+        "location": "Kurt-Kleiner-Straße 1.0, 87719 Mindelheim",
+        "mastr_number": "SEE912037755702",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1800305",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.555,
+          48.209
+        ]
+      },
+      "properties": {
+        "power": 239,
+        "operator": "Collegium Augustinum Gemeinützige GmbH",
+        "unit_name": "MNO",
+        "start_date": "30.10.2015",
+        "age_years": 9,
+        "location": "Weitlstraße 66.0, 80935 München",
+        "mastr_number": "SEE945091856061",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1820308",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.262945,
+          48.696529
+        ]
+      },
+      "properties": {
+        "power": 190,
+        "operator": "PC Westernstadt GmbH & Co. KG",
+        "unit_name": "Pullman City BHKW-Anlage",
+        "start_date": "19.10.2018",
+        "age_years": 6,
+        "location": "Ruberting 30.0, 94535 Eging a.See",
+        "mastr_number": "SEE945128513080",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1824440",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.623,
+          48.139
+        ]
+      },
+      "properties": {
+        "power": 121,
+        "operator": "Giesecke + Devrient",
+        "unit_name": "BHKW GDM15",
+        "start_date": "1.10.2003",
+        "age_years": 21,
+        "location": "Prinzregentenstraße 159.0, 81677 München",
+        "mastr_number": "SEE961053147558",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1828459",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31,
+          48.345
+        ]
+      },
+      "properties": {
+        "power": 50,
+        "operator": "Das Mühlbach e.K. Freudenstein Florian",
+        "unit_name": "BHKW 1",
+        "start_date": "21.6.2018",
+        "age_years": 6,
+        "location": "Bachstraße 15.0, 94072 Bad Füssing",
+        "mastr_number": "SEE999514598113",
+        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1829434",
+        "cc": "Burke"
+      }
+    }
+  ]
+}
