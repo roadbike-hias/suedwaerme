@@ -1,6 +1,7 @@
 import os
 import json
 import pandas as pd
+import requests
 from shapely.geometry import shape, Point, mapping
 from datetime import datetime
 from typing import List, Dict, Any, Tuple
@@ -29,6 +30,24 @@ COLUMNS = {
     'mastr_number': "MaStR-Nr. der Einheit"
 }
 
+# Headers for MaStR request
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0",
+    "Accept": "*/*",
+    "Accept-Language": "de,en-US;q=0.7,en;q=0.3",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Origin": "https://www.eex.com",
+    "DNT": "1",
+    "Sec-GPC": "1",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Priority": "u=0",
+    "Pragma": "no-cache",
+    "Cache-Control": "no-cache",
+    "Referer": "https://www.eex.com/"
+}
 
 def load_geojson_files(folder_path: str) -> List[Dict[str, Any]]:
     """Load all GeoJSON files from a folder and return their features."""
@@ -85,6 +104,30 @@ def create_geojson(features: List[Dict]) -> Dict:
     }
 
 
+def get_final_mastr_url(mastr_number: str) -> str:
+    """Generate MaStR URL from MaStR number and follow redirect to get final URL."""
+    if not mastr_number or len(mastr_number) <= 3:
+        return ""
+
+    stripped_number = mastr_number[3:]
+    initial_url = f"https://www.marktstammdatenregister.de/MaStR/Schnellsuche/Schnellsuche"
+
+    # Parameters for MaStR request
+    params = {
+        "praefix": 'SEE',
+        "mastrNummerOrId": stripped_number
+    }
+
+    try:
+        response = requests.get(initial_url, headers=headers, params=params)
+
+        if response.status_code == 200:
+            return f"https://www.marktstammdatenregister.de{response.json()['url']}"
+        return initial_url
+    except requests.RequestException:
+        return initial_url
+
+
 def match_points_to_polygons(points: List[Point], features: List[Dict[str, Any]], df: pd.DataFrame) -> Tuple[
     pd.DataFrame, pd.DataFrame, Dict, Dict]:
     """Match points to polygons and return matched and unmatched DataFrames and GeoJSONs."""
@@ -97,15 +140,17 @@ def match_points_to_polygons(points: List[Point], features: List[Dict[str, Any]]
         row = df.iloc[idx]
         age = calculate_age(row[COLUMNS['start_date']])
         location = f"{row[COLUMNS['street']]} {row[COLUMNS['street_number']]}, {row[COLUMNS['zip_code']]} {row[COLUMNS['city']]}"
+        mastr_url = get_final_mastr_url(row[COLUMNS['mastr_number']])
 
         properties = {
-            'power': row[COLUMNS['power']],
+            'power': int(row[COLUMNS['power']]),
             'operator': row[COLUMNS['operator']],
             'unit_name': row[COLUMNS['unit_name']],
             'start_date': row[COLUMNS['start_date']],
             'age_years': age,
             'location': location,
-            'mastr_number': row[COLUMNS['mastr_number']]
+            'mastr_number': str(row[COLUMNS['mastr_number']]),
+            'mastr_url': str(mastr_url)
         }
 
         feature = {
