@@ -6,6 +6,10 @@ from shapely.geometry import shape, Point, mapping
 from datetime import datetime
 from typing import List, Dict, Any, Tuple
 from dateutil.relativedelta import relativedelta
+from openpyxl import Workbook
+from openpyxl.styles import numbers
+from openpyxl.utils.dataframe import dataframe_to_rows
+from openpyxl.cell.cell import Hyperlink
 
 # Constants
 min_years_old = 5  # Set to 0 to disable age filtering
@@ -196,9 +200,59 @@ def save_geojson(data: Dict, filepath: str):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
+def save_to_excel(df: pd.DataFrame, filepath: str):
+    """Save DataFrame to Excel with proper date formatting and hyperlinks."""
+    # Create a new workbook
+    wb = Workbook()
+    ws = wb.active
+
+    # Write the data
+    for r_idx, row in enumerate(dataframe_to_rows(df, index=False, header=True), 1):
+        for c_idx, value in enumerate(row, 1):
+            if r_idx == 1:  # Header row
+                ws.cell(row=r_idx, column=c_idx, value=value)
+            else:
+                col_name = df.columns[c_idx - 1]
+                if col_name == 'start_date':
+                    # Format as date
+                    try:
+                        date_val = datetime.strptime(value, '%d.%m.%Y')
+                        cell = ws.cell(row=r_idx, column=c_idx, value=date_val)
+                        cell.number_format = 'dd.mm.yyy'
+                    except (ValueError, TypeError):
+                        ws.cell(row=r_idx, column=c_idx, value=value)
+                elif col_name == 'mastr_number' and 'mastr_url' in df.columns:
+                    # Create hyperlink
+                    url = df.iloc[r_idx - 2]['mastr_url']
+                    if pd.notna(url) and url:
+                        cell = ws.cell(row=r_idx, column=c_idx)
+                        cell.value = value
+                        cell.hyperlink = Hyperlink(ref=cell.coordinate, target=url, display=value)
+                        cell.style = "Hyperlink"
+                    else:
+                        ws.cell(row=r_idx, column=c_idx, value=value)
+                else:
+                    ws.cell(row=r_idx, column=c_idx, value=value)
+
+    # Auto-adjust column widths
+    for column in ws.columns:
+        max_length = 0
+        column_letter = column[0].column_letter
+        for cell in column:
+            try:
+                if len(str(cell.value)) > max_length:
+                    max_length = len(str(cell.value))
+            except:
+                pass
+        adjusted_width = (max_length + 2) * 1.2
+        ws.column_dimensions[column_letter].width = adjusted_width
+
+    wb.save(filepath)
+
+
 def main():
     # Load and prepare data
-    df = pd.read_csv(CSV_FILE, delimiter=";", decimal=",", encoding='utf-8', dtype = {'Hausnummer': str})
+    df = pd.read_csv(CSV_FILE, delimiter=";", decimal=",", encoding='utf-8', dtype={'Hausnummer': str})
     print(f"Loaded {len(df)} plants from CSV")
 
     # Filter by age (change the number to your desired minimum years)
@@ -223,9 +277,9 @@ def main():
     matched_df.to_csv(MATCHED_CSV, index=False, encoding='utf-8')
     unmatched_df.to_csv(UNMATCHED_CSV, index=False, encoding='utf-8')
 
-    # Save Excel results
-    matched_df.to_excel(MATCHED_EXCEL, index=False)
-    unmatched_df.to_excel(UNMATCHED_EXCEL, index=False)
+    # Save Excel results with formatting
+    save_to_excel(matched_df, MATCHED_EXCEL)
+    save_to_excel(unmatched_df, UNMATCHED_EXCEL)
 
     # Save GeoJSON results
     save_geojson(matched_geojson, MATCHED_GEOJSON)
@@ -234,11 +288,11 @@ def main():
     print("\nResults:")
     print(f"- Matched plants: {len(matched_df)}")
     print(f"  - CSV: {MATCHED_CSV}")
-    print(f"  - Excel: {MATCHED_EXCEL}")
+    print(f"  - Excel: {MATCHED_EXCEL} (with formatted dates and hyperlinks)")
     print(f"  - GeoJSON: {MATCHED_GEOJSON}")
     print(f"- Unmatched plants: {len(unmatched_df)}")
     print(f"  - CSV: {UNMATCHED_CSV}")
-    print(f"  - Excel: {UNMATCHED_EXCEL}")
+    print(f"  - Excel: {UNMATCHED_EXCEL} (with formatted dates and hyperlinks)")
     print(f"  - GeoJSON: {UNMATCHED_GEOJSON}")
 
     if len(matched_df) > 0:
