@@ -1,0 +1,5534 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.508,
+          48.059
+        ]
+      },
+      "properties": {
+        "power": 99.0,
+        "operator": "Konrad Kleiner GmbH & Co. KG",
+        "unit_name": "Viessmann BHKW",
+        "start_date": "11.10.2018",
+        "age_years": 6,
+        "location": "Kurt-Kleiner-Straße 1, 87719 Mindelheim",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.555,
+          48.209
+        ]
+      },
+      "properties": {
+        "power": 239.0,
+        "operator": "Collegium Augustinum Gemeinützige GmbH",
+        "unit_name": "MNO",
+        "start_date": "30.10.2015",
+        "age_years": 9,
+        "location": "Weitlstraße 66, 80935 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.262945,
+          48.696529
+        ]
+      },
+      "properties": {
+        "power": 190.0,
+        "operator": "PC Westernstadt GmbH & Co. KG",
+        "unit_name": "Pullman City BHKW-Anlage",
+        "start_date": "19.10.2018",
+        "age_years": 6,
+        "location": "Ruberting 30, 94535 Eging a.See",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.274759,
+          47.461968
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "natürliche Person (ABR964206852736)",
+        "unit_name": "Reinheimer",
+        "start_date": "10.12.2009",
+        "age_years": 15,
+        "location": "Auf der Insel 2, 87538 Fischen",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.623,
+          48.139
+        ]
+      },
+      "properties": {
+        "power": 121.0,
+        "operator": "Giesecke + Devrient",
+        "unit_name": "BHKW GDM15",
+        "start_date": "1.10.2003",
+        "age_years": 21,
+        "location": "Prinzregentenstraße 159, 81677 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31,
+          48.345
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Das Mühlbach e.K. Freudenstein Florian",
+        "unit_name": "BHKW 1",
+        "start_date": "21.6.2018",
+        "age_years": 6,
+        "location": "Bachstraße 15, 94072 Bad Füssing",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.001019,
+          50.133066
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Hanns-Seidel-Stiftung e.V.",
+        "unit_name": "BHKW Kloster Banz",
+        "start_date": "20.9.2011",
+        "age_years": 13,
+        "location": "Kloster Banz 1, 96231 Bad Staffelstein",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.893,
+          48.361
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "LAVA  GmbH & Co. KG",
+        "unit_name": "86150-1",
+        "start_date": "8.1.2019",
+        "age_years": 6,
+        "location": "Gratzmüllerstraße 8, 86150 Augsburg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.720381,
+          50.231034
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Rudi Göbel GmbH & Co. KG",
+        "unit_name": "BHKW RG",
+        "start_date": "14.8.2018",
+        "age_years": 6,
+        "location": "Max-Planck-Straße 23, 95233 Helmbrechts",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.491621,
+          47.764839
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "natürliche Person (ABR968020563144)",
+        "unit_name": "BHKW 4",
+        "start_date": "11.10.2019",
+        "age_years": 5,
+        "location": "Kemptener-Wald-Straße 14, 87647 Unterthingau",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.105,
+          50.166
+        ]
+      },
+      "properties": {
+        "power": 142.0,
+        "operator": "BHS-tabletop AG",
+        "unit_name": "DLZ BHKW01",
+        "start_date": "17.12.2013",
+        "age_years": 11,
+        "location": "Roland-Dorschner-Straße 1, 95100 Selb",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.677,
+          48.228
+        ]
+      },
+      "properties": {
+        "power": 114.0,
+        "operator": "Gemeindewerke Ismaning",
+        "unit_name": "SVI0266",
+        "start_date": "9.9.2013",
+        "age_years": 11,
+        "location": "Erich-Zeitler-Straße 6, 85737 Ismaning",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.419,
+          48.434
+        ]
+      },
+      "properties": {
+        "power": 222.0,
+        "operator": "ROMA KG",
+        "unit_name": "BHKW Werk 2 - Industriestraße 40",
+        "start_date": "1.4.2013",
+        "age_years": 11,
+        "location": "Industriestraße 40, 89331 Burgau",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.565,
+          48.287
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "sense electra GmbH",
+        "unit_name": "Unterschleißheim, Gutenbergstr. 5",
+        "start_date": "30.7.2018",
+        "age_years": 6,
+        "location": "Gutenbergstraße 5, 85716 Unterschleißheim",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.562,
+          48.284
+        ]
+      },
+      "properties": {
+        "power": 237.0,
+        "operator": "SÜDWÄRME Gesellschaft für Energielieferung AG",
+        "unit_name": "BHKW",
+        "start_date": "11.12.2015",
+        "age_years": 9,
+        "location": "Anna-Wimschneider-Straße 1, 85716 Unterschleißheim",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.913307,
+          50.292416
+        ]
+      },
+      "properties": {
+        "power": 119.0,
+        "operator": "Diakonisches Werk Hof e.V.",
+        "unit_name": "Lernhof",
+        "start_date": "24.1.2013",
+        "age_years": 12,
+        "location": "Südring 96, 95032 Hof",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.599529,
+          47.765436
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "natürliche Person (ABR986673005583)",
+        "unit_name": "Erdgas BHKW1",
+        "start_date": "2.11.2016",
+        "age_years": 8,
+        "location": "Langweg 4, 87616 Marktoberdorf",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.665,
+          48.932
+        ]
+      },
+      "properties": {
+        "power": 205.0,
+        "operator": "Benseler Beschichtungen Bayern GmbH & Co.KG",
+        "unit_name": "Benseler V12",
+        "start_date": "12.6.2014",
+        "age_years": 10,
+        "location": "Brunfeldstraße 7, 94327 Bogen",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.599517,
+          47.765442
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "natürliche Person (ABR986673005583)",
+        "unit_name": "Erdgas BHKW2",
+        "start_date": "14.5.2018",
+        "age_years": 6,
+        "location": "Langweg 4, 87616 Marktoberdorf",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.648,
+          47.884
+        ]
+      },
+      "properties": {
+        "power": 238.0,
+        "operator": "HAWE Hydraulik SE",
+        "unit_name": "BHKW HAWE Kaufbeuren",
+        "start_date": "30.4.2014",
+        "age_years": 10,
+        "location": "Karl-Heilmeier-Straße 1, 87600 Kaufbeuren",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.276,
+          48.473
+        ]
+      },
+      "properties": {
+        "power": 210.0,
+        "operator": "Lieken Brot- und Backwaren GmbH",
+        "unit_name": "BHKW-Günzburg",
+        "start_date": "15.12.2015",
+        "age_years": 9,
+        "location": "Max-Planck-Straße 9, 89312 Günzburg",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.263799,
+          47.528949
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Geiger Energietechnik GmbH",
+        "unit_name": "BHKW Sonthofen Mittagstraße",
+        "start_date": "23.6.2014",
+        "age_years": 10,
+        "location": "Mittagstraße 24, 87527 Sonthofen",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.72,
+          48.077
+        ]
+      },
+      "properties": {
+        "power": 96.0,
+        "operator": "Truma Gerätetechnik",
+        "unit_name": "BHKW-P",
+        "start_date": "1.5.2017",
+        "age_years": 7,
+        "location": "Wernher-von-Braun-Straße 12, 85640 Putzbrunn",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.546783,
+          47.583856
+        ]
+      },
+      "properties": {
+        "power": 103.0,
+        "operator": "Alpcura Fachklinik Allgäu Betriebsgesellschaft mbh",
+        "unit_name": "Blockheizkraftwerk  Fachklinik Allgäu",
+        "start_date": "1.8.2016",
+        "age_years": 8,
+        "location": "Peter-Heel-Straße 29, 87459 Pfronten",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.87335,
+          50.314605
+        ]
+      },
+      "properties": {
+        "power": 155.0,
+        "operator": "E. Schiller Fleisch GmbH",
+        "unit_name": "Schnell BHKW",
+        "start_date": "30.6.2016",
+        "age_years": 8,
+        "location": "Hohe Straße 20, 95030 Hof",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.955,
+          50.257
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "SÜC Energie und H²O",
+        "unit_name": "Plattenäcker 30, Coburg, BHKW",
+        "start_date": "20.2.2015",
+        "age_years": 10,
+        "location": "Plattenäcker 30, 96450 Coburg",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.133,
+          49.427
+        ]
+      },
+      "properties": {
+        "power": 49.5,
+        "operator": "Alpha Immobilienmanagement GmbH",
+        "unit_name": "BHKW",
+        "start_date": "9.3.2016",
+        "age_years": 9,
+        "location": "Beuthener Straße 43, 90471 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.313,
+          48.355
+        ]
+      },
+      "properties": {
+        "power": 99.0,
+        "operator": "Therme I Betriebsgesellschaft",
+        "unit_name": "BHKW II B",
+        "start_date": "8.12.2016",
+        "age_years": 8,
+        "location": "Kurallee 1, 94072 Bad Füssing",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.532349,
+          48.154651
+        ]
+      },
+      "properties": {
+        "power": 240.0,
+        "operator": "ROTKREUZKLINIKUM MÜNCHEN gemeinnützige GmbH",
+        "unit_name": "BHKW RK1",
+        "start_date": "23.12.2015",
+        "age_years": 9,
+        "location": "Nymphenburger Straße 163, 80634 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.962,
+          48.858
+        ]
+      },
+      "properties": {
+        "power": 240.0,
+        "operator": "RILE Zerspanungstechnologie und Montage Lesser GmbH &Co. KG",
+        "unit_name": "BHKW Halle 7",
+        "start_date": "16.12.2015",
+        "age_years": 9,
+        "location": "Graflinger Straße 228, 94469 Deggendorf",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.403,
+          48.367
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Sumitomo (SHI) Cyclo Drive Germany GmbH",
+        "unit_name": "BHKW",
+        "start_date": "11.11.2015",
+        "age_years": 9,
+        "location": "Cyclostraße 92, 85229 Markt Indersdorf",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.102079,
+          49.446495
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Diehl Stiftung & Co. KG",
+        "unit_name": "BHKW 1 Stephanstraße",
+        "start_date": "4.4.2019",
+        "age_years": 5,
+        "location": "Stephanstraße 49, 90478 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.300091,
+          47.575359
+        ]
+      },
+      "properties": {
+        "power": 49.5,
+        "operator": "Privatbrauerei Zötler",
+        "unit_name": "BHKW",
+        "start_date": "17.12.2017",
+        "age_years": 7,
+        "location": "Grüntenstraße 2, 87549 Rettenberg",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.574393,
+          48.2893
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Gambs Fahrzeuglackierung GmbH / 25500017",
+        "unit_name": "BHKW Smartblock 50 Modul 1",
+        "start_date": "7.3.2019",
+        "age_years": 6,
+        "location": "Siemensstraße 9, 85716 Unterschleißheim",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.346252,
+          50.231979
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Hans Weber Maschinenfabrik",
+        "unit_name": "BHKW Viessmann 140kW",
+        "start_date": "7.4.2016",
+        "age_years": 8,
+        "location": "Industriestraße 23, 96317 Kronach",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.035803,
+          50.291042
+        ]
+      },
+      "properties": {
+        "power": 49.5,
+        "operator": "Stadtwerke Rödental",
+        "unit_name": "KWK 16",
+        "start_date": "25.1.2019",
+        "age_years": 6,
+        "location": "Martin-Luther-Straße 46, 96472 Rödental",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.002417,
+          49.436853
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Cremer Management GmbH",
+        "unit_name": "BHKW Nürnberg",
+        "start_date": "18.1.2018",
+        "age_years": 7,
+        "location": "Gutenstetter Straße 2, 90449 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.889441,
+          48.351505
+        ]
+      },
+      "properties": {
+        "power": 150.0,
+        "operator": "Stadtwerke Augsburg Energie GmbH",
+        "unit_name": "Fritz-Hintermayr-Straße",
+        "start_date": "13.11.2018",
+        "age_years": 6,
+        "location": "Fritz-Hintermayr-Straße 7, 86159 Augsburg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.564453,
+          48.147581
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Ludwig-Maximilians-Universität München",
+        "unit_name": "Generator BHKW Luisenstr. 37",
+        "start_date": "1.11.2010",
+        "age_years": 14,
+        "location": "Luisenstraße 37, 80333 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.610077,
+          47.773414
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Fernwärme Marktoberdorf GmbH",
+        "unit_name": "BHKW 1.01",
+        "start_date": "6.11.2012",
+        "age_years": 12,
+        "location": "Mühlsteig 27, 87616 Marktoberdorf",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.093093,
+          48.57544
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Asklepios Klinik Schaufling GmbH Betriebsstätte Aidenbach",
+        "unit_name": "BHKW",
+        "start_date": "15.3.2019",
+        "age_years": 6,
+        "location": "Schwanthalerstraße 35, 94501 Aidenbach",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.693525,
+          47.564788
+        ]
+      },
+      "properties": {
+        "power": 75.0,
+        "operator": "Europarkhotel und Gesundheit GmbH & Co. KG",
+        "unit_name": "BHKW Europarkhotel",
+        "start_date": "26.1.2009",
+        "age_years": 16,
+        "location": "Am Kapellenberg 2, 87629 Füssen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.614546,
+          47.772383
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Fernwärme Marktoberdorf GmbH",
+        "unit_name": "BHKW 3.02",
+        "start_date": "8.11.2012",
+        "age_years": 12,
+        "location": "Bahnhofstraße 42, 87616 Marktoberdorf",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.614546,
+          47.772383
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Fernwärme Marktoberdorf GmbH",
+        "unit_name": "BHKW 3.03",
+        "start_date": "8.12.2012",
+        "age_years": 12,
+        "location": "Bahnhofstraße 42, 87616 Marktoberdorf",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.615606,
+          47.777506
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Fernwärme Marktoberdorf GmbH",
+        "unit_name": "BHKW 5.01",
+        "start_date": "5.12.2012",
+        "age_years": 12,
+        "location": "Richard-Wengenmeier-Platz 1, 87616 Marktoberdorf",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.289503,
+          48.351458
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Haslinger Hof KG",
+        "unit_name": "BHKW 50 Küche",
+        "start_date": "21.5.2019",
+        "age_years": 5,
+        "location": "Ed 1, 94148 Kirchham",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.598814,
+          47.799034
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Brennpunkt Energie GmbH",
+        "unit_name": "BHKW 6 BPE",
+        "start_date": "20.5.2019",
+        "age_years": 5,
+        "location": "Am Baggersee 2, 87674 Ruderatshofen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.356655,
+          48.249176
+        ]
+      },
+      "properties": {
+        "power": 177.0,
+        "operator": "Borgers Süd GmbH",
+        "unit_name": "BHKW",
+        "start_date": "22.7.2014",
+        "age_years": 10,
+        "location": "Michael-Faist-Straße 11, 86381 Krumbach",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.451248,
+          48.141877
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Hochschule für angewandte Wissenschaften München",
+        "unit_name": "BHKW-Pasing",
+        "start_date": "22.11.2012",
+        "age_years": 12,
+        "location": "Am Stadtpark 20, 81243 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.71172,
+          50.23595
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Licht- und Kraftwerke Helmbrechts GmbH",
+        "unit_name": "BHKW Hallenbad Aquawell",
+        "start_date": "25.7.2017",
+        "age_years": 7,
+        "location": "Adolf-Haack-Straße 7, 95233 Helmbrechts",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.497836,
+          48.036152
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Charlotte Baur Formschaumtechnik GmbH",
+        "unit_name": "BHKW G2471",
+        "start_date": "10.12.2015",
+        "age_years": 9,
+        "location": "Ifenstraße 2, 87719 Mindelheim",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.611745,
+          47.887872
+        ]
+      },
+      "properties": {
+        "power": 240.0,
+        "operator": "Kliniken Ostallgäu-Kaufbeuren",
+        "unit_name": "Klinikum Kaufbeuren",
+        "start_date": "19.12.2014",
+        "age_years": 10,
+        "location": "Dr.-Gutermann-Straße 2, 87600 Kaufbeuren",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.277802,
+          47.524451
+        ]
+      },
+      "properties": {
+        "power": 145.0,
+        "operator": "J.M.Voith SE & Co KG   VTBS",
+        "unit_name": "BHKW",
+        "start_date": "18.3.2015",
+        "age_years": 10,
+        "location": "Hans-Böckler-Str. 7, 87527 Sonthofen",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.493325,
+          48.04093
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Klinikverbund Allgäu",
+        "unit_name": "BHKW 1 MDH",
+        "start_date": "3.7.2014",
+        "age_years": 10,
+        "location": "Bad Wörishofer Straße 44, 87719 Mindelheim",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.005607,
+          50.03837
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "SWW Wunsiedel GmbH",
+        "unit_name": "Fichtelgebirgshalle Wunsiedel",
+        "start_date": "16.10.2017",
+        "age_years": 7,
+        "location": "Jean-Paul-Straße 5, 95632 Wunsiedel",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.642495,
+          47.885535
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Dobler GmbH & Co. KG Bauunternehmung",
+        "unit_name": "BHKW",
+        "start_date": "22.12.2014",
+        "age_years": 10,
+        "location": "Augsburger Straße 50, 87600 Kaufbeuren",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.134432,
+          48.452692
+        ]
+      },
+      "properties": {
+        "power": 135.0,
+        "operator": "Justizvollzugsanstalt Aichach",
+        "unit_name": "BHKW 94040700188",
+        "start_date": "19.5.2017",
+        "age_years": 7,
+        "location": "Münchener Straße 33, 86551 Aichach",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.134432,
+          48.452692
+        ]
+      },
+      "properties": {
+        "power": 135.0,
+        "operator": "Justizvollzugsanstalt Aichach",
+        "unit_name": "BHKW 94040700187",
+        "start_date": "19.5.2017",
+        "age_years": 7,
+        "location": "Münchener Straße 33, 86551 Aichach",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.144202,
+          48.304058
+        ]
+      },
+      "properties": {
+        "power": 90.0,
+        "operator": "Möschl",
+        "unit_name": "BHKW",
+        "start_date": "11.8.2017",
+        "age_years": 7,
+        "location": "Eschachweg 7, 89264 Weißenhorn",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.186224,
+          48.628734
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Stadtwerke Vilshofen GmbH",
+        "unit_name": "BHKW",
+        "start_date": "20.10.2013",
+        "age_years": 11,
+        "location": "Wittelsbacherring 6, 94474 Vilshofen",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.266083,
+          47.88966
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "MULTIVAC Sepp Haggenmüller SE & Co. KG",
+        "unit_name": "BHKW Geb. 15",
+        "start_date": "14.12.2015",
+        "age_years": 9,
+        "location": "Bahnhofstraße 4, 87787 Wolfertschwenden",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.473613,
+          47.776081
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "natürliche Person (ABR906233233959)",
+        "unit_name": "BHKW1",
+        "start_date": "7.8.2018",
+        "age_years": 6,
+        "location": "Luitzenmühle 1, 87647 Kraftisried",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.739506,
+          48.141444
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Viße & Cudok Immobilien GmbH",
+        "unit_name": "BHKW Heizungsraum",
+        "start_date": "22.3.2018",
+        "age_years": 7,
+        "location": "Otto-Lilienthal-Ring 1, 85622 Feldkirchen",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.853657,
+          48.414773
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Daimler Truck AG",
+        "unit_name": "BHKW Augsburg, Nürnberger Str.",
+        "start_date": "18.8.2011",
+        "age_years": 13,
+        "location": "Nürnberger Straße 2, 86156 Augsburg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.278798,
+          47.404013
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Parkhotel Frank",
+        "unit_name": "BHKW-Anlage Heizungskeller",
+        "start_date": "18.6.2008",
+        "age_years": 16,
+        "location": "Sachsenweg 11, 87561 Oberstdorf",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.342275,
+          50.242397
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Bayernwerk Natur GmbH",
+        "unit_name": "Erdgas-BHKW Kronach",
+        "start_date": "23.4.2013",
+        "age_years": 11,
+        "location": "Gottfried-Neukam-Straße 25, 96317 Kronach",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.660566,
+          48.095666
+        ]
+      },
+      "properties": {
+        "power": 200.0,
+        "operator": "München Klinik gGmbH",
+        "unit_name": "STKM_KN_HsA_BHKW",
+        "start_date": "24.3.2015",
+        "age_years": 10,
+        "location": "Oskar-Maria-Graf-Ring 51, 81737 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.598806,
+          47.799034
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Brennpunkt Energie GmbH",
+        "unit_name": "BHKW 4 BPE",
+        "start_date": "30.8.2016",
+        "age_years": 8,
+        "location": "Am Baggersee 2, 87674 Ruderatshofen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.880096,
+          48.348283
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Hosokawa Alpine AG",
+        "unit_name": "BHKW",
+        "start_date": "5.6.2014",
+        "age_years": 10,
+        "location": "Peter-Dörfler-Straße 13, 86199 Augsburg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.473613,
+          47.776081
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "natürliche Person (ABR906233233959)",
+        "unit_name": "BHKW2",
+        "start_date": "11.10.2019",
+        "age_years": 5,
+        "location": "Luitzenmühle 1, 87647 Kraftisried",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.607586,
+          47.775725
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "C. Hübner GmbH",
+        "unit_name": "BHKW Sudetenstraße",
+        "start_date": "23.7.2014",
+        "age_years": 10,
+        "location": "Sudetenstraße 1, 87616 Marktoberdorf",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.95683,
+          48.305825
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "KLAUS Hoch- und Tiefbau GmbH",
+        "unit_name": "FTW KHT BHKW Geb. 1.3 (Büro)",
+        "start_date": "20.11.2015",
+        "age_years": 9,
+        "location": "Auenstraße 7, 86438 Kissing",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.066802,
+          49.456906
+        ]
+      },
+      "properties": {
+        "power": 240.0,
+        "operator": "Diakoneo KdöR Klinik Hallerwiese AbRB 515",
+        "unit_name": "KHC BHKW",
+        "start_date": "1.7.2011",
+        "age_years": 13,
+        "location": "Sankt-Johannis-Mühlgasse 19, 90419 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.071622,
+          49.488182
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Eva Scherzer Biomasseheizwerk",
+        "unit_name": "Buderus Loganova EN50",
+        "start_date": "8.7.2014",
+        "age_years": 10,
+        "location": "Loher Hauptstraße 124, 90427 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.114475,
+          49.477879
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "GMN Paul Müller Industrie GmbH & Co. KG",
+        "unit_name": "Vitobloc 200 EM-140/207",
+        "start_date": "23.7.2014",
+        "age_years": 10,
+        "location": "Äußere Bayreuther Straße 230, 90411 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.814142,
+          48.604211
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Dominikus-Ringeisen-Werk",
+        "unit_name": "BHKW-Kloster Holzen",
+        "start_date": "12.12.2013",
+        "age_years": 11,
+        "location": "Klosterstraße 1, 86695 Allmannshofen",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.621852,
+          47.788316
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Stadt Marktoberdorf",
+        "unit_name": "MODEON, Schwabenstr. 58, 87616 Marktoberdorf",
+        "start_date": "16.1.2009",
+        "age_years": 16,
+        "location": "Schwabenstraße 58, 87616 Marktoberdorf",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.389623,
+          48.246149
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Heilbad Krumbad GmbH",
+        "unit_name": "BHKW-Krumbad",
+        "start_date": "28.11.2012",
+        "age_years": 12,
+        "location": "Bischof-Sproll-Straße 1, 86381 Krumbach",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.689038,
+          47.613857
+        ]
+      },
+      "properties": {
+        "power": 238.0,
+        "operator": "m&i-Klinikbetriebsgesellschaft GmbH Fachklinik Enzensberg",
+        "unit_name": "0302-021-0003 BHKW Vitobloc",
+        "start_date": "31.7.2015",
+        "age_years": 9,
+        "location": "Höhenstraße 56, 87629 Füssen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.764613,
+          50.333375
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Eigenbetriebe Therme Natur Bad Rodach",
+        "unit_name": "BHKW_2019",
+        "start_date": "31.10.2019",
+        "age_years": 5,
+        "location": "Thermalbadstraße 18, 96476 Bad Rodach",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.529869,
+          48.78582
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Moll Automatisierung GmbH",
+        "unit_name": "BHKW 140 KW",
+        "start_date": "6.10.2014",
+        "age_years": 10,
+        "location": "Am Gewerbepark 2, 94339 Leiblfing",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.764613,
+          50.333375
+        ]
+      },
+      "properties": {
+        "power": 143.0,
+        "operator": "Eigenbetriebe Therme Natur Bad Rodach",
+        "unit_name": "BHKW_2016",
+        "start_date": "13.12.2016",
+        "age_years": 8,
+        "location": "Thermalbadstraße 18, 96476 Bad Rodach",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.704303,
+          47.566753
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Kliniken Ostallgäu-Kaufbeuren",
+        "unit_name": "BKHW Füssen",
+        "start_date": "17.6.2019",
+        "age_years": 5,
+        "location": "nan nan, 87629 Füssen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.212073,
+          47.560428
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Landkreis Oberallgäu",
+        "unit_name": "BHKW Schulzentrum Immenstadt",
+        "start_date": "16.6.2016",
+        "age_years": 8,
+        "location": "Missener Straße 25, 87509 Immenstadt",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.433251,
+          48.411113
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "robatherm GmbH+Co.KG",
+        "unit_name": "KWK Produktion FG2",
+        "start_date": "25.2.2014",
+        "age_years": 11,
+        "location": "John-F.-Kennedy-Straße 1, 89343 Jettingen-Scheppach",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.433251,
+          48.411113
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "robatherm GmbH+Co.KG",
+        "unit_name": "KWK Verwaltung",
+        "start_date": "4.7.2019",
+        "age_years": 5,
+        "location": "John-F.-Kennedy-Straße 1, 89343 Jettingen-Scheppach",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.238858,
+          48.146882
+        ]
+      },
+      "properties": {
+        "power": 212.0,
+        "operator": "HEDI GmbH Elektro-und Gerätebau",
+        "unit_name": "BHKW HEDI",
+        "start_date": "20.6.2013",
+        "age_years": 11,
+        "location": "Schöneggweg 17, 87727 Babenhausen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.063496,
+          49.47241
+        ]
+      },
+      "properties": {
+        "power": 238.0,
+        "operator": "Grundstücksgesellschaft Oschmann Nürnberg",
+        "unit_name": "Erdgas-BHKW-238kW",
+        "start_date": "31.10.2013",
+        "age_years": 11,
+        "location": "Pretzfelder Straße 7, 90425 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.766482,
+          50.331035
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Medicalpark Bad Rodach",
+        "unit_name": "Modul 1641",
+        "start_date": "23.9.2013",
+        "age_years": 11,
+        "location": "Kurring 16, 96476 Bad Rodach",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.766482,
+          50.331035
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Medicalpark Bad Rodach",
+        "unit_name": "Modul 1690",
+        "start_date": "23.9.2013",
+        "age_years": 11,
+        "location": "Kurring 16, 96476 Bad Rodach",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.549877,
+          48.147753
+        ]
+      },
+      "properties": {
+        "power": 238.0,
+        "operator": "PASM Power and Air Condition Solution Management GmbH",
+        "unit_name": "BHKW München, Blutenburgstr. 1a",
+        "start_date": "13.5.2013",
+        "age_years": 11,
+        "location": "Blutenburgstraße 1 a, 80636 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.189469,
+          48.426989
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Parkhotel Photovoltaik GdbR",
+        "unit_name": "KWK-Anlage",
+        "start_date": "11.3.2014",
+        "age_years": 11,
+        "location": "Am Kurwald 10, 94086 Bad Griesbach",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.833169,
+          47.565565
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "KJF Augsburg",
+        "unit_name": "BHKW Scheidegg",
+        "start_date": "13.12.2013",
+        "age_years": 11,
+        "location": "Oberschwenden 1, 88175 Scheidegg",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.109897,
+          50.171629
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Metob Beschichtungen GmbH",
+        "unit_name": "BHKW",
+        "start_date": "8.12.2016",
+        "age_years": 8,
+        "location": "Röthenstraße 21, 96247 Michelau",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.279066,
+          48.453056
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Sparkasse Günzburg-Krumbach",
+        "unit_name": "ABR938013566421 BHKW GS300",
+        "start_date": "28.7.2014",
+        "age_years": 10,
+        "location": "An der Kapuzinermauer 2, 89312 Günzburg",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.458088,
+          48.573426
+        ]
+      },
+      "properties": {
+        "power": 52.0,
+        "operator": "Sparkasse Passau",
+        "unit_name": "BHKW-1, Nikolastraße 1",
+        "start_date": "20.12.2017",
+        "age_years": 7,
+        "location": "Nikolastraße 1, 94032 Passau",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.067362,
+          48.286602
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Stadt Vöhringen",
+        "unit_name": "BHKW-Zum Klärwerk33",
+        "start_date": "9.9.2015",
+        "age_years": 9,
+        "location": "Zum Klärwerk 33, 89269 Vöhringen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.107446,
+          48.158865
+        ]
+      },
+      "properties": {
+        "power": 142.0,
+        "operator": "Brüder Winkle GmbH + Co. KG",
+        "unit_name": "BHKW WI",
+        "start_date": "23.7.2014",
+        "age_years": 10,
+        "location": "Fabrikstraße 7, 89281 Altenstadt",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.044159,
+          49.440385
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "ISAR-AMPER Erneuerbare Energien GmbH",
+        "unit_name": "NÜRN_070 #01202",
+        "start_date": "3.1.2020",
+        "age_years": 5,
+        "location": "Gernotstraße 47, 90439 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.261418,
+          48.140146
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Zweckverband Realschule und Schulverband Mittelschule Babenhausen",
+        "unit_name": "Schulverband Babenhausen",
+        "start_date": "12.4.2017",
+        "age_years": 7,
+        "location": "Pestalozzistraße 7, 87727 Babenhausen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.957184,
+          48.366735
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Augsburg Air Caterer GmbH",
+        "unit_name": "BHKW",
+        "start_date": "1.6.2016",
+        "age_years": 8,
+        "location": "Sebastian-Mayr-Straße 2, 86316 Friedberg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.132437,
+          47.857658
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Rapunzel Naturkost GmbH",
+        "unit_name": "BHKW 2015 Legau",
+        "start_date": "23.7.2015",
+        "age_years": 9,
+        "location": "Rapunzelstraße 1, 87764 Legau",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.596293,
+          48.434571
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Günter Zott Energieerzeugung",
+        "unit_name": "BHKW 50kW 2",
+        "start_date": "30.12.2010",
+        "age_years": 14,
+        "location": "Krautgartenweg 8, 86441 Zusmarshausen",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.457002,
+          48.118769
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Dominikus-Ringeisen-Werk",
+        "unit_name": "BHKW-Pfaffenhausen",
+        "start_date": "24.7.2014",
+        "age_years": 10,
+        "location": "Pfarrstraße 6, 87772 Pfaffenhausen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.726402,
+          48.030108
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Schulverband Mittelschule Buchloe",
+        "unit_name": "BHKW Hallenbad",
+        "start_date": "14.5.2014",
+        "age_years": 10,
+        "location": "Münchener Straße 22, 86807 Buchloe",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.933808,
+          50.29526
+        ]
+      },
+      "properties": {
+        "power": 54.1,
+        "operator": "Le-go Bekleidungswerke",
+        "unit_name": "Viessmann BHKW",
+        "start_date": "18.2.2014",
+        "age_years": 11,
+        "location": "Am Wiesengrund 20, 95032 Hof",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.093935,
+          48.217625
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Stadt Illertissen",
+        "unit_name": "BHKW Nautilla",
+        "start_date": "3.12.2014",
+        "age_years": 10,
+        "location": "Gottfried-Hart-Straße 6, 89257 Illertissen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.884346,
+          48.425536
+        ]
+      },
+      "properties": {
+        "power": 210.0,
+        "operator": "Stadtwerke Gersthofen",
+        "unit_name": "BHKW Freibad Gersthofen",
+        "start_date": "1.5.1992",
+        "age_years": 32,
+        "location": "Sportallee 24, 86368 Gersthofen",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.041809,
+          49.434205
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Pflanzen Kölle Gartencenter GmbH & Co. KG",
+        "unit_name": "BHKW-Nürnberg",
+        "start_date": "18.9.2016",
+        "age_years": 8,
+        "location": "Geisseestraße 65, 90439 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.195385,
+          50.250453
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Metallveredlung Emil Weiss GmbH & Co. KG",
+        "unit_name": "BHKW 140",
+        "start_date": "13.7.2016",
+        "age_years": 8,
+        "location": "Angerstraße 1, 96268 Mitwitz",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.025558,
+          50.128516
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Maintal Betten GmbH",
+        "unit_name": "BHKW Vitoloc 200EM-50/81",
+        "start_date": "6.12.2012",
+        "age_years": 12,
+        "location": "Schönbrunner Straße 17, 96215 Lichtenfels",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.992924,
+          50.109608
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Kurhotel an der Obermaintherme",
+        "unit_name": "BHKW-Hotel",
+        "start_date": "20.2.2020",
+        "age_years": 5,
+        "location": "Am Kurpark 7, 96231 Bad Staffelstein",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.657805,
+          48.077831
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "SWM Services GmbH",
+        "unit_name": "Floriansanger1_BHKW_Mot1",
+        "start_date": "16.12.2019",
+        "age_years": 5,
+        "location": "Floriansanger 1, 85579 Neubiberg",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.829455,
+          48.166505
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Ikusto GmbH",
+        "unit_name": "BHKW 50kwh",
+        "start_date": "3.11.2017",
+        "age_years": 7,
+        "location": "Industriestraße 11, 86836 Untermeitingen",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197848,
+          48.6281
+        ]
+      },
+      "properties": {
+        "power": 142.0,
+        "operator": "Landkreis Passau Krankenhaus gGmbH",
+        "unit_name": "BHKW-Vof",
+        "start_date": "1.5.2013",
+        "age_years": 11,
+        "location": "Krankenhausstraße 32, 94474 Vilshofen",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.201809,
+          48.354568
+        ]
+      },
+      "properties": {
+        "power": 198.0,
+        "operator": "Landkreis Passau Krankenhaus gGmbH",
+        "unit_name": "BHKW-Rot",
+        "start_date": "27.11.2012",
+        "age_years": 12,
+        "location": "Simbacher Straße 35, 94094 Rotthalmünster",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.035623,
+          49.475621
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "natürliche Person (ABR928376954539)",
+        "unit_name": "GWH",
+        "start_date": "25.2.2020",
+        "age_years": 5,
+        "location": "Raiffeisenstraße  8912 nan, 90427 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.308731,
+          48.365754
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "m&i-Klinikgesellschaft in Ichenhausen GmbH",
+        "unit_name": "BHKW",
+        "start_date": "21.6.2016",
+        "age_years": 8,
+        "location": "Krumbacher Straße 45, 89335 Ichenhausen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.307997,
+          47.511617
+        ]
+      },
+      "properties": {
+        "power": 240.0,
+        "operator": "Stella Hotelbetriebsgesellschaft mbH",
+        "unit_name": "BHKW",
+        "start_date": "30.4.2013",
+        "age_years": 11,
+        "location": "Buchfinkenweg 2, 87527 Sonthofen",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.658112,
+          47.889345
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Kunststofftechnik Bernt GmbH",
+        "unit_name": "BHKW 1",
+        "start_date": "18.2.2015",
+        "age_years": 10,
+        "location": "Dr.-Herbert-Kittel-Straße 10, 87600 Kaufbeuren",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.658112,
+          47.889345
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Kunststofftechnik Bernt GmbH",
+        "unit_name": "BHKW 2",
+        "start_date": "30.11.2015",
+        "age_years": 9,
+        "location": "Dr.-Herbert-Kittel-Straße 10, 87600 Kaufbeuren",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.727299,
+          47.555357
+        ]
+      },
+      "properties": {
+        "power": 240.0,
+        "operator": "Lindauer DORNIER GmbH",
+        "unit_name": "BHKW",
+        "start_date": "10.3.2015",
+        "age_years": 10,
+        "location": "Rickenbacher Straße 119, 88131 Lindau",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2843,
+          48.4256
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Deutsche Post AG vertreten durch DPDHL RED GmbH",
+        "unit_name": "BHKW - PZ Günzburg",
+        "start_date": "17.12.2015",
+        "age_years": 9,
+        "location": "Ferdinand-Porsche-Straße 1, 89312 Günzburg",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.847446,
+          48.36197
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Dr. Georg-Frank-Altenhilfe-Stiftung",
+        "unit_name": "BHKW Haus 2",
+        "start_date": "16.8.2017",
+        "age_years": 7,
+        "location": "Dr.-Frank-Straße 2 b, 86391 Stadtbergen",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.492791,
+          47.764434
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "natürliche Person (ABR956281777622)",
+        "unit_name": "BHKW2",
+        "start_date": "11.10.2019",
+        "age_years": 5,
+        "location": "Kemptener-Wald-Straße 14 a, 87647 Unterthingau",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.492795,
+          47.765056
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "natürliche Person (ABR956281777622)",
+        "unit_name": "BHKW8",
+        "start_date": "11.10.2019",
+        "age_years": 5,
+        "location": "Kemptener-Wald-Straße 14, 87647 Unterthingau",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.895952,
+          48.789224
+        ]
+      },
+      "properties": {
+        "power": 49.5,
+        "operator": "GLOBUS Handelshof St. Wendel GmbH & Co. KG",
+        "unit_name": "PLT Mini-BHKW",
+        "start_date": "26.10.2017",
+        "age_years": 7,
+        "location": "Dr.-Walter-Bruch-Straße 1, 94447 Plattling",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.08285,
+          50.137807
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Helmut-G.-Walther-Klinikum Lichtenfels",
+        "unit_name": "BHKW 1",
+        "start_date": "24.1.2019",
+        "age_years": 6,
+        "location": "Professor-Arneth-Straße 2b, 96215 Lichtenfels",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.082774,
+          50.13779
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Helmut-G.-Walther-Klinikum Lichtenfels",
+        "unit_name": "BHKW 2",
+        "start_date": "24.1.2019",
+        "age_years": 6,
+        "location": "Professor-Arneth-Straße 2b, 96215 Lichtenfels",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.281869,
+          48.702446
+        ]
+      },
+      "properties": {
+        "power": 132.0,
+        "operator": "Meusburger Fahrzeugbau",
+        "unit_name": "Halle2 (Zwischenüberdachung)",
+        "start_date": "18.11.2019",
+        "age_years": 5,
+        "location": "Kollmering 7, 94535 Eging a.See",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.872637,
+          48.362337
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Stadtwerke Augsburg Energie GmbH",
+        "unit_name": "Franz-Kobinger-Straße",
+        "start_date": "2.2.2012",
+        "age_years": 13,
+        "location": "Franz-Kobinger-Straße 5, 86157 Augsburg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.654018,
+          48.893308
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Sennebogen Maschinenfabrik GmbH",
+        "unit_name": "Sen10W2.3",
+        "start_date": "18.6.2008",
+        "age_years": 16,
+        "location": "Sennebogenstraße 10, 94315 Straubing",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.889154,
+          48.350423
+        ]
+      },
+      "properties": {
+        "power": 150.0,
+        "operator": "Stadtwerke Augsburg Energie GmbH",
+        "unit_name": "Servatius- Anna-Hintermayr-Stift",
+        "start_date": "26.10.2018",
+        "age_years": 6,
+        "location": "Fritz-Hintermayr-Straße 7, 86159 Augsburg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.887185,
+          48.359411
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Stadtwerke Augsburg Energie GmbH",
+        "unit_name": "Kongress am Park",
+        "start_date": "17.9.2013",
+        "age_years": 11,
+        "location": "Gögginger Straße 10, 86159 Augsburg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.567093,
+          48.281261
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Auto Kölbl",
+        "unit_name": "BHKW 50 kW alt gibt es nicht mehr",
+        "start_date": "10.2.2011",
+        "age_years": 14,
+        "location": "Michael-Kölbl-Straße 1, 85716 Unterschleißheim",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.87938,
+          48.389773
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Stadtwerke Augsburg Energie GmbH",
+        "unit_name": "Eschenhofstraße 5",
+        "start_date": "5.12.2015",
+        "age_years": 9,
+        "location": "Eschenhofstraße 5, 86154 Augsburg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.949486,
+          48.353186
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Stadtwerke Augsburg Energie GmbH",
+        "unit_name": "Peterhofstraße 9",
+        "start_date": "16.6.2010",
+        "age_years": 14,
+        "location": "Peterhofstraße 9, 86163 Augsburg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.794133,
+          50.195112
+        ]
+      },
+      "properties": {
+        "power": 115.0,
+        "operator": "Kliniken HochFranken Münchberg + Naila",
+        "unit_name": "BHKW M",
+        "start_date": "18.1.2011",
+        "age_years": 14,
+        "location": "Hofer Straße 40, 95213 Münchberg",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.600304,
+          48.699457
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Privatbrauerei und Mineralbrunnenbetrieb Heinrich Egerer",
+        "unit_name": "Erdgas-BHKW 4554",
+        "start_date": "15.12.2016",
+        "age_years": 8,
+        "location": "Dachinger Straße 27, 94431 Pilsting",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.433031,
+          48.107377
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Müller-BBM Holding AG",
+        "unit_name": "BHKW BA7",
+        "start_date": "11.3.2020",
+        "age_years": 5,
+        "location": "Robert-Koch-Straße 9, 82152 Planegg",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.676466,
+          48.042792
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Huber Kunstoff & Technik GmbH",
+        "unit_name": "BHKW",
+        "start_date": "16.9.2013",
+        "age_years": 11,
+        "location": "Gewerbestraße 4, 86879 Wiedergeltingen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.947187,
+          50.262448
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Landkreis Coburg",
+        "unit_name": "Blockheizkraftwerk Staatl. Realschule Coburg II",
+        "start_date": "21.1.2014",
+        "age_years": 11,
+        "location": "Thüringer Straße 5, 96450 Coburg",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.545433,
+          48.13205
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Edith-Haberland-Wagner Stiftung",
+        "unit_name": "BHKW Jugendhotel",
+        "start_date": "23.10.2019",
+        "age_years": 5,
+        "location": "Am Bavariapark 16, 80339 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.988249,
+          50.27371
+        ]
+      },
+      "properties": {
+        "power": 210.0,
+        "operator": "KAPP GmbH & Co. KG",
+        "unit_name": "BHKW Werk 2",
+        "start_date": "1.7.2000",
+        "age_years": 24,
+        "location": "Gärtnersleite 2, 96450 Coburg",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.43995,
+          48.255258
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Sparkasse Dachau",
+        "unit_name": "BHKW Hauptstelle",
+        "start_date": "24.5.2012",
+        "age_years": 12,
+        "location": "Sparkassenplatz 1, 85221 Dachau",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.725226,
+          50.230657
+        ]
+      },
+      "properties": {
+        "power": 142.0,
+        "operator": "Kunststoff Helmbrechts AG",
+        "unit_name": "BHKW Werk 5",
+        "start_date": "21.11.2013",
+        "age_years": 11,
+        "location": "Fliegerweg 2, 95233 Helmbrechts",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.631013,
+          50.359743
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Deutsche Rentenversicherung Bund RZ in Bad Steben",
+        "unit_name": "Bad Steben Klinik Franken",
+        "start_date": "20.9.2011",
+        "age_years": 13,
+        "location": "Berliner Straße 18, 95138 Bad Steben",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.653306,
+          50.368281
+        ]
+      },
+      "properties": {
+        "power": 100.0,
+        "operator": "Deutsche Rentenversicherung Bund RZ in Bad Steben",
+        "unit_name": "Bad Steben Klinik Auental",
+        "start_date": "11.6.2010",
+        "age_years": 14,
+        "location": "Frankenwaldstraße 33, 95138 Bad Steben",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.71578,
+          48.074193
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Gemeindewerke Putzbrunn GmbH",
+        "unit_name": "BHKW-Energiezentrale",
+        "start_date": "8.11.2007",
+        "age_years": 17,
+        "location": "Rathausstraße 7, 85640 Putzbrunn",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.55699,
+          47.771944
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "St.-Georgs-Mühle",
+        "unit_name": "BHKW",
+        "start_date": "26.7.2012",
+        "age_years": 12,
+        "location": "Geisenrieder Straße 42, 87616 Marktoberdorf",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.150381,
+          48.0052
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Jüliyet Suic Handel & Export",
+        "unit_name": "BHKW Suic",
+        "start_date": "23.11.2017",
+        "age_years": 7,
+        "location": "Oberer Buxheimer Weg 60, 87700 Memmingen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.593678,
+          48.124856
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Deutsche Provinz der Salesianer Don Boscos",
+        "unit_name": "BHKW-St-Wolf",
+        "start_date": "5.7.2016",
+        "age_years": 8,
+        "location": "Sieboldstraße 11, 81669 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.793886,
+          48.147391
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Kugler Feinkost GmbH",
+        "unit_name": "BHKW",
+        "start_date": "16.12.2014",
+        "age_years": 10,
+        "location": "Taxetstraße 5, 85599 Parsdorf",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.803757,
+          48.891473
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "VTA Verfahrenstechnische Anlagen GmbH & Co. KG",
+        "unit_name": "BHKW",
+        "start_date": "7.2.2013",
+        "age_years": 12,
+        "location": "Bernrieder Straße 10, 94559 Niederwinkling",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.634046,
+          50.361663
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Klinik am Park Bad Steben GmbH",
+        "unit_name": "BHKW Bad Steben",
+        "start_date": "8.12.2011",
+        "age_years": 13,
+        "location": "Berliner Straße 2, 95138 Bad Steben",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.232334,
+          48.447235
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Zweckverband Hallenbad Nord",
+        "unit_name": "BHKW",
+        "start_date": "1.6.2016",
+        "age_years": 8,
+        "location": "Günzburger Straße 68, 89340 Leipheim",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.299922,
+          48.407673
+        ]
+      },
+      "properties": {
+        "power": 75.0,
+        "operator": "natürliche Person (ABR977719118459)",
+        "unit_name": "BHKW",
+        "start_date": "29.2.2012",
+        "age_years": 13,
+        "location": "Gewerbering 40, 94060 Pocking",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8687,
+          48.4042
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Deutsche Post AG vertreten durch DPDHL RED GmbH",
+        "unit_name": "BHKW PZ Augsburg WE231105",
+        "start_date": "25.11.2016",
+        "age_years": 8,
+        "location": "Stuttgarter Straße 33, 86154 Augsburg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.636024,
+          50.365861
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "relexa hotel GmbH",
+        "unit_name": "BHKW",
+        "start_date": "21.1.2016",
+        "age_years": 9,
+        "location": "Badstraße 26 -28, 95138 Bad Steben",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.938507,
+          50.266986
+        ]
+      },
+      "properties": {
+        "power": 238.0,
+        "operator": "Stadtentwicklungsgesellschaft Coburg mbH",
+        "unit_name": "BHKW Heimatring 42 a",
+        "start_date": "20.12.2010",
+        "age_years": 14,
+        "location": "Heimatring 42, 96450 Coburg",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.301591,
+          47.812138
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "A&U Consulting GmbH",
+        "unit_name": "KWK-Anlage",
+        "start_date": "28.1.2019",
+        "age_years": 6,
+        "location": "Steinbühl 3, 87463 Dietmannsried",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.889317,
+          47.631066
+        ]
+      },
+      "properties": {
+        "power": 227.0,
+        "operator": "Meckatzer Löwenbräu Benedikt Weiß KG",
+        "unit_name": "BHKW",
+        "start_date": "1.1.1999",
+        "age_years": 26,
+        "location": "Meckatz 10, 88178 Heimenkirch",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.115265,
+          47.895917
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "MCSL-Managementcentrum Schloss Lautrach Betriebs GmbH",
+        "unit_name": "Parkgebäude",
+        "start_date": "28.7.2014",
+        "age_years": 10,
+        "location": "Schloßstraße 1 a, 87763 Lautrach",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.108954,
+          49.398566
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "IV.BPA Nürnberg",
+        "unit_name": "BHKW Geb.15",
+        "start_date": "15.1.2014",
+        "age_years": 11,
+        "location": "Kornburger Straße 60, 90469 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.049731,
+          50.143691
+        ]
+      },
+      "properties": {
+        "power": 100.0,
+        "operator": "Stadt Lichtenfels",
+        "unit_name": "BHKW-Kläranalge Lichtenfels",
+        "start_date": "23.1.2020",
+        "age_years": 5,
+        "location": "Wöhrdstraße 51, 96215 Lichtenfels",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.171936,
+          47.988715
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Alois Müller Holding GmbH & Co. KG",
+        "unit_name": "BHKW DrBerndlPlatz2",
+        "start_date": "28.9.2016",
+        "age_years": 8,
+        "location": "Dr.-Berndl-Platz 2, 87700 Memmingen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56015,
+          48.87346
+        ]
+      },
+      "properties": {
+        "power": 210.0,
+        "operator": "Stadtwerke Straubing GmbH",
+        "unit_name": "BHKW AQUAtherm",
+        "start_date": "19.4.2012",
+        "age_years": 12,
+        "location": "Wittelsbacherhöhe 50, 94315 Straubing",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.128603,
+          49.486085
+        ]
+      },
+      "properties": {
+        "power": 99.0,
+        "operator": "Fraunhofer Institut für Integrierte Schaltungen IIS",
+        "unit_name": "BHKW N2 E22656",
+        "start_date": "6.10.2015",
+        "age_years": 9,
+        "location": "Nordostpark 84, 90411 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.612493,
+          48.404464
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Haus Pfifferlingstal GmbH",
+        "unit_name": "BHKW",
+        "start_date": "21.12.2015",
+        "age_years": 9,
+        "location": "Paracelsusstraße 3, 86441 Zusmarshausen",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.567217,
+          48.874481
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Hotel Asam GmbH & Co. KG",
+        "unit_name": "BHKW",
+        "start_date": "3.12.2013",
+        "age_years": 11,
+        "location": "Wittelsbacherhöhe 1, 94315 Straubing",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.868512,
+          48.778733
+        ]
+      },
+      "properties": {
+        "power": 51.65,
+        "operator": "Bayrisches Rotes Kreuz Kreisverband Deggendorf",
+        "unit_name": "BHKW 1 Wäscherei Plattling",
+        "start_date": "20.11.2015",
+        "age_years": 9,
+        "location": "Luitpoldstraße 16, 94447 Plattling",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.868512,
+          48.778733
+        ]
+      },
+      "properties": {
+        "power": 51.65,
+        "operator": "Bayrisches Rotes Kreuz Kreisverband Deggendorf",
+        "unit_name": "BHKW 2 Wäscherei Plattling",
+        "start_date": "20.11.2015",
+        "age_years": 9,
+        "location": "Luitpoldstraße 16, 94447 Plattling",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.02718,
+          49.522398
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "BBW Betreuungs-Beratungs- und Wohnbaugesellschaft für Behinderte gemeinnützige GmbH",
+        "unit_name": "Zerzabelshofstr. 29 BHKW 50 kW",
+        "start_date": "22.10.2014",
+        "age_years": 10,
+        "location": "Am Spund 4, 90427 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.576188,
+          48.008137
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Lehn Hotel- und Gastronomie Betriebsgesellschaft mbH Vitalhotel Sonneck",
+        "unit_name": "BHKW",
+        "start_date": "3.10.2009",
+        "age_years": 15,
+        "location": "Tannenbaum 1, 86825 Bad Wörishofen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43267,
+          48.570561
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Erich Röhr GmbH & Co. KG",
+        "unit_name": "VW Zentrum Passau",
+        "start_date": "5.4.2018",
+        "age_years": 6,
+        "location": "Spitalhofstraße 70, 94032 Passau",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.548456,
+          48.187044
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Knorr-Bremse SfS HmbH",
+        "unit_name": "BHKW TCK1H2",
+        "start_date": "27.3.2019",
+        "age_years": 5,
+        "location": "Moosacher Straße 80, 80809 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.421063,
+          48.558534
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Franz Hofbauer Automobile GmbH & Co. KG",
+        "unit_name": "BHKW Smartblock 50 (2018)",
+        "start_date": "2.1.2018",
+        "age_years": 7,
+        "location": "Neuburger Straße 141, 94036 Passau",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.911039,
+          48.316521
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Sozialservice-Gesellschaft des Bayerischen Roten Kreuzes gGmbH",
+        "unit_name": "SSG Augsburg",
+        "start_date": "17.10.2013",
+        "age_years": 11,
+        "location": "Marconistraße 7, 86179 Augsburg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.750641,
+          48.172921
+        ]
+      },
+      "properties": {
+        "power": 100.0,
+        "operator": "Stadt Schwabmünchen",
+        "unit_name": "BHKW Freibad Schwabmünchen",
+        "start_date": "16.5.2019",
+        "age_years": 5,
+        "location": "Badstraße 21, 86830 Schwabmünchen",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.283723,
+          50.471431
+        ]
+      },
+      "properties": {
+        "power": 142.0,
+        "operator": "HEINZ-GLAS GmbH & Co. KGaA",
+        "unit_name": "BHKW 3 Kleintettau",
+        "start_date": "6.2.2008",
+        "age_years": 17,
+        "location": "Glashüttenplatz 3, 96355 Tettau",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.878772,
+          48.350093
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Landgericht Augsburg",
+        "unit_name": "Blockheizkraftwerk SJZ",
+        "start_date": "10.12.2015",
+        "age_years": 9,
+        "location": "Gögginger Straße 101, 86199 Augsburg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.549562,
+          48.103772
+        ]
+      },
+      "properties": {
+        "power": 50.56,
+        "operator": "Wohnungseigentümergemeinschaft Am Isarkanal 24, 81379 München",
+        "unit_name": "BHKW",
+        "start_date": "29.4.2019",
+        "age_years": 5,
+        "location": "Am Isarkanal 24, 81379 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.598761,
+          47.799057
+        ]
+      },
+      "properties": {
+        "power": 240.0,
+        "operator": "Brennpunkt Energie GmbH",
+        "unit_name": "BHKW 5 BPE",
+        "start_date": "21.12.2017",
+        "age_years": 7,
+        "location": "Am Baggersee 2, 87674 Ruderatshofen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.047152,
+          49.47556
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Berufsförderungswerk Nürnberg gemeinnützige GmbH",
+        "unit_name": "BHKW 2011",
+        "start_date": "11.1.2011",
+        "age_years": 14,
+        "location": "Schleswiger Straße 101, 90427 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.937038,
+          50.32506
+        ]
+      },
+      "properties": {
+        "power": 239.0,
+        "operator": "Hochschule für den öffentlichen Dienst in Bayern, Fachbereich Allgemeine Innere Verwaltung",
+        "unit_name": "ABR944063378501",
+        "start_date": "20.10.2010",
+        "age_years": 14,
+        "location": "Wirthstraße 51, 95028 Hof",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.246256,
+          48.777964
+        ]
+      },
+      "properties": {
+        "power": 208.0,
+        "operator": "Klinik Mallersdorf",
+        "unit_name": "BHKW",
+        "start_date": "17.7.2014",
+        "age_years": 10,
+        "location": "Krankenhausstraße 6, 84066 Mallersdorf-Pfaffenberg",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.534619,
+          48.085287
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Martha-Maria Krankenhaus gGmbH",
+        "unit_name": "Martha-Maria München 1",
+        "start_date": "16.12.2013",
+        "age_years": 11,
+        "location": "Wolfratshauser Straße 109, 81479 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343322,
+          50.230831
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Lear Corporation GmbH",
+        "unit_name": "BHKW Lear",
+        "start_date": "18.7.2016",
+        "age_years": 8,
+        "location": "Industriestraße 48, 96317 Kronach",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.948201,
+          50.2641
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Studentenwerk Oberfranken",
+        "unit_name": "WA Coburg",
+        "start_date": "1.12.2009",
+        "age_years": 15,
+        "location": "Thüringer Straße 4a, 96450 Coburg",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.139755,
+          48.462172
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Kliniken an der Paar - KH Aichach",
+        "unit_name": "BHKW - Krankenhausstr. 11 b",
+        "start_date": "27.7.2018",
+        "age_years": 6,
+        "location": "Krankenhausstraße 11 b, 86551 Aichach",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.054691,
+          49.508607
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "natürliche Person (ABR940701032316)",
+        "unit_name": "BHKW",
+        "start_date": "13.10.2010",
+        "age_years": 14,
+        "location": "Irrhainstraße nan, 90427 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.949122,
+          50.248709
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Caritasverband Coburg",
+        "unit_name": "BHKW Vitoblock",
+        "start_date": "29.7.2014",
+        "age_years": 10,
+        "location": "Kükenthalstraße 19, 96450 Coburg",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.628261,
+          47.770948
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Xaver Schmid GmbH & Co. Bauunternehmen KG",
+        "unit_name": "BHKW XS Saliterstr.",
+        "start_date": "3.11.2016",
+        "age_years": 8,
+        "location": "Saliterstraße 47, 87616 Marktoberdorf",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.130769,
+          48.467576
+        ]
+      },
+      "properties": {
+        "power": 200.0,
+        "operator": "BT Nyloplast GmbH",
+        "unit_name": "BT Nyloplast GmbH",
+        "start_date": "5.1.2015",
+        "age_years": 10,
+        "location": "Oberbernbacher Weg 24, 86551 Aichach",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.294432,
+          47.944719
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Liebenau Lebenswert Alter gemeinnützige GmbH",
+        "unit_name": "GAS-BHKW ESS - Ottobeuren",
+        "start_date": "21.12.2015",
+        "age_years": 9,
+        "location": "Spitalstraße 2, 87724 Ottobeuren",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.990516,
+          50.025397
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "SWW Wunsiedel GmbH",
+        "unit_name": "Heizwerk Breitenbrunn",
+        "start_date": "16.5.2011",
+        "age_years": 13,
+        "location": "Am Luxbach 18, 95632 Wunsiedel",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.027248,
+          50.039637
+        ]
+      },
+      "properties": {
+        "power": 120.0,
+        "operator": "WUN Infrastruktur KU",
+        "unit_name": "Kläranlage Wun KWK",
+        "start_date": "28.2.2014",
+        "age_years": 11,
+        "location": "Wintersreuther Straße 4, 95632 Wunsiedel",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.384658,
+          48.453263
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "natürliche Person (ABR923535986123)",
+        "unit_name": "BHKW Pfaffinger",
+        "start_date": "20.2.2019",
+        "age_years": 6,
+        "location": "Gewerbepark 9, 94099 Ruhstorf",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.720713,
+          50.324654
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Kliniken HochFranken Münchberg + Naila",
+        "unit_name": "BHKW N",
+        "start_date": "5.5.2011",
+        "age_years": 13,
+        "location": "Hofer Straße 45, 95119 Naila",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.88603,
+          48.2921
+        ]
+      },
+      "properties": {
+        "power": 238.0,
+        "operator": "V. BPA Königsbrunn",
+        "unit_name": "BHKW V. BPA Königsbrunn",
+        "start_date": "22.9.2016",
+        "age_years": 8,
+        "location": "Föllstraße 24, 86343 Königsbrunn",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.188005,
+          48.42574
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "A. Hartl Resort GmbH & Co. Holding KG Hotel Fürstenhof",
+        "unit_name": "BHKW 140 KW FÜH",
+        "start_date": "23.7.2014",
+        "age_years": 10,
+        "location": "Thermalbadstraße 28, 94086 Bad Griesbach",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.250231,
+          50.141244
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Regens-Wagner-Stiftung Dillingen, Regens Wagner Burgkunstadt",
+        "unit_name": "BHKW",
+        "start_date": "1.4.2010",
+        "age_years": 14,
+        "location": "Regens-Wagner-Platz 2, 96224 Burgkunstadt",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.63665,
+          47.771378
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Panoramahotel Oberjoch GmbH",
+        "unit_name": "BHKW MOD",
+        "start_date": "9.8.2018",
+        "age_years": 6,
+        "location": "Schongauer Straße 48, 87616 Marktoberdorf",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.249863,
+          47.442966
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Hotel Berwanger Hof GmbH",
+        "unit_name": "Berwanger Hof Kraftwerk",
+        "start_date": "28.7.2011",
+        "age_years": 13,
+        "location": "Niederdorf 11, 87538 Obermaiselstein",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.491588,
+          47.764791
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "natürliche Person (ABR956281777622)",
+        "unit_name": "BHKW 1",
+        "start_date": "7.9.2017",
+        "age_years": 7,
+        "location": "Kemptener-Wald-Straße 14 a, 87647 Unterthingau",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.49162,
+          47.764884
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "natürliche Person (ABR956281777622)",
+        "unit_name": "BHKW 7",
+        "start_date": "7.9.2017",
+        "age_years": 7,
+        "location": "Kemptener-Wald-Straße 14 a, 87647 Unterthingau",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.591738,
+          48.225455
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "2H GmbH & Co. KG",
+        "unit_name": "2H BHKW",
+        "start_date": "26.11.2015",
+        "age_years": 9,
+        "location": "Dieselstraße 24, 85748 Garching",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33287,
+          50.244447
+        ]
+      },
+      "properties": {
+        "power": 119.0,
+        "operator": "Helios Frankenwaldklinik Kronach",
+        "unit_name": "BHKW - 1114-BT-00034",
+        "start_date": "19.3.2015",
+        "age_years": 10,
+        "location": "Friesener Straße 41, 96317 Kronach",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.089579,
+          49.436104
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Stadt Nürnberg H/ZA-KEM",
+        "unit_name": "Berufsschule 4/14 Schönweißstraße",
+        "start_date": "1.1.2009",
+        "age_years": 16,
+        "location": "Kleestraße 2, 90461 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.139716,
+          49.447441
+        ]
+      },
+      "properties": {
+        "power": 49.9,
+        "operator": "Stadt Nürnberg H/ZA-KEM",
+        "unit_name": "Tiergarten Delphinlagune/Manatihaus",
+        "start_date": "12.5.2011",
+        "age_years": 13,
+        "location": "Am Tiergarten 42, 90480 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.414562,
+          48.551117
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Rehafachzentrum Bad Füssing - Passau",
+        "unit_name": "RFZ_PA_BHKW",
+        "start_date": "15.12.2015",
+        "age_years": 9,
+        "location": "Kohlbruck 5, 94036 Passau",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.885178,
+          48.272541
+        ]
+      },
+      "properties": {
+        "power": 112.0,
+        "operator": "Wärmeversorgung Schwaben GmbH",
+        "unit_name": "WVS HZ KöBr BHKW2",
+        "start_date": "1.3.2011",
+        "age_years": 14,
+        "location": "St.-Ulrich-Straße 17, 86343 Königsbrunn",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.187507,
+          48.430195
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "A.Hartl Resort GmbH &Co. Ferienhotel Griesbach Betriebs-KG",
+        "unit_name": "BHKW 140 KW Ludwig",
+        "start_date": "12.3.2014",
+        "age_years": 11,
+        "location": "Am Kurwald 2, 94086 Bad Griesbach",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.184829,
+          48.430206
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "A.Hartl Resort GmbH &Co. SH Land- u. Golfhotel Betriebs-KG",
+        "unit_name": "BHKW 140 KW MAX",
+        "start_date": "11.3.2014",
+        "age_years": 11,
+        "location": "Kurallee 1, 94086 Bad Griesbach",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.906235,
+          50.318919
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Eura-Döner International Produktionsgesellschaft mbH",
+        "unit_name": "BHKW Vitobloc 200 EM",
+        "start_date": "1.3.2011",
+        "age_years": 14,
+        "location": "Fröbelstraße 4, 95030 Hof",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.959102,
+          50.263593
+        ]
+      },
+      "properties": {
+        "power": 227.0,
+        "operator": "HUK-COBURG Haftpflicht-Unterstützungs-Kasse kraftfahrender Beamter Deutschlands a. G.",
+        "unit_name": "BHKW Bahnhofsplatz (BP)",
+        "start_date": "15.6.2009",
+        "age_years": 15,
+        "location": "Bahnhofsplatz 1, 96450 Coburg",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.538809,
+          47.581913
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Hotel Zugspitzblick GmbH + Co KG",
+        "unit_name": "ABR916896670152",
+        "start_date": "30.5.2006",
+        "age_years": 18,
+        "location": "Edelsbergweg 71, 87459 Pfronten",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.36433,
+          48.238872
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Kreisklinik Krumbach",
+        "unit_name": "Blockheizkraftwerk Klinik Krumbach",
+        "start_date": "29.6.2016",
+        "age_years": 8,
+        "location": "Mindelheimer Straße 69, 86381 Krumbach",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.584514,
+          48.001775
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Hotelbetriebsgesellschaft mbH",
+        "unit_name": "BHKW Hotel Sonnenhof",
+        "start_date": "10.12.2013",
+        "age_years": 11,
+        "location": "Hermann-Aust-Straße 11, 86825 Bad Wörishofen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.091131,
+          50.006012
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Kommunalunternehmen Marktredwitz",
+        "unit_name": "BHKW Hallenbad",
+        "start_date": "6.11.2014",
+        "age_years": 10,
+        "location": "Schulstraße 2, 95615 Marktredwitz",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.634477,
+          50.364313
+        ]
+      },
+      "properties": {
+        "power": 113.0,
+        "operator": "Bayerisches Staatsbad Bad Steben GmbH",
+        "unit_name": "Bayer. Staatsbad Bad Steben BHKW113 kW",
+        "start_date": "17.12.2015",
+        "age_years": 9,
+        "location": "Badstraße 31, 95138 Bad Steben",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.277519,
+          47.521814
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "BHS-Sonthofen GmbH",
+        "unit_name": "BHKW Eisenschmelze",
+        "start_date": "22.12.2016",
+        "age_years": 8,
+        "location": "An der Eisenschmelze 47, 87527 Sonthofen",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.561065,
+          48.550815
+        ]
+      },
+      "properties": {
+        "power": 238.0,
+        "operator": "Mann+Hummel",
+        "unit_name": "BHKW Halle 7",
+        "start_date": "8.9.2011",
+        "age_years": 13,
+        "location": "Kollbacher Straße 31, 84163 Marklkofen",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.915498,
+          50.302956
+        ]
+      },
+      "properties": {
+        "power": 246.2,
+        "operator": "Sana Klinikum Hof GmbH",
+        "unit_name": "BHKW Sana Klinikum Hof",
+        "start_date": "24.5.2017",
+        "age_years": 7,
+        "location": "Eppenreuther Straße 9, 95032 Hof",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.93805,
+          48.3994
+        ]
+      },
+      "properties": {
+        "power": 135.0,
+        "operator": "Rolls-Royce Solutions Augsburg GmbH",
+        "unit_name": "BHKW",
+        "start_date": "1.1.2003",
+        "age_years": 22,
+        "location": "Dasinger Straße 11, 86165 Augsburg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.428428,
+          48.265021
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Helios Amper-Klinikum Dachau",
+        "unit_name": "Helios Amper-Klinikum Dachau",
+        "start_date": "22.7.2014",
+        "age_years": 10,
+        "location": "Krankenhausstraße 15, 85221 Dachau",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.435254,
+          48.038309
+        ]
+      },
+      "properties": {
+        "power": 240.0,
+        "operator": "JYSK SE",
+        "unit_name": "BHKW",
+        "start_date": "4.12.2015",
+        "age_years": 9,
+        "location": "Im Gewerbepark Unterallgäu 2, 87754 Kammlach",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.82714,
+          48.270084
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Stadtwerke Bobingen",
+        "unit_name": "BHKW- Parkstr. 3",
+        "start_date": "14.2.2017",
+        "age_years": 8,
+        "location": "nan nan, 86399 Bobingen",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.356606,
+          48.232827
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Stadt Krumbach",
+        "unit_name": "KWK-Anlage, Schulzentrum Krumbach, Talstr. 72",
+        "start_date": "14.9.2012",
+        "age_years": 12,
+        "location": "Talstraße 72, 86381 Krumbach",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.128893,
+          50.331437
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "AWO Bezirksverband OMF e.V.",
+        "unit_name": "AWO Neustadt b. Coburg",
+        "start_date": "20.10.2015",
+        "age_years": 9,
+        "location": "Sonneberger Straße 27, 96465 Neustadt",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.040655,
+          50.295153
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "AWO Bezirksverband OMF e.V.",
+        "unit_name": "AWO Rödental",
+        "start_date": "4.7.2014",
+        "age_years": 10,
+        "location": "Bürgermeister-F.-Fischer-Straße 3, 96472 Rödental",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.270389,
+          48.018677
+        ]
+      },
+      "properties": {
+        "power": 220.0,
+        "operator": "E-CON AG",
+        "unit_name": "BHKW GutenbergUH",
+        "start_date": "21.12.2016",
+        "age_years": 8,
+        "location": "Gutenbergstraße 12, 87781 Ungerhausen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.28227,
+          47.41057
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Klinikverbund Allgäu gGmbH",
+        "unit_name": "BHKW Klinik Oberstdorf",
+        "start_date": "29.4.2010",
+        "age_years": 14,
+        "location": "Trettachstraße 16, 87561 Oberstdorf",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.442953,
+          48.176277
+        ]
+      },
+      "properties": {
+        "power": 240.0,
+        "operator": "Pflanzen Kölle Gartencenter GmbH & Co. KG",
+        "unit_name": "BHKW München",
+        "start_date": "13.1.2014",
+        "age_years": 11,
+        "location": "Goteboldstraße 9, 81247 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.50539,
+          48.044409
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Gabor Shoes AG",
+        "unit_name": "KWKLCM",
+        "start_date": "14.12.2016",
+        "age_years": 8,
+        "location": "Allgäuer Straße 17, 87719 Mindelheim",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.136063,
+          50.183873
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Rosenthal",
+        "unit_name": "BHKW-RaR-2013",
+        "start_date": "24.10.2013",
+        "age_years": 11,
+        "location": "Geheimrat-Rosenthal-Straße 71, 95100 Selb",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.685592,
+          48.06892
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "SPIE Energy Solutions GmbH",
+        "unit_name": "BHKW-Ottobrunn",
+        "start_date": "13.6.2014",
+        "age_years": 10,
+        "location": "Rubensstraße 6, 85521 Ottobrunn",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.732119,
+          47.581345
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Lingenfelder GmbH & Co. OHG",
+        "unit_name": "BHKW Akelei",
+        "start_date": "7.10.2010",
+        "age_years": 14,
+        "location": "Kreuzweg 7, 87645 Schwangau",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.851244,
+          48.194182
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Metzgerei Elst",
+        "unit_name": "BHKW",
+        "start_date": "20.3.2018",
+        "age_years": 7,
+        "location": "Zeppelinstraße 5, 85570 Markt Schwaben",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.80193,
+          48.891215
+        ]
+      },
+      "properties": {
+        "power": 100.0,
+        "operator": "TE Connectivity Industrial GmbH",
+        "unit_name": "BHKW NW",
+        "start_date": "30.7.2014",
+        "age_years": 10,
+        "location": "Bernrieder Straße 15, 94559 Niederwinkling",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.188231,
+          47.990472
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Kath. Kirchengemeinde St. Johann K.d.ö.R, Altenheim St. Ulrich",
+        "unit_name": "KWK Altenheim 2013",
+        "start_date": "17.9.2013",
+        "age_years": 11,
+        "location": "St.-Hildegard-Weg 2, 87700 Memmingen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.517759,
+          48.63702
+        ]
+      },
+      "properties": {
+        "power": 100.0,
+        "operator": "Stadt Dingolfing",
+        "unit_name": "BHKW",
+        "start_date": "25.11.2016",
+        "age_years": 8,
+        "location": "Bauhofstraße 6, 84130 Dingolfing",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.517759,
+          48.63702
+        ]
+      },
+      "properties": {
+        "power": 100.0,
+        "operator": "Stadt Dingolfing",
+        "unit_name": "BHKW",
+        "start_date": "4.12.2017",
+        "age_years": 7,
+        "location": "Bauhofstraße 6, 84130 Dingolfing",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.622788,
+          48.558765
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Markt Obernzell",
+        "unit_name": "BHKW Am Hafen",
+        "start_date": "10.7.1999",
+        "age_years": 25,
+        "location": "Am Hafen 1, 94130 Obernzell",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.585982,
+          48.873947
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Barmherzige Brüder gemeinnützige Behindertenhilfe GmbH",
+        "unit_name": "BHKW",
+        "start_date": "20.1.2016",
+        "age_years": 9,
+        "location": "Äußere Passauer Straße 60, 94315 Straubing",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.238232,
+          48.529331
+        ]
+      },
+      "properties": {
+        "power": 99.0,
+        "operator": "Micro-Epsilon Messtechnik GmbH & Co.KG Wißpeintner, Karl",
+        "unit_name": "KWK Anlage Bau7",
+        "start_date": "23.1.2017",
+        "age_years": 8,
+        "location": "Königbacher Straße 15, 94496 Ortenburg",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.531703,
+          48.163923
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Stiftung Marienstift",
+        "unit_name": "M.",
+        "start_date": "22.7.2014",
+        "age_years": 10,
+        "location": "Klugstraße 144, 80637 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.327948,
+          50.235935
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Landratsamt Kronach, Güterstraße 18, 96317 Kronach",
+        "unit_name": "BHKW_HZ (G/BS)",
+        "start_date": "7.1.2020",
+        "age_years": 5,
+        "location": "nan nan, 96317 Kronach",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.227431,
+          47.559095
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Stadtwerke Immenstadt i. Allgäu",
+        "unit_name": "BHKW Hallenbad",
+        "start_date": "16.11.2017",
+        "age_years": 7,
+        "location": "Allgäuer Straße 15, 87509 Immenstadt",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.730322,
+          48.555321
+        ]
+      },
+      "properties": {
+        "power": 106.0,
+        "operator": "Kimmel Metallverarbeitung",
+        "unit_name": "BHKW 1",
+        "start_date": "1.1.1999",
+        "age_years": 26,
+        "location": "Falterhaid 52a, 94436 Simbach",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.016593,
+          48.393892
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Opti-Wohnwelt Neu-Ulm GmbH",
+        "unit_name": "BHKW Neu-Ulm",
+        "start_date": "19.12.2016",
+        "age_years": 8,
+        "location": "Borsigstraße 15, 89231 Neu-Ulm",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.730322,
+          48.555321
+        ]
+      },
+      "properties": {
+        "power": 106.0,
+        "operator": "Kimmel Metallverarbeitung",
+        "unit_name": "BHKW 2",
+        "start_date": "1.1.1999",
+        "age_years": 26,
+        "location": "Falterhaid 52 a, 94436 Simbach",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.279652,
+          48.452351
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Landkreis Günzburg",
+        "unit_name": "Landratsamt GZ BHKW",
+        "start_date": "14.3.2012",
+        "age_years": 13,
+        "location": "An der Kapuzinermauer 1, 89312 Günzburg",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.428351,
+          48.265047
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Helios Amper-Klinikum Dachau",
+        "unit_name": "BHKW 2",
+        "start_date": "22.7.2014",
+        "age_years": 10,
+        "location": "Krankenhausstraße 15, 85221 Dachau",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.253743,
+          47.423789
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Fachklinik für Ortopädie, Rheumatologie",
+        "unit_name": "BHKW",
+        "start_date": "29.10.2015",
+        "age_years": 9,
+        "location": "Wasachstraße 41, 87561 Oberstdorf",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.097647,
+          49.468341
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Nürnberger Wach- und Schließgesellschaft mbH",
+        "unit_name": "BHKW Fraunhoferstraße 10 Keller",
+        "start_date": "1.1.2014",
+        "age_years": 11,
+        "location": "Fraunhoferstraße 10, 90409 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.044568,
+          49.514455
+        ]
+      },
+      "properties": {
+        "power": 230.0,
+        "operator": "natürliche Person (ABR927025800081)",
+        "unit_name": "KWK 232 kW",
+        "start_date": "4.12.2015",
+        "age_years": 9,
+        "location": "Kraftshofer Hauptstraße 265, 90427 Nürnberg",
+        "cc": "Schmoll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.955914,
+          48.407846
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Lachenschmid Kunststofftechnik",
+        "unit_name": "Modul2362",
+        "start_date": "31.7.2014",
+        "age_years": 10,
+        "location": "Egerländer Straße 14, 86316 Friedberg",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.844249,
+          47.573778
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Edita GmbH",
+        "unit_name": "Blockheizkraftwerk",
+        "start_date": "30.11.2017",
+        "age_years": 7,
+        "location": "Am Hammerweiher 3, 88175 Scheidegg",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.926295,
+          50.294573
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Wohlleben GmbH",
+        "unit_name": "Blockheizkraftwerk",
+        "start_date": "22.5.2013",
+        "age_years": 11,
+        "location": "Kösseinestraße 3, 95032 Hof",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.155758,
+          48.31141
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Kreisspitalstiftung Weißenhorn - Stiftungsklinik Weißenhorn",
+        "unit_name": "BHKW",
+        "start_date": "1.1.2012",
+        "age_years": 13,
+        "location": "Günzburger Straße 41, 89264 Weißenhorn",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.77407,
+          47.97215
+        ]
+      },
+      "properties": {
+        "power": 200.0,
+        "operator": "Brauerei Aying Franz Inselkammer KG",
+        "unit_name": "BHKW",
+        "start_date": "6.12.2013",
+        "age_years": 11,
+        "location": "Münchener Straße 21, 85653 Aying",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.381241,
+          48.488745
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Abwasserverband Mindel-Kammel",
+        "unit_name": "4002191195 - BHKW-Kläranlage",
+        "start_date": "30.7.2014",
+        "age_years": 10,
+        "location": "Rappenwörthstraße 14, 89362 Offingen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.424114,
+          48.102792
+        ]
+      },
+      "properties": {
+        "power": 99.0,
+        "operator": "Gemeinde Planegg",
+        "unit_name": "BHKW Rathaus",
+        "start_date": "18.12.2018",
+        "age_years": 6,
+        "location": "Pasinger Straße 8, 82152 Planegg",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.709238,
+          48.394163
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Fraunhofer Gesellschaft e.V. / Fraunhofer Institut für Verfahrenstechnik und Verpackung",
+        "unit_name": "BHKW / IVV / FS",
+        "start_date": "6.12.2010",
+        "age_years": 14,
+        "location": "Giggenhauser Straße 35, 85354 Freising",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33485,
+          50.24615
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Bayerisches Rotes Kreuz, Seniorenhaus Kronach",
+        "unit_name": "BHKW",
+        "start_date": "26.5.2014",
+        "age_years": 10,
+        "location": "Friesener Straße 57, 96317 Kronach",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.002586,
+          47.545481
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Hotel Bergkristall GmbH & Co.KG",
+        "unit_name": "BHKW",
+        "start_date": "6.12.2018",
+        "age_years": 6,
+        "location": "Willis 8, 87534 Oberstaufen",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.885178,
+          48.272541
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Wärmeversorgung Schwaben GmbH",
+        "unit_name": "WVS HZ KöBr BHKW1neu",
+        "start_date": "7.9.2009",
+        "age_years": 15,
+        "location": "St.-Ulrich-Straße 17, 86343 Königsbrunn",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.207419,
+          48.301629
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Arthrex GmbH",
+        "unit_name": "BHKW ODH",
+        "start_date": "23.10.2013",
+        "age_years": 11,
+        "location": "Oskar-von-Miller-Straße 6, 85235 Odelzhausen",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.414768,
+          48.108786
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "MTC GmbH",
+        "unit_name": "BHKW_UKMP",
+        "start_date": "1.2.2016",
+        "age_years": 9,
+        "location": "Germeringer Straße 32, 82152 Planegg",
+        "cc": "ITW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.608331,
+          48.121694
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "RF 360 Europe GmbH",
+        "unit_name": "BHKW",
+        "start_date": "26.2.2014",
+        "age_years": 11,
+        "location": "Anzinger Straße 13, 81671 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.434339,
+          48.163257
+        ]
+      },
+      "properties": {
+        "power": 113.0,
+        "operator": "Landeshauptstadt München RBS",
+        "unit_name": "Bergsonstraße 109, 81245 München, Berufsbildungszentrum",
+        "start_date": "1.12.2006",
+        "age_years": 18,
+        "location": "Bergsonstraße 109, 81245 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.03657,
+          50.238885
+        ]
+      },
+      "properties": {
+        "power": 49.5,
+        "operator": "Gesundheitseinrichtungen Bezirk Oberfranken",
+        "unit_name": "BKR_KWK50_2016",
+        "start_date": "12.5.2016",
+        "age_years": 8,
+        "location": "Fohrenreuther Straße 48, 95111 Rehau",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.058715,
+          48.766901
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Karl Bachl Betonwerke GmbH&Co.KG",
+        "unit_name": "BHKW 1",
+        "start_date": "1.4.2009",
+        "age_years": 15,
+        "location": "Industriestraße 4, 94491 Hengersberg",
+        "cc": "Lausser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.848461,
+          48.537043
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Markt Meitingen",
+        "unit_name": "BHKW",
+        "start_date": "23.5.2014",
+        "age_years": 10,
+        "location": "Hauptstraße 58, 86405 Meitingen",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.580336,
+          48.126144
+        ]
+      },
+      "properties": {
+        "power": 53.0,
+        "operator": "WEG Bereiteranger 15-23 in 81541 München",
+        "unit_name": "ABR955382300142",
+        "start_date": "5.3.2015",
+        "age_years": 10,
+        "location": "Bereiteranger 23, 81541 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.498666,
+          48.08818
+        ]
+      },
+      "properties": {
+        "power": 49.5,
+        "operator": "Autohaus Christl",
+        "unit_name": "BHKW",
+        "start_date": "25.2.2016",
+        "age_years": 9,
+        "location": "Filchnerstraße 86, 81476 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.824533,
+          48.401089
+        ]
+      },
+      "properties": {
+        "power": 122.0,
+        "operator": "Titania Neusäß Betriebsgesellschaft mbH",
+        "unit_name": "Modul 1",
+        "start_date": "15.3.2001",
+        "age_years": 24,
+        "location": "Birkenallee 1, 86356 Neusäß",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.824533,
+          48.401089
+        ]
+      },
+      "properties": {
+        "power": 122.0,
+        "operator": "Titania Neusäß Betriebsgesellschaft mbH",
+        "unit_name": "Modul 2",
+        "start_date": "15.3.2001",
+        "age_years": 24,
+        "location": "Birkenallee 1, 86356 Neusäß",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.032986,
+          50.233436
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Robert Holtzapfel GmbH",
+        "unit_name": "BHKW Rob. Holtzapfel",
+        "start_date": "21.12.2011",
+        "age_years": 13,
+        "location": "Rohrbacher Straße 30, 96271 Grub a. Forst",
+        "cc": "Sell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.696593,
+          47.557105
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Landkreis Lindau",
+        "unit_name": "BHKW Berufsschule Lindau (Bodensee)",
+        "start_date": "27.11.2012",
+        "age_years": 12,
+        "location": "Reutiner Straße 10, 88131 Lindau",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.313432,
+          47.714568
+        ]
+      },
+      "properties": {
+        "power": 114.0,
+        "operator": "Hochschule Kempten",
+        "unit_name": "BHKW Gebäude H el: 114kW th: 191kW",
+        "start_date": "7.4.2003",
+        "age_years": 21,
+        "location": "Bahnhofstraße 61, 87435 Kempten",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.189362,
+          47.983372
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Justizvollzugsanstalt Memmingen",
+        "unit_name": "BHKW  JVA Memmingen",
+        "start_date": "1.4.2016",
+        "age_years": 8,
+        "location": "Gaswerkstraße 23, 87700 Memmingen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.251174,
+          47.551585
+        ]
+      },
+      "properties": {
+        "power": 63.0,
+        "operator": "C&C Oberallgäu Lang-Steudler GmbH",
+        "unit_name": "BHKW",
+        "start_date": "2.4.2014",
+        "age_years": 10,
+        "location": "Hofen 18, 87544 Blaichach",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.068146,
+          47.65028
+        ]
+      },
+      "properties": {
+        "power": 100.0,
+        "operator": "GEW Ferien GmbH",
+        "unit_name": "BHKW FCM",
+        "start_date": "28.4.2004",
+        "age_years": 20,
+        "location": "Stockach 1, 88167 Maierhöfen",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.699075,
+          47.569822
+        ]
+      },
+      "properties": {
+        "power": 70.0,
+        "operator": "Zertius Grundbesitz GmbH",
+        "unit_name": "Luitpold",
+        "start_date": "11.10.2012",
+        "age_years": 12,
+        "location": "Bahnhofstraße 1, 87629 Füssen",
+        "cc": "Gaiser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.185855,
+          48.428983
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "Zweckverband Bad Griesbach",
+        "unit_name": "Wohlfühl-Therme BHKW",
+        "start_date": "11.5.2012",
+        "age_years": 12,
+        "location": "Thermalbadstraße 4, 94086 Bad Griesbach",
+        "cc": "Burke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.876436,
+          48.424718
+        ]
+      },
+      "properties": {
+        "power": 81.0,
+        "operator": "WEG Bahnhofstraße 5-11",
+        "unit_name": "BHKW-Anlage WEG Bahnhofstr. 5-11",
+        "start_date": "7.5.2019",
+        "age_years": 5,
+        "location": "Bahnhofstraße 11, 86368 Gersthofen",
+        "cc": "Rexroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.906127,
+          47.6283
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Hochland Deutschland GmbH",
+        "unit_name": "BHKW Vitobloc 200",
+        "start_date": "11.7.2012",
+        "age_years": 12,
+        "location": "Kemptener Straße 17, 88178 Heimenkirch",
+        "cc": "Biomassehof"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.562987,
+          48.177242
+        ]
+      },
+      "properties": {
+        "power": 140.0,
+        "operator": "BMW AG",
+        "unit_name": "BMW München - KWK Dostlerstrasse",
+        "start_date": "29.7.2016",
+        "age_years": 8,
+        "location": "Dostlerstraße 3, 80809 München",
+        "cc": "Ökotherm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.669318,
+          48.13524
+        ]
+      },
+      "properties": {
+        "power": 50.0,
+        "operator": "Aspire Munich GmbH",
+        "unit_name": "BHKW Anlage",
+        "start_date": "21.8.2019",
+        "age_years": 5,
+        "location": "Stahlgruberring 45, 81829 München",
+        "cc": "Ökotherm"
+      }
+    }
+  ]
+}

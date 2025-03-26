@@ -1,0 +1,440 @@
+power,operator,unit_name,start_date,age_years,location,cc,latitude,longitude
+238.0,ESB Wärme GmbH,110284,15.1.2019,6,"Dornierstraße nan, 82205 Gilching",No matching CC area,48.091123,11.308048
+238.0,ESB Wärme GmbH,110194,11.6.2014,10,"Friedrichshafener Straße 7, 82205 Gilching",No matching CC area,48.092,11.283
+200.0,Knott GmbH,BHKW,29.9.2016,8,"Obinger Straße 15, 83125 Eggstätt",No matching CC area,47.92853,12.377278
+70.0,Zweckverband berufliche Schulen Landshut (Stadt und Landkreis),Berufsschule 1,8.4.2014,10,"Luitpoldstraße 26, 84034 Landshut",No matching CC area,48.539,12.143
+140.0,Schneider Electric Sachsenwerk GmbH,BHKW 1,26.8.2015,9,"Rathenaustraße 2, 93055 Regensburg",No matching CC area,48.995,12.154
+140.0,Schneider Electric Sachsenwerk GmbH,BHKW 2,3.3.2017,8,"Rathenaustraße 2, 93055 Regensburg",No matching CC area,48.995,12.154
+75.0,Stadtwerke Eichstätt Versorgungs-GmbH,BHKW Inselbad,19.3.2018,7,"Wasserwiese 1, 85072 Eichstätt",No matching CC area,48.89742,11.18062
+200.0,Bayernland eG,MGT-R,10.5.2016,8,"Donaustaufer Straße 87, 93059 Regensburg",No matching CC area,49.031499,12.11226
+100.0,J. Erhardt & Sohn GmbH ＆ Co.KG,BHKW 2G 100 KW,26.9.2017,7,"Eppenreuth 55, 95356 Grafengehaig",No matching CC area,50.213,11.6
+140.0,Diakoneo KdöR Klinik Hallerwiese AbRB 515,Clinic Neuendettelsau BHKW,2.1.2014,11,"Heilsbronner Straße 44, 91564 Neuendettelsau",No matching CC area,49.293584,10.793209
+55.0,SenerTec Kraft-Wärme-Energiesysteme GmbH,Werk Schweinfurt,1.1.1998,27,"Carl-Zeiß-Straße 18, 97424 Schweinfurt",No matching CC area,50.036,10.23
+50.0,Merk Textil-Mietdienste,Vitobloc,10.12.2013,11,"Am Kalvarienberg 23, 92536 Pfreimd",No matching CC area,49.479,12.191
+51.132,Diakoneo KdöR,BHKW - SZ Altdorf Haus am Pfaffental,24.1.2018,7,"nan nan, 90518 Altdorf",No matching CC area,49.381216,11.346548
+140.0,Weiss Holzwerk GmbH,Block 2200,13.1.2014,11,"Bruckmühl 2, 84387 Julbach",No matching CC area,48.254,12.901
+140.0,Weiss Holzwerk GmbH,Block 2195,13.1.2014,11,"Bruckmühl 2, 84387 Julbach",No matching CC area,48.254,12.901
+99.0,Weiss Holzwerk GmbH,Block 1005,30.1.2018,7,"Bruckmühl 2, 84387 Julbach",No matching CC area,48.254,12.901
+50.0,Zentraler Diakonieverein im Evang.-Luth. Dekanatsbezirk Pegnitz e. V.,BHKW Brigittenheim Pegnitz,30.11.2018,6,"Friedrich-Engelhardt-Straße 8, 91257 Pegnitz",No matching CC area,49.747,11.54
+100.0,Arbeiterwohlfahrt Kreisverband Kulmbach e.V.,BHKW,18.10.2018,6,"Johann-Brenk-Straße 5, 95326 Kulmbach",No matching CC area,50.098202,11.449288
+210.0,Olbort Paletten GmbH,BHKW,20.5.2014,10,"Weckbacher Straße 16, 63937 Weilbach",No matching CC area,49.672149,9.194332
+245.0,Bezirkskliniken Mittelfranken,BHKW - BKM Ansbach,15.12.2015,9,"Feuchtwanger Straße 38, 91522 Ansbach",No matching CC area,49.294815,10.552747
+140.0,Medical Park Bad Wiessee GmbH & Co. KG Klinik St. Hubertus,Vitobloc 200 EM 140207,2.9.2013,11,"Sonnenfeldweg 29, 83707 Bad Wiessee",No matching CC area,47.706,11.737
+140.0,"Arberlandkliniken, Kommunalunternehmen",BHKW Arberlandklinik Zwiesel,24.9.2015,9,"Arberlandstraße 1, 94227 Zwiesel",No matching CC area,49.007,13.218
+113.0,Bezirkskliniken Mittelfranken,BHKW - BKM Engelthal,1.1.2011,14,"Reschenbergstraße 20, 91238 Engelthal",No matching CC area,49.477,11.407
+210.0,DEHN SE,BHKW,5.10.2015,9,"Hans-Dehn-Straße 1, 92318 Neumarkt",No matching CC area,49.268,11.461
+128.0,Gemeinde Kiefersfelden,Gemeinde Kiefersfelden Abt. Innsola,1.9.2005,19,"Rathausplatz 5, 83088 Kiefersfelden",No matching CC area,47.61225,12.189834
+51.0,RehaZentren der Deutschen Rentenversicherung Baden-Württemberg gGmbH,Reha Klinik am Kurpark,19.12.2018,6,"Kurhausstraße 9, 97688 Bad Kissingen",No matching CC area,50.196,10.078
+102.0,HeWa Harald Kiesl,BHKW 1 Bürgerbräu,19.12.2018,6,"Lohweg 38, 91217 Hersbruck",No matching CC area,49.507,11.428
+140.0,Siemens Healthineers AG,BHKW Kemnath Heizung neu,14.6.2016,8,"Röntgenstraße 19, 95478 Kemnath",No matching CC area,49.865,11.88
+140.0,Schaeffler Technologies AG & Co. KG,EDZ-Mitte BHKW,19.7.2018,6,"conneKT nan, 97318 Kitzingen",No matching CC area,49.745619,10.203333
+50.0,Fischer Automobile GmbH,BHKW,5.4.2016,8,"Speckmannshofer Straße 2, 92224 Amberg",No matching CC area,49.449,11.827
+50.0,Stadtbau GmbH,KWK-Anlage Nr. 2  Lore-Kullmer-Str. 1,21.12.2018,6,"Lore-Kullmer-Straße 1, 93053 Regensburg",No matching CC area,48.998066,12.109237
+232.0,RAPS GmbH & Co.KG,KWK-Anlage Anlagen-Nr. 129105,7.9.2012,12,"Adalbert-Raps-Straße 1, 95326 Kulmbach",No matching CC area,50.111,11.438
+70.0,ept GmbH,KWK Anlage BHKW Werk Peiting,3.11.2011,13,"Bergwerkstraße 50, 86971 Peiting",No matching CC area,47.785,10.941
+100.0,Hotel Jagdhof,BHKW Hotel Jagdhof,6.1.2009,16,"Putzgartenstraße 2, 94133 Röhrnbach",No matching CC area,48.739,13.525
+231.0,Stiftung Ecksberg,BHKW,15.2.1999,26,"Ebinger Straße 1, 84453 Mühldorf",No matching CC area,48.245804,12.478652
+99.0,Wirl Rental GmbH,BHKW G03,5.6.2018,6,"Hauptstraße 48 a, 63924 Kleinheubach",No matching CC area,49.723,9.211
+142.0,"Klinikum Altmuehlfranken, Weißenburg",BHKW,12.11.2015,9,"Krankenhausstraße 1, 91781 Weißenburg",No matching CC area,49.035,10.985
+50.0,Oberland Werkstätten GmbH,BHKW Oberland Werkstätten GmbH,19.3.2013,12,"Am Windfeld 25, 83714 Miesbach",No matching CC area,47.796,11.834
+70.0,Bundesanstalt für Immobilienaufgaben Anstalt des öffentlichen Rechts,KWK Bundespolizei Bayreuth,17.10.2018,6,"Christian-Ritter-von-Popp-Straße 25, 95448 Bayreuth",No matching CC area,49.964,11.617
+50.0,Hermann Benkert Werkzeug-und Formenbau GmbH,BHKW 0001,7.3.2019,6,"Industriestraße 9, 97618 Niederlauer",No matching CC area,50.297,10.189
+50.0,Hotel Bachmair Weissach,Anlage 2,30.8.2017,7,"Wiesseer Straße 1, 83700 Weißach",No matching CC area,47.686531,11.757647
+140.0,Rummelsberger Dienste für Menschen mit Behinderung gemeinnützige GmbH,BHKW-Hilp-Auh.,30.5.2016,8,"Am Dorfplatz 8, 91161 Hilpoltstein",No matching CC area,49.194805,11.210022
+100.0,Stadtwerke Bad Reichenhall KU,BHKW Bachei,17.5.2018,6,"Rainthalstraße 25, 83435 Bad Reichenhall",No matching CC area,47.761219,12.929155
+220.0,Schlaadt Gfh Dillingen,BHKW Dillingen,12.9.2012,12,"Werner-von-Siemens-Straße 6, 89407 Dillingen",No matching CC area,48.586302,10.487409
+71.0,USAG Ansbach,BHKW 1,22.5.2015,9,"nan nan, 91522 Ansbach",No matching CC area,49.31661,10.61641
+180.0,Zweckverband Verbandskläranlage Schwandorf - Wackersdorf,BHKW2011,14.9.2011,13,"Klärwerkstraße 1, 92421 Schwandorf",No matching CC area,49.301841,12.109718
+190.0,Zweckverband Verbandskläranlage Schwandorf - Wackersdorf,BHKW2015,1.6.2016,8,"Klärwerkstraße 1, 92421 Schwandorf",No matching CC area,49.301841,12.109718
+119.0,Stadtwerke Germering,BHKW HB,11.9.2015,9,"Max-Reger-Straße 7, 82110 Germering",No matching CC area,48.133065,11.373545
+210.0,BL Energy GmbH & Co. KG,BHKW,17.7.2014,10,"Kelheimer Straße 2, 91154 Roth",No matching CC area,49.239339,11.141796
+238.0,Universität Bayreuth,TAO BHKW,22.9.2017,7,"Prof. Rüdiger-Bormann-Straße 1, 95447 Bayreuth",No matching CC area,49.922342,11.588966
+50.0,Medicura Naturprodukte AG,Medicura BHKW,31.10.2018,6,"Am Sandberg 1, 97618 Niederlauer",No matching CC area,50.289364,10.189225
+140.0,Lauterbacher Mühle Klinik GmbH & Co. KG,BHKW ABR941222157175,28.5.2013,11,"Unterlauterbach 1, 82402 Seeshaupt",No matching CC area,47.792148,11.29185
+50.0,Caritas-Einrichtungen Würzburg / Kitzingen gGmbH,"BHKW, Volkach",26.11.2013,11,"Spitalstraße 25, 97332 Volkach",No matching CC area,49.866024,10.229279
+50.0,Caritas-Einrichtungen Main-Rhön gGmbH,"BHKW, Großostheim",29.11.2012,12,"Schaafheimer Straße 37, 63762 Großostheim",No matching CC area,49.920744,9.067319
+140.0,Reha-Klinik Hochstaufen der Deutschen Rentenversicherung Bund,BHKW Rehaklink Hochstaufen,19.7.2012,12,"Herkommerstraße 2, 83457 Bayerisch Gmain",No matching CC area,47.718445,12.897821
+140.0,Hama GmbH & Co KG,BHKW 1 - BT 4 Technikzentrale 5. OG,23.7.2014,10,"Adolf-Thomas-Straße 10, 86653 Monheim",No matching CC area,48.841285,10.842826
+140.0,Hama GmbH & Co KG,BHKW 2 - Technikzentrale Halle 6,23.7.2014,10,"Adolf-Thomas-Straße 10, 86653 Monheim",No matching CC area,48.841285,10.842826
+50.0,Hama GmbH & Co KG,BHKW 3 - Heizzentrale Dresdner Straße 9-11,8.7.2014,10,"Dresdner Straße 9, 86653 Monheim",No matching CC area,48.846904,10.859318
+70.0,Gemeinde Rottach Egern,Gemeinde Rottach Egern - See und Warmbad,22.12.2014,10,"Nördliche Hauptstraße 35, 83700 Rottach-Egern",No matching CC area,47.694102,11.7704
+142.0,Stadtwerke Schweinfurt GmbH,BHKW 2 (GG140),16.12.2016,8,"An den Unteren Eichen 1, 97422 Schweinfurt",No matching CC area,50.062166,10.237523
+70.0,Sparkasse Bamberg,BHKW PSZ,2.7.2014,10,"Carl-Meinelt-Straße 10, 96050 Bamberg",No matching CC area,49.89921,10.921979
+140.0,Sparkasse Bamberg,BHKW SPL,12.3.2014,11,"Schönleinsplatz 1, 96047 Bamberg",No matching CC area,49.891222,10.893456
+50.0,Conergia GmbH & Co.KG,Rangau,14.3.2019,6,"Rangaustraße 14, 90530 Wendelstein",No matching CC area,49.347375,11.114239
+210.0,Fischer Automobile GmbH,BHKW NM,14.12.2007,17,"Nürnberger Straße 45, 92318 Neumarkt",No matching CC area,49.289197,11.438894
+239.0,Stadtwerke Rothenburg o.d.T. GmbH,BHKW 1-1269,18.12.2014,10,"Nördlinger Straße 20, 91541 Rothenburg",No matching CC area,49.365817,10.185771
+50.0,Landkreis Mühldorf a. Inn,BHKW Vitobloc,27.2.2013,12,"Herzog-Friedrich-Straße 18, 84453 Mühldorf",No matching CC area,48.246891,12.52765
+50.0,Alpensport-Hotel Seimler,BHKW,21.10.2015,9,"Maria am Berg 3, 83471 Berchtesgaden",No matching CC area,47.643058,13.020993
+49.5,GLOBUS Handelshof GmbH & Co. KG,FOR Mini-BHKW,29.5.2018,6,"Willy-Brandt-Allee 1, 91301 Forchheim",No matching CC area,49.706259,11.070139
+49.5,GLOBUS Handelshof St. Wendel GmbH & Co. KG,SAD Mini-BHKW,16.5.2019,5,"Am Brunnfeld 8, 92421 Schwandorf",No matching CC area,49.313552,12.144607
+140.0,Landkreis Aschaffenburg,BHKW,11.1.2013,12,"An der Maas 2, 63768 Hösbach",No matching CC area,50.00866,9.208282
+70.0,Gesundheitszentrum Oberammergau,BHKW,5.10.2009,15,"Hubertusstraße 2, 82487 Oberammergau",No matching CC area,47.592194,11.069992
+99.0,natürliche Person (ABR999943170317),BHKW,11.6.2019,5,"Siemensstraße 8, 86558 Hohenwart",No matching CC area,48.583772,11.400741
+142.0,MediClin GmbH & Co. KG,BHKW,15.11.2016,8,"Jakob-Herz-Straße 1, 95445 Bayreuth",No matching CC area,49.941978,11.528265
+140.0,ENF BFY,BHKW 1,18.7.2014,10,"Triebweg 5, 97906 Faulbach",No matching CC area,49.78446,9.448291
+50.0,Chiemgau Klinik,"Marquartstein, Chiemgau-Klinik",8.5.2019,5,"Geisenhausen 1, 83250 Marquartstein",No matching CC area,47.748926,12.460014
+49.5,Zweckverband für weiterführende Schulen im westlichen Teil des Landkreises Starnberg,BHKW 1,8.9.2017,7,"Talhofstraße 7, 82205 Gilching",No matching CC area,48.104876,11.286201
+140.0,ISAR-AMPER Erneuerbare Energien GmbH,MAHF_140 #00825,22.1.2013,12,"Am Maradies 8, 97828 Marktheidenfeld",No matching CC area,49.85036,9.619653
+140.0,ISAR-AMPER Erneuerbare Energien GmbH,MAHF_140 #00889,22.1.2013,12,"Am Maradies 8, 97828 Marktheidenfeld",No matching CC area,49.85036,9.619653
+140.0,ISAR-AMPER Erneuerbare Energien GmbH,MAHF_140 #00901,22.1.2013,12,"Am Maradies 8, 97828 Marktheidenfeld",No matching CC area,49.85036,9.619653
+50.0,Stadtwerke Geretsried Kommunalunternehmen,BHKW01_HKW_Adalbert-Stifter-Straße,6.11.2018,6,"Adalbert-Stifter-Straße 16, 82538 Geretsried",No matching CC area,47.867814,11.474057
+100.0,DS elektrotherm GmbH,BHKW G2,12.3.2018,7,"Innere Münchener Straße 26, 84036 Landshut",No matching CC area,48.529317,12.145385
+50.0,Sportpark Nordwest GmbH & Co Betriebs KG,BHKW,18.12.2014,10,"Am Schallerseck 35, 90765 Fürth",No matching CC area,49.503657,11.003607
+50.0,Jost Energy AG,BhKW 1 Energiezentrale,10.9.2018,6,"Stoke-on-Trent-Straße 1, 91058 Erlangen",No matching CC area,49.569053,10.99222
+99.0,Stadt Freilassing,"ENVER, BHKW Energiezentrale",11.2.2020,5,"Aumühlweg 16, 83395 Freilassing",No matching CC area,47.843575,12.989181
+237.0,Klinikum Aschaffenburg Alzenau gemeinnützige GmbH,BHKW 1,1.1.2012,13,"Am Hasenkopf 1, 63739 Aschaffenburg",No matching CC area,49.977423,9.187766
+239.0,Klinikum Aschaffenburg Alzenau gemeinnützige GmbH,BHKW 2,6.6.2016,8,"Am Hasenkopf 1, 63739 Aschaffenburg",No matching CC area,49.977493,9.187666
+70.0,Privatbrauerei Hofmühl,Brauerei Hofmühl,11.6.2014,10,"Hofmühlstraße 10, 85072 Eichstätt",No matching CC area,48.89378,11.167627
+50.0,Auerbräu GmbH,BHKW Auerbräu,16.12.2015,9,"Münchener Straße 80, 83022 Rosenheim",No matching CC area,47.85257,12.115287
+50.0,Munich International School e.V.,Munich International School e.V.,19.7.2019,5,"Buchhof 1, 82319 Starnberg",No matching CC area,48.001821,11.382852
+140.0,Brückner Maschinenbau GmbH & Co. KG,BHKW 140 KW,12.7.2019,5,"Königsberger Straße 5, 83313 Siegsdorf",No matching CC area,47.827671,12.638851
+100.0,Stadtwerke Bayreuth Energie und Wasser GmbH,Birkenstraße 2 BHKW,15.5.2019,5,"Birkenstraße 2, 95447 Bayreuth",No matching CC area,49.93686,11.580947
+50.0,Deutsche Rentenversicherung Oldenburg-Bremen,"Marbachtalklinik Bad Kissingen, KWK-Anlage",11.9.2018,6,"Dr.-Georg-Heim-Straße 4, 97688 Bad Kissingen",No matching CC area,50.198475,10.059673
+140.0,Kliniken Bad Bocklet,BHKW Rehazentrum Bad Bocklet,13.6.2019,5,"Frankenstraße 36, 97708 Bad Bocklet",No matching CC area,50.270416,10.081014
+50.0,Energy Projekt Invest GmbH & Co.KG,ABR955173488684,18.1.2019,6,"Wörthstraße 13, 97082 Würzburg",No matching CC area,49.795976,9.916354
+70.0,Vario Pack Bamberg,207076,2.12.2013,11,"Regnitzstraße 12, 96052 Bamberg",No matching CC area,49.906049,10.872246
+50.0,Landratsamt Traunstein,BHKW BGS,19.12.2012,12,"Herzog-Friedrich-Straße 6, 83278 Traunstein",No matching CC area,47.869629,12.64094
+50.0,Landratsamt Traunstein,BHKW BS1,13.12.2011,13,"Wasserburger Straße 52, 83278 Traunstein",No matching CC area,47.878488,12.63802
+50.0,Stadtwerke Kulmbach,Mobile BHKW-Anlage Hallenbad Kulmbach,19.2.2013,12,"Hardenbergstraße 43, 95326 Kulmbach",No matching CC area,50.102806,11.443853
+50.0,Stadtwerke Kulmbach,Mobile BHKW-Anlage Freibad Kulmbach,19.2.2013,12,"Am Schwimmbad 26, 95326 Kulmbach",No matching CC area,50.11077,11.471729
+240.0,Chiemgau Thermen GmbH,BHKW,23.7.2014,10,"Ströbinger Straße 18, 83093 Bad Endorf",No matching CC area,47.901139,12.299279
+51.0,HeWa Harald Kiesl,BHKW Schulzentrum Hersbruck,3.9.2019,5,"Happurger Straße 13, 91217 Hersbruck",No matching CC area,49.505879,11.438514
+142.0,Mercedes-Benz AG,W006-BHKW_LCN_262,8.6.2016,8,"Mainstraße 55, 90768 Fürth",No matching CC area,49.501185,10.948802
+50.0,Diakoneo KdöR,BHKW KompFO,17.2.2014,11,"Sattlertorstraße 48 b, 91301 Forchheim",No matching CC area,49.722461,11.053204
+70.0,Familien-KG Deeg Deegenbergklinik GmbH & Co. KG,BHKW-Deegenbergklinik,14.5.2014,10,"Burgstraße 21, 97688 Bad Kissingen",No matching CC area,50.191918,10.086367
+60.0,Stadt Freilassing,"ENVER, BHKW 1  Kläranlage",16.4.2015,9,"Aumühlweg 14, 83395 Freilassing",No matching CC area,47.842803,12.989044
+60.0,Stadt Freilassing,"ENVER, BHKW 2  Kläranlage",16.4.2015,9,"Aumühlweg 14, 83395 Freilassing",No matching CC area,47.842803,12.989044
+49.5,Zentrum Staatsbäder Bayern,Bad Kissingen   Luitpoldbad,9.8.2017,7,"Im Luitpoldpark 1, 97688 Bad Kissingen",No matching CC area,50.196282,10.075454
+119.0,Bulmare,Bulmare im Haus,20.6.2014,10,"Im Naabtalpark 44, 93133 Burglengenfeld",No matching CC area,49.193799,12.044906
+50.0,ESB Wärme GmbH,110298,1.10.2019,5,"Rosenheimer Straße 61, 83043 Bad Aibling",No matching CC area,47.857331,12.01551
+50.0,BFW Würzburg gGmbH,BHKW EN50,21.1.2019,6,"Helen-Keller-Straße 5, 97209 Veitshöchheim",No matching CC area,49.831789,9.887836
+50.0,Elevion Energy Solutions GmbH,BHKW Wiesau,18.9.2019,5,"Pestalozzistraße 2, 95676 Wiesau",No matching CC area,49.912166,12.187718
+50.0,REGUS Bamberger Kühlhaus GmbH & Co.KG,BHKW1,28.3.2018,6,"Lichtenhaidestraße 3 b, 96052 Bamberg",No matching CC area,49.904198,10.881578
+50.0,Stadt Gunzenhausen,"Reutbergstraße 1, BHKW",11.7.2013,11,"Reutbergstraße 1, 91710 Gunzenhausen",No matching CC area,49.11274,10.758858
+50.0,Stadtwerke Schrobenhausen KU,ZKA BHKW 2019,25.9.2019,5,"Königslachener Weg 12, 86529 Schrobenhausen",No matching CC area,48.573655,11.276627
+143.0,Simssee Klinik,981350588946,23.7.2014,10,"Ströbinger Straße 18 a, 83093 Bad Endorf",No matching CC area,47.901836,12.297328
+140.0,WAREMA Kunststofftechnik und Maschinenbau GmbH,KWK 140,17.11.2015,9,"Dillberg 33, 97828 Marktheidenfeld",No matching CC area,49.831913,9.592458
+50.0,Scherzer Gemüse GmbH,Loganova BHKW-Modul EN50,17.6.2014,10,"Waldeck 50, 91550 Dinkelsbühl",No matching CC area,49.097593,10.245446
+70.0,Theresianum Alten- und Pflegeheim gemeinmützige GmbH,BHKW70,4.12.2015,9,"Kirchstraße 27, 82256 Fürstenfeldbruck",No matching CC area,48.211457,11.228769
+140.0,Malteser Waldkrankenhaus St. Marien,BHKW,27.10.2010,14,"Rathsberger Straße 57, 91054 Erlangen",No matching CC area,49.610068,11.019781
+113.5,Klinikum Main-Spessart,BHKW Krankenhaus Marktheidenfeld,30.4.2013,11,"Baumhofstraße 93, 97828 Marktheidenfeld",No matching CC area,49.848431,9.624008
+50.0,NatCon Nordbayern GmbH&Co.KG,BHKW EG-50 50kW Marktschorgast,8.10.2019,5,"Bahnhofstraße 27 a, 95509 Marktschorgast",No matching CC area,50.092013,11.655226
+50.0,M&M Wärmeservice GmbH,g-box 50-1,12.2.2020,5,"Lange-Mauer-Straße 5, 86732 Oettingen",No matching CC area,48.954345,10.60055
+238.0,Der Beck GmbH,"BHKW, 120, Am Weichselgarten 12, 91058 Erlangen",16.1.2014,11,"Am Weichselgarten 12, 91058 Erlangen",No matching CC area,49.542844,11.023791
+112.0,Sozialstiftung Bamberg,KaM BHKW,27.2.2015,10,"St. Getreu-Straße 18, 96049 Bamberg",No matching CC area,49.892959,10.872036
+70.0,Kur-Betriebs GmbH,BHKW,6.12.2013,11,"Am Kurzentrum 1, 97631 Bad Königshofen",No matching CC area,50.301064,10.475564
+119.0,Stadt Starnberg,BHKW Seebad Starnberg,1.7.2014,10,"Strandbadstraße 17, 82319 Starnberg",No matching CC area,47.998989,11.338956
+99.0,Klüber Lubrication München SE& Co. KG,"Blockheizkraftwerk KLM, Maisach",8.2.2018,7,"Ganghoferstraße 30, 82216 Maisach",No matching CC area,48.214571,11.287206
+140.0,MARC AUREL Hotel GmbH & Co. Kg,BHKW,11.6.2014,10,"Heiligenstädter Straße 36, 93333 Neustadt",No matching CC area,48.816693,11.787795
+70.0,Pinsker Druck und Medien GmbH,BHKW,26.6.2014,10,"Mitterweg 8, 84048 Mainburg",No matching CC area,48.641428,11.77707
+50.0,Staatliche Feuerwehrschule Würzburg,Gebäude E - BHKW 1,7.10.2014,10,"Weißenburgstraße 60, 97082 Würzburg",No matching CC area,49.797934,9.901403
+140.0,Saatzucht Josef Breun Verwaltungs GmbH,BHKW,23.12.2015,9,"Amselweg 1, 91074 Herzogenaurach",No matching CC area,49.556125,10.859926
+50.0,Staatliche Feuerwehrschule Würzburg,Gebäude E - BHKW 2,7.10.2014,10,"Weißenburgstraße 60, 97082 Würzburg",No matching CC area,49.797934,9.901403
+50.0,Systemkosmetik Produktionsgesellschaft mbH,BHKW Münster,18.1.2019,6,"Raiffeisenstraße 2, 86692 Münster",No matching CC area,48.625364,10.907078
+50.0,thermorent Wärmeversorgung GmbH,18022,20.11.2019,5,"Erlachhof 1, 97332 Volkach",No matching CC area,49.861592,10.243059
+51.5,Klinik Bavaria,BHKW1,18.12.2018,6,"von der Tann Strasse 18-22, 97688 Bad Kissingen",No matching CC area,50.198518,10.084417
+90.0,Herzo Werke GmbH,HW2017-90,20.12.2017,7,"Zum Flughafen 103, 91074 Herzogenaurach",No matching CC area,49.579515,10.902482
+232.0,Herzo Bäder und Verkehrs GmbH,HBV2005-464-1,1.9.2005,19,"Würzburger Straße 35, 91074 Herzogenaurach",No matching CC area,49.572445,10.867533
+232.0,Herzo Bäder und Verkehrs GmbH,HBV2005-464-2,1.9.2005,19,"Würzburger Straße 35, 91074 Herzogenaurach",No matching CC area,49.572445,10.867533
+50.0,Markt Manching,BHKW Mehrzweckhalle,1.4.2010,14,"Lindenstraße 20, 85077 Manching",No matching CC area,48.720776,11.484213
+50.0,Emil Frey Mainfranken GmbH,EF Autocenter,19.11.2014,10,"Helsinkistraße 1, 97424 Schweinfurt",No matching CC area,50.015189,10.215504
+50.0,Stadtwerke Würzburg AG,BHKW Eibelstadt / Am Kapellenberg,20.8.2012,12,"Am Kapellenberg nan, 97246 Eibelstadt",No matching CC area,49.731535,9.994819
+50.0,Stadtwerke Würzburg AG,Mainlandzentrum Höchberg,11.3.2010,15,"Rudolf-Harbig-Platz 3, 97204 Höchberg",No matching CC area,49.786726,9.882371
+70.0,Hotel Rappen Rothenburg ob der Tauber GmbH & Co. KG,BHKW Rappen,28.6.2019,5,"Vorm Würzburger Tor 10, 91541 Rothenburg",No matching CC area,49.379747,10.185634
+80.0,natürliche Person (ABR916370034067),Bhkw1,28.12.2013,11,"Schwimmbadstrasse 15, 83043 Bad Aibling",No matching CC area,47.85777,12.031994
+50.0,Sparkasse Forchheim,BHKW Hauptstelle,16.4.2015,9,"Klosterstraße 14, 91301 Forchheim",No matching CC area,49.717784,11.064887
+50.0,ebm-papst St. Georgen GmbH & Co. KG Werk 7 Lauf,BHKW Heizung Industriestraße,10.10.2018,6,"Industriestraße 9, 91207 Lauf",No matching CC area,49.501415,11.289594
+140.0,m & i-Klinikbetriebsgesellschaft GmbH,FKH BHKW,14.8.2013,11,"Wörnerweg 30, 83670 Bad Heilbrunn",No matching CC area,47.749379,11.460295
+50.0,Stadt Iphofen,BHKW Hallenbad,20.12.2018,6,"Boverystraße 2, 97346 Iphofen",No matching CC area,49.708126,10.263614
+140.0,Medical Park Chiemseeblick GmbH & Co.KG,MPCB-BHKW,26.9.2013,11,"Rasthausstraße 25, 83233 Bernau",No matching CC area,47.834075,12.391465
+140.0,Ziegelwerk Englert,BHKW GTK140 2011,16.5.2011,13,"Krautheimer Straße 8, 97509 Kolitzheim",No matching CC area,49.896345,10.272051
+140.0,Obelisk Vermögensverwaltungsgesellschaft mbH,BHKW,9.6.2015,9,"Neureuthstraße 23, 83684 Tegernsee",No matching CC area,47.717227,11.7565
+140.0,BRB Hotelbetriebsgesellschaft,BHKW Hotel Wyndham Grand Bad Reichenhall,30.8.2013,11,"Salzburger Straße 2, 83435 Bad Reichenhall",No matching CC area,47.725607,12.880631
+70.0,HA-BE Gehäusebau GmbH,BHKW,22.6.2016,8,"Ottostraße 6, 84051 Essenbach",No matching CC area,48.583696,12.190743
+100.0,Mäder Germany GmbH,BHKW Gebäude 2,24.4.2018,6,"Reinhard-Reichnow-Straße 4, 96129 Strullendorf",No matching CC area,49.84135,10.976989
+49.5,Hans Batzner GmbH,Ebern hbm BHKW,28.12.2017,7,"Alte Ziegelei 1, 96106 Ebern",No matching CC area,50.093039,10.781609
+210.0,DONAU MALZ Bamberger Mälzerei GmbH & Co KG,BHKW 4,4.11.1991,33,"Spreestraße 2, 86633 Neuburg",No matching CC area,48.738231,11.252796
+99.0,HESCURO Klinik REGINA GmbH & Co. KG,KWK,19.12.2017,7,"Schönbornstraße 19, 97688 Bad Kissingen",No matching CC area,50.196676,10.068005
+50.0,Gesundheitszentrum Dorfen GmbH,BHKW Do,3.11.2012,12,"Marienplatz 10, 84405 Dorfen",No matching CC area,48.272619,12.149705
+50.0,Enzinger Tennis & Squash GmbH,BHKW,4.10.2012,12,"Alkorstraße 10, 83512 Wasserburg",No matching CC area,48.048839,12.227959
+245.0,Stadtwerke Amberg Versorgungs GmbH,Raseliushaus Modul 1,12.9.2018,6,"Zeughausstraße 1, 92224 Amberg",No matching CC area,49.443683,11.857784
+245.0,Stadtwerke Amberg Versorgungs GmbH,BHKW Hockermühlbad,13.6.2018,6,"Hockermühlstraße 34, 92224 Amberg",No matching CC area,49.439187,11.846749
+50.0,EFG Erdgas Forchheim,BHKW Konrad Roth Straße,13.12.2019,5,"Konrad-Roth-Straße 4 f, 91301 Forchheim",No matching CC area,49.715789,11.094109
+140.0,m&i-Klinikgesellschaft in Herzogenaurach,BHKW,15.12.2015,9,"In der Reuth 1, 91074 Herzogenaurach",No matching CC area,49.57733,10.914207
+199.0,Technische Hochschule Aschaffenburg,THAB Gebäude 45 BHKW,24.7.2014,10,"Würzburger Straße 45, 63743 Aschaffenburg",No matching CC area,49.972801,9.161014
+50.0,Klinik Dr. Robert Schindlbeck,Viessmann Vitobloc 200,4.12.2019,5,"Seestrasse 43, 82211 Herrsching",No matching CC area,47.994748,11.170849
+51.0,RehaZentren der Deutschen Rentenversicherung Baden-Württemberg gGmbH,Reha Klinik am Kurpark,20.12.2019,5,"Kurhausstraße 9, 97688 Bad Kissingen",No matching CC area,50.19636,10.077867
+200.0,KESSEL SE + Co. KG,BHKW,23.12.2015,9,"Bahnhofstraße 31, 85101 Lenting",No matching CC area,48.808183,11.475326
+50.0,Herzo Werke GmbH,HW2019-50,23.10.2019,5,"Burgstaller Weg 3, 91074 Herzogenaurach",No matching CC area,49.567092,10.879561
+70.0,Continental Automotive Technologies GmbH,BHKW - Geb. 47N,5.6.2019,5,"Siemensstraße 12, 93055 Regensburg",No matching CC area,49.009112,12.142336
+50.0,Stadt Monheim,4001557098,26.6.2014,10,"Schulstraße 6, 86653 Monheim",No matching CC area,48.845379,10.85354
+50.0,Eigenbetrieb Seniorenheime des Landkreises Günzburg,BHKW Burgau,29.6.2016,8,"nan nan, 89331 Burgau",No matching CC area,49.929676,10.171771
+50.0,R. Bosch KG,BHKW_1,25.1.2012,13,"Neuhofweg 15, 86641 Rain",No matching CC area,48.706226,10.937467
+99.0,Kliniken Nordoberpfalz AG,BHKW 1 - Tirschenreuth,29.7.2014,10,"St.-Peter-Straße 31, 95643 Tirschenreuth",No matching CC area,49.885031,12.332695
+222.0,Webasto Roof& Components SE,BHKW STO,29.11.2011,13,"Kraillinger Straße 5, 82131 Stockdorf",No matching CC area,48.092459,11.410108
+50.0,Mey Maschinenbau Prien,BHKW,2.10.2012,12,"Bernauer Straße 71, 83209 Prien",No matching CC area,47.841432,12.349481
+50.0,Kommunalwerke Kaufering,BHKW 50 KW ASS,9.10.2013,11,"Theodor-Heuss-Straße 11, 86916 Kaufering",No matching CC area,48.091009,10.852657
+50.0,Kommunalwerke Kaufering,"BHKW 2,  Klein (50 KW)",20.5.2014,10,"Am Heizwerk 1, 86916 Kaufering",No matching CC area,48.080741,10.861996
+101.5,Stadtwerke Bad Neustadt a. d. Saale,Hallenbad,29.5.2002,22,"Mühlbacher Straße 15, 97616 Bad Neustadt",No matching CC area,50.320351,10.217575
+140.0,HOERBIGER Kompressortechnik GmbH,BHKW Im Forchet,19.12.2014,10,"Im Forchet 5, 86956 Schongau",No matching CC area,47.806188,10.887931
+50.0,Adolf Riedl GmbH & Co. KG,BHKW Vitoblock 200,5.11.2012,12,"Ottostraße 2, 95448 Bayreuth",No matching CC area,49.962789,11.598006
+50.0,Gemeindewerke Murnau,BHKW James-Joeb-Haus,27.9.2018,6,"James-Loeb-Straße 11, 82418 Murnau",No matching CC area,47.673611,11.206831
+50.0,Gemeindewerke Murnau,BHKW Dr.-Friedrich-und Ilse-Erhard-Straße,20.12.2018,6,"Dr.-Friedrich-und-Ilse-Erhard-Straße 5, 82418 Murnau",No matching CC area,47.685364,11.199736
+50.0,Markt Peiting,BHKW Klärwerk,29.9.2011,13,"Wanderhofstraße 70, 86971 Peiting",No matching CC area,47.822648,10.931275
+50.0,Diakonie Herzogsägmühle gGmbH,Herzogsm BHKW SÖH,30.10.2012,12,"Am Latterbach 17, 86971 Peiting",No matching CC area,47.819609,10.944993
+50.0,Bayerisches Rotes Kreuz Kreisverband Starnberg K.d.ö.R,Seniorenheim Garatshausen BHKW 1 50kW,14.12.2018,6,"Franz-Eisele-Allee 1, 82340 Feldafing",No matching CC area,47.922859,11.293132
+50.0,Bayerisches Rotes Kreuz Kreisverband Starnberg K.d.ö.R,BRK Garatshausen BHKW 2 50kW,17.2.2020,5,"Franz-Eisele-Allee 1, 82340 Feldafing",No matching CC area,47.922859,11.293132
+70.0,Kliniken des Landkreises NEA/BW - Klinik Bad Windsheim,BHKW - NEA 1,13.11.2012,12,"Paracelsusstraße 30, 91413 Neustadt",No matching CC area,49.582075,10.62214
+240.0,Kliniken des Landkreises Neumarkt,BHKW 1,17.7.2014,10,"Nürnberger Straße 12, 92318 Neumarkt",No matching CC area,49.286138,11.451716
+240.0,Kliniken des Landkreises Neumarkt,BHKW 2,17.7.2014,10,"Nürnberger Straße 12, 92318 Neumarkt",No matching CC area,49.286138,11.451716
+50.0,natürliche Person (ABR941900480137),Erdgas-BHKW Geiersthal,19.12.2017,7,"Bgm.-Fleischmann-Straße 1, 94244 Geiersthal",No matching CC area,49.049399,12.979392
+140.0,Deutsche Post AG vertreten durch DPDHL RED GmbH,BHKW PZ Kitzingen (262367),22.12.2015,9,"Am Dreistock 11, 97318 Kitzingen",No matching CC area,49.7559,10.175
+50.0,Haus der Senioren Gundelfingen gGmbH,BHKW - Haus der Senioren,21.2.2020,5,"Sitzenbergerstraße 4, 89423 Gundelfingen",No matching CC area,48.554012,10.367753
+50.0,Landratsamt Forchheim,BHKW - Herder-Gymnasium,24.2.2020,5,"Luitpoldstraße 1, 91301 Forchheim",No matching CC area,49.715947,11.057742
+50.0,Landratsamt Forchheim,BHKW - Ehrenbürg-Gymnasium,24.2.2020,5,"Ruhalmstraße 5, 91301 Forchheim",No matching CC area,49.71423,11.057497
+240.0,Klinikum Fürth,BHKW1,6.3.2020,5,"Jakob-Henle-Straße 1, 90766 Fürth",No matching CC area,49.48538,10.974717
+125.0,Stadtwerke Donauwörth,BHKW Kläranlage Donauwörth,15.12.2015,9,"Im Weichselwörth 1, 86609 Donauwörth",No matching CC area,48.710907,10.795627
+140.0,Agrarbildungszentrum (Bezirk Niederbayern) Landshut-Schönbrunn,BHKW ABZ-Schönbrunn,22.12.2010,14,"Am Lurzenhof 3, 84036 Landshut",No matching CC area,48.557792,12.198684
+50.0,natürliche Person (ABR992175241176),BHKW Auhofstrasse,20.2.2017,8,"Auhofstraße 2, 63741 Aschaffenburg",No matching CC area,49.981359,9.150361
+50.0,Bayernwärme GmbH,1268870 KWK Manching,4.12.2019,5,"Ursinusstraße 13, 85077 Manching",No matching CC area,48.716704,11.473854
+140.0,Deutsche Post AG vertreten durch DPDHL RED GmbH,BHKW PZ - Regensburg,11.12.2015,9,"Robert-Bosch-Straße 8, 93055 Regensburg",No matching CC area,49.0011,12.1442
+110.0,Landkreis Bayreuth,Blockheizkraftwerk (BHKW),9.12.1993,31,"Markgrafenallee 5, 95448 Bayreuth",No matching CC area,49.951286,11.583215
+232.0,Wieland Electric GmbH,Rodezstraße,16.5.2014,10,"Rodezstraße 10, 96052 Bamberg",No matching CC area,49.912082,10.903506
+53.0,Hans Geis GmbH & Co. KG,g-box 50/2017,21.12.2017,7,"Rudolf-Diesel-Ring 24, 97616 Bad Neustadt",No matching CC area,50.33617,10.228263
+60.0,Assekuranz Bittl gmbH,BHKW Neuburg,5.11.2014,10,"Schlesier Straße 24, 86633 Neuburg",No matching CC area,48.73117,11.199561
+50.0,Hotel Kranzbach Gesellschaft m.b.H.,BHKW Kranzbach 50/1,30.7.2014,10,"Kranzbach 1, 82494 Krün",No matching CC area,47.472952,11.214812
+50.0,Hotel Kranzbach Gesellschaft m.b.H.,BHKW Kranzbach 50/2,30.7.2014,10,"Kranzbach 1, 82494 Krün",No matching CC area,47.472963,11.214804
+150.0,Hotel Kranzbach Gesellschaft m.b.H.,BHKW Kranzbach 50/3,30.7.2014,10,"Kranzbach 1, 82494 Krün",No matching CC area,47.472962,11.21482
+120.0,natürliche Person (ABR926064222946),BHKW Eichenau,1.1.2006,19,"Bahnhofstraße 117, 82223 Eichenau",No matching CC area,48.179259,11.326596
+49.5,GLOBUS Handelshof St. Wendel GmbH & Co. KG,NTR Mini-BHKW,9.8.2016,8,"Pommernstraße 4, 93073 Neutraubling",No matching CC area,48.981831,12.191817
+239.0,Stadtwerke Rothenburg o.d.T. GmbH,BHKW 2-1270,18.12.2014,10,"Nördlinger Straße 20, 91541 Rothenburg",No matching CC area,49.365817,10.185771
+50.0,Schlachthof Kulmbach,BHKW Kesselhaus,2.2.2012,13,"E.-C.-Baumann-Straße 19, 95326 Kulmbach",No matching CC area,50.108298,11.436239
+49.5,GLOBUS Handelshof St. Wendel GmbH & Co. KG,MUE Mini-BHKW,15.11.2017,7,"Siemensstraße 18, 84453 Mühldorf",No matching CC area,48.249801,12.495026
+140.0,Klinikum Landkreis Erding,BHKW Klinikum Erding,31.8.2011,13,"Bajuwarenstraße 5, 85435 Erding",No matching CC area,48.294564,11.896532
+70.0,BDSK Handels GmbH & Co. KG,BHKW-Anlage Standort Obernburg,3.12.2014,10,"Römerstraße 115, 63785 Obernburg",No matching CC area,49.852882,9.152936
+190.0,Münchinger Holz GmbH,BHKW III,15.7.2014,10,"Gewerbepark nan, 91578 Leutershausen",No matching CC area,49.29104,10.449498
+176.0,Stadtwerke Neunburg v.W. Freizeit GmbH,BHKW Schule,26.7.2012,12,"Katzdorfer Straße 18, 92431 Neunburg",No matching CC area,49.349078,12.373005
+142.0,"Deutsche Rentenversicherung Bund, Reha-Zentrum Bad Kissingen, Klinik Saale",BHKW-Klinik Saale,30.6.2016,8,"Pfaffstraße 10, 97688 Bad Kissingen",No matching CC area,50.196984,10.081781
+140.0,Stadtbetriebe Kitzingen,Schwimmbad,20.11.2014,10,"Marktbreiter Straße 8, 97318 Kitzingen",No matching CC area,49.733567,10.17109
+140.0,Kirchbichlweg 6-18 Betriebsgesellschaft mbH,BHKW,1.11.2016,8,"Kirchbichlweg 18, 83727 Schliersee",No matching CC area,47.74034,11.856076
+140.0,Deutsche Rentenversicherung Bund RZ in Bad Aibling,Bad Aibling Klinik Wendelstein,28.10.2015,9,"Kolbermoorer Straße 56, 83043 Bad Aibling",No matching CC area,47.857928,12.025584
+50.0,Gartenbau Hagn GmbH&Co.KG,Im Furtsand 7 BHKW 2 x 25 kW,9.1.2016,9,"Im Furtsand 7, 97340 Segnitz",No matching CC area,49.669925,10.137088
+49.5,BayWa Energie Dienstleistungs GmbH,BHKW Grainau HaBS,10.10.2012,12,"Am Badersee 4, 82491 Grainau",No matching CC area,47.474079,11.015031
+50.0,GreenRock Energy GmbH & Co. KG,BHKW Trostberg,24.7.2017,7,"Gabelsbergerstraße 4, 83308 Trostberg",No matching CC area,48.026356,12.556016
+49.5,Schön Klinik Bad Aibling,BHKW-50KW,31.10.2019,5,"Kolbermoorer Straße 72, 83043 Bad Aibling",No matching CC area,47.857068,12.027555
+142.0,"VIVO-Kommunalunternehmen für Abfallvermeidung, Inf.u.Vertwertung i.Oberland",BHKW 150,11.11.2015,9,"Valleyer Straße 60, 83627 Warngau",No matching CC area,47.861388,11.724107
+100.0,Gemeinde Schwaig b.Nürnberg,BHKW 100 KW,25.9.2017,7,"Mittelbügweg 15, 90571 Schwaig",No matching CC area,49.47575,11.205729
+240.0,EDEKA Südbayern Handels Stiftung & Co. KG,"BHKW Gaimersheim, Ingolstädter Str.120",11.12.2013,11,"Ingolstädter Straße 120, 85080 Gaimersheim",No matching CC area,48.783853,11.375846
+53.0,Meiser Hotel GmbH,BHKW Neue Allee 2 Dinkelsbühl,29.11.2019,5,"Neue Allee 2, 91550 Dinkelsbühl",No matching CC area,49.067721,10.308307
+50.0,Techem Solutions GmbH,"Weilheim, Benedikt-Höck-Weg",14.6.2014,10,"Benedikt-Höck-Weg 1, 82362 Weilheim",No matching CC area,47.842933,11.14841
+137.5,TenneT TSO GmbH,"Bayreuth, Campus, BHKW",15.1.2018,7,"Bernecker Straße 70, 95448 Bayreuth",No matching CC area,49.957535,11.609021
+50.0,Justizvollzugsanstalt Regensburg,BHKW-93049,10.2.2016,9,"Friedrich-Niedermayer-Straße 34, 93049 Regensburg",No matching CC area,49.01374,12.08566
+50.0,Herold & Co. GmbH,Herold & Co. GmbH,19.7.2018,6,"Hauptstraße 12, 95482 Gefrees",No matching CC area,50.094747,11.734814
+50.0,Bucherbräu Grafenau,BHKW,18.6.2012,12,"Spitalstraße 16 a, 94481 Grafenau",No matching CC area,48.853783,13.393748
+50.0,Median Kliniken GmbH,318_Median Frankenpark Klinik Bad Kissingen_BHKW,21.7.2014,10,"Bismarckstraße 68, 97688 Bad Kissingen",No matching CC area,50.19137,10.070522
+50.0,Freistaat Bayern vertr. d. Akademie für Naturschutz und Landschaftspflege,Gas-BHKW Kapuzinerhof,29.2.2016,9,"Schloßplatz 4, 83410 Laufen",No matching CC area,47.937753,12.935675
+180.0,Chiemsee Marina GmbH,BHKW Erlebnisbad,10.10.2016,8,"Seestraße 120, 83209 Prien",No matching CC area,47.863546,12.366951
+50.0,Medizinische Einrichtungen des Bezirks Oberpfalz - KU (AdöR),Bezirksklinikum Wöllershof BHKW II,9.1.2020,5,"Wöllershof 1, 92721 Störnstein",No matching CC area,49.747495,12.183424
+152.0,Der Birkenhof Hubert Obendorfer e.K.,BHKW Seesonne,29.7.2014,10,"Hofenstetten 55, 92431 Neunburg",No matching CC area,49.338611,12.261757
+50.0,Stadt-Unternehmen Mainburg Freibad,BHKW 50 Schwimmbad,13.8.2012,12,"Am Sportplatz 1, 84048 Mainburg",No matching CC area,48.647634,11.78183
+50.0,INNergie GmbH,Heizhaus Am Glasberg 83059 Kolbermoor,19.1.2016,9,"Glasberg 15, 83059 Kolbermoor",No matching CC area,47.853242,12.058501
+140.0,Medizinische Einrichtungen des Bezirks Oberpfalz - KU (AdöR),Bezirksklinikum Wöllershof BHKW I,25.7.2014,10,"Wöllershof 1, 92721 Störnstein",No matching CC area,49.747495,12.183424
+50.0,Markt Großostheim,BHKW Freibad,27.9.2018,6,"Zur Welzbachhalle 9, 63762 Großostheim",No matching CC area,49.918909,9.067746
+112.0,Markt Großostheim,BHKW Klärwerk 112 kW,7.5.2015,9,"Dellweg 51, 63762 Großostheim",No matching CC area,49.923025,9.08979
+184.0,Hör Technologie GmbH,Hör Technologie Weiden,28.7.2014,10,"Dr.-von-Fromm-Straße 5, 92637 Weiden",No matching CC area,49.68839,12.098432
+100.0,whr Hossinger Kunststofftechnik GmbH,BHKW 2014,29.7.2014,10,"Robert-Bosch-Straße 1, 93426 Roding",No matching CC area,49.20834,12.507432
+200.0,Dragenopharm Apotheker Püschl GmbH,BHKW,9.12.2016,8,"Göllstraße 1, 84529 Tittmoning",No matching CC area,48.054658,12.770206
+100.0,KJF Augsburg,BHKW Murnau,27.11.2017,7,"Hochried 1, 82418 Murnau",No matching CC area,47.675789,11.17946
+50.0,Klosterbrauerei Andechs,Kloster,27.11.2017,7,"Bergstraße 2, 82346 Andechs",No matching CC area,47.974697,11.183298
+50.0,Salus Gesundheitszentrum GmbH u. Co KG,"BHKW , Wolf, GTK50, Heizkeller",1.6.2016,8,"Rinckstraße 7, 83435 Bad Reichenhall",No matching CC area,47.728867,12.883481
+70.0,SKZ - Testing GmbH,Technologiezentrum,27.5.2013,11,"Friedrich-Bergius-Ring 22, 97076 Würzburg",No matching CC area,49.802937,9.99999
+140.0,Deutsche Post AG vertreten durch DPDHL RED GmbH,BHKW PZ Nürnberg/Feucht WE263980,6.10.2016,8,"Am Tower 10, 90475 Nürnberg",No matching CC area,49.3881,11.1818
+50.0,Zweckverband Freizeit- und Erholungszentrum Perschen,Perschen BHKW,12.4.2011,13,"Neusather Straße 22, 92507 Nabburg",No matching CC area,49.465528,12.19241
+50.0,Bayerisch Gmain Pflege- und Therap.,BHKW Reichenhallerstr.,1.6.2012,12,"Reichenhaller Straße 131, 83483 Bischofswiesen",No matching CC area,47.700134,12.933695
+140.0,PSI Software SE,BHKW 1,1.1.2011,14,"Boschweg 6, 63741 Aschaffenburg",No matching CC area,49.983942,9.117144
+140.0,PSI Software SE,BHKW 2,1.1.2012,13,"Boschweg 6, 63741 Aschaffenburg",No matching CC area,49.983956,9.117148
+210.0,Klinik Bad Trissl,Blockheizkraftwerk GTK 210 M,9.12.2015,9,"Bad-Trißl-Straße 73, 83080 Oberaudorf",No matching CC area,47.658293,12.155204
+116.0,AWO Bezirksverband Unterfranken e. V.,"BHKW/KWK - AWO Geriatrische Rehaklinik, Kantstr. 45, Würzburg",20.7.2010,14,"Kantstraße 45, 97074 Würzburg",No matching CC area,49.774746,9.944489
+70.0,Stadt Gerolzhofen - Geomaris Freizeit - und Badeparadies Gerolzhofen,BHKW Geomaris,11.7.2014,10,"Dingolshäuserstraße 2, 97447 Gerolzhofen",No matching CC area,49.899786,10.355248
+50.0,ASTL-Reisen GmbH,BHKW HOTEL,16.1.2013,12,"Naunspitzstraße 1, 83080 Oberaudorf",No matching CC area,47.647554,12.178835
+236.0,Hallertauer Hopfenveredelungs-GmbH,BHKW Kesselhaus,10.1.2012,13,"Auhofstraße 16, 84048 Mainburg",No matching CC area,48.63046,11.780482
+125.0,SK Verwaltung GmbH & Co. KG,BHKW,30.11.2016,8,"Wernher-von-Braun-Straße 4, 93426 Roding",No matching CC area,49.216202,12.507099
+237.0,Sauer Kunststoffe GmbH Regenerierbetrieb,BHKW,24.7.2014,10,"Schleifweg 7, 90562 Heroldsberg",No matching CC area,49.541614,11.150213
+130.0,Erlanger Stadtwerke AG,KWK-Damaschkestr. 129a-1,15.9.2009,15,"Damaschkestraße 129 a, 91056 Erlangen",No matching CC area,49.58779,10.978721
+50.0,Erlanger Stadtwerke AG,KWK-Damaschkestr. 129a-2,22.2.2017,8,"Damaschkestraße 129 a, 91056 Erlangen",No matching CC area,49.58779,10.978721
+56.7,Achat Hotel-und Immobilienbetriebsgesellschaft mbH,Landshut 1,10.12.2016,8,"Papiererstraße 2, 84034 Landshut",No matching CC area,48.536104,12.147036
+50.0,Stadtwerke Bad Windsheim,SW-BW BHKW mobil EM-50/81,9.10.2017,7,"Westheimer Straße 22, 91438 Bad Windsheim",No matching CC area,49.494887,10.412745
+86.0,Stadtwerke Bad Windsheim,SW-BW BHKW DIMAG TG926,11.11.1998,26,"Erkenbrechtallee 2, 91438 Bad Windsheim",No matching CC area,49.512202,10.415062
+50.0,Josefispitalstiftung mit Darlapp´scher Zustiftung,BHKW Josefistift,20.10.2009,15,"Bahnhofstraße 3, 83646 Bad Tölz",No matching CC area,47.762138,11.567033
+110.0,Fraunhofer Institut für Integrierte Schaltungen IIS,BHKW E20455 1.BA,3.7.2003,21,"Am Wolfsmantel 33, 91058 Erlangen",No matching CC area,49.547063,11.019096
+110.0,Fraunhofer Institut für Integrierte Schaltungen IIS,BHKW E20455 1.BA Block2,3.7.2003,21,"Am Wolfsmantel 33, 91058 Erlangen",No matching CC area,49.547066,11.019124
+220.0,Fraunhofer Institut für Integrierte Schaltungen IIS,BHKW F2 E22317,16.8.2013,11,"Flugplatzstraße 75, 90768 Fürth",No matching CC area,49.500798,10.965796
+220.0,Fraunhofer Institut für Integrierte Schaltungen IIS,BHKW E2 E21109,22.10.2008,16,"Am Wolfsmantel 33, 91058 Erlangen",No matching CC area,49.546759,11.018579
+155.0,Fraunhofer Institut für Integrierte Systeme und Bauelementetechnologie,BHKW-1,15.3.2019,6,"Schottkystraße 10, 91058 Erlangen",No matching CC area,49.571395,11.030646
+140.0,Siemens Healthineers AG,BHKW Kemnath Küche alt,20.12.2018,6,"Röntgenstraße 19, 95478 Kemnath",No matching CC area,49.863849,11.879659
+49.5,Hochschule Ansbach,Blockheizkraftwerk Gebäude 93,28.7.2014,10,"Residenzstraße 8, 91522 Ansbach",No matching CC area,49.305519,10.566209
+140.0,Klinikum Aschaffenburg Alzenau gemeinnützige GmbH,BHKW 3 Alzenau,26.10.2010,14,"Schloßhof 1, 63755 Alzenau",No matching CC area,50.069631,9.076104
+50.0,Stadtwerke Weiden i.d.OPf.,Mobiles BHKW Eisstadion u. Schätzlerbad,15.5.2012,12,"Merklmooslohe 30, 92637 Weiden",No matching CC area,49.708633,12.144155
+200.0,Bauteam Tretzel GmbH,Wohnoase,17.5.2004,20,"Hochweg 83, 93049 Regensburg",No matching CC area,49.020799,12.065147
+110.0,Stadtwerke Weiden i.d.OPf.,BHKW Raiffeisenstr. 7,17.3.1993,32,"Raiffeisenstraße 7, 92637 Weiden",No matching CC area,49.686801,12.161571
+140.0,Bauteam Tretzel GmbH,Il Giardino,28.1.2010,15,"Galgenbergstraße 11, 93053 Regensburg",No matching CC area,49.008608,12.101467
+140.0,Bauteam Tretzel GmbH,La Serena,16.10.2013,11,"Roter-Brach-Weg 147, 93049 Regensburg",No matching CC area,49.018902,12.051718
+140.0,Bauteam Tretzel GmbH,Nibelungenhain,23.11.2017,7,"Lore-Kullmer-Straße 169, 93053 Regensburg",No matching CC area,48.997784,12.103489
+50.0,Sozialservice-Gesellschaft des Bayerischen Roten Kreuzes gGmbH,SSG Alzenau,12.1.2016,9,"Bachstraße 2, 63755 Alzenau",No matching CC area,50.079773,9.067575
+50.0,Sozialservice-Gesellschaft des Bayerischen Roten Kreuzes gGmbH,SSG Bamberg,27.2.2014,11,"Lobenhofferstraße 6, 96049 Bamberg",No matching CC area,49.869493,10.888448
+50.0,Sozialservice-Gesellschaft des Bayerischen Roten Kreuzes gGmbH,SSG Murnau,25.10.2013,11,"Garhöll 1, 82418 Murnau",No matching CC area,47.676411,11.185146
+140.0,Klinikum Würzburg Mitte gGmbH,BHKW_Missioklinik_1,9.6.2016,8,"Salvatorstraße 7, 97074 Würzburg",No matching CC area,49.794289,9.953392
+50.0,Sparkasse Landsberg-Dießen,Sparkasse Hauptstelle BHKW,16.12.2015,9,"Hauptplatz 6, 86899 Landsberg",No matching CC area,48.049558,10.877216
+49.5,Riederin GmbH,Erdgas-BHKW Hallenbad,12.12.2017,7,"Riederin 1, 94249 Bodenmais",No matching CC area,49.058191,13.095247
+140.0,Schwan Cosmetics Germany GmbH & Co. KG,KWK 140 kW Technikum,7.7.2015,9,"Schwanweg 1, 90562 Heroldsberg",No matching CC area,49.545319,11.148535
+142.0,"Freistaat Bayern, JVA Würzburg",Sokratherm,27.7.2016,8,"Friedrich-Bergius-Ring 27, 97076 Würzburg",No matching CC area,49.798249,10.003293
+240.0,Bosch Rexroth AG Klaus Leckel,BHKW Lo6 Bosch Rexroth Lohr,30.11.2016,8,"Bürgermeister-Dr.-Nebel-Straße 2, 97816 Lohr",No matching CC area,49.977288,9.580587
+50.0,zwissTEX Germany GmbH,BHKW 50 kW Wörnitz,10.9.2016,8,"Industriestraße 9, 91637 Wörnitz",No matching CC area,49.255959,10.237809
+50.0,Kreis-Caritasverband Rottal-Inn,St. Konrad,8.4.2011,13,"Ringstraße 3, 84347 Pfarrkirchen",No matching CC area,48.433435,12.939396
+140.0,Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR),0510301KWK001GEN0001,21.4.2012,12,"Münchener Straße 20, 82234 Weßling",No matching CC area,48.08477,11.277946
+49.1,natürliche Person (ABR908824022515),BHKW Gärtnerei,15.2.2012,13,"Fasanenweg 20, 85452 Moosinning",No matching CC area,48.281223,11.813513
+70.0,VAMED Klinik Kipfenberg,ABR 977188293282,12.7.2019,5,"Konrad-Regler-Straße 1, 85110 Kipfenberg",No matching CC area,48.951781,11.394403
+140.0,Rangauklinik Ansbach GmbH,Heizgebäude,16.12.2010,14,"Strüth 24, 91522 Ansbach",No matching CC area,49.326392,10.539351
+140.0,GOK Regler-und Armaturengesellschaft mbH&Co.KG,BHKW Wolf Modul 1054W,16.7.2014,10,"Obernbreiter Straße 4, 97340 Marktbreit",No matching CC area,49.663412,10.149343
+119.0,Klinikum Forchheim - Fränkische Schweiz gGmbH,BHKW1,23.7.2014,10,"Krankenhausstraße 10, 91301 Forchheim",No matching CC area,49.713291,11.079427
+119.0,Klinikum Forchheim - Fränkische Schweiz gGmbH,BHKW2,23.7.2014,10,"Krankenhausstraße 10, 91301 Forchheim",No matching CC area,49.713291,11.079427
+240.0,Rhön Klinikum AG,BHKW RKA 1,24.1.2012,13,"Salzburger Leite 1, 97616 Bad Neustadt",No matching CC area,50.324908,10.235095
+237.0,Rhön Klinikum AG,BHKW RKA 2,24.1.2012,13,"Salzburger Leite 1, 97616 Bad Neustadt",No matching CC area,50.324911,10.235698
+237.0,Rhön Klinikum AG,BHKW RKA 3,24.1.2012,13,"Salzburger Leite 1, 97616 Bad Neustadt",No matching CC area,50.32485,10.235764
+240.0,Rhön Klinikum AG,BHKW RKA 4,7.3.2013,12,"Salzburger Leite 1, 97616 Bad Neustadt",No matching CC area,50.324715,10.234932
+140.0,Rhön Klinikum AG,BHKW Neuro,4.2.2015,10,"von-Guttenberg-Straße 10, 97616 Bad Neustadt",No matching CC area,50.324756,10.238537
+140.0,Rhön Klinikum AG,BHKW PSK,5.2.2016,9,"Kurhausstraße 31, 97616 Bad Neustadt",No matching CC area,50.321251,10.22709
+140.0,Regensburger Druckgußwerk Wolf,Block 1,8.1.2009,16,"Prüfeninger Schloßstraße 7, 93051 Regensburg",No matching CC area,49.01131,12.055373
+50.0,Warnecke & Böhm GmbH,BHKW 1,13.7.2017,7,"Westerbergstraße 12, 83727 Schliersee",No matching CC area,47.729954,11.846725
+140.0,Ohlstadtklinik,KWK-Anlage Ohlstadtklinik,2.12.2010,14,"Boschetstraße 5, 82441 Ohlstadt",No matching CC area,47.631701,11.231479
+240.0,Stadt Ingolstadt,BHKW 2 im SZSW,29.7.2014,10,"Maximilianstraße 25, 85051 Ingolstadt",No matching CC area,48.744727,11.422273
+140.0,Uniper Energy Storage GmbH,KWK Breitbrunn,12.9.2016,8,"Freimoos 1, 83257 Gstadt",No matching CC area,47.918188,12.414156
+50.0,Kuthal Print GmbH Co. KG,BHKW_Kuthal,29.7.2014,10,"Johann-Dahlem-Straße 52, 63814 Mainaschaff",No matching CC area,49.983292,9.09446
+50.0,Johannesbad Klinik Furth im Wald GmbH & Co. KG,G640 BHKW,21.9.2016,8,"Eichertweg 37, 93437 Furth im Wald",No matching CC area,49.315981,12.822196
+51.5,Klinik Bavaria,BHKW 2,19.12.2019,5,"Von-der-Tann-Straße 18-22, 97688 Bad Kissingen",No matching CC area,50.19843,10.084403
+49.5,Markt Schliersee,Vitalwelt,30.7.2014,10,"Perfallstraße 4, 83727 Schliersee",No matching CC area,47.733851,11.860467
+50.0,Schulstiftung der Diözese Regensburg,Heizzentrale,10.9.2013,11,"Helenenstraße 2, 93047 Regensburg",No matching CC area,49.014319,12.089383
+50.0,Frankenklinik,BHKW Frankenklinik,9.12.2015,9,"Menzelstraße 5, 97688 Bad Kissingen",No matching CC area,50.197522,10.08079
+220.0,NAF Neunkirchener Achsenfrabrik AG,BHKW NAF,12.11.2018,6,"Weyhausenstraße 2, 91077 Neunkirchen",No matching CC area,49.606495,11.137558
+50.0,Silberberg-Klinik Bodenmais,BHKW Bosch,5.12.2013,11,"Rechensöldenweg 8, 94249 Bodenmais",No matching CC area,49.073324,13.102219
+123.0,Rhön Park Hotel,Heizhaus BHKW 1&2,19.12.2013,11,"Rother Kuppe 2, 97647 Hausen",No matching CC area,50.478929,10.105086
+119.0,"Deutsche Rentenversicherung Nordbayern, Höhenklinik Bischofsgrün",BHKW Höhenklinik,18.4.2013,11,"Fröbershammer 12, 95493 Bischofsgrün",No matching CC area,50.055793,11.822935
+50.0,Stadtwerke Karlstadt,FB/STW:StromB,28.8.2017,7,"Baggertsweg 6, 97753 Karlstadt",No matching CC area,49.956969,9.762955
+140.0,Sana Kliniken des Landkreises Cham GmbH,BHKW Kraft-Wärme-Kopplung,4.12.2017,7,"August-Holz-Straße 1, 93413 Cham",No matching CC area,49.225601,12.659133
+240.0,Innkliniken Altötting-Mühldorf,BHKW 240KW Innklinik Mühldorf,10.6.2011,13,"Krankenhausstraße 1, 84453 Mühldorf",No matching CC area,48.24287,12.529241
+140.0,SÜDWÄRME Gesellschaft für Energielieferung AG,BHKW,17.11.2010,14,"Ebersberg 36, 86637 Wertingen",No matching CC area,48.565734,10.679316
+50.0,KW Energie GmbH & Co. KG,50 kW,8.11.2012,12,"Neumarkter Straße 157, 92342 Freystadt",No matching CC area,49.20244,11.35236
+140.0,Fackelmann Therme Hersbruck,BHKW Fackelmann Therme,31.7.2014,10,"Badstraße 16, 91217 Hersbruck",No matching CC area,49.511058,11.444827
+50.0,Landratsamt Schwandorf,BHKW BS Nabburg,11.9.2014,10,"Rotbühlring 4, 92507 Nabburg",No matching CC area,49.452873,12.175611
+71.0,Alpenhotel Zechmeisterlehen Angerer OHG,1040,26.4.2012,12,"Wahlstraße 35, 83471 Schönau",No matching CC area,47.615476,12.976424
+50.0,St. Johannes Klinik,BHKW St. Johannes Klinik,19.12.2017,7,"Krankenhausstraße 1, 91275 Auerbach",No matching CC area,49.698424,11.619471
+238.0,Ullmer GmbH & Co. KG,BHKW NES,19.10.2017,7,"Am Dolzbach 5, 97616 Bad Neustadt",No matching CC area,50.338689,10.221596
+50.0,Landkreis Bad Tölz-Wolfratshausen,Heizwerk Bad Tölz BHKW,11.1.2016,9,"Alter Bahnhofplatz 5, 83646 Bad Tölz",No matching CC area,47.76414,11.567504
+50.0,Holzammer Kunststofftechnik,BHKW-Firma_2015,24.6.2015,9,"Am Ursprung 9, 92369 Sengenthal",No matching CC area,49.24303,11.466704
+239.0,Rottal-Inn Kliniken KU,BHKW Eggenfelden,14.2.2013,12,"Simonsöder Allee 20, 84307 Eggenfelden",No matching CC area,48.413838,12.759774
+70.0,Rottal-Inn Kliniken KU,BHKW Pfarrkirchen,29.1.2016,9,"Am Griesberg 1, 84347 Pfarrkirchen",No matching CC area,48.436259,12.925961
+70.0,Rhön-Malz GmbH,RM-BHKW1,14.7.2014,10,"Sondheimer Straße 4, 97638 Mellrichstadt",No matching CC area,50.429491,10.305825
+70.0,Rhön-Malz GmbH,RM-BHKW2,6.7.2017,7,"Sondheimer Straße 4, 97638 Mellrichstadt",No matching CC area,50.429491,10.305825
+240.0,Krankenhaus Rummelsberg GmbH,BHKW Krankenhaus Rummelsberg,31.7.2014,10,"Rummelsberg 71, 90592 Schwarzenbruck",No matching CC area,49.361962,11.263949
+50.0,Backhaus Bickert,BHKW,4.2.2016,9,"Ostring 28, 63762 Großostheim",No matching CC area,49.936914,9.039932
+50.0,Kath. Jugendfürsorge der Diözese Regensburg e.V.,17_Haus des guten Hirten Schwandorf_Ettmannsdorfer Str. 131_BHKW,6.12.2016,8,"Ettmannsdorfer Straße 131, 92421 Schwandorf",No matching CC area,49.328806,12.083674
+198.0,Deutsche Provinz der Salesianer Don Boscos,BHKW-Aschau-Waldwinklerstr,19.12.2017,7,"Waldwinkler Straße 1, 84544 Aschau",No matching CC area,48.194094,12.336442
+50.0,Grundstückgemeinschaft A+S Spranger GmbH & Co.KG,BHWK,23.6.2016,8,"Lindberghstraße 9, 85051 Ingolstadt",No matching CC area,48.747223,11.429073
+50.0,Ketonia GmbH,BHKW,4.11.2013,11,"Almesbach 4, 92637 Weiden",No matching CC area,49.683714,12.197802
+215.0,Klinik Höhenried gGmbH,BHKW Höhenried,1.7.2005,19,"Höhenried 40, 82347 Bernried",No matching CC area,47.87886,11.280319
+140.0,R-Tech GmbH,BHKW,29.10.2015,9,"Franz-Mayer-Straße 1, 93053 Regensburg",No matching CC area,49.002293,12.100516
+99.0,Main-Klinik Ochsenfurt gGmbH,BHKW 99KW,15.7.2014,10,"Am Greinberg 25, 97199 Ochsenfurt",No matching CC area,49.660511,10.088241
+50.0,Gemeinde Veitshöchheim,Blockheizkraftwerk Schul- und Sportzentrum Veitshöchheim,7.11.2016,8,"Günterslebener Straße 41, 97209 Veitshöchheim",No matching CC area,49.831204,9.883075
+50.0,WohnenParkenEnergie KU,BHKW GT,30.10.2012,12,"Schloßplatz 1 c, 83684 Tegernsee",No matching CC area,47.707032,11.756871
+50.0,Gemeinde Veitshöchheim,Blockheizkraftwerk Mainfrankensäle,30.6.2014,10,"Mainlände 1, 97209 Veitshöchheim",No matching CC area,49.830572,9.870472
+50.0,Dinzl Ordungstechnik GmbH,Blockheizkraftwerk,17.12.2014,10,"Industriestraße 1, 91583 Schillingsfürst",No matching CC area,49.276551,10.246564
+50.0,Psychosomatische Klinik GmbH & Co. Windach-Ammersee KG,BHKW,31.1.2017,8,"Schützenstraße 100, 86949 Windach",No matching CC area,48.072859,11.047862
+239.0,Franken Brunnen GmbH & Co. KG,BHKW 1 Franken Brunnen Bad Windsheim,1.6.2016,8,"Illesheimer Straße 15, 91438 Bad Windsheim",No matching CC area,49.494452,10.40193
+140.0,Haßberg Kliniken,BHKW Lüftung,16.12.2016,8,"Hofheimer Straße 69, 97437 Haßfurt",No matching CC area,50.040375,10.514315
+50.0,Strandhotel Seehof GmbH & Co. KG,Aggregat 1: NG 50 - BHKW 50KW,30.7.2014,10,"Seestraße 33, 91738 Pfofeld",No matching CC area,49.127572,10.862446
+49.5,Seniorenresidenz Kist GmbH,BHKW SRK,15.11.2017,7,"Sonnleite 1, 97270 Kist",No matching CC area,49.738883,9.843097
+50.0,Senioreneinrichtungen des Landkreises Würzburg,BHKW,16.10.2014,10,"Zeppelinstraße 67, 97074 Würzburg",No matching CC area,49.782454,9.962508
+50.8,Sana Klinik Pegnitz GmbH,BHKW Sana Klinik Pegnitz,4.10.2017,7,"Langer Berg 12, 91257 Pegnitz",No matching CC area,49.757576,11.527365
+140.0,Helios St. Elisabeth Krankenhaus Bad Kissingen,ABR 907153991660,20.12.2013,11,"Kissinger Straße 150, 97688 Bad Kissingen",No matching CC area,50.189844,10.082824
+130.0,Stadt Röthenbach an der Pegnitz,KA BHKW1,31.1.2014,11,"Mittelbügweg 10, 90552 Röthenbach",No matching CC area,49.483923,11.229052
+50.0,AWO Bezirksverband OMF e.V.,AWO Weißenburg,9.11.2015,9,"Schönau 2, 91781 Weißenburg",No matching CC area,49.019044,10.973933
+70.0,Klinikum Altmühlfranken,Klinikum Altmühlfranken Gunzenhausen,3.5.2010,14,"Albert-Schweitzer-Straße 90, 91710 Gunzenhausen",No matching CC area,49.10784,10.773928
+50.0,AWO Bezirksverband OMF e.V.,AWO Erlangen,6.10.2015,9,"Büchenbacher Anlage 27, 91056 Erlangen",No matching CC area,49.594659,10.960017
+140.0,Rehabilitationsklinik Rosenhof,BHKW 133913,20.4.2016,8,"Brunnaderstraße 24, 84364 Bad Birnbach",No matching CC area,48.443291,13.079376
+50.0,AWO Bezirksverband OMF e.V.,AWO Marktleuthen,21.12.2015,9,"Gerhart-Hauptmann-Str. 5, 95168 Marktleuthen",No matching CC area,51.11031,10.506033
+50.0,AWO Bezirksverband OMF e.V.,AWO Roth,20.10.2015,9,"Ludwig-Thoma-Straße 1, 91154 Roth",No matching CC area,49.250862,11.103216
+50.0,AWO Bezirksverband OMF e.V.,AWO Weidenberg,21.7.2014,10,"Nikolaus-Nüssel-Straße 9, 95466 Weidenberg",No matching CC area,49.942258,11.725
+71.0,Stadtwerke Pfarrkirchen,BHKW mobil,30.11.2017,7,"Höckberg 3 a, 84347 Pfarrkirchen",No matching CC area,48.432361,12.964347
+99.0,Stadtwerke Pfarrkirchen,BHKW Klärwerk,21.11.2016,8,"Höckberg 3 a, 84347 Pfarrkirchen",No matching CC area,48.432361,12.964347
+50.0,Stadt Starnberg,BHKW Gymnasium,17.2.2014,11,"Rheinlandstraße 2, 82319 Starnberg",No matching CC area,48.003305,11.34451
+140.0,Waldburg-Zeil Kliniken GmbH & Co. - Rheumaklinik - KG,BHKW Rheumazentrum Oberammergau,17.7.2014,10,"Hubertusstraße 40, 82487 Oberammergau",No matching CC area,47.591039,11.074891
+50.0,Autohaus Brass,AB Hanauer Str. BKHW,22.7.2014,10,"Hanauer Straße 90, 63741 Aschaffenburg",No matching CC area,49.980387,9.125889
+50.0,Kath. Jugendfürsorge der Diözese Regensburg e.V.,03_BBW St. Franziskus Abensberg_Regensburger Str. 60_BHKW,31.1.1996,29,"Regensburger Straße 60, 93326 Abensberg",No matching CC area,48.826918,11.86634
+70.0,Viessmann Kraft-Wärme-Kopplung GmbH,ViKWK - EM-70 Hausmodul Celsiusstraße 9,4.9.2013,11,"Celsiusstraße 9, 86899 Landsberg",No matching CC area,48.066705,10.850723
+49.5,monte mare Schliersee,BHKW g-box 50,31.7.2015,9,"Perfallstraße 4, 83727 Schliersee",No matching CC area,47.733851,11.860467
+240.0,Kliniken Südostbayern AG,BHKW-Klinikum Traunstein,31.7.2014,10,"Cuno-Niggl-Straße 3, 83278 Traunstein",No matching CC area,47.873665,12.63243
+222.5,Kliniken Südostbayern AG,BHKW Modul1+2-Kreisklinik Trostberg,9.12.2016,8,"Siegerthöhe 1, 83308 Trostberg",No matching CC area,48.028552,12.542957
+238.0,Josef Witt GnbH,BHKW HR8b,31.8.2012,12,"Hutschenreutherstraße 8b, 92637 Weiden",No matching CC area,49.686253,12.078693
+50.0,GEWOBAU Erlangen,Würzburger Ring 9 BHKW,16.9.2019,5,"Würzburger Ring 9, 91056 Erlangen",No matching CC area,49.597544,10.968955
+70.0,GEWOBAU Erlangen,Würzburger Ring 17 BHKW,16.9.2019,5,"Würzburger Ring 17, 91056 Erlangen",No matching CC area,49.597844,10.969402
+100.0,Kliniken Am Goldenen Steig gGmbH,BHKW 100 kWel,21.12.2012,12,"Schwarzmaierstraße 21, 94481 Grafenau",No matching CC area,48.859083,13.393916
+50.0,Hyperion Energies GmbH,"KWK - An der Breitenau 2, 96052 Bamberg",19.8.2016,8,"An der Breitenau 2, 96052 Bamberg",No matching CC area,49.91267,10.911399
+50.0,Röhrich Hotel GmbH,Ziegelstr. 11 KWKG 50kW,22.3.2017,8,"Ziegelstraße 11, 85283 Wolnzach",No matching CC area,48.598657,11.631333
+140.0,Klinikum Landsberg am Lech - KU,BHKW Klinikum LL,24.7.2014,10,"Bürgermeister-Dr.-Hartmann-Straße 50, 86899 Landsberg",No matching CC area,48.048368,10.855624
+240.0,natürliche Person (ABR973540348751),BHKW Hallenbad Südwest,13.10.2011,13,"Maximilianstraße 25, 85051 Ingolstadt",No matching CC area,48.744727,11.422273
+118.0,Stadtwerke Landsberg KU,BHKW Inselbad 118 kW,14.5.2009,15,"Lechstraße 882, 86899 Landsberg",No matching CC area,48.050644,10.873336
+70.0,Markt Kösching,BHKW Bad am Berg,5.12.2019,5,"Am Weinberg 11, 85092 Kösching",No matching CC area,48.808563,11.515376
+50.0,Bayerische Landesanstalt für Weinbau und Gartenbau,BHKW,23.6.2014,10,"An der Steige 15, 97209 Veitshöchheim",No matching CC area,49.840135,9.875283
+49.5,Arbeiterwohlfahrt KV Bamberg Stadt & Land e. V.,BHKW BA,27.3.2017,7,"Hauptsmoorstraße 26 a, 96052 Bamberg",No matching CC area,49.911565,10.925987
+50.0,Baumaterialien-Handelsgesellschaft AG,BHKW Bayreuth,18.10.2012,12,"Spinnereistraße 2, 95445 Bayreuth",No matching CC area,49.951915,11.566651
+140.0,Stadtwerke Landsberg KU,BHKW MSLL 140 kW,4.4.2016,8,"Fritz-Beck-Str. 1, 86899 Landsberg",No matching CC area,48.050045,10.861537
+80.0,Main-Post GmbH,BHKW,16.12.2015,9,"Berner Straße 2, 97084 Würzburg",No matching CC area,49.746238,9.953778
+50.0,City Hotel Roding GmbH & Co. KG,City Hotel 1-1,1.12.2008,16,"Schulstraße 25, 93426 Roding",No matching CC area,49.196602,12.519618
+140.0,ESP Südeloxal GmbH,BHKW-I,30.10.2013,11,"Haidenholzstraße 66, 83071 Stephanskirchen",No matching CC area,47.859362,12.176776
+50.0,Zweckverband Bayerische Landschulheime,BHKW-Berg,30.8.2010,14,"Münchner Straße 49, 82335 Berg",No matching CC area,47.991705,11.360614
+140.0,Scheurich GmbH & Co. KG,Erdgas-BHKW G4545 Kleinheubach,27.10.2016,8,"Gottlieb-Wagner-Straße 2, 63924 Kleinheubach",No matching CC area,49.719354,9.214247
+50.0,Jura-Werkstätten Amberg-Sulzbach e. V.,BHKW - Amberg,11.10.2017,7,"Raiffeisenstraße 7, 92224 Amberg",No matching CC area,49.43435,11.877516
+81.0,Kongregation der Dienerinnen der hl. Kindheit Jesu KöR,Mutterhaus,1.8.2010,14,"Kloster Oberzell 1, 97299 Zell",No matching CC area,49.800866,9.878863
+50.0,Faymonville Trade and Services GmbH,BHKW,12.3.2009,16,"Justus-von-Liebig-Straße 35, 86899 Landsberg",No matching CC area,48.071135,10.851618
+70.0,DEPRAG SCHULZ GMBH u. CO. KG,KWK,2.9.2013,11,"Carl-Schulz-Platz 1, 92224 Amberg",No matching CC area,49.443054,11.860583
+50.0,Daeschler Gmbh&Co.KG,BHKW Forum +,2.3.2009,16,"Werner-von-Siemens-Straße 41, 91052 Erlangen",No matching CC area,49.594017,11.014879
+70.0,BwDLZ Amberg,BHKW Pfreimd,2.3.2020,5,"Schloßbergstraße 1, 92536 Pfreimd",No matching CC area,49.487429,12.192187
+50.0,AWO Bezirksverband Ndb/Opf e. V.,Erdgas-BHKW SH Hans Bauer - ABR 949158955285,18.5.2011,13,"Leimbergerstraße 45, 92637 Weiden",No matching CC area,49.66703,12.148782
+120.0,natürliche Person (ABR961454280540),BHKW Viessmann Halle 33,1.1.2007,18,"Gewerbepark BWB 32, 83052 Bruckmühl",No matching CC area,47.877112,11.930956
+205.0,Süddeutsche Gelenkscheibenfabrik GmbH & Co. KG,BHKW,8.2.2016,9,"Gerhard-Zeidler-Straße 6, 84478 Waldkraiburg",No matching CC area,48.220531,12.412439
+224.0,Mich. Weyermann® GmbH & Co. KG,BHKW 3   HAS,17.10.2008,16,"Am Hafen 1, 97437 Haßfurt",No matching CC area,50.02914,10.517366
+224.0,Mich. Weyermann® GmbH & Co. KG,BHKW 2   HAS,3.6.2009,15,"Am Hafen 1, 97437 Haßfurt",No matching CC area,50.02914,10.517366
+100.0,Neumarkter Lammsbräu Gebr. Ehrnsperger KG,CPS-100,20.12.2016,8,"Amberger Straße 1, 92318 Neumarkt",No matching CC area,49.283641,11.460478
+70.0,HSR GmbH,BHKW,30.3.2012,12,"Burgstraße 15, 97688 Bad Kissingen",No matching CC area,50.18729,10.095547
+240.0,JVA Landsberg am Lech,Heizhaus BHKW,16.12.2015,9,"Hindenburgring 12, 86899 Landsberg",No matching CC area,48.053716,10.868193
+140.0,HSR GmbH,Hotel Sonnenhügel,30.3.2012,12,"Burgstraße 15, 97688 Bad Kissingen",No matching CC area,50.207102,10.073477
+50.0,Stadt Bayreuth - Hochbauamt,"Graf-Münster-Gynasium Bayreuth, Schützenplatz 12",12.3.2009,16,"Schützenplatz 12, 95444 Bayreuth",No matching CC area,49.937959,11.585804
+140.0,Hescuro Klinik Regena Bad Brückenau,BHKW Hescuro Bad Brückenau,12.8.2010,14,"Ernst-Putz-Straße 52, 97769 Bad Brückenau",No matching CC area,50.306908,9.760551
+201.0,Gemeinde Lenggries,BHKW-Geiersteinstraße,26.2.2008,17,"Geiersteinstraße 11, 83661 Lenggries",No matching CC area,47.683108,11.580404
+50.0,Senioren- & Pflegeheim St. Hedwig,Senioren- & Pflegeheim,21.2.2011,14,"Pfarrer-Fichtl-Straße 16, 93176 Beratzhausen",No matching CC area,49.102412,11.803498
+200.0,Bayern Chemie,BHKW_2014,22.7.2014,10,"Liebigstraße 17, 84544 Aschau",No matching CC area,48.185612,12.366763
+50.0,Landkreis Freyung-Grafenau,Blockheizkraftwerk,1.1.2007,18,"Jahnstraße 8, 94078 Freyung",No matching CC area,48.810157,13.554533
+50.0,Metzgerei Ludwig Haller GmbH,BHKW-B285463,24.7.2018,6,"Straßäcker 5, 82418 Murnau",No matching CC area,47.687327,11.202428
+70.0,Donau-Ries Seniorenheim Rain am Lech,Donau-Ries Seniorenheim Rain am Lech BHKW,5.2.2019,6,"Vinzenz-Lachner-Straße 28, 86641 Rain",No matching CC area,48.693598,10.925283
+50.0,Caritasverband für den Landkreis Haßberge e.V.,BHKW Sankt Bruno,15.6.2011,13,"Promenade 37, 97437 Haßfurt",No matching CC area,50.033074,10.504271
+222.5,Kliniken Südostbayern AG,BHKW2-Kreisklinik Trostberg,9.12.2016,8,"Siegerthöhe 1, 83308 Trostberg",No matching CC area,48.028552,12.542957
+50.0,Bundeswehr Dienstleistungszentrum Bogen,BHKW Geb. 016,9.4.2015,9,"Oberst-Freiherr-von-Boeselager-Straße 1, 93426 Roding",No matching CC area,49.201078,12.526213
+50.0,Bundeswehr Dienstleistungszentrum Bogen,BHKW Geb. 014,2.12.2010,14,"Nordgaustraße 9, 93413 Cham",No matching CC area,49.228645,12.67209
+55.0,Stadt Bad Neustadt a. d. Saale,"KWK-Anlage, Valentin-Rathgeber-Straße 1",3.12.2013,11,"Valentin-Rathgeber-Straße 1, 97616 Bad Neustadt",No matching CC area,50.331602,10.211776
+50.0,Akademie der Sozialverwaltung,BHKW-Haus7,14.8.2012,12,"Im Hag 14, 83512 Wasserburg",No matching CC area,48.062911,12.229308
+90.0,Entwicklungsgesellschaft Markt Bissingen mbH (EMB),Kläranlage Bissingen BHKW 2,20.10.2010,14,"Kesselfeldstraße 12, 86657 Bissingen",No matching CC area,48.709793,10.628661
+49.5,Justizvollzugsanstalt Neuburg-Herrenwörth,Justizvollzugsanstalt Neuburg-Herrenwörth,1.12.2015,9,"Sudetenlandstraße 200, 86633 Neuburg",No matching CC area,48.732902,11.225135
+143.0,Krankenhaus Penzberg GmbH Landkreis Weilheim-Schongau,BHKW Penzberg,13.1.2016,9,"Am Schloßbichl nan, 82377 Penzberg",No matching CC area,47.754411,11.376279
+70.0,Benedictus Krankenhaus Feldafing GmbH & Co. KG,BHKW BKF,18.12.2019,5,"Thomas-Mann-Str. 6, 82340 Feldafing",No matching CC area,47.937534,11.294998
+210.0,DONAU MALZ Bamberger Mälzerei GmbH & Co KG,BHKW 1,4.11.1991,33,"Spreestraße 2, 86633 Neuburg",No matching CC area,48.738231,11.252796
+210.0,DONAU MALZ Bamberger Mälzerei GmbH & Co KG,BHKW 2,4.11.1991,33,"Spreestraße 2, 86633 Neuburg",No matching CC area,48.738231,11.252796
+210.0,DONAU MALZ Bamberger Mälzerei GmbH & Co KG,BHKW 3,4.11.1991,33,"Spreestraße 2, 86633 Neuburg",No matching CC area,48.738231,11.252796
+55.0,"Regierung der Oberpfalz Sachgebiet 14, Flüchtlingsbetreuung","Regierung der Oberpfalz, Sachgebiet 14.1 - Erstaufnahme, Haushalt und zentrale Aufgaben",7.12.2016,8,"Bajuwarenstraße 1a, 93053 Regensburg",No matching CC area,48.998643,12.122675
+60.0,Das SeinZ e.K.,BHKW-60KW,1.1.2007,18,"Kurhausstraße 1, 82433 Bad Kohlgrub",No matching CC area,47.664462,11.044157
+50.0,Qantos GmbH,BHKW-50kW,25.7.2014,10,"Am Forst 13, 92637 Weiden",No matching CC area,49.701928,12.159912
+135.0,Bauteam Tretzel GmbH,Il Giardino II,28.1.2010,15,"Galgenbergstraße 11, 93053 Regensburg",No matching CC area,49.008627,12.101418
+140.0,Bauteam Tretzel GmbH,La Serena II,16.10.2013,11,"Roter-Brach-Weg 147, 93049 Regensburg",No matching CC area,49.018915,12.051746
+140.0,Bauteam Tretzel GmbH,Nibelungenhain II,23.11.2017,7,"Lore-Kullmer-Straße 169, 93053 Regensburg",No matching CC area,48.997834,12.103497
+140.0,Asklepios Klinikum Bad Abbach GmbH,ABR997825208448,5.10.2010,14,"Kaiser-Karl-V.-Allee 3, 93077 Bad Abbach",No matching CC area,48.932836,12.037765
+240.0,Josef Maier GmbH & Co KG,BHKW,18.2.2005,20,"Justus-von-Liebig-Straße 48, 86899 Landsberg",No matching CC area,48.070873,10.855121

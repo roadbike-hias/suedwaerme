@@ -1,0 +1,292 @@
+power,operator,unit_name,start_date,age_years,location,cc,latitude,longitude
+99.0,Konrad Kleiner GmbH & Co. KG,Viessmann BHKW,11.10.2018,6,"Kurt-Kleiner-Straße 1, 87719 Mindelheim",Gaiser,48.059,10.508
+239.0,Collegium Augustinum Gemeinützige GmbH,MNO,30.10.2015,9,"Weitlstraße 66, 80935 München",Ökotherm,48.209,11.555
+190.0,PC Westernstadt GmbH & Co. KG,Pullman City BHKW-Anlage,19.10.2018,6,"Ruberting 30, 94535 Eging a.See",Burke,48.696529,13.262945
+50.0,natürliche Person (ABR964206852736),Reinheimer,10.12.2009,15,"Auf der Insel 2, 87538 Fischen",Biomassehof,47.461968,10.274759
+121.0,Giesecke + Devrient,BHKW GDM15,1.10.2003,21,"Prinzregentenstraße 159, 81677 München",Ökotherm,48.139,11.623
+50.0,Das Mühlbach e.K. Freudenstein Florian,BHKW 1,21.6.2018,6,"Bachstraße 15, 94072 Bad Füssing",Burke,48.345,13.31
+140.0,Hanns-Seidel-Stiftung e.V.,BHKW Kloster Banz,20.9.2011,13,"Kloster Banz 1, 96231 Bad Staffelstein",Sell,50.133066,11.001019
+50.0,LAVA  GmbH & Co. KG,86150-1,8.1.2019,6,"Gratzmüllerstraße 8, 86150 Augsburg",Rexroth,48.361,10.893
+50.0,Rudi Göbel GmbH & Co. KG,BHKW RG,14.8.2018,6,"Max-Planck-Straße 23, 95233 Helmbrechts",Sell,50.231034,11.720381
+50.0,natürliche Person (ABR968020563144),BHKW 4,11.10.2019,5,"Kemptener-Wald-Straße 14, 87647 Unterthingau",Gaiser,47.764839,10.491621
+142.0,BHS-tabletop AG,DLZ BHKW01,17.12.2013,11,"Roland-Dorschner-Straße 1, 95100 Selb",Sell,50.166,12.105
+114.0,Gemeindewerke Ismaning,SVI0266,9.9.2013,11,"Erich-Zeitler-Straße 6, 85737 Ismaning",ITW,48.228,11.677
+222.0,ROMA KG,BHKW Werk 2 - Industriestraße 40,1.4.2013,11,"Industriestraße 40, 89331 Burgau",Gaiser,48.434,10.419
+50.0,sense electra GmbH,"Unterschleißheim, Gutenbergstr. 5",30.7.2018,6,"Gutenbergstraße 5, 85716 Unterschleißheim",ITW,48.287,11.565
+237.0,SÜDWÄRME Gesellschaft für Energielieferung AG,BHKW,11.12.2015,9,"Anna-Wimschneider-Straße 1, 85716 Unterschleißheim",ITW,48.284,11.562
+119.0,Diakonisches Werk Hof e.V.,Lernhof,24.1.2013,12,"Südring 96, 95032 Hof",Sell,50.292416,11.913307
+50.0,natürliche Person (ABR986673005583),Erdgas BHKW1,2.11.2016,8,"Langweg 4, 87616 Marktoberdorf",Gaiser,47.765436,10.599529
+205.0,Benseler Beschichtungen Bayern GmbH & Co.KG,Benseler V12,12.6.2014,10,"Brunfeldstraße 7, 94327 Bogen",Lausser,48.932,12.665
+50.0,natürliche Person (ABR986673005583),Erdgas BHKW2,14.5.2018,6,"Langweg 4, 87616 Marktoberdorf",Gaiser,47.765442,10.599517
+238.0,HAWE Hydraulik SE,BHKW HAWE Kaufbeuren,30.4.2014,10,"Karl-Heilmeier-Straße 1, 87600 Kaufbeuren",Gaiser,47.884,10.648
+210.0,Lieken Brot- und Backwaren GmbH,BHKW-Günzburg,15.12.2015,9,"Max-Planck-Straße 9, 89312 Günzburg",Gaiser,48.473,10.276
+50.0,Geiger Energietechnik GmbH,BHKW Sonthofen Mittagstraße,23.6.2014,10,"Mittagstraße 24, 87527 Sonthofen",Biomassehof,47.528949,10.263799
+96.0,Truma Gerätetechnik,BHKW-P,1.5.2017,7,"Wernher-von-Braun-Straße 12, 85640 Putzbrunn",ITW,48.077,11.72
+103.0,Alpcura Fachklinik Allgäu Betriebsgesellschaft mbh,Blockheizkraftwerk  Fachklinik Allgäu,1.8.2016,8,"Peter-Heel-Straße 29, 87459 Pfronten",Gaiser,47.583856,10.546783
+155.0,E. Schiller Fleisch GmbH,Schnell BHKW,30.6.2016,8,"Hohe Straße 20, 95030 Hof",Sell,50.314605,11.87335
+50.0,SÜC Energie und H²O,"Plattenäcker 30, Coburg, BHKW",20.2.2015,10,"Plattenäcker 30, 96450 Coburg",Sell,50.257,10.955
+49.5,Alpha Immobilienmanagement GmbH,BHKW,9.3.2016,9,"Beuthener Straße 43, 90471 Nürnberg",Schmoll,49.427,11.133
+99.0,Therme I Betriebsgesellschaft,BHKW II B,8.12.2016,8,"Kurallee 1, 94072 Bad Füssing",Burke,48.355,13.313
+240.0,ROTKREUZKLINIKUM MÜNCHEN gemeinnützige GmbH,BHKW RK1,23.12.2015,9,"Nymphenburger Straße 163, 80634 München",Ökotherm,48.154651,11.532349
+240.0,RILE Zerspanungstechnologie und Montage Lesser GmbH &Co. KG,BHKW Halle 7,16.12.2015,9,"Graflinger Straße 228, 94469 Deggendorf",Lausser,48.858,12.962
+50.0,Sumitomo (SHI) Cyclo Drive Germany GmbH,BHKW,11.11.2015,9,"Cyclostraße 92, 85229 Markt Indersdorf",ITW,48.367,11.403
+50.0,Diehl Stiftung & Co. KG,BHKW 1 Stephanstraße,4.4.2019,5,"Stephanstraße 49, 90478 Nürnberg",Schmoll,49.446495,11.102079
+49.5,Privatbrauerei Zötler,BHKW,17.12.2017,7,"Grüntenstraße 2, 87549 Rettenberg",Biomassehof,47.575359,10.300091
+50.0,Gambs Fahrzeuglackierung GmbH / 25500017,BHKW Smartblock 50 Modul 1,7.3.2019,6,"Siemensstraße 9, 85716 Unterschleißheim",ITW,48.2893,11.574393
+140.0,Hans Weber Maschinenfabrik,BHKW Viessmann 140kW,7.4.2016,8,"Industriestraße 23, 96317 Kronach",Sell,50.231979,11.346252
+49.5,Stadtwerke Rödental,KWK 16,25.1.2019,6,"Martin-Luther-Straße 46, 96472 Rödental",Sell,50.291042,11.035803
+50.0,Cremer Management GmbH,BHKW Nürnberg,18.1.2018,7,"Gutenstetter Straße 2, 90449 Nürnberg",Schmoll,49.436853,11.002417
+150.0,Stadtwerke Augsburg Energie GmbH,Fritz-Hintermayr-Straße,13.11.2018,6,"Fritz-Hintermayr-Straße 7, 86159 Augsburg",Rexroth,48.351505,10.889441
+50.0,Ludwig-Maximilians-Universität München,Generator BHKW Luisenstr. 37,1.11.2010,14,"Luisenstraße 37, 80333 München",Ökotherm,48.147581,11.564453
+70.0,Fernwärme Marktoberdorf GmbH,BHKW 1.01,6.11.2012,12,"Mühlsteig 27, 87616 Marktoberdorf",Gaiser,47.773414,10.610077
+50.0,Asklepios Klinik Schaufling GmbH Betriebsstätte Aidenbach,BHKW,15.3.2019,6,"Schwanthalerstraße 35, 94501 Aidenbach",Burke,48.57544,13.093093
+75.0,Europarkhotel und Gesundheit GmbH & Co. KG,BHKW Europarkhotel,26.1.2009,16,"Am Kapellenberg 2, 87629 Füssen",Gaiser,47.564788,10.693525
+50.0,Fernwärme Marktoberdorf GmbH,BHKW 3.02,8.11.2012,12,"Bahnhofstraße 42, 87616 Marktoberdorf",Gaiser,47.772383,10.614546
+70.0,Fernwärme Marktoberdorf GmbH,BHKW 3.03,8.12.2012,12,"Bahnhofstraße 42, 87616 Marktoberdorf",Gaiser,47.772383,10.614546
+50.0,Fernwärme Marktoberdorf GmbH,BHKW 5.01,5.12.2012,12,"Richard-Wengenmeier-Platz 1, 87616 Marktoberdorf",Gaiser,47.777506,10.615606
+50.0,Haslinger Hof KG,BHKW 50 Küche,21.5.2019,5,"Ed 1, 94148 Kirchham",Burke,48.351458,13.289503
+50.0,Brennpunkt Energie GmbH,BHKW 6 BPE,20.5.2019,5,"Am Baggersee 2, 87674 Ruderatshofen",Gaiser,47.799034,10.598814
+177.0,Borgers Süd GmbH,BHKW,22.7.2014,10,"Michael-Faist-Straße 11, 86381 Krumbach",Gaiser,48.249176,10.356655
+50.0,Hochschule für angewandte Wissenschaften München,BHKW-Pasing,22.11.2012,12,"Am Stadtpark 20, 81243 München",Ökotherm,48.141877,11.451248
+50.0,Licht- und Kraftwerke Helmbrechts GmbH,BHKW Hallenbad Aquawell,25.7.2017,7,"Adolf-Haack-Straße 7, 95233 Helmbrechts",Sell,50.23595,11.71172
+50.0,Charlotte Baur Formschaumtechnik GmbH,BHKW G2471,10.12.2015,9,"Ifenstraße 2, 87719 Mindelheim",Gaiser,48.036152,10.497836
+240.0,Kliniken Ostallgäu-Kaufbeuren,Klinikum Kaufbeuren,19.12.2014,10,"Dr.-Gutermann-Straße 2, 87600 Kaufbeuren",Gaiser,47.887872,10.611745
+145.0,J.M.Voith SE & Co KG   VTBS,BHKW,18.3.2015,10,"Hans-Böckler-Str. 7, 87527 Sonthofen",Biomassehof,47.524451,10.277802
+140.0,Klinikverbund Allgäu,BHKW 1 MDH,3.7.2014,10,"Bad Wörishofer Straße 44, 87719 Mindelheim",Gaiser,48.04093,10.493325
+50.0,SWW Wunsiedel GmbH,Fichtelgebirgshalle Wunsiedel,16.10.2017,7,"Jean-Paul-Straße 5, 95632 Wunsiedel",Sell,50.03837,12.005607
+70.0,Dobler GmbH & Co. KG Bauunternehmung,BHKW,22.12.2014,10,"Augsburger Straße 50, 87600 Kaufbeuren",Gaiser,47.885535,10.642495
+135.0,Justizvollzugsanstalt Aichach,BHKW 94040700188,19.5.2017,7,"Münchener Straße 33, 86551 Aichach",Rexroth,48.452692,11.134432
+135.0,Justizvollzugsanstalt Aichach,BHKW 94040700187,19.5.2017,7,"Münchener Straße 33, 86551 Aichach",Rexroth,48.452692,11.134432
+90.0,Möschl,BHKW,11.8.2017,7,"Eschachweg 7, 89264 Weißenhorn",Gaiser,48.304058,10.144202
+140.0,Stadtwerke Vilshofen GmbH,BHKW,20.10.2013,11,"Wittelsbacherring 6, 94474 Vilshofen",Burke,48.628734,13.186224
+140.0,MULTIVAC Sepp Haggenmüller SE & Co. KG,BHKW Geb. 15,14.12.2015,9,"Bahnhofstraße 4, 87787 Wolfertschwenden",Gaiser,47.88966,10.266083
+50.0,natürliche Person (ABR906233233959),BHKW1,7.8.2018,6,"Luitzenmühle 1, 87647 Kraftisried",Gaiser,47.776081,10.473613
+50.0,Viße & Cudok Immobilien GmbH,BHKW Heizungsraum,22.3.2018,7,"Otto-Lilienthal-Ring 1, 85622 Feldkirchen",ITW,48.141444,11.739506
+50.0,Daimler Truck AG,"BHKW Augsburg, Nürnberger Str.",18.8.2011,13,"Nürnberger Straße 2, 86156 Augsburg",Rexroth,48.414773,10.853657
+50.0,Parkhotel Frank,BHKW-Anlage Heizungskeller,18.6.2008,16,"Sachsenweg 11, 87561 Oberstdorf",Biomassehof,47.404013,10.278798
+50.0,Bayernwerk Natur GmbH,Erdgas-BHKW Kronach,23.4.2013,11,"Gottfried-Neukam-Straße 25, 96317 Kronach",Sell,50.242397,11.342275
+200.0,München Klinik gGmbH,STKM_KN_HsA_BHKW,24.3.2015,10,"Oskar-Maria-Graf-Ring 51, 81737 München",Ökotherm,48.095666,11.660566
+50.0,Brennpunkt Energie GmbH,BHKW 4 BPE,30.8.2016,8,"Am Baggersee 2, 87674 Ruderatshofen",Gaiser,47.799034,10.598806
+140.0,Hosokawa Alpine AG,BHKW,5.6.2014,10,"Peter-Dörfler-Straße 13, 86199 Augsburg",Rexroth,48.348283,10.880096
+50.0,natürliche Person (ABR906233233959),BHKW2,11.10.2019,5,"Luitzenmühle 1, 87647 Kraftisried",Gaiser,47.776081,10.473613
+140.0,C. Hübner GmbH,BHKW Sudetenstraße,23.7.2014,10,"Sudetenstraße 1, 87616 Marktoberdorf",Gaiser,47.775725,10.607586
+50.0,KLAUS Hoch- und Tiefbau GmbH,FTW KHT BHKW Geb. 1.3 (Büro),20.11.2015,9,"Auenstraße 7, 86438 Kissing",Rexroth,48.305825,10.95683
+240.0,Diakoneo KdöR Klinik Hallerwiese AbRB 515,KHC BHKW,1.7.2011,13,"Sankt-Johannis-Mühlgasse 19, 90419 Nürnberg",Schmoll,49.456906,11.066802
+50.0,Eva Scherzer Biomasseheizwerk,Buderus Loganova EN50,8.7.2014,10,"Loher Hauptstraße 124, 90427 Nürnberg",Schmoll,49.488182,11.071622
+140.0,GMN Paul Müller Industrie GmbH & Co. KG,Vitobloc 200 EM-140/207,23.7.2014,10,"Äußere Bayreuther Straße 230, 90411 Nürnberg",Schmoll,49.477879,11.114475
+70.0,Dominikus-Ringeisen-Werk,BHKW-Kloster Holzen,12.12.2013,11,"Klosterstraße 1, 86695 Allmannshofen",Rexroth,48.604211,10.814142
+50.0,Stadt Marktoberdorf,"MODEON, Schwabenstr. 58, 87616 Marktoberdorf",16.1.2009,16,"Schwabenstraße 58, 87616 Marktoberdorf",Gaiser,47.788316,10.621852
+70.0,Heilbad Krumbad GmbH,BHKW-Krumbad,28.11.2012,12,"Bischof-Sproll-Straße 1, 86381 Krumbach",Gaiser,48.246149,10.389623
+238.0,m&i-Klinikbetriebsgesellschaft GmbH Fachklinik Enzensberg,0302-021-0003 BHKW Vitobloc,31.7.2015,9,"Höhenstraße 56, 87629 Füssen",Gaiser,47.613857,10.689038
+50.0,Eigenbetriebe Therme Natur Bad Rodach,BHKW_2019,31.10.2019,5,"Thermalbadstraße 18, 96476 Bad Rodach",Sell,50.333375,10.764613
+140.0,Moll Automatisierung GmbH,BHKW 140 KW,6.10.2014,10,"Am Gewerbepark 2, 94339 Leiblfing",Lausser,48.78582,12.529869
+143.0,Eigenbetriebe Therme Natur Bad Rodach,BHKW_2016,13.12.2016,8,"Thermalbadstraße 18, 96476 Bad Rodach",Sell,50.333375,10.764613
+50.0,Kliniken Ostallgäu-Kaufbeuren,BKHW Füssen,17.6.2019,5,"nan nan, 87629 Füssen",Gaiser,47.566753,10.704303
+50.0,Landkreis Oberallgäu,BHKW Schulzentrum Immenstadt,16.6.2016,8,"Missener Straße 25, 87509 Immenstadt",Biomassehof,47.560428,10.212073
+50.0,robatherm GmbH+Co.KG,KWK Produktion FG2,25.2.2014,11,"John-F.-Kennedy-Straße 1, 89343 Jettingen-Scheppach",Gaiser,48.411113,10.433251
+50.0,robatherm GmbH+Co.KG,KWK Verwaltung,4.7.2019,5,"John-F.-Kennedy-Straße 1, 89343 Jettingen-Scheppach",Gaiser,48.411113,10.433251
+212.0,HEDI GmbH Elektro-und Gerätebau,BHKW HEDI,20.6.2013,11,"Schöneggweg 17, 87727 Babenhausen",Gaiser,48.146882,10.238858
+238.0,Grundstücksgesellschaft Oschmann Nürnberg,Erdgas-BHKW-238kW,31.10.2013,11,"Pretzfelder Straße 7, 90425 Nürnberg",Schmoll,49.47241,11.063496
+140.0,Medicalpark Bad Rodach,Modul 1641,23.9.2013,11,"Kurring 16, 96476 Bad Rodach",Sell,50.331035,10.766482
+140.0,Medicalpark Bad Rodach,Modul 1690,23.9.2013,11,"Kurring 16, 96476 Bad Rodach",Sell,50.331035,10.766482
+238.0,PASM Power and Air Condition Solution Management GmbH,"BHKW München, Blutenburgstr. 1a",13.5.2013,11,"Blutenburgstraße 1 a, 80636 München",Ökotherm,48.147753,11.549877
+70.0,Parkhotel Photovoltaik GdbR,KWK-Anlage,11.3.2014,11,"Am Kurwald 10, 94086 Bad Griesbach",Burke,48.426989,13.189469
+70.0,KJF Augsburg,BHKW Scheidegg,13.12.2013,11,"Oberschwenden 1, 88175 Scheidegg",Biomassehof,47.565565,9.833169
+50.0,Metob Beschichtungen GmbH,BHKW,8.12.2016,8,"Röthenstraße 21, 96247 Michelau",Sell,50.171629,11.109897
+50.0,Sparkasse Günzburg-Krumbach,ABR938013566421 BHKW GS300,28.7.2014,10,"An der Kapuzinermauer 2, 89312 Günzburg",Gaiser,48.453056,10.279066
+52.0,Sparkasse Passau,"BHKW-1, Nikolastraße 1",20.12.2017,7,"Nikolastraße 1, 94032 Passau",Burke,48.573426,13.458088
+50.0,Stadt Vöhringen,BHKW-Zum Klärwerk33,9.9.2015,9,"Zum Klärwerk 33, 89269 Vöhringen",Gaiser,48.286602,10.067362
+142.0,Brüder Winkle GmbH + Co. KG,BHKW WI,23.7.2014,10,"Fabrikstraße 7, 89281 Altenstadt",Gaiser,48.158865,10.107446
+70.0,ISAR-AMPER Erneuerbare Energien GmbH,NÜRN_070 #01202,3.1.2020,5,"Gernotstraße 47, 90439 Nürnberg",Schmoll,49.440385,11.044159
+50.0,Zweckverband Realschule und Schulverband Mittelschule Babenhausen,Schulverband Babenhausen,12.4.2017,7,"Pestalozzistraße 7, 87727 Babenhausen",Gaiser,48.140146,10.261418
+140.0,Augsburg Air Caterer GmbH,BHKW,1.6.2016,8,"Sebastian-Mayr-Straße 2, 86316 Friedberg",Rexroth,48.366735,10.957184
+140.0,Rapunzel Naturkost GmbH,BHKW 2015 Legau,23.7.2015,9,"Rapunzelstraße 1, 87764 Legau",Gaiser,47.857658,10.132437
+50.0,Günter Zott Energieerzeugung,BHKW 50kW 2,30.12.2010,14,"Krautgartenweg 8, 86441 Zusmarshausen",Rexroth,48.434571,10.596293
+50.0,Dominikus-Ringeisen-Werk,BHKW-Pfaffenhausen,24.7.2014,10,"Pfarrstraße 6, 87772 Pfaffenhausen",Gaiser,48.118769,10.457002
+50.0,Schulverband Mittelschule Buchloe,BHKW Hallenbad,14.5.2014,10,"Münchener Straße 22, 86807 Buchloe",Gaiser,48.030108,10.726402
+54.1,Le-go Bekleidungswerke,Viessmann BHKW,18.2.2014,11,"Am Wiesengrund 20, 95032 Hof",Sell,50.29526,11.933808
+140.0,Stadt Illertissen,BHKW Nautilla,3.12.2014,10,"Gottfried-Hart-Straße 6, 89257 Illertissen",Gaiser,48.217625,10.093935
+210.0,Stadtwerke Gersthofen,BHKW Freibad Gersthofen,1.5.1992,32,"Sportallee 24, 86368 Gersthofen",Rexroth,48.425536,10.884346
+50.0,Pflanzen Kölle Gartencenter GmbH & Co. KG,BHKW-Nürnberg,18.9.2016,8,"Geisseestraße 65, 90439 Nürnberg",Schmoll,49.434205,11.041809
+140.0,Metallveredlung Emil Weiss GmbH & Co. KG,BHKW 140,13.7.2016,8,"Angerstraße 1, 96268 Mitwitz",Sell,50.250453,11.195385
+50.0,Maintal Betten GmbH,BHKW Vitoloc 200EM-50/81,6.12.2012,12,"Schönbrunner Straße 17, 96215 Lichtenfels",Sell,50.128516,11.025558
+50.0,Kurhotel an der Obermaintherme,BHKW-Hotel,20.2.2020,5,"Am Kurpark 7, 96231 Bad Staffelstein",Sell,50.109608,10.992924
+50.0,SWM Services GmbH,Floriansanger1_BHKW_Mot1,16.12.2019,5,"Floriansanger 1, 85579 Neubiberg",ITW,48.077831,11.657805
+50.0,Ikusto GmbH,BHKW 50kwh,3.11.2017,7,"Industriestraße 11, 86836 Untermeitingen",Rexroth,48.166505,10.829455
+142.0,Landkreis Passau Krankenhaus gGmbH,BHKW-Vof,1.5.2013,11,"Krankenhausstraße 32, 94474 Vilshofen",Burke,48.6281,13.197848
+198.0,Landkreis Passau Krankenhaus gGmbH,BHKW-Rot,27.11.2012,12,"Simbacher Straße 35, 94094 Rotthalmünster",Burke,48.354568,13.201809
+50.0,natürliche Person (ABR928376954539),GWH,25.2.2020,5,"Raiffeisenstraße  8912 nan, 90427 Nürnberg",Schmoll,49.475621,11.035623
+140.0,m&i-Klinikgesellschaft in Ichenhausen GmbH,BHKW,21.6.2016,8,"Krumbacher Straße 45, 89335 Ichenhausen",Gaiser,48.365754,10.308731
+240.0,Stella Hotelbetriebsgesellschaft mbH,BHKW,30.4.2013,11,"Buchfinkenweg 2, 87527 Sonthofen",Biomassehof,47.511617,10.307997
+140.0,Kunststofftechnik Bernt GmbH,BHKW 1,18.2.2015,10,"Dr.-Herbert-Kittel-Straße 10, 87600 Kaufbeuren",Gaiser,47.889345,10.658112
+140.0,Kunststofftechnik Bernt GmbH,BHKW 2,30.11.2015,9,"Dr.-Herbert-Kittel-Straße 10, 87600 Kaufbeuren",Gaiser,47.889345,10.658112
+240.0,Lindauer DORNIER GmbH,BHKW,10.3.2015,10,"Rickenbacher Straße 119, 88131 Lindau",Biomassehof,47.555357,9.727299
+140.0,Deutsche Post AG vertreten durch DPDHL RED GmbH,BHKW - PZ Günzburg,17.12.2015,9,"Ferdinand-Porsche-Straße 1, 89312 Günzburg",Gaiser,48.4256,10.2843
+50.0,Dr. Georg-Frank-Altenhilfe-Stiftung,BHKW Haus 2,16.8.2017,7,"Dr.-Frank-Straße 2 b, 86391 Stadtbergen",Rexroth,48.36197,10.847446
+50.0,natürliche Person (ABR956281777622),BHKW2,11.10.2019,5,"Kemptener-Wald-Straße 14 a, 87647 Unterthingau",Gaiser,47.764434,10.492791
+50.0,natürliche Person (ABR956281777622),BHKW8,11.10.2019,5,"Kemptener-Wald-Straße 14, 87647 Unterthingau",Gaiser,47.765056,10.492795
+49.5,GLOBUS Handelshof St. Wendel GmbH & Co. KG,PLT Mini-BHKW,26.10.2017,7,"Dr.-Walter-Bruch-Straße 1, 94447 Plattling",Lausser,48.789224,12.895952
+140.0,Helmut-G.-Walther-Klinikum Lichtenfels,BHKW 1,24.1.2019,6,"Professor-Arneth-Straße 2b, 96215 Lichtenfels",Sell,50.137807,11.08285
+140.0,Helmut-G.-Walther-Klinikum Lichtenfels,BHKW 2,24.1.2019,6,"Professor-Arneth-Straße 2b, 96215 Lichtenfels",Sell,50.13779,11.082774
+132.0,Meusburger Fahrzeugbau,Halle2 (Zwischenüberdachung),18.11.2019,5,"Kollmering 7, 94535 Eging a.See",Burke,48.702446,13.281869
+50.0,Stadtwerke Augsburg Energie GmbH,Franz-Kobinger-Straße,2.2.2012,13,"Franz-Kobinger-Straße 5, 86157 Augsburg",Rexroth,48.362337,10.872637
+50.0,Sennebogen Maschinenfabrik GmbH,Sen10W2.3,18.6.2008,16,"Sennebogenstraße 10, 94315 Straubing",Lausser,48.893308,12.654018
+150.0,Stadtwerke Augsburg Energie GmbH,Servatius- Anna-Hintermayr-Stift,26.10.2018,6,"Fritz-Hintermayr-Straße 7, 86159 Augsburg",Rexroth,48.350423,10.889154
+50.0,Stadtwerke Augsburg Energie GmbH,Kongress am Park,17.9.2013,11,"Gögginger Straße 10, 86159 Augsburg",Rexroth,48.359411,10.887185
+50.0,Auto Kölbl,BHKW 50 kW alt gibt es nicht mehr,10.2.2011,14,"Michael-Kölbl-Straße 1, 85716 Unterschleißheim",ITW,48.281261,11.567093
+50.0,Stadtwerke Augsburg Energie GmbH,Eschenhofstraße 5,5.12.2015,9,"Eschenhofstraße 5, 86154 Augsburg",Rexroth,48.389773,10.87938
+50.0,Stadtwerke Augsburg Energie GmbH,Peterhofstraße 9,16.6.2010,14,"Peterhofstraße 9, 86163 Augsburg",Rexroth,48.353186,10.949486
+115.0,Kliniken HochFranken Münchberg + Naila,BHKW M,18.1.2011,14,"Hofer Straße 40, 95213 Münchberg",Sell,50.195112,11.794133
+140.0,Privatbrauerei und Mineralbrunnenbetrieb Heinrich Egerer,Erdgas-BHKW 4554,15.12.2016,8,"Dachinger Straße 27, 94431 Pilsting",Lausser,48.699457,12.600304
+50.0,Müller-BBM Holding AG,BHKW BA7,11.3.2020,5,"Robert-Koch-Straße 9, 82152 Planegg",ITW,48.107377,11.433031
+50.0,Huber Kunstoff & Technik GmbH,BHKW,16.9.2013,11,"Gewerbestraße 4, 86879 Wiedergeltingen",Gaiser,48.042792,10.676466
+50.0,Landkreis Coburg,Blockheizkraftwerk Staatl. Realschule Coburg II,21.1.2014,11,"Thüringer Straße 5, 96450 Coburg",Sell,50.262448,10.947187
+50.0,Edith-Haberland-Wagner Stiftung,BHKW Jugendhotel,23.10.2019,5,"Am Bavariapark 16, 80339 München",Ökotherm,48.13205,11.545433
+210.0,KAPP GmbH & Co. KG,BHKW Werk 2,1.7.2000,24,"Gärtnersleite 2, 96450 Coburg",Sell,50.27371,10.988249
+50.0,Sparkasse Dachau,BHKW Hauptstelle,24.5.2012,12,"Sparkassenplatz 1, 85221 Dachau",ITW,48.255258,11.43995
+142.0,Kunststoff Helmbrechts AG,BHKW Werk 5,21.11.2013,11,"Fliegerweg 2, 95233 Helmbrechts",Sell,50.230657,11.725226
+140.0,Deutsche Rentenversicherung Bund RZ in Bad Steben,Bad Steben Klinik Franken,20.9.2011,13,"Berliner Straße 18, 95138 Bad Steben",Sell,50.359743,11.631013
+100.0,Deutsche Rentenversicherung Bund RZ in Bad Steben,Bad Steben Klinik Auental,11.6.2010,14,"Frankenwaldstraße 33, 95138 Bad Steben",Sell,50.368281,11.653306
+50.0,Gemeindewerke Putzbrunn GmbH,BHKW-Energiezentrale,8.11.2007,17,"Rathausstraße 7, 85640 Putzbrunn",ITW,48.074193,11.71578
+50.0,St.-Georgs-Mühle,BHKW,26.7.2012,12,"Geisenrieder Straße 42, 87616 Marktoberdorf",Gaiser,47.771944,10.55699
+50.0,Jüliyet Suic Handel & Export,BHKW Suic,23.11.2017,7,"Oberer Buxheimer Weg 60, 87700 Memmingen",Gaiser,48.0052,10.150381
+140.0,Deutsche Provinz der Salesianer Don Boscos,BHKW-St-Wolf,5.7.2016,8,"Sieboldstraße 11, 81669 München",Ökotherm,48.124856,11.593678
+70.0,Kugler Feinkost GmbH,BHKW,16.12.2014,10,"Taxetstraße 5, 85599 Parsdorf",ITW,48.147391,11.793886
+50.0,VTA Verfahrenstechnische Anlagen GmbH & Co. KG,BHKW,7.2.2013,12,"Bernrieder Straße 10, 94559 Niederwinkling",Lausser,48.891473,12.803757
+50.0,Klinik am Park Bad Steben GmbH,BHKW Bad Steben,8.12.2011,13,"Berliner Straße 2, 95138 Bad Steben",Sell,50.361663,11.634046
+70.0,Zweckverband Hallenbad Nord,BHKW,1.6.2016,8,"Günzburger Straße 68, 89340 Leipheim",Gaiser,48.447235,10.232334
+75.0,natürliche Person (ABR977719118459),BHKW,29.2.2012,13,"Gewerbering 40, 94060 Pocking",Burke,48.407673,13.299922
+140.0,Deutsche Post AG vertreten durch DPDHL RED GmbH,BHKW PZ Augsburg WE231105,25.11.2016,8,"Stuttgarter Straße 33, 86154 Augsburg",Rexroth,48.4042,10.8687
+50.0,relexa hotel GmbH,BHKW,21.1.2016,9,"Badstraße 26 -28, 95138 Bad Steben",Sell,50.365861,11.636024
+238.0,Stadtentwicklungsgesellschaft Coburg mbH,BHKW Heimatring 42 a,20.12.2010,14,"Heimatring 42, 96450 Coburg",Sell,50.266986,10.938507
+50.0,A&U Consulting GmbH,KWK-Anlage,28.1.2019,6,"Steinbühl 3, 87463 Dietmannsried",Biomassehof,47.812138,10.301591
+227.0,Meckatzer Löwenbräu Benedikt Weiß KG,BHKW,1.1.1999,26,"Meckatz 10, 88178 Heimenkirch",Biomassehof,47.631066,9.889317
+50.0,MCSL-Managementcentrum Schloss Lautrach Betriebs GmbH,Parkgebäude,28.7.2014,10,"Schloßstraße 1 a, 87763 Lautrach",Gaiser,47.895917,10.115265
+140.0,IV.BPA Nürnberg,BHKW Geb.15,15.1.2014,11,"Kornburger Straße 60, 90469 Nürnberg",Schmoll,49.398566,11.108954
+100.0,Stadt Lichtenfels,BHKW-Kläranalge Lichtenfels,23.1.2020,5,"Wöhrdstraße 51, 96215 Lichtenfels",Sell,50.143691,11.049731
+70.0,Alois Müller Holding GmbH & Co. KG,BHKW DrBerndlPlatz2,28.9.2016,8,"Dr.-Berndl-Platz 2, 87700 Memmingen",Gaiser,47.988715,10.171936
+210.0,Stadtwerke Straubing GmbH,BHKW AQUAtherm,19.4.2012,12,"Wittelsbacherhöhe 50, 94315 Straubing",Lausser,48.87346,12.56015
+99.0,Fraunhofer Institut für Integrierte Schaltungen IIS,BHKW N2 E22656,6.10.2015,9,"Nordostpark 84, 90411 Nürnberg",Schmoll,49.486085,11.128603
+50.0,Haus Pfifferlingstal GmbH,BHKW,21.12.2015,9,"Paracelsusstraße 3, 86441 Zusmarshausen",Rexroth,48.404464,10.612493
+70.0,Hotel Asam GmbH & Co. KG,BHKW,3.12.2013,11,"Wittelsbacherhöhe 1, 94315 Straubing",Lausser,48.874481,12.567217
+51.65,Bayrisches Rotes Kreuz Kreisverband Deggendorf,BHKW 1 Wäscherei Plattling,20.11.2015,9,"Luitpoldstraße 16, 94447 Plattling",Lausser,48.778733,12.868512
+51.65,Bayrisches Rotes Kreuz Kreisverband Deggendorf,BHKW 2 Wäscherei Plattling,20.11.2015,9,"Luitpoldstraße 16, 94447 Plattling",Lausser,48.778733,12.868512
+50.0,BBW Betreuungs-Beratungs- und Wohnbaugesellschaft für Behinderte gemeinnützige GmbH,Zerzabelshofstr. 29 BHKW 50 kW,22.10.2014,10,"Am Spund 4, 90427 Nürnberg",Schmoll,49.522398,11.02718
+50.0,Lehn Hotel- und Gastronomie Betriebsgesellschaft mbH Vitalhotel Sonneck,BHKW,3.10.2009,15,"Tannenbaum 1, 86825 Bad Wörishofen",Gaiser,48.008137,10.576188
+50.0,Erich Röhr GmbH & Co. KG,VW Zentrum Passau,5.4.2018,6,"Spitalhofstraße 70, 94032 Passau",Burke,48.570561,13.43267
+50.0,Knorr-Bremse SfS HmbH,BHKW TCK1H2,27.3.2019,5,"Moosacher Straße 80, 80809 München",Ökotherm,48.187044,11.548456
+50.0,Franz Hofbauer Automobile GmbH & Co. KG,BHKW Smartblock 50 (2018),2.1.2018,7,"Neuburger Straße 141, 94036 Passau",Burke,48.558534,13.421063
+50.0,Sozialservice-Gesellschaft des Bayerischen Roten Kreuzes gGmbH,SSG Augsburg,17.10.2013,11,"Marconistraße 7, 86179 Augsburg",Rexroth,48.316521,10.911039
+100.0,Stadt Schwabmünchen,BHKW Freibad Schwabmünchen,16.5.2019,5,"Badstraße 21, 86830 Schwabmünchen",Rexroth,48.172921,10.750641
+142.0,HEINZ-GLAS GmbH & Co. KGaA,BHKW 3 Kleintettau,6.2.2008,17,"Glashüttenplatz 3, 96355 Tettau",Sell,50.471431,11.283723
+50.0,Landgericht Augsburg,Blockheizkraftwerk SJZ,10.12.2015,9,"Gögginger Straße 101, 86199 Augsburg",Rexroth,48.350093,10.878772
+50.56,"Wohnungseigentümergemeinschaft Am Isarkanal 24, 81379 München",BHKW,29.4.2019,5,"Am Isarkanal 24, 81379 München",Ökotherm,48.103772,11.549562
+240.0,Brennpunkt Energie GmbH,BHKW 5 BPE,21.12.2017,7,"Am Baggersee 2, 87674 Ruderatshofen",Gaiser,47.799057,10.598761
+140.0,Berufsförderungswerk Nürnberg gemeinnützige GmbH,BHKW 2011,11.1.2011,14,"Schleswiger Straße 101, 90427 Nürnberg",Schmoll,49.47556,11.047152
+239.0,"Hochschule für den öffentlichen Dienst in Bayern, Fachbereich Allgemeine Innere Verwaltung",ABR944063378501,20.10.2010,14,"Wirthstraße 51, 95028 Hof",Sell,50.32506,11.937038
+208.0,Klinik Mallersdorf,BHKW,17.7.2014,10,"Krankenhausstraße 6, 84066 Mallersdorf-Pfaffenberg",Lausser,48.777964,12.246256
+140.0,Martha-Maria Krankenhaus gGmbH,Martha-Maria München 1,16.12.2013,11,"Wolfratshauser Straße 109, 81479 München",Ökotherm,48.085287,11.534619
+140.0,Lear Corporation GmbH,BHKW Lear,18.7.2016,8,"Industriestraße 48, 96317 Kronach",Sell,50.230831,11.343322
+50.0,Studentenwerk Oberfranken,WA Coburg,1.12.2009,15,"Thüringer Straße 4a, 96450 Coburg",Sell,50.2641,10.948201
+70.0,Kliniken an der Paar - KH Aichach,BHKW - Krankenhausstr. 11 b,27.7.2018,6,"Krankenhausstraße 11 b, 86551 Aichach",Rexroth,48.462172,11.139755
+140.0,natürliche Person (ABR940701032316),BHKW,13.10.2010,14,"Irrhainstraße nan, 90427 Nürnberg",Schmoll,49.508607,11.054691
+50.0,Caritasverband Coburg,BHKW Vitoblock,29.7.2014,10,"Kükenthalstraße 19, 96450 Coburg",Sell,50.248709,10.949122
+50.0,Xaver Schmid GmbH & Co. Bauunternehmen KG,BHKW XS Saliterstr.,3.11.2016,8,"Saliterstraße 47, 87616 Marktoberdorf",Gaiser,47.770948,10.628261
+200.0,BT Nyloplast GmbH,BT Nyloplast GmbH,5.1.2015,10,"Oberbernbacher Weg 24, 86551 Aichach",Rexroth,48.467576,11.130769
+50.0,Liebenau Lebenswert Alter gemeinnützige GmbH,GAS-BHKW ESS - Ottobeuren,21.12.2015,9,"Spitalstraße 2, 87724 Ottobeuren",Gaiser,47.944719,10.294432
+50.0,SWW Wunsiedel GmbH,Heizwerk Breitenbrunn,16.5.2011,13,"Am Luxbach 18, 95632 Wunsiedel",Sell,50.025397,11.990516
+120.0,WUN Infrastruktur KU,Kläranlage Wun KWK,28.2.2014,11,"Wintersreuther Straße 4, 95632 Wunsiedel",Sell,50.039637,12.027248
+50.0,natürliche Person (ABR923535986123),BHKW Pfaffinger,20.2.2019,6,"Gewerbepark 9, 94099 Ruhstorf",Burke,48.453263,13.384658
+50.0,Kliniken HochFranken Münchberg + Naila,BHKW N,5.5.2011,13,"Hofer Straße 45, 95119 Naila",Sell,50.324654,11.720713
+238.0,V. BPA Königsbrunn,BHKW V. BPA Königsbrunn,22.9.2016,8,"Föllstraße 24, 86343 Königsbrunn",Rexroth,48.2921,10.88603
+140.0,A. Hartl Resort GmbH & Co. Holding KG Hotel Fürstenhof,BHKW 140 KW FÜH,23.7.2014,10,"Thermalbadstraße 28, 94086 Bad Griesbach",Burke,48.42574,13.188005
+50.0,"Regens-Wagner-Stiftung Dillingen, Regens Wagner Burgkunstadt",BHKW,1.4.2010,14,"Regens-Wagner-Platz 2, 96224 Burgkunstadt",Sell,50.141244,11.250231
+70.0,Panoramahotel Oberjoch GmbH,BHKW MOD,9.8.2018,6,"Schongauer Straße 48, 87616 Marktoberdorf",Gaiser,47.771378,10.63665
+50.0,Hotel Berwanger Hof GmbH,Berwanger Hof Kraftwerk,28.7.2011,13,"Niederdorf 11, 87538 Obermaiselstein",Biomassehof,47.442966,10.249863
+50.0,natürliche Person (ABR956281777622),BHKW 1,7.9.2017,7,"Kemptener-Wald-Straße 14 a, 87647 Unterthingau",Gaiser,47.764791,10.491588
+50.0,natürliche Person (ABR956281777622),BHKW 7,7.9.2017,7,"Kemptener-Wald-Straße 14 a, 87647 Unterthingau",Gaiser,47.764884,10.49162
+50.0,2H GmbH & Co. KG,2H BHKW,26.11.2015,9,"Dieselstraße 24, 85748 Garching",ITW,48.225455,11.591738
+119.0,Helios Frankenwaldklinik Kronach,BHKW - 1114-BT-00034,19.3.2015,10,"Friesener Straße 41, 96317 Kronach",Sell,50.244447,11.33287
+50.0,Stadt Nürnberg H/ZA-KEM,Berufsschule 4/14 Schönweißstraße,1.1.2009,16,"Kleestraße 2, 90461 Nürnberg",Schmoll,49.436104,11.089579
+49.9,Stadt Nürnberg H/ZA-KEM,Tiergarten Delphinlagune/Manatihaus,12.5.2011,13,"Am Tiergarten 42, 90480 Nürnberg",Schmoll,49.447441,11.139716
+140.0,Rehafachzentrum Bad Füssing - Passau,RFZ_PA_BHKW,15.12.2015,9,"Kohlbruck 5, 94036 Passau",Burke,48.551117,13.414562
+112.0,Wärmeversorgung Schwaben GmbH,WVS HZ KöBr BHKW2,1.3.2011,14,"St.-Ulrich-Straße 17, 86343 Königsbrunn",Rexroth,48.272541,10.885178
+140.0,A.Hartl Resort GmbH &Co. Ferienhotel Griesbach Betriebs-KG,BHKW 140 KW Ludwig,12.3.2014,11,"Am Kurwald 2, 94086 Bad Griesbach",Burke,48.430195,13.187507
+140.0,A.Hartl Resort GmbH &Co. SH Land- u. Golfhotel Betriebs-KG,BHKW 140 KW MAX,11.3.2014,11,"Kurallee 1, 94086 Bad Griesbach",Burke,48.430206,13.184829
+50.0,Eura-Döner International Produktionsgesellschaft mbH,BHKW Vitobloc 200 EM,1.3.2011,14,"Fröbelstraße 4, 95030 Hof",Sell,50.318919,11.906235
+227.0,HUK-COBURG Haftpflicht-Unterstützungs-Kasse kraftfahrender Beamter Deutschlands a. G.,BHKW Bahnhofsplatz (BP),15.6.2009,15,"Bahnhofsplatz 1, 96450 Coburg",Sell,50.263593,10.959102
+50.0,Hotel Zugspitzblick GmbH + Co KG,ABR916896670152,30.5.2006,18,"Edelsbergweg 71, 87459 Pfronten",Gaiser,47.581913,10.538809
+140.0,Kreisklinik Krumbach,Blockheizkraftwerk Klinik Krumbach,29.6.2016,8,"Mindelheimer Straße 69, 86381 Krumbach",Gaiser,48.238872,10.36433
+70.0,Hotelbetriebsgesellschaft mbH,BHKW Hotel Sonnenhof,10.12.2013,11,"Hermann-Aust-Straße 11, 86825 Bad Wörishofen",Gaiser,48.001775,10.584514
+50.0,Kommunalunternehmen Marktredwitz,BHKW Hallenbad,6.11.2014,10,"Schulstraße 2, 95615 Marktredwitz",Sell,50.006012,12.091131
+113.0,Bayerisches Staatsbad Bad Steben GmbH,Bayer. Staatsbad Bad Steben BHKW113 kW,17.12.2015,9,"Badstraße 31, 95138 Bad Steben",Sell,50.364313,11.634477
+140.0,BHS-Sonthofen GmbH,BHKW Eisenschmelze,22.12.2016,8,"An der Eisenschmelze 47, 87527 Sonthofen",Biomassehof,47.521814,10.277519
+238.0,Mann+Hummel,BHKW Halle 7,8.9.2011,13,"Kollbacher Straße 31, 84163 Marklkofen",Lausser,48.550815,12.561065
+246.2,Sana Klinikum Hof GmbH,BHKW Sana Klinikum Hof,24.5.2017,7,"Eppenreuther Straße 9, 95032 Hof",Sell,50.302956,11.915498
+135.0,Rolls-Royce Solutions Augsburg GmbH,BHKW,1.1.2003,22,"Dasinger Straße 11, 86165 Augsburg",Rexroth,48.3994,10.93805
+70.0,Helios Amper-Klinikum Dachau,Helios Amper-Klinikum Dachau,22.7.2014,10,"Krankenhausstraße 15, 85221 Dachau",ITW,48.265021,11.428428
+240.0,JYSK SE,BHKW,4.12.2015,9,"Im Gewerbepark Unterallgäu 2, 87754 Kammlach",Gaiser,48.038309,10.435254
+50.0,Stadtwerke Bobingen,BHKW- Parkstr. 3,14.2.2017,8,"nan nan, 86399 Bobingen",Rexroth,48.270084,10.82714
+50.0,Stadt Krumbach,"KWK-Anlage, Schulzentrum Krumbach, Talstr. 72",14.9.2012,12,"Talstraße 72, 86381 Krumbach",Gaiser,48.232827,10.356606
+50.0,AWO Bezirksverband OMF e.V.,AWO Neustadt b. Coburg,20.10.2015,9,"Sonneberger Straße 27, 96465 Neustadt",Sell,50.331437,11.128893
+50.0,AWO Bezirksverband OMF e.V.,AWO Rödental,4.7.2014,10,"Bürgermeister-F.-Fischer-Straße 3, 96472 Rödental",Sell,50.295153,11.040655
+220.0,E-CON AG,BHKW GutenbergUH,21.12.2016,8,"Gutenbergstraße 12, 87781 Ungerhausen",Gaiser,48.018677,10.270389
+50.0,Klinikverbund Allgäu gGmbH,BHKW Klinik Oberstdorf,29.4.2010,14,"Trettachstraße 16, 87561 Oberstdorf",Biomassehof,47.41057,10.28227
+240.0,Pflanzen Kölle Gartencenter GmbH & Co. KG,BHKW München,13.1.2014,11,"Goteboldstraße 9, 81247 München",Ökotherm,48.176277,11.442953
+70.0,Gabor Shoes AG,KWKLCM,14.12.2016,8,"Allgäuer Straße 17, 87719 Mindelheim",Gaiser,48.044409,10.50539
+140.0,Rosenthal,BHKW-RaR-2013,24.10.2013,11,"Geheimrat-Rosenthal-Straße 71, 95100 Selb",Sell,50.183873,12.136063
+50.0,SPIE Energy Solutions GmbH,BHKW-Ottobrunn,13.6.2014,10,"Rubensstraße 6, 85521 Ottobrunn",ITW,48.06892,11.685592
+140.0,Lingenfelder GmbH & Co. OHG,BHKW Akelei,7.10.2010,14,"Kreuzweg 7, 87645 Schwangau",Gaiser,47.581345,10.732119
+50.0,Metzgerei Elst,BHKW,20.3.2018,7,"Zeppelinstraße 5, 85570 Markt Schwaben",ITW,48.194182,11.851244
+100.0,TE Connectivity Industrial GmbH,BHKW NW,30.7.2014,10,"Bernrieder Straße 15, 94559 Niederwinkling",Lausser,48.891215,12.80193
+50.0,"Kath. Kirchengemeinde St. Johann K.d.ö.R, Altenheim St. Ulrich",KWK Altenheim 2013,17.9.2013,11,"St.-Hildegard-Weg 2, 87700 Memmingen",Gaiser,47.990472,10.188231
+100.0,Stadt Dingolfing,BHKW,25.11.2016,8,"Bauhofstraße 6, 84130 Dingolfing",Lausser,48.63702,12.517759
+100.0,Stadt Dingolfing,BHKW,4.12.2017,7,"Bauhofstraße 6, 84130 Dingolfing",Lausser,48.63702,12.517759
+140.0,Markt Obernzell,BHKW Am Hafen,10.7.1999,25,"Am Hafen 1, 94130 Obernzell",Burke,48.558765,13.622788
+140.0,Barmherzige Brüder gemeinnützige Behindertenhilfe GmbH,BHKW,20.1.2016,9,"Äußere Passauer Straße 60, 94315 Straubing",Lausser,48.873947,12.585982
+99.0,"Micro-Epsilon Messtechnik GmbH & Co.KG Wißpeintner, Karl",KWK Anlage Bau7,23.1.2017,8,"Königbacher Straße 15, 94496 Ortenburg",Burke,48.529331,13.238232
+50.0,Stiftung Marienstift,M.,22.7.2014,10,"Klugstraße 144, 80637 München",Ökotherm,48.163923,11.531703
+50.0,"Landratsamt Kronach, Güterstraße 18, 96317 Kronach",BHKW_HZ (G/BS),7.1.2020,5,"nan nan, 96317 Kronach",Sell,50.235935,11.327948
+70.0,Stadtwerke Immenstadt i. Allgäu,BHKW Hallenbad,16.11.2017,7,"Allgäuer Straße 15, 87509 Immenstadt",Biomassehof,47.559095,10.227431
+106.0,Kimmel Metallverarbeitung,BHKW 1,1.1.1999,26,"Falterhaid 52a, 94436 Simbach",Lausser,48.555321,12.730322
+140.0,Opti-Wohnwelt Neu-Ulm GmbH,BHKW Neu-Ulm,19.12.2016,8,"Borsigstraße 15, 89231 Neu-Ulm",Gaiser,48.393892,10.016593
+106.0,Kimmel Metallverarbeitung,BHKW 2,1.1.1999,26,"Falterhaid 52 a, 94436 Simbach",Lausser,48.555321,12.730322
+50.0,Landkreis Günzburg,Landratsamt GZ BHKW,14.3.2012,13,"An der Kapuzinermauer 1, 89312 Günzburg",Gaiser,48.452351,10.279652
+70.0,Helios Amper-Klinikum Dachau,BHKW 2,22.7.2014,10,"Krankenhausstraße 15, 85221 Dachau",ITW,48.265047,11.428351
+70.0,"Fachklinik für Ortopädie, Rheumatologie",BHKW,29.10.2015,9,"Wasachstraße 41, 87561 Oberstdorf",Biomassehof,47.423789,10.253743
+70.0,Nürnberger Wach- und Schließgesellschaft mbH,BHKW Fraunhoferstraße 10 Keller,1.1.2014,11,"Fraunhoferstraße 10, 90409 Nürnberg",Schmoll,49.468341,11.097647
+230.0,natürliche Person (ABR927025800081),KWK 232 kW,4.12.2015,9,"Kraftshofer Hauptstraße 265, 90427 Nürnberg",Schmoll,49.514455,11.044568
+70.0,Lachenschmid Kunststofftechnik,Modul2362,31.7.2014,10,"Egerländer Straße 14, 86316 Friedberg",Rexroth,48.407846,10.955914
+50.0,Edita GmbH,Blockheizkraftwerk,30.11.2017,7,"Am Hammerweiher 3, 88175 Scheidegg",Biomassehof,47.573778,9.844249
+50.0,Wohlleben GmbH,Blockheizkraftwerk,22.5.2013,11,"Kösseinestraße 3, 95032 Hof",Sell,50.294573,11.926295
+50.0,Kreisspitalstiftung Weißenhorn - Stiftungsklinik Weißenhorn,BHKW,1.1.2012,13,"Günzburger Straße 41, 89264 Weißenhorn",Gaiser,48.31141,10.155758
+200.0,Brauerei Aying Franz Inselkammer KG,BHKW,6.12.2013,11,"Münchener Straße 21, 85653 Aying",ITW,47.97215,11.77407
+50.0,Abwasserverband Mindel-Kammel,4002191195 - BHKW-Kläranlage,30.7.2014,10,"Rappenwörthstraße 14, 89362 Offingen",Gaiser,48.488745,10.381241
+99.0,Gemeinde Planegg,BHKW Rathaus,18.12.2018,6,"Pasinger Straße 8, 82152 Planegg",ITW,48.102792,11.424114
+50.0,Fraunhofer Gesellschaft e.V. / Fraunhofer Institut für Verfahrenstechnik und Verpackung,BHKW / IVV / FS,6.12.2010,14,"Giggenhauser Straße 35, 85354 Freising",ITW,48.394163,11.709238
+50.0,"Bayerisches Rotes Kreuz, Seniorenhaus Kronach",BHKW,26.5.2014,10,"Friesener Straße 57, 96317 Kronach",Sell,50.24615,11.33485
+50.0,Hotel Bergkristall GmbH & Co.KG,BHKW,6.12.2018,6,"Willis 8, 87534 Oberstaufen",Biomassehof,47.545481,10.002586
+50.0,Wärmeversorgung Schwaben GmbH,WVS HZ KöBr BHKW1neu,7.9.2009,15,"St.-Ulrich-Straße 17, 86343 Königsbrunn",Rexroth,48.272541,10.885178
+50.0,Arthrex GmbH,BHKW ODH,23.10.2013,11,"Oskar-von-Miller-Straße 6, 85235 Odelzhausen",ITW,48.301629,11.207419
+50.0,MTC GmbH,BHKW_UKMP,1.2.2016,9,"Germeringer Straße 32, 82152 Planegg",ITW,48.108786,11.414768
+140.0,RF 360 Europe GmbH,BHKW,26.2.2014,11,"Anzinger Straße 13, 81671 München",Ökotherm,48.121694,11.608331
+113.0,Landeshauptstadt München RBS,"Bergsonstraße 109, 81245 München, Berufsbildungszentrum",1.12.2006,18,"Bergsonstraße 109, 81245 München",Ökotherm,48.163257,11.434339
+49.5,Gesundheitseinrichtungen Bezirk Oberfranken,BKR_KWK50_2016,12.5.2016,8,"Fohrenreuther Straße 48, 95111 Rehau",Sell,50.238885,12.03657
+50.0,Karl Bachl Betonwerke GmbH&Co.KG,BHKW 1,1.4.2009,15,"Industriestraße 4, 94491 Hengersberg",Lausser,48.766901,13.058715
+50.0,Markt Meitingen,BHKW,23.5.2014,10,"Hauptstraße 58, 86405 Meitingen",Rexroth,48.537043,10.848461
+53.0,WEG Bereiteranger 15-23 in 81541 München,ABR955382300142,5.3.2015,10,"Bereiteranger 23, 81541 München",Ökotherm,48.126144,11.580336
+49.5,Autohaus Christl,BHKW,25.2.2016,9,"Filchnerstraße 86, 81476 München",Ökotherm,48.08818,11.498666
+122.0,Titania Neusäß Betriebsgesellschaft mbH,Modul 1,15.3.2001,24,"Birkenallee 1, 86356 Neusäß",Rexroth,48.401089,10.824533
+122.0,Titania Neusäß Betriebsgesellschaft mbH,Modul 2,15.3.2001,24,"Birkenallee 1, 86356 Neusäß",Rexroth,48.401089,10.824533
+50.0,Robert Holtzapfel GmbH,BHKW Rob. Holtzapfel,21.12.2011,13,"Rohrbacher Straße 30, 96271 Grub a. Forst",Sell,50.233436,11.032986
+50.0,Landkreis Lindau,BHKW Berufsschule Lindau (Bodensee),27.11.2012,12,"Reutiner Straße 10, 88131 Lindau",Biomassehof,47.557105,9.696593
+114.0,Hochschule Kempten,BHKW Gebäude H el: 114kW th: 191kW,7.4.2003,21,"Bahnhofstraße 61, 87435 Kempten",Biomassehof,47.714568,10.313432
+70.0,Justizvollzugsanstalt Memmingen,BHKW  JVA Memmingen,1.4.2016,8,"Gaswerkstraße 23, 87700 Memmingen",Gaiser,47.983372,10.189362
+63.0,C&C Oberallgäu Lang-Steudler GmbH,BHKW,2.4.2014,10,"Hofen 18, 87544 Blaichach",Biomassehof,47.551585,10.251174
+100.0,GEW Ferien GmbH,BHKW FCM,28.4.2004,20,"Stockach 1, 88167 Maierhöfen",Biomassehof,47.65028,10.068146
+70.0,Zertius Grundbesitz GmbH,Luitpold,11.10.2012,12,"Bahnhofstraße 1, 87629 Füssen",Gaiser,47.569822,10.699075
+140.0,Zweckverband Bad Griesbach,Wohlfühl-Therme BHKW,11.5.2012,12,"Thermalbadstraße 4, 94086 Bad Griesbach",Burke,48.428983,13.185855
+81.0,WEG Bahnhofstraße 5-11,BHKW-Anlage WEG Bahnhofstr. 5-11,7.5.2019,5,"Bahnhofstraße 11, 86368 Gersthofen",Rexroth,48.424718,10.876436
+50.0,Hochland Deutschland GmbH,BHKW Vitobloc 200,11.7.2012,12,"Kemptener Straße 17, 88178 Heimenkirch",Biomassehof,47.6283,9.906127
+140.0,BMW AG,BMW München - KWK Dostlerstrasse,29.7.2016,8,"Dostlerstraße 3, 80809 München",Ökotherm,48.177242,11.562987
+50.0,Aspire Munich GmbH,BHKW Anlage,21.8.2019,5,"Stahlgruberring 45, 81829 München",Ökotherm,48.13524,11.669318
