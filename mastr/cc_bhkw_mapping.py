@@ -14,7 +14,7 @@ from openpyxl.cell.cell import Hyperlink
 # Constants
 min_years_old = 5  # Set to 0 to disable age filtering
 GEOJSON_FOLDER = os.path.join(os.path.dirname(__file__), "..", "gebieteCC")
-CSV_FILE = os.path.join(os.path.dirname(__file__), "Stromerzeuger.csv")
+CSV_FILE = os.path.join(os.path.dirname(__file__), "Stromerzeuger_short.csv")
 MATCHED_CSV = os.path.join(os.path.dirname(__file__), "matched_units.csv")
 UNMATCHED_CSV = os.path.join(os.path.dirname(__file__), "unmatched_units.csv")
 MATCHED_EXCEL = os.path.join(os.path.dirname(__file__), "matched_units.xlsx")
@@ -79,12 +79,22 @@ def parse_date(date_str: str) -> datetime:
         return None
 
 
-def calculate_age(start_date: str) -> int:
-    """Calculate age in years from start date string."""
+def calculate_age(start_date: str) -> str:
+    """Calculate age in years and months from start date string."""
     parsed_date = parse_date(start_date)
     if not parsed_date:
         return None
-    return relativedelta(datetime.now(), parsed_date).years
+
+    delta = relativedelta(datetime.now(), parsed_date)
+    years = delta.years
+    months = delta.months
+
+    if years == 0:
+        return f"{months} Monate"
+    elif months == 0:
+        return f"{years} Jahre"
+    else:
+        return f"{years} Jahre {months} Monate"
 
 
 def filter_by_age(df: pd.DataFrame, min_years: int) -> pd.DataFrame:
@@ -154,7 +164,7 @@ def match_points_to_polygons(points: List[Point], features: List[Dict[str, Any]]
             'operator': row[COLUMNS['operator']],
             'unit_name': row[COLUMNS['unit_name']],
             'start_date': row[COLUMNS['start_date']],
-            'age_years': age,
+            'age': calculate_age(row[COLUMNS['start_date']]),
             'location': location,
             'mastr_number': str(row[COLUMNS['mastr_number']]),
             'mastr_url': str(mastr_url)
@@ -202,7 +212,6 @@ def save_geojson(data: Dict, filepath: str):
 
 def save_to_excel(df: pd.DataFrame, filepath: str):
     """Save DataFrame to Excel with proper date formatting and hyperlinks."""
-    # Create a new workbook
     wb = Workbook()
     ws = wb.active
 
@@ -214,15 +223,13 @@ def save_to_excel(df: pd.DataFrame, filepath: str):
             else:
                 col_name = df.columns[c_idx - 1]
                 if col_name == 'start_date':
-                    # Format as date
                     try:
                         date_val = datetime.strptime(value, '%d.%m.%Y')
                         cell = ws.cell(row=r_idx, column=c_idx, value=date_val)
-                        cell.number_format = 'dd.mm.yyy'
+                        cell.number_format = 'dd.mm.yyyy'
                     except (ValueError, TypeError):
                         ws.cell(row=r_idx, column=c_idx, value=value)
                 elif col_name == 'mastr_number' and 'mastr_url' in df.columns:
-                    # Create hyperlink
                     url = df.iloc[r_idx - 2]['mastr_url']
                     if pd.notna(url) and url:
                         cell = ws.cell(row=r_idx, column=c_idx)
@@ -231,6 +238,9 @@ def save_to_excel(df: pd.DataFrame, filepath: str):
                         cell.style = "Hyperlink"
                     else:
                         ws.cell(row=r_idx, column=c_idx, value=value)
+                elif col_name == 'age':
+                    # Format age as text (years and months)
+                    ws.cell(row=r_idx, column=c_idx, value=value)
                 else:
                     ws.cell(row=r_idx, column=c_idx, value=value)
 
