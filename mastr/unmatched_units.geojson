@@ -84,27 +84,6 @@
         "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1830263",
         "cc": "No matching CC area"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.154,
-          48.995
-        ]
-      },
-      "properties": {
-        "power": 140,
-        "operator": "Schneider Electric Sachsenwerk GmbH",
-        "unit_name": "BHKW 1",
-        "start_date": "26.8.2015",
-        "age_years": 9,
-        "location": "Rathenaustraße 2, 93055 Regensburg",
-        "mastr_number": "SEE980574726141",
-        "mastr_url": "https://www.marktstammdatenregister.de/MaStR/Einheit/Detail/IndexOeffentlich/1839483",
-        "cc": "No matching CC area"
-      }
     }
   ]
 }

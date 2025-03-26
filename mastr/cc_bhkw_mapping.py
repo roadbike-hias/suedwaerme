@@ -8,10 +8,13 @@ from typing import List, Dict, Any, Tuple
 from dateutil.relativedelta import relativedelta
 
 # Constants
+min_years_old = 5  # Set to 0 to disable age filtering
 GEOJSON_FOLDER = os.path.join(os.path.dirname(__file__), "..", "gebieteCC")
 CSV_FILE = os.path.join(os.path.dirname(__file__), "Stromerzeuger.csv")
 MATCHED_CSV = os.path.join(os.path.dirname(__file__), "matched_units.csv")
 UNMATCHED_CSV = os.path.join(os.path.dirname(__file__), "unmatched_units.csv")
+MATCHED_EXCEL = os.path.join(os.path.dirname(__file__), "matched_units.xlsx")
+UNMATCHED_EXCEL = os.path.join(os.path.dirname(__file__), "unmatched_units.xlsx")
 MATCHED_GEOJSON = os.path.join(os.path.dirname(__file__), "matched_units.geojson")
 UNMATCHED_GEOJSON = os.path.join(os.path.dirname(__file__), "unmatched_units.geojson")
 
@@ -199,7 +202,6 @@ def main():
     print(f"Loaded {len(df)} plants from CSV")
 
     # Filter by age (change the number to your desired minimum years)
-    min_years_old = 5  # Set to 0 to disable age filtering
     df = filter_by_age(df, min_years_old)
 
     features = load_geojson_files(GEOJSON_FOLDER)
@@ -221,6 +223,10 @@ def main():
     matched_df.to_csv(MATCHED_CSV, index=False, encoding='utf-8')
     unmatched_df.to_csv(UNMATCHED_CSV, index=False, encoding='utf-8')
 
+    # Save Excel results
+    matched_df.to_excel(MATCHED_EXCEL, index=False)
+    unmatched_df.to_excel(UNMATCHED_EXCEL, index=False)
+
     # Save GeoJSON results
     save_geojson(matched_geojson, MATCHED_GEOJSON)
     save_geojson(unmatched_geojson, UNMATCHED_GEOJSON)
@@ -228,9 +234,11 @@ def main():
     print("\nResults:")
     print(f"- Matched plants: {len(matched_df)}")
     print(f"  - CSV: {MATCHED_CSV}")
+    print(f"  - Excel: {MATCHED_EXCEL}")
     print(f"  - GeoJSON: {MATCHED_GEOJSON}")
     print(f"- Unmatched plants: {len(unmatched_df)}")
     print(f"  - CSV: {UNMATCHED_CSV}")
+    print(f"  - Excel: {UNMATCHED_EXCEL}")
     print(f"  - GeoJSON: {UNMATCHED_GEOJSON}")
 
     if len(matched_df) > 0:
