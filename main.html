@@ -234,7 +234,7 @@ const handleMarkerInteractions = (layer, feature, isAnlagenstandorte = false) =>
                     <b>Inbetriebnahme:</b> ${feature.properties.start_date || 'N/A'}<br>
                     <b>Alter:</b> ${feature.properties.age_years || 'N/A'} Jahre<br>
                     <b>Standort:</b> ${feature.properties.location || 'N/A'}<br>
-                    <b>MaStR-Nummer:</b> ${feature.properties.mastr_number || 'N/A'}<br>
+                    <b>MaStR-Nummer:</b> <a href="${feature.properties.mastr_url || 'N/A'}">${feature.properties.mastr_number || 'N/A'}</a><br>
                     <b>CC:</b> ${feature.properties.cc || 'N/A'}</p>
                 </div>
             `;

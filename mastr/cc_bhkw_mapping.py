@@ -139,7 +139,7 @@ def match_points_to_polygons(points: List[Point], features: List[Dict[str, Any]]
     for idx, point in enumerate(points):
         row = df.iloc[idx]
         age = calculate_age(row[COLUMNS['start_date']])
-        location = f"{row[COLUMNS['street']]} {row[COLUMNS['street_number']]}, {row[COLUMNS['zip_code']]} {row[COLUMNS['city']]}"
+        location = f"{row[COLUMNS['street']]} {str(row[COLUMNS['street_number']])}, {str(row[COLUMNS['zip_code']])} {row[COLUMNS['city']]}"
         mastr_url = get_final_mastr_url(row[COLUMNS['mastr_number']])
 
         properties = {
