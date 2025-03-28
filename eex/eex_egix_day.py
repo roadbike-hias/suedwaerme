@@ -4,7 +4,7 @@ from datetime import datetime
 
 # Hardcoded variables
 chartstartdate = "2025/02/27"
-chartstopdate = "2025/03/24"
+chartstopdate = "2025/03/28"
 
 # URL and headers
 url = "https://webservice-eex.gvsi.com/query/json/getDaily/close/tradedatetimegmt/"
