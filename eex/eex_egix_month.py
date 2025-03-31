@@ -1,10 +1,12 @@
+import os
 import requests
 import csv
 from datetime import datetime
 
 # Hardcoded variables
 chartstartdate = "2025/02/27"
-chartstopdate = "2025/03/28"
+chartstopdate = "2025/03/31"
+filename = os.path.join(os.path.dirname(__file__), "egix_month.csv")
 
 # URL and headers
 url = "https://webservice-eex.gvsi.com/query/json/getDaily/close/tradedatetimegmt/"
@@ -56,7 +58,7 @@ if response.status_code == 200:
         formatted_data.append([close_value, formatted_date])
     
     # Save to a CSV file with tab as delimiter
-    with open("egix_month.csv", "w", newline="", encoding="utf-8") as f:
+    with open(filename, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f, delimiter="\t")
         # Write the header
         writer.writerow(["EGIX Month", "Trading Day"])

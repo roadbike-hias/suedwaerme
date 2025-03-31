@@ -38,6 +38,7 @@ def extract_data(js_data):
 
 def write_to_csv(year, data):
     filename = f"{year}_tecson.csv"
+    filename = os.path.join(os.path.dirname(__file__), filename)
     file_exists = os.path.isfile(filename)
 
     # Read existing data if file exists
