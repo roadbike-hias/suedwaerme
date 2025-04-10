@@ -4,8 +4,8 @@ import csv
 from datetime import datetime
 
 # Hardcoded variables
-chartstartdate = "2025/02/27"
-chartstopdate = "2025/03/31"
+chartstartdate = "2025/03/31"
+chartstopdate = "2025/04/29"
 filename = os.path.join(os.path.dirname(__file__), "egix_month.csv")
 
 # URL and headers
